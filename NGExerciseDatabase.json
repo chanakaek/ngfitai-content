@@ -1,0 +1,636 @@
+{
+  "version": "1.0.0",
+  "exercises": [
+    {
+      "id": "incline-db-press",
+      "name": "Incline DB Press",
+      "category": "push",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+press+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "2-0-1", "tip": "30° incline. Control descent. Elbows 45° from torso.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "30° incline. Control descent. Elbows 45°. Straight to A2.", "group": "A1" },
+        "3": { "sets": "4", "reps": "8", "tempo": "2-0-1", "tip": "30° incline. Control descent. Elbows 45°. Straight to A2.", "group": "A1" },
+        "maintenance": { "sets": "4", "reps": "5-6", "tempo": "3-1-1", "tip": "Heaviest pressing of your programme. Control descent fully. This is your strength benchmark.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "shoulder": { "name": "Low Incline DB Press", "tip": "SHOULDER ADAPTED: 15° max incline. Neutral grip preferred. Avoid full lockout.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "flat-db-press",
+      "name": "Flat DB Press",
+      "category": "push",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=flat+dumbbell+bench+press+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "10", "tempo": "3-0-1", "tip": "Full ROM. Elbows 45° from torso. Touch chest lightly.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "3-0-1", "tip": "Full ROM. Elbows 45°. Straight to B2.", "group": "B1" },
+        "3": { "sets": "4", "reps": "8", "tempo": "3-0-1", "tip": "Full ROM. Elbows 45°. Straight to B2.", "group": "B1" },
+        "maintenance": { "sets": "4", "reps": "6-8", "tempo": "3-0-1", "tip": "Full ROM. Elbows 45° from torso.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "shoulder": { "tip": "SHOULDER ADAPTED: Neutral grip DBs only. 45° elbow angle strictly enforced.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "cable-lateral-raise",
+      "name": "Cable Lateral Raise",
+      "category": "push",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=cable+lateral+raise+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "15", "tempo": "2-0-1", "tip": "Lead with elbow, not wrist. Shoulder height only. Slow controlled return.", "group": "" },
+        "2": { "sets": "4", "reps": "15", "tempo": "2-0-1", "tip": "Lead with elbow. Shoulder height only. Rest 40s after A3.", "group": "A3" },
+        "3": { "sets": "4", "reps": "15", "tempo": "2-0-1", "tip": "Lead with elbow. Shoulder height only. Rest 60s after A3.", "group": "A3" },
+        "maintenance": { "sets": "3", "reps": "12", "tempo": "2-0-1", "tip": "Strict form. Shoulder height only.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "shoulder": { "name": "Face Pull", "tip": "SHOULDER ADAPTED: Face pulls for rotator cuff health. Rope attachment. Pull to forehead, elbows high.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "overhead-tricep-extension",
+      "name": "Overhead Tricep Extension",
+      "category": "push",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=overhead+cable+tricep+extension+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "2-0-1", "tip": "Keep upper arms still. Full stretch at the bottom. Controlled return.", "group": "" },
+        "2": { "sets": "4", "reps": "12", "tempo": "2-0-1", "tip": "Keep upper arms still. Full stretch. Straight to A2.", "group": "A2" },
+        "3": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Keep upper arms still. Full stretch. Straight to A2.", "group": "A2" },
+        "maintenance": { "sets": "3", "reps": "10", "tempo": "2-0-1", "tip": "Upper arms fixed. Controlled stretch.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "elbow": { "name": "Cable Pushdown (Rope)", "tip": "ELBOW ADAPTED: Rope pushdown, neutral grip. Avoid overhead extension.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "weighted-dips",
+      "name": "Weighted Dips",
+      "category": "push",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=weighted+dips+chest+triceps+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "10", "tempo": "3-0-1", "tip": "Slight forward lean for chest emphasis. Full depth. Control the descent.", "group": "" },
+        "2": { "sets": "4", "reps": "8", "tempo": "3-0-1", "tip": "Slight forward lean. Full depth. Straight to C2.", "group": "C1" },
+        "3": { "sets": "4", "reps": "8", "tempo": "3-0-1", "tip": "Slight forward lean. Full depth. Straight to C2.", "group": "C1" },
+        "maintenance": { "sets": "4", "reps": "6-8", "tempo": "3-1-1", "tip": "Heavy weighted. Full depth. 3-4 min rest.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "shoulder": { "name": "Machine Chest Press", "tip": "SHOULDER ADAPTED: Machine chest press instead of dips. Full ROM, squeeze at top.", "isAdapted": false },
+        "elbow": { "name": "Machine Chest Press", "tip": "ELBOW ADAPTED: Machine chest press. Avoid full lockout.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "pec-deck-fly",
+      "name": "Pec Deck Fly",
+      "category": "push",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=pec+deck+fly+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "2-0-1", "tip": "Controlled squeeze at peak. Don't let arms go too far back.", "group": "" },
+        "2": { "sets": "4", "reps": "12", "tempo": "2-0-1", "tip": "Squeeze at peak. Straight to B2.", "group": "B2" },
+        "3": { "sets": "4", "reps": "12", "tempo": "2-0-1", "tip": "Squeeze at peak. Straight to B2.", "group": "B2" },
+        "maintenance": { "sets": "3", "reps": "12", "tempo": "2-0-1", "tip": "Full ROM. Squeeze at the peak.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "shoulder": { "name": "Cable Crossover (Low-to-High)", "tip": "SHOULDER ADAPTED: Low-to-high cable crossover. Arms stay below shoulder height.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "db-barbell-row",
+      "name": "Barbell Row",
+      "category": "pull",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=barbell+bent+over+row+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "10", "tempo": "2-0-1", "tip": "Hinge at hips, back flat. Pull bar to lower chest. Squeeze shoulder blades.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Back flat. Pull to lower chest. Squeeze. Straight to A2.", "group": "A1" },
+        "3": { "sets": "4", "reps": "8", "tempo": "2-0-1", "tip": "Back flat. Pull to lower chest. Squeeze. Straight to A2.", "group": "A1" },
+        "maintenance": { "sets": "4", "reps": "5-6", "tempo": "2-1-1", "tip": "Heavy. Back flat. Squeeze shoulder blades at the top. 3-4 min rest.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "lowerBack": { "name": "Chest-Supported DB Row", "tip": "LOWER BACK ADAPTED: Chest-supported row removes spinal loading. Full ROM, squeeze.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "lat-pulldown",
+      "name": "Lat Pulldown",
+      "category": "pull",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=lat+pulldown+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "2-0-1", "tip": "Lean slightly back. Pull to upper chest. Elbows drive down and back.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Lean slightly back. Pull to chest. Elbows down. Straight to A2.", "group": "A2" },
+        "3": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Lean slightly back. Pull to chest. Straight to A2.", "group": "A2" },
+        "maintenance": { "sets": "4", "reps": "6-8", "tempo": "2-1-1", "tip": "Heavy. Full stretch at top. Pull elbows down and back.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "shoulder": { "tip": "SHOULDER ADAPTED: Wider grip only. Avoid behind-neck. Pull to upper chest only.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "cable-row",
+      "name": "Seated Cable Row",
+      "category": "pull",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=seated+cable+row+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "2-0-1", "tip": "Sit tall. Pull handle to lower chest. Squeeze shoulder blades. Slow return.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Sit tall. Squeeze blades. Straight to B2.", "group": "B1" },
+        "3": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Sit tall. Squeeze blades. Straight to B2.", "group": "B1" },
+        "maintenance": { "sets": "4", "reps": "8", "tempo": "2-1-1", "tip": "Heavy. Full scapular retraction at top.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "lowerBack": { "name": "Chest-Supported DB Row", "tip": "LOWER BACK ADAPTED: Use chest-supported row to remove spinal loading.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "db-reverse-fly",
+      "name": "DB Reverse Fly",
+      "category": "pull",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+reverse+fly+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "15", "tempo": "2-0-1", "tip": "Hinge forward. Arms slightly bent. Lead with elbows. Shoulder height max.", "group": "" },
+        "2": { "sets": "4", "reps": "15", "tempo": "2-0-1", "tip": "Hinge forward. Shoulder height max. Straight to B2.", "group": "B2" },
+        "3": { "sets": "4", "reps": "15", "tempo": "2-0-1", "tip": "Hinge forward. Shoulder height max. Straight to B2.", "group": "B2" },
+        "maintenance": { "sets": "3", "reps": "15", "tempo": "2-0-1", "tip": "Rear delts only. Don't let traps take over.", "group": "" }
+      }
+    },
+    {
+      "id": "barbell-curl",
+      "name": "Barbell Curl",
+      "category": "pull",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=barbell+curl+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "2-0-1", "tip": "Elbows pinned at sides. Full ROM. No swinging.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Elbows fixed. No swing. Straight to C2.", "group": "C1" },
+        "3": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Elbows fixed. No swing. Straight to C2.", "group": "C1" },
+        "maintenance": { "sets": "4", "reps": "8", "tempo": "2-1-1", "tip": "Strict form. Elbows pinned. Heavy.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "elbow": { "name": "Hammer Curl", "tip": "ELBOW ADAPTED: Hammer curl — neutral grip reduces elbow joint stress.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "meadows-row",
+      "name": "Meadows Row",
+      "category": "pull",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=meadows+row+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "10", "tempo": "2-0-1", "tip": "Landmine attachment. Stand perpendicular. Elbow drives back and up. Full stretch.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Elbow back and up. Full stretch. Straight to A2.", "group": "A2" },
+        "3": { "sets": "4", "reps": "8", "tempo": "2-0-1", "tip": "Elbow back and up. Full stretch. Straight to A2.", "group": "A2" },
+        "maintenance": { "sets": "4", "reps": "6-8", "tempo": "2-1-1", "tip": "Heavy. Full ROM. Elbow drives high.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "lowerBack": { "name": "Chest-Supported DB Row", "tip": "LOWER BACK ADAPTED: Chest-supported removes spinal loading.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "barbell-squat",
+      "name": "Barbell Back Squat",
+      "category": "legs",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=barbell+back+squat+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "10", "tempo": "3-0-1", "tip": "Bar on traps. Hip-width stance. Knees tracking toes. Depth to parallel or below.", "group": "" },
+        "2": { "sets": "4", "reps": "8", "tempo": "3-0-1", "tip": "Depth to parallel. Straight to A2.", "group": "A1" },
+        "3": { "sets": "4", "reps": "6-8", "tempo": "3-1-1", "tip": "Paused at depth for 1 second. Drive through heels. Straight to A2.", "group": "A1" },
+        "maintenance": { "sets": "4", "reps": "4-6", "tempo": "3-1-1", "tip": "Heaviest squat. Full depth. 3-4 min rest. This is your strength benchmark.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "knee": { "name": "Goblet Squat", "tip": "KNEE ADAPTED: Goblet squat — limited ROM, heels elevated. No pain at depth.", "isAdapted": true },
+        "lowerBack": { "name": "Goblet Squat", "tip": "LOWER BACK ADAPTED: Goblet squat keeps torso upright, reducing spinal load.", "isAdapted": false },
+        "hip": { "name": "Goblet Squat", "tip": "HIP ADAPTED: Goblet squat — controlled depth, heels elevated.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "leg-press",
+      "name": "Leg Press",
+      "category": "legs",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=leg+press+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "3-0-1", "tip": "Feet hip-width. Don't lock knees. Full ROM. Feet mid-platform.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "3-0-1", "tip": "Full ROM. Straight to B2.", "group": "B1" },
+        "3": { "sets": "4", "reps": "10", "tempo": "3-0-1", "tip": "Full ROM. Straight to B2.", "group": "B1" },
+        "maintenance": { "sets": "4", "reps": "8-10", "tempo": "3-0-1", "tip": "Heavy. Full ROM. Don't lock out.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "knee": { "name": "Leg Press (Partial ROM)", "tip": "KNEE ADAPTED: Feet HIGH on plate. 60° max depth. Do not go deeper. No full lockout.", "isAdapted": true }
+      }
+    },
+    {
+      "id": "romanian-deadlift",
+      "name": "Romanian Deadlift",
+      "category": "legs",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=romanian+deadlift+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "10", "tempo": "3-0-1", "tip": "Hinge at hips. Bar close to legs. Feel hamstring stretch. Stop before rounding.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "3-0-1", "tip": "Hinge at hips. Hamstring stretch. Straight to A2.", "group": "A2" },
+        "3": { "sets": "4", "reps": "8", "tempo": "3-1-1", "tip": "1s pause at bottom. Hinge at hips. Straight to A2.", "group": "A2" },
+        "maintenance": { "sets": "4", "reps": "6-8", "tempo": "3-1-1", "tip": "Heavy. Controlled descent. Hamstring stretch. 3-4 min rest.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "hamstring": { "name": "Leg Curl", "tip": "HAMSTRING ADAPTED: Seated leg curl — no hip hinge loading on the hamstring.", "isAdapted": false },
+        "lowerBack": { "name": "Cable Pull-Through", "tip": "LOWER BACK ADAPTED: Cable pull-through — hip hinge pattern without spinal compression.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "leg-curl",
+      "name": "Leg Curl",
+      "category": "legs",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=leg+curl+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "2-1-1", "tip": "Full ROM. Squeeze at peak. Slow return. Lying or seated both fine.", "group": "" },
+        "2": { "sets": "4", "reps": "12", "tempo": "2-1-1", "tip": "Squeeze at peak. Slow return. Straight to B2.", "group": "B2" },
+        "3": { "sets": "4", "reps": "10", "tempo": "2-1-1", "tip": "Squeeze at peak. Slow return. Straight to B2.", "group": "B2" },
+        "maintenance": { "sets": "4", "reps": "10", "tempo": "2-1-1", "tip": "Full ROM. 1s hold at peak.", "group": "" }
+      }
+    },
+    {
+      "id": "standing-calf-raise",
+      "name": "Standing Calf Raise",
+      "category": "legs",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=standing+calf+raise+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "15", "tempo": "2-1-2", "tip": "Full stretch at bottom, full contraction at top. 1s hold at top.", "group": "" },
+        "2": { "sets": "3", "reps": "15", "tempo": "2-1-2", "tip": "Full stretch and contraction. Straight to C2.", "group": "C1" },
+        "3": { "sets": "3", "reps": "15", "tempo": "2-1-2", "tip": "Full stretch and contraction. Straight to C2.", "group": "C1" },
+        "maintenance": { "sets": "4", "reps": "12", "tempo": "3-1-2", "tip": "Slow and heavy. Full ROM.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "ankle": { "name": "Seated Calf Raise", "tip": "ANKLE ADAPTED: Seated calf raise only. No standing loading.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "nordic-hamstring-curl",
+      "name": "Nordic Hamstring Curl",
+      "category": "legs",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=nordic+hamstring+curl+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "6", "tempo": "4-0-1", "tip": "Partner holds ankles. Lower as slowly as possible. Push up with hands. Elite hamstring builder.", "group": "" },
+        "2": { "sets": "3", "reps": "6", "tempo": "4-0-1", "tip": "Lower slow. Straight to C2.", "group": "C1" },
+        "3": { "sets": "3", "reps": "5", "tempo": "4-0-1", "tip": "Lower as slowly as possible. Straight to C2.", "group": "C1" },
+        "maintenance": { "sets": "3", "reps": "5", "tempo": "5-0-1", "tip": "Max eccentric control. Lower over 5s.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "hamstring": { "name": "Leg Curl", "tip": "HAMSTRING ADAPTED: Standard leg curl instead of Nordic. No aggressive eccentric.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "db-shoulder-press",
+      "name": "DB Shoulder Press",
+      "category": "upper",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+shoulder+press+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "10", "tempo": "2-0-1", "tip": "Seated or standing. Elbows 90° at bottom. Full lockout.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Full lockout. Straight to A2.", "group": "A1" },
+        "maintenance": { "sets": "4", "reps": "6-8", "tempo": "3-0-1", "tip": "Heavy. Seated, neutral grip preferred.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "shoulder": { "name": "Arnold Press", "tip": "SHOULDER ADAPTED: Arnold press — rotating motion reduces impingement risk.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "db-lateral-raise",
+      "name": "DB Lateral Raise",
+      "category": "shoulders",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+lateral+raise+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "15", "tempo": "2-0-1", "tip": "Lead with elbows. Shoulder height only. Slight forward lean.", "group": "" },
+        "2": { "sets": "4", "reps": "15", "tempo": "2-0-1", "tip": "Lead with elbows. Shoulder height. Straight to A2.", "group": "A1" },
+        "3": { "sets": "4", "reps": "15", "tempo": "2-0-1", "tip": "Lead with elbows. Shoulder height. Straight to A2.", "group": "A1" },
+        "maintenance": { "sets": "3", "reps": "15", "tempo": "2-0-1", "tip": "Strict form. No momentum.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "shoulder": { "name": "Cable Y-Raise", "tip": "SHOULDER ADAPTED: Cable Y-raise at low pulley — lower impingement risk.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "face-pull",
+      "name": "Face Pull",
+      "category": "shoulders",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=face+pull+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "15", "tempo": "2-0-1", "tip": "Rope attachment. Pull to forehead. Elbows high. Squeeze rear delts. Rotator cuff health essential.", "group": "" },
+        "2": { "sets": "3", "reps": "15", "tempo": "2-0-1", "tip": "Pull to forehead. Elbows high. Straight to A2.", "group": "A2" },
+        "3": { "sets": "3", "reps": "15", "tempo": "2-0-1", "tip": "Pull to forehead. Elbows high. Straight to A2.", "group": "A2" },
+        "maintenance": { "sets": "3", "reps": "15", "tempo": "2-0-1", "tip": "Rope to forehead. Elbows high. Mandatory for shoulder health.", "group": "" }
+      }
+    },
+    {
+      "id": "barbell-curl-arms",
+      "name": "Barbell Curl",
+      "category": "arms",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=barbell+curl+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "2-0-1", "tip": "Elbows pinned to sides. Full ROM. No swinging.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Elbows fixed. No swing. Straight to A2.", "group": "A1" },
+        "3": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Elbows fixed. Full ROM. Straight to A2.", "group": "A1" },
+        "maintenance": { "sets": "4", "reps": "8", "tempo": "2-1-1", "tip": "Strict. Heavy. Elbows fixed.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "elbow": { "name": "Hammer Curl", "tip": "ELBOW ADAPTED: Neutral grip hammer curl reduces joint stress.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "skull-crusher",
+      "name": "Skull Crusher",
+      "category": "arms",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=skull+crusher+tricep+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "3-0-1", "tip": "Lower bar to forehead. Elbows stay fixed pointing up. Full stretch.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "3-0-1", "tip": "Lower to forehead. Elbows fixed. Straight to A2.", "group": "A2" },
+        "3": { "sets": "4", "reps": "10", "tempo": "3-0-1", "tip": "Full stretch. Elbows fixed. Straight to A2.", "group": "A2" },
+        "maintenance": { "sets": "3", "reps": "10", "tempo": "3-0-1", "tip": "Full stretch. No elbow flare.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "elbow": { "name": "Cable Pushdown (Straight Bar)", "tip": "ELBOW ADAPTED: Pushdown only — skull crushers place too much stress on inflamed elbow.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "hammer-curl",
+      "name": "Hammer Curl",
+      "category": "arms",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=hammer+curl+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "2-0-1", "tip": "Neutral grip. Elbows pinned. Works brachialis and brachioradialis.", "group": "" },
+        "2": { "sets": "4", "reps": "12", "tempo": "2-0-1", "tip": "Neutral grip. Elbows fixed. Straight to B2.", "group": "B1" },
+        "3": { "sets": "4", "reps": "12", "tempo": "2-0-1", "tip": "Neutral grip. Elbows fixed. Straight to B2.", "group": "B1" },
+        "maintenance": { "sets": "3", "reps": "10", "tempo": "2-1-1", "tip": "Strict neutral grip. Hold at top.", "group": "" }
+      }
+    },
+    {
+      "id": "trap-bar-deadlift",
+      "name": "Trap Bar Deadlift",
+      "category": "fullbody",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=trap+bar+deadlift+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "8", "tempo": "3-0-1", "tip": "Stand inside the bar. Hip-width feet. Neutral spine. Push floor away.", "group": "" },
+        "2": { "sets": "4", "reps": "6", "tempo": "3-1-1", "tip": "Neutral spine. Push floor away. Straight to A2.", "group": "A1" },
+        "3": { "sets": "4", "reps": "5", "tempo": "3-1-1", "tip": "Heavy. Neutral spine. Straight to A2.", "group": "A1" },
+        "maintenance": { "sets": "4", "reps": "4-5", "tempo": "3-1-1", "tip": "Heaviest full-body pull. 3-4 min rest.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "lowerBack": { "name": "Goblet Squat", "tip": "LOWER BACK ADAPTED: Goblet squat instead. Upright torso removes spinal compression.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "kb-swing",
+      "name": "Kettlebell Swing",
+      "category": "fullbody",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=kettlebell+swing+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "15", "tempo": "—", "tip": "Hip hinge, not a squat. Drive hips forward explosively. Bell reaches shoulder height.", "group": "" },
+        "2": { "sets": "3", "reps": "15", "tempo": "—", "tip": "Explosive hip drive. Straight to B2.", "group": "B1" },
+        "3": { "sets": "3", "reps": "15", "tempo": "—", "tip": "Explosive hip drive. Straight to B2.", "group": "B1" },
+        "maintenance": { "sets": "4", "reps": "20", "tempo": "—", "tip": "Heavy bell. Explosive. Full hip extension at top.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "lowerBack": { "name": "DB Goblet Squat", "tip": "LOWER BACK ADAPTED: Goblet squat — no ballistic hip hinge loading.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "maintenance-push-incline",
+      "name": "Incline Barbell / DB Press",
+      "category": "maintenance",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=incline+barbell+press+form",
+      "phases": {
+        "maintenance": { "sets": "4", "reps": "5-6", "tempo": "3-1-1", "tip": "Heaviest pressing of your programme. Control descent fully. This is your strength benchmark.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "shoulder": { "name": "Machine Chest Press", "tip": "SHOULDER ADAPTED: Machine chest press. Full ROM, squeeze at peak.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "maintenance-push-db-flat",
+      "name": "Flat DB Press",
+      "category": "maintenance",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=flat+db+press+form",
+      "phases": {
+        "maintenance": { "sets": "4", "reps": "6-8", "tempo": "3-0-1", "tip": "Full ROM. Elbows 45° from torso.", "group": "" }
+      }
+    },
+    {
+      "id": "maintenance-push-shoulder",
+      "name": "Seated DB Shoulder Press",
+      "category": "maintenance",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=seated+dumbbell+shoulder+press+form",
+      "phases": {
+        "maintenance": { "sets": "3", "reps": "8", "tempo": "2-0-1", "tip": "Seated, neutral grip. Heavy.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "shoulder": { "name": "Cable Lateral Raise", "tip": "SHOULDER ADAPTED: Strict form, shoulder height only.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "maintenance-push-tricep",
+      "name": "Weighted Dips",
+      "category": "maintenance",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=weighted+dips+form",
+      "phases": {
+        "maintenance": { "sets": "4", "reps": "6-8", "tempo": "3-0-1", "tip": "Heavy weighted. Slight forward lean. Full depth. 3-4 min rest.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "shoulder": { "name": "Close-Grip Bench Press", "tip": "SHOULDER ADAPTED: Close grip bench press for tricep focus.", "isAdapted": false },
+        "elbow": { "name": "Cable Pushdown", "tip": "ELBOW ADAPTED: Cable pushdown only.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "maintenance-push-lateral",
+      "name": "DB Lateral Raise",
+      "category": "maintenance",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+lateral+raise+form",
+      "phases": {
+        "maintenance": { "sets": "3", "reps": "12", "tempo": "2-0-1", "tip": "Strict form. Shoulder height only. No momentum.", "group": "" }
+      }
+    },
+    {
+      "id": "maintenance-pull-row",
+      "name": "Barbell Row",
+      "category": "maintenance",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=barbell+row+form",
+      "phases": {
+        "maintenance": { "sets": "4", "reps": "5-6", "tempo": "2-1-1", "tip": "Back flat. Pull to lower chest. Squeeze shoulder blades. This is your heaviest row.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "lowerBack": { "name": "Chest-Supported DB Row", "tip": "LOWER BACK ADAPTED: Chest-supported row.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "maintenance-pull-pulldown",
+      "name": "Weighted Pull-Up",
+      "category": "maintenance",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=weighted+pull+up+form",
+      "phases": {
+        "maintenance": { "sets": "4", "reps": "5-6", "tempo": "2-1-1", "tip": "Add weight via belt. Full ROM. Pause at top. 3-4 min rest.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "shoulder": { "name": "Lat Pulldown", "tip": "SHOULDER ADAPTED: Lat pulldown — grip width adjusted for comfort.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "maintenance-pull-curl",
+      "name": "EZ Bar Curl",
+      "category": "maintenance",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=ez+bar+curl+form",
+      "phases": {
+        "maintenance": { "sets": "4", "reps": "6-8", "tempo": "2-1-1", "tip": "EZ bar reduces wrist stress. Strict form. Elbows fixed.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "elbow": { "name": "Hammer Curl", "tip": "ELBOW ADAPTED: Neutral grip hammer curl.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "maintenance-pull-facepull",
+      "name": "Face Pull",
+      "category": "maintenance",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=face+pull+form",
+      "phases": {
+        "maintenance": { "sets": "3", "reps": "15", "tempo": "2-0-1", "tip": "Mandatory for shoulder health in maintenance phase. Rope to forehead. Elbows high.", "group": "" }
+      }
+    },
+    {
+      "id": "maintenance-legs-squat",
+      "name": "Barbell Back Squat",
+      "category": "maintenance",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=barbell+back+squat+form",
+      "phases": {
+        "maintenance": { "sets": "4", "reps": "4-5", "tempo": "3-1-1", "tip": "Heaviest squat. Full depth. Belt optional. 4-5 min rest. This is your primary strength benchmark.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "knee": { "name": "Leg Press (Heavy)", "tip": "KNEE ADAPTED: Heavy leg press. High foot position, 60° max ROM.", "isAdapted": true },
+        "lowerBack": { "name": "Goblet Squat", "tip": "LOWER BACK ADAPTED: Heavy goblet squat. Upright torso.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "maintenance-legs-rdl",
+      "name": "Romanian Deadlift",
+      "category": "maintenance",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=romanian+deadlift+form",
+      "phases": {
+        "maintenance": { "sets": "4", "reps": "6-8", "tempo": "3-1-1", "tip": "Heavy. Deep stretch. 3-4 min rest.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "hamstring": { "name": "Leg Curl", "tip": "HAMSTRING ADAPTED: Seated leg curl only.", "isAdapted": false },
+        "lowerBack": { "name": "Cable Pull-Through", "tip": "LOWER BACK ADAPTED: Cable pull-through.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "maintenance-legs-legpress",
+      "name": "Leg Press",
+      "category": "maintenance",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=leg+press+form",
+      "phases": {
+        "maintenance": { "sets": "4", "reps": "8-10", "tempo": "3-0-1", "tip": "Heavy. Full ROM. Feet mid-plate.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "knee": { "name": "Leg Press (Partial ROM)", "tip": "KNEE ADAPTED: High foot position. 60° max. Do not go past parallel.", "isAdapted": true }
+      }
+    },
+    {
+      "id": "maintenance-legs-calf",
+      "name": "Standing Calf Raise",
+      "category": "maintenance",
+      "environment": ["gym"],
+      "videoURL": "https://www.youtube.com/results?search_query=standing+calf+raise+form",
+      "phases": {
+        "maintenance": { "sets": "4", "reps": "10", "tempo": "3-1-3", "tip": "Full stretch. Full contraction. 1s hold at top. Heavy.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "ankle": { "name": "Seated Calf Raise", "tip": "ANKLE ADAPTED: Seated only.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "pushup",
+      "name": "Push-Up",
+      "category": "home",
+      "environment": ["home"],
+      "videoURL": "https://www.youtube.com/results?search_query=push+up+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "2-0-1", "tip": "Hands shoulder-width. Elbows 45°. Full ROM. Core tight.", "group": "" },
+        "2": { "sets": "4", "reps": "12", "tempo": "2-0-1", "tip": "Elbows 45°. Full ROM. Straight to A2.", "group": "A1" },
+        "3": { "sets": "4", "reps": "10", "tempo": "3-0-1", "tip": "Controlled descent 3s. Straight to A2.", "group": "A1" },
+        "maintenance": { "sets": "4", "reps": "15", "tempo": "2-0-1", "tip": "Add weight plate on back if too easy.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "shoulder": { "name": "Incline Push-Up", "tip": "SHOULDER ADAPTED: Incline push-up reduces shoulder angle. Hands on a table or chair.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "db-floor-press",
+      "name": "DB Floor Press",
+      "category": "home",
+      "environment": ["home"],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+floor+press+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "10", "tempo": "3-0-1", "tip": "Elbows stop at floor. Full press. Limits ROM — safer for shoulders.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "3-0-1", "tip": "Elbows stop at floor. Straight to A2.", "group": "A1" },
+        "3": { "sets": "4", "reps": "8", "tempo": "3-0-1", "tip": "Controlled descent. Straight to A2.", "group": "A1" },
+        "maintenance": { "sets": "4", "reps": "8", "tempo": "3-0-1", "tip": "Heavy dumbbells. Full press from floor.", "group": "" }
+      }
+    },
+    {
+      "id": "db-row-home",
+      "name": "DB Row",
+      "category": "home",
+      "environment": ["home"],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+row+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "2-0-1", "tip": "Brace on bench or knee. Back flat. Pull elbow back. Squeeze.", "group": "" },
+        "2": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Back flat. Pull elbow back. Straight to A2.", "group": "A2" },
+        "3": { "sets": "4", "reps": "10", "tempo": "2-0-1", "tip": "Pull elbow back and up. Straight to A2.", "group": "A2" },
+        "maintenance": { "sets": "4", "reps": "8", "tempo": "2-1-1", "tip": "Heavy. Full scapular retraction.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "lowerBack": { "tip": "LOWER BACK ADAPTED: Use the supported version — brace on a surface so the back is fully supported.", "isAdapted": false }
+      }
+    },
+    {
+      "id": "goblet-squat-home",
+      "name": "Goblet Squat",
+      "category": "home",
+      "environment": ["home"],
+      "videoURL": "https://www.youtube.com/results?search_query=goblet+squat+form",
+      "phases": {
+        "1": { "sets": "3", "reps": "12", "tempo": "3-0-1", "tip": "Hold DB at chest. Upright torso. Depth to parallel. Elbows inside knees at bottom.", "group": "" },
+        "2": { "sets": "4", "reps": "12", "tempo": "3-0-1", "tip": "Upright torso. Depth to parallel. Straight to B2.", "group": "B1" },
+        "3": { "sets": "4", "reps": "10", "tempo": "3-1-1", "tip": "Pause 1s at depth. Upright torso. Straight to B2.", "group": "B1" },
+        "maintenance": { "sets": "4", "reps": "10", "tempo": "3-1-1", "tip": "Heavy DB. Pause at depth.", "group": "" }
+      },
+      "injuryAdaptations": {
+        "knee": { "tip": "KNEE ADAPTED: Heels elevated on a plate/book. Depth reduced — stop before discomfort.", "isAdapted": true }
+      }
+    }
+  ]
+}
