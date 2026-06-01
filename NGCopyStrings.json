@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "injuryGuidance": {
+    "Knee": "Knee: partial ROM only, no deep flexion, no plyometrics",
+    "Shoulder": "Shoulder: reduce overhead pressing volume, prioritise rotator cuff pre-hab",
+    "Rotator Cuff": "Rotator Cuff: no behind-neck movements, face pulls mandatory, lighter overhead",
+    "Lower Back": "Lower Back: no barbell squats/deadlifts — cable pull-throughs substituted",
+    "Hip / Pelvic Floor": "Hip/Pelvic Floor: avoid heavy loaded hip flexion, hip hinge adaptations applied",
+    "Elbow": "Elbow: neutral grip prioritised, reduced bicep/tricep isolation volume",
+    "Hamstring": "Hamstring: no sprints, RDLs replaced with leg curls, eccentric loading only",
+    "Ankle / Plantar Fasciitis": "Ankle/PF: no calf-loading, standing replaced with seated where possible"
+  },
+  "lowCarbSubs": {
+    "Konjac / Shirataki": {
+      "emoji": "🍜",
+      "description": "Zero carb. Rice, noodles & pasta replaced with shirataki. Rinse well, dry-fry 2–3 min.",
+      "aiInstruction": "Substitute any rice with konjac/shirataki rice, any noodles or pasta with shirataki noodles. Include prep note: rinse thoroughly, dry-fry 2–3 min to remove odour, add to sauce last. Show macros for konjac version (near-zero carb)."
+    },
+    "Cauliflower Swaps": {
+      "emoji": "🥦",
+      "description": "Near-zero carb. Cauliflower rice & pizza base. Roast or microwave, squeeze out moisture.",
+      "aiInstruction": "Substitute rice with cauliflower rice, pizza bases with cauliflower base. Include prep note: microwave 5 min or roast, squeeze moisture with cloth before use."
+    },
+    "High-Protein Pasta": {
+      "emoji": "💪",
+      "description": "Lower carb, higher protein. Chickpea, edamame or lentil pasta. Works with most sauces.",
+      "aiInstruction": "Substitute pasta and noodles with chickpea, edamame or lentil pasta. Show protein and carb macros for the high-protein version — significantly higher protein, lower carb than regular pasta."
+    },
+    "Keto Alternatives": {
+      "emoji": "🥑",
+      "description": "Keto-friendly. Almond flour, coconut flour, keto bread. Texture differs from originals.",
+      "aiInstruction": "Where recipes use flour, bread or wraps, suggest almond flour, coconut flour or keto bread alternatives. Flag that texture differs and note where the substitution works best."
+    }
+  }
+}
