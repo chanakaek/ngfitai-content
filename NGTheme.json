@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "accents": [
+    { "id": "blue",       "name": "Electric Blue", "hex": "3B8BEB" },
+    { "id": "pink",       "name": "Hot Pink",      "hex": "FF2D78" },
+    { "id": "mint",       "name": "Mint",          "hex": "00E5A0" },
+    { "id": "purple",     "name": "Purple",        "hex": "A855F7" },
+    { "id": "amber",      "name": "Amber",         "hex": "F59E0B" },
+    { "id": "forest",     "name": "Forest",        "hex": "22C55E" },
+    { "id": "coral",      "name": "Coral",         "hex": "FF6B47" },
+    { "id": "teal",       "name": "Teal",          "hex": "00B4C8" },
+    { "id": "lavender",   "name": "Lavender",      "hex": "C084FC" },
+    { "id": "crimson",    "name": "Crimson",       "hex": "EF4444" },
+    { "id": "navy",       "name": "Royal Blue",    "hex": "2563EB" },
+    { "id": "darkgreen",  "name": "Dark Green",    "hex": "166534" },
+    { "id": "darkpurple", "name": "Dark Purple",   "hex": "581C87" },
+    { "id": "darkred",    "name": "Dark Red",      "hex": "991B1B" },
+    { "id": "darkorange", "name": "Dark Orange",   "hex": "C2410C" },
+    { "id": "royalgold",  "name": "Royal Gold",    "hex": "C9A228" }
+  ]
+}
