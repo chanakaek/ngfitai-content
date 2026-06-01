@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -159,7 +159,7 @@
       "phases": {
         "1": {"sets":"3","reps":"10","tempo":"3-0-1","tip":"Slight forward lean. Elbows back. Full depth.","group":""},
         "2": {"sets":"3","reps":"8","tempo":"3-0-1","tip":"Add weight via belt. Straight to C2.","group":"C1"},
-        "3": {"sets":"3","reps":"8","tempo":"3-0-1","tip":"Add weight via belt or DB between legs. Elbows back.","group":"C1"},
+        "3": {"sets":"3","reps":"8","tempo":"3-0-1","tip":"Add weight via belt or DB between legs. Elbows back.","group":""},
         "maintenance": {"sets":"3","reps":"6-8","tempo":"3-0-1","tip":"Add weight via belt or DB between legs. Elbows back.","group":""}
       },
       "injuryAdaptations": {
@@ -353,7 +353,7 @@
       "phases": {
         "1": {"sets":"3","reps":"15","tempo":"2-1-1","tip":"Rear delt focus. Slight elbow bend. Full squeeze at peak.","group":""},
         "2": {"sets":"3","reps":"15","tempo":"2-1-1","tip":"Rear delt squeeze. Straight to C2.","group":"C2"},
-        "3": {"sets":"3","reps":"15","tempo":"2-1-1","tip":"Rear delt squeeze. Straight to C2.","group":"C2"},
+        "3": {"sets":"3","reps":"15","tempo":"2-1-1","tip":"Rear delt squeeze. Full ROM.","group":""},
         "maintenance": {"sets":"3","reps":"15","tempo":"2-1-1","tip":"Full ROM. Rear delt and rotator cuff health.","group":""}
       }
     },
@@ -548,7 +548,7 @@
       "videoURL": "https://www.youtube.com/results?search_query=tricep+rope+pushdown+form",
       "phases": {
         "1": {"sets":"3","reps":"15","tempo":"2-0-1","tip":"Elbows pinned. Full extension, spread rope.","group":""},
-        "2": {"sets":"4","reps":"12","tempo":"2-0-1","tip":"Elbows pinned. Rest 45s after C2.","group":"C2"},
+        "2": {"sets":"4","reps":"12","tempo":"2-0-1","tip":"Elbows pinned. Full extension, spread rope.","group":""},
         "maintenance": {"sets":"3","reps":"12","tempo":"2-0-1","tip":"Elbows pinned. Full extension.","group":""}
       },
       "injuryAdaptations": {
@@ -563,8 +563,8 @@
       "videoURL": "https://www.youtube.com/results?search_query=arnold+press+form",
       "phases": {
         "1": {"sets":"3","reps":"10","tempo":"2-0-1","tip":"Start palms facing you, rotate out as you press. Full shoulder ROM.","group":""},
-        "2": {"sets":"4","reps":"10","tempo":"2-0-1","tip":"Rotate and press. Straight to A2.","group":"A2"},
-        "3": {"sets":"4","reps":"8","tempo":"2-0-1","tip":"Full rotation. Straight to A2.","group":"A2"},
+        "2": {"sets":"4","reps":"10","tempo":"2-0-1","tip":"Rotate and press. Full shoulder ROM.","group":""},
+        "3": {"sets":"4","reps":"8","tempo":"2-0-1","tip":"Full rotation. Controlled press.","group":""},
         "maintenance": {"sets":"4","reps":"8","tempo":"2-0-1","tip":"Full rotation. Controlled descent.","group":""}
       },
       "injuryAdaptations": {
@@ -580,7 +580,7 @@
       "phases": {
         "1": {"sets":"3","reps":"20","tempo":"2-0-1","tip":"Arms straight. Pull band to chest. Squeeze rear delts. Rotator cuff health.","group":""},
         "2": {"sets":"3","reps":"20","tempo":"2-0-1","tip":"Arms straight. Pull to chest. Straight to B2.","group":"B2"},
-        "3": {"sets":"3","reps":"20","tempo":"2-0-1","tip":"Arms straight. Rear delt squeeze. Straight to B2.","group":"B2"},
+        "3": {"sets":"3","reps":"20","tempo":"2-0-1","tip":"Arms straight. Rear delt squeeze. Rotator cuff health.","group":""},
         "maintenance": {"sets":"3","reps":"20","tempo":"2-0-1","tip":"Daily volume. Essential shoulder health in maintenance.","group":""}
       }
     },
@@ -862,8 +862,8 @@
       "videoURL": "https://www.youtube.com/results?search_query=dead+bug+exercise+core",
       "phases": {
         "1": {"sets":"3","reps":"10","tempo":"—","tip":"Press lower back into floor throughout. Each side. Slow. Breathe out as you lower.","group":""},
-        "2": {"sets":"3","reps":"10","tempo":"—","tip":"Lower back pressed down. Each side. Straight to C2.","group":"C2"},
-        "3": {"sets":"3","reps":"10","tempo":"—","tip":"Lower back down. Each side. Straight to C2.","group":"C2"},
+        "2": {"sets":"3","reps":"10","tempo":"—","tip":"Lower back pressed down. Each side. Slow and controlled.","group":""},
+        "3": {"sets":"3","reps":"10","tempo":"—","tip":"Lower back down. Each side. Core stability.","group":""},
         "maintenance": {"sets":"3","reps":"10","tempo":"—","tip":"Press lower back into floor. Core stability work.","group":""}
       },
       "injuryAdaptations": {
