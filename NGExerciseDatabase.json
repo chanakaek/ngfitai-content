@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -2627,7 +2627,7 @@
           "isAdapted": false
         },
         "knee": {
-          "tip": "KNEE ADAPTED: reduce squat depth. Stop at parallel.",
+          "tip": "KNEE ADAPTED: keep depth ABOVE parallel — stop well before the knee passes 90°. Reduce load; prioritise the press over the squat.",
           "isAdapted": true
         }
       }
@@ -2859,8 +2859,8 @@
       },
       "injuryAdaptations": {
         "knee": {
-          "name": "Leg Press (Heavy, Partial ROM)",
-          "tip": "KNEE ADAPTED: feet high, 60° max. Load heavy — this is your compound movement.",
+          "name": "Barbell Hip Thrust",
+          "tip": "KNEE ADAPTED: hip thrust is the primary compound movement — no knee flexion under load. Drive through heels, full glute squeeze at top.",
           "isAdapted": true
         },
         "lowerBack": {
@@ -2889,9 +2889,9 @@
       },
       "injuryAdaptations": {
         "hip": {
-          "name": "Floor Glute Bridge (Loaded)",
-          "tip": "HIP ADAPTED: load with DB or plate across hips. Engage pelvic floor. Full extension.",
-          "isAdapted": false
+          "name": "Floor Glute Bridge (Unloaded)",
+          "tip": "HIP ADAPTED: bodyweight only — no load across the hips (avoids intra-abdominal pressure). Engage pelvic floor before each rep. Full extension.",
+          "isAdapted": true
         }
       }
     },
@@ -2914,9 +2914,9 @@
       },
       "injuryAdaptations": {
         "hamstring": {
-          "name": "Seated Leg Curl",
-          "tip": "HAMSTRING ADAPTED: leg curl only.",
-          "isAdapted": false
+          "name": "Seated Leg Curl (Light)",
+          "tip": "HAMSTRING ADAPTED: light resistance only. Stay in a pain-free range. Stop at discomfort — no aggressive loading.",
+          "isAdapted": true
         },
         "lowerBack": {
           "name": "Cable Pull-Through",
