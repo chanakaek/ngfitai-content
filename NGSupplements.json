@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "dayTypes": {
+    "training": [
+      { "icon": "bolt.fill", "title": "Caffeine — 3–6mg/kg, 30–60 min before", "detail": "Most studied ergogenic aid in sport. Increases strength output by 3–7% and delays perceived effort. Black coffee counts." },
+      { "icon": "pill.fill", "title": "Creatine — 3–5g pre or post workout", "detail": "The single best-evidenced supplement for strength and muscle. Take it consistently every day; timing around training gives a slight edge." },
+      { "icon": "figure.strengthtraining.traditional", "title": "Whey protein — 30–40g within 45 min post", "detail": "Fast-digesting whey spikes amino acid availability during the critical post-workout window. Leucine content is what drives muscle protein synthesis." },
+      { "icon": "moon.fill", "title": "Casein protein — 30g before bed", "detail": "Whey handles post-workout; casein handles overnight. Together they keep muscle protein synthesis elevated for 18+ hours after training." },
+      { "icon": "leaf.fill", "title": "Omega-3 — 2–3g EPA/DHA with food", "detail": "Amplifies muscle protein synthesis when combined with strength training. Take with your largest meal for best absorption." }
+    ],
+    "rest": [
+      { "icon": "pill.fill", "title": "Creatine — 3–5g with food", "detail": "Take daily regardless of training. Creatine stores deplete if you skip rest-day doses. Timing doesn't matter on rest days — just stay consistent." },
+      { "icon": "fish.fill", "title": "Omega-3 — 2–3g EPA/DHA", "detail": "Anti-inflammatory effect is strongest on recovery days. Reduces exercise-induced muscle damage and accelerates readiness for the next session." },
+      { "icon": "moon.fill", "title": "Casein protein — 30–40g before bed", "detail": "Slow-digesting protein feeds muscles overnight for 5–7 hours. The longest fasting window of your day — don't waste it with nothing." },
+      { "icon": "leaf.fill", "title": "Magnesium — 300–400mg at night", "detail": "Supports deep sleep and muscle relaxation. Most athletes are sub-optimal. Glycinate and malate forms absorb significantly better than oxide." }
+    ],
+    "match": [
+      { "icon": "bolt.fill", "title": "Caffeine — 3–6mg/kg, 60 min pre-match", "detail": "Peak blood concentration at 60 min. Standard 200mg dose is enough for most. Avoid if you don't use it in training — race day is not the time to experiment." },
+      { "icon": "drop.fill", "title": "Electrolytes — pre and during", "detail": "Sodium, potassium, magnesium. Sip a sports drink in the warm-up and at half time. Hyponatremia (over-drinking plain water) is a real match-day risk." },
+      { "icon": "pill.fill", "title": "Creatine — skip on match day if new", "detail": "If you're already taking creatine daily, continue as normal. If not, don't start on match day — GI discomfort risk during play is not worth it." },
+      { "icon": "figure.strengthtraining.traditional", "title": "Whey protein — 40g within 90 min post-match", "detail": "Matches cause as much muscle damage as a hard gym session. The post-match protein window is as important as post-gym. Don't skip it." },
+      { "icon": "leaf.fill", "title": "Tart cherry juice — 30ml, 2x daily", "detail": "High in anthocyanins which reduce post-match DOMS by 20–30%. Best started 3–4 days before a match and continued for 2 days after." }
+    ],
+    "sport": [
+      { "icon": "bolt.fill", "title": "Caffeine — 3mg/kg, 45 min before practice", "detail": "Lower dose than gym days — practice requires sustained output, not short maximal efforts. Reduces perceived effort and keeps reaction time sharp." },
+      { "icon": "drop.fill", "title": "Electrolytes during practice", "detail": "Sweat losses during sport practice are often underestimated. Sodium-containing drinks outperform plain water for sessions over 60 min." },
+      { "icon": "figure.strengthtraining.traditional", "title": "Whey protein — 30–40g within 45 min post", "detail": "Sport practice causes significant muscle protein breakdown. A post-session shake is the fastest way to flip the balance toward synthesis." },
+      { "icon": "pill.fill", "title": "Creatine — 3–5g with food", "detail": "Daily maintenance dose. Keep it consistent every day of the week — storage levels are what matter, not per-session timing." }
+    ]
+  }
+}
