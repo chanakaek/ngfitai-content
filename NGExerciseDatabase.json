@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -1517,7 +1517,7 @@
           "reps": "10",
           "tempo": "2-0-1",
           "tip": "Seated. Rest 45s after B2.",
-          "group": "A1"
+          "group": "B2"
         },
         "maintenance": {
           "sets": "3",
@@ -1525,6 +1525,13 @@
           "tempo": "2-0-1",
           "tip": "Heavy. Seated.",
           "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Seated. Rest 45s after B2.",
+          "group": "B1"
         }
       },
       "injuryAdaptations": {
@@ -1556,7 +1563,7 @@
           "reps": "15",
           "tempo": "2-0-1",
           "tip": "Strict form. Shoulder height. Rest 45s.",
-          "group": "A2"
+          "group": ""
         },
         "maintenance": {
           "sets": "3",
@@ -1588,7 +1595,7 @@
           "reps": "12",
           "tempo": "2-0-1",
           "tip": "Elbows pinned. Full extension, spread rope.",
-          "group": ""
+          "group": "C2"
         },
         "maintenance": {
           "sets": "3",
@@ -1596,6 +1603,13 @@
           "tempo": "2-0-1",
           "tip": "Elbows pinned. Full extension.",
           "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Elbows pinned. Full extension, spread rope.",
+          "group": "B3"
         }
       },
       "injuryAdaptations": {
@@ -3776,6 +3790,190 @@
       "injuryAdaptations": {
         "lowerBack": {
           "tip": "LOWER BACK ADAPTED: keep body in neutral spine. Don't arch.",
+          "isAdapted": false
+        }
+      }
+    },
+    {
+      "id": "incline-db-press-upper",
+      "name": "Incline Dumbbell Press",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+press+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Controlled form.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "30° incline. Straight to A2.",
+          "group": "A1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "30° incline. Straight to A2.",
+          "group": "A1"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "2-0-1",
+          "tip": "Strength focus.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "name": "Machine Chest Press",
+          "tip": "SHOULDER ADAPTED: machine press removes impingement risk. Full ROM.",
+          "isAdapted": false
+        }
+      }
+    },
+    {
+      "id": "seated-cable-row-upper",
+      "name": "Seated Cable Row",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=seated+cable+row+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Controlled form.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-1-1",
+          "tip": "Chest proud. Rest 45s after A2.",
+          "group": "A2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-1-1",
+          "tip": "Chest proud, hold 1s. Straight to A3.",
+          "group": "A2"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "2-0-1",
+          "tip": "Strength focus.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "name": "Chest-Supported DB Row",
+          "tip": "LOWER BACK ADAPTED: chest-supported removes spinal loading.",
+          "isAdapted": false
+        }
+      }
+    },
+    {
+      "id": "lat-pulldown-upper",
+      "name": "Lat Pulldown",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=lat+pulldown+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Controlled form.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-2",
+          "tip": "Pull to upper chest. Straight to B2.",
+          "group": "B1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-2",
+          "tip": "Shoulder blades first. Rest 40s after A3.",
+          "group": "A3"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "2-0-1",
+          "tip": "Strength focus.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "name": "Lat Pulldown (Wide Grip)",
+          "tip": "SHOULDER ADAPTED: wider grip, pull to upper chest only.",
+          "isAdapted": false
+        }
+      }
+    },
+    {
+      "id": "ez-bar-curl-upper",
+      "name": "EZ Bar Curl",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=ez+bar+curl+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Controlled form.",
+          "group": ""
+        },
+        "2": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "3-0-1",
+          "tip": "Elbows fixed. Straight to C2.",
+          "group": "C1"
+        },
+        "3": {
+          "sets": "3",
+          "reps": "10",
+          "tempo": "3-0-1",
+          "tip": "Elbows fixed. Straight to B3.",
+          "group": "B2"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "2-0-1",
+          "tip": "Strength focus.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "name": "Hammer Curl (Neutral Grip)",
+          "tip": "ELBOW ADAPTED: neutral grip, elbows fixed.",
           "isAdapted": false
         }
       }
