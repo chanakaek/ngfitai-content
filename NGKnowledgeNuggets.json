@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -982,6 +982,30 @@
       "icon": "figure.walk.motion",
       "title": "Back after a break? Ease in first",
       "body": "Returning from a longer layoff, your body isn't quite where it was — so jumping straight back into heavy, peak work is how people get hurt. After a real gap your plan offers a reactivation week to rebuild movement and resilience before intensity ramps again. A week of easing in beats a month on the sidelines."
+    },
+    {
+      "id": "nug_121",
+      "category": "fat-loss",
+      "audience": "all",
+      "icon": "figure.walk",
+      "title": "Ate a bit much? Walk it back",
+      "body": "Over your calories today, or short on your burn? Tap \"Add a walk or activity\" on your plan, pick a walk, run, cycle or swim and a duration — Strathlon adds the burn to today's allowance and shows what it frees up (\"about a large glass of wine\"). A 30–45 min walk is an easy few hundred calories to keep your deficit on track."
+    },
+    {
+      "id": "nug_122",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "plus.circle",
+      "title": "Log any activity, any day",
+      "body": "It's not just gym sessions — add a walk, run, cycle or swim to any day, including rest days, from \"Add a walk or activity\" on your plan. Set the duration (or enter your own burn from a watch) and your nutrition targets adjust to match. Handy for planning ahead: see what a lunchtime walk frees up before you decide on that treat."
+    },
+    {
+      "id": "nug_123",
+      "category": "strength",
+      "audience": "all",
+      "icon": "arrow.triangle.swap",
+      "title": "Supersets are optional",
+      "body": "On Phase 2 and 3 days you'll see a \"Supersets\" toggle. On, the app runs each pair back-to-back with one combined timer; off, you do them as straight sets with rest between. Both deliver the same volume — if the gym's busy or you prefer straight sets, switch it off and tap \"Can't pair them?\" for how to keep the same density."
     }
   ]
 }
