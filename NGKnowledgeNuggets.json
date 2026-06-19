@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
+  "version": "1.7.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1006,6 +1006,38 @@
       "icon": "arrow.triangle.swap",
       "title": "Supersets are optional",
       "body": "On Phase 2 and 3 days you'll see a \"Supersets\" toggle. On, the app runs each pair back-to-back with one combined timer; off, you do them as straight sets with rest between. Both deliver the same volume — if the gym's busy or you prefer straight sets, switch it off and tap \"Can't pair them?\" for how to keep the same density."
+    },
+    {
+      "id": "nug_124",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "icloud.fill",
+      "title": "Your tracker backs up to iCloud",
+      "body": "Strathlon quietly mirrors your food logs, saved foods and auto-add rules to your private iCloud so they survive a reinstall or a new phone — no account, no upload of your raw meals to us. Restore happens automatically on a fresh install. Prefer to keep it local? Turn it off in Profile → Privacy & your data, where you can also export a full copy anytime."
+    },
+    {
+      "id": "nug_125",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "wand.and.stars",
+      "title": "Foods you log often, on autopilot",
+      "body": "Eat the same breakfast most days? Strathlon spots foods you log regularly and offers to add them automatically on your chosen days — tap \"Set it up\" on the suggestion card and pick the days and meal slot. It's all worked out on your device, and you can manage or remove any rule under Nutrition → My Foods."
+    },
+    {
+      "id": "nug_126",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "lightbulb.fill",
+      "title": "Shape what we build next",
+      "body": "Got an idea for Strathlon? Open More → \"App roadmap & Feature requests\" to suggest a feature and vote others up or down. The public roadmap is ordered by votes, so the most-wanted ideas rise to the top — your vote genuinely steers what gets built."
+    },
+    {
+      "id": "nug_127",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "rectangle.compress.vertical",
+      "title": "Tidy up your workout screen",
+      "body": "Sections on the workout screen — your warm-up, today's exercises and the optional HIIT finisher — collapse and expand with a tap on their header. Fold away what you've finished (or don't need yet) to keep the bit you're working on front and centre. Strathlon remembers a sensible default each time."
     }
   ]
 }
