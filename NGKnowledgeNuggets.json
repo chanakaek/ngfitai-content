@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.10.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1054,6 +1054,38 @@
       "icon": "photo.on.rectangle.angled",
       "title": "Track your progress in photos",
       "body": "The scale only tells half the story. Open More → Progress Photos and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Your photos stay private on your device: never uploaded, never sent to the AI, never in any export."
+    },
+    {
+      "id": "nug_130",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "rectangle.split.2x1",
+      "title": "See your before & after",
+      "body": "Got two or more progress photos? Open More → Progress Photos and tap Compare to put two side by side — oldest vs newest by default — with the days between them and your weight change. Tap either date to pick any two. It all stays on your device."
+    },
+    {
+      "id": "nug_131",
+      "category": "sport",
+      "audience": "all",
+      "icon": "list.number",
+      "title": "Set your primary sport",
+      "body": "Play more than one sport? In your profile you can reorder them — the one at the top is your primary. Your gym work is tuned to your top two sports, while any others still shape your schedule and nutrition. Reorder anytime to change which two drive your lifts."
+    },
+    {
+      "id": "nug_132",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "arrow.uturn.backward",
+      "title": "Marked a session by mistake?",
+      "body": "Tapped \"Mark this session done\" by accident? Just tap it again to undo. Sessions captured automatically — from a guided session or your Apple Watch — stay locked, so your real training is never removed by accident."
+    },
+    {
+      "id": "nug_133",
+      "category": "strength",
+      "audience": "all",
+      "icon": "flag.checkered",
+      "title": "Your HIIT finisher ends on a high",
+      "body": "Push through to the last interval and your HIIT finisher gives you a proper sign-off — your rounds, minutes and an estimated calorie burn — plus a heads-up on what's next in your week. No more abrupt cut-off; it's the cherry on top of a hard session."
     }
   ]
 }
