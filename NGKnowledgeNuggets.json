@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1038,6 +1038,22 @@
       "icon": "rectangle.compress.vertical",
       "title": "Tidy up your workout screen",
       "body": "Sections on the workout screen — your warm-up, today's exercises and the optional HIIT finisher — collapse and expand with a tap on their header. Fold away what you've finished (or don't need yet) to keep the bit you're working on front and centre. Strathlon remembers a sensible default each time."
+    },
+    {
+      "id": "nug_128",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "figure.arms.open",
+      "title": "Sharper targets from your body composition",
+      "body": "If a smart scale or wearable logs your lean mass to Apple Health, turn on Body composition in Profile → Settings. Strathlon then uses the Katch-McArdle formula for a more accurate calorie (BMR) and protein target — better for muscular or higher-body-fat builds. It reads body fat % and lean mass only, stays on your device, and is never sent to the AI."
+    },
+    {
+      "id": "nug_129",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "photo.on.rectangle.angled",
+      "title": "Track your progress in photos",
+      "body": "The scale only tells half the story. Open More → Progress Photos and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Your photos stay private on your device: never uploaded, never sent to the AI, never in any export."
     }
   ]
 }
