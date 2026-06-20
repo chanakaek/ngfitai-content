@@ -1,5 +1,5 @@
 {
-  "version": "1.10.0",
+  "version": "1.11.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -840,7 +840,18 @@
       "icon": "figure.cricket",
       "title": "Why your plan adds rotational power",
       "body": "Cricket, racket and stick sports live and die on rotation — bat speed, racket-head speed, a club through the ball. We add moves like the landmine rotation and Pallof press so you turn harder AND protect the shoulder you load every single swing.",
-      "sports": ["cricket", "badminton", "squash", "tennis", "table_tennis", "padel", "golf", "baseball", "polo", "hockey"]
+      "sports": [
+        "cricket",
+        "badminton",
+        "squash",
+        "tennis",
+        "table_tennis",
+        "padel",
+        "golf",
+        "baseball",
+        "polo",
+        "hockey"
+      ]
     },
     {
       "id": "nug_105",
@@ -849,7 +860,18 @@
       "icon": "shield.lefthalf.filled",
       "title": "The face pull is in your plan on purpose",
       "body": "Every swing hammers the front of your shoulder. We slot in face pulls and carries to strengthen the rear delt, cuff and grip — the unsung muscles that keep a striking shoulder healthy season after season.",
-      "sports": ["cricket", "badminton", "squash", "tennis", "table_tennis", "padel", "golf", "baseball", "polo", "hockey"]
+      "sports": [
+        "cricket",
+        "badminton",
+        "squash",
+        "tennis",
+        "table_tennis",
+        "padel",
+        "golf",
+        "baseball",
+        "polo",
+        "hockey"
+      ]
     },
     {
       "id": "nug_106",
@@ -858,7 +880,18 @@
       "icon": "bolt.heart.fill",
       "title": "Power comes from the floor, not the arm",
       "body": "A faster bat or racket isn't a stronger arm — it's the ground force you channel through braced hips and trunk. That's why we train anti-rotation and carries: a stiff core lets your hips whip the shot through.",
-      "sports": ["cricket", "badminton", "squash", "tennis", "table_tennis", "padel", "golf", "baseball", "polo", "hockey"]
+      "sports": [
+        "cricket",
+        "badminton",
+        "squash",
+        "tennis",
+        "table_tennis",
+        "padel",
+        "golf",
+        "baseball",
+        "polo",
+        "hockey"
+      ]
     },
     {
       "id": "nug_107",
@@ -867,7 +900,13 @@
       "icon": "figure.run",
       "title": "Why endurance athletes still lift",
       "body": "Running, cycling, rowing — the fatigue that wrecks your form late in an event is muscular, not just cardio. Romanian deadlifts and split squats build the hamstring and glute strength that holds your stride and stroke together when it counts.",
-      "sports": ["running", "cycling", "triathlon", "rowing", "crossfit"]
+      "sports": [
+        "running",
+        "cycling",
+        "triathlon",
+        "rowing",
+        "crossfit"
+      ]
     },
     {
       "id": "nug_108",
@@ -876,7 +915,13 @@
       "icon": "figure.strengthtraining.functional",
       "title": "Single-leg strength is your insurance",
       "body": "You run and ride on one leg at a time. Bulgarian split squats and calf raises build the single-leg strength and resilience that fend off the late-event breakdown — and the Achilles and knee niggles that come with high mileage.",
-      "sports": ["running", "cycling", "triathlon", "rowing", "crossfit"]
+      "sports": [
+        "running",
+        "cycling",
+        "triathlon",
+        "rowing",
+        "crossfit"
+      ]
     },
     {
       "id": "nug_109",
@@ -885,7 +930,18 @@
       "icon": "figure.soccer",
       "title": "Why your plan trains cutting, not just running",
       "body": "Field sport isn't run-in-a-line fitness — it's accelerate, decelerate, change direction, repeat. Split squats and lateral lunges build the one-leg and side-to-side strength that lets you cut hard without the knee giving way.",
-      "sports": ["football", "rugby", "american_football", "touch_rugby", "futsal", "handball", "lacrosse", "ultimate_frisbee", "ice_hockey", "fencing"]
+      "sports": [
+        "football",
+        "rugby",
+        "american_football",
+        "touch_rugby",
+        "futsal",
+        "handball",
+        "lacrosse",
+        "ultimate_frisbee",
+        "ice_hockey",
+        "fencing"
+      ]
     },
     {
       "id": "nug_110",
@@ -894,7 +950,18 @@
       "icon": "bolt.fill",
       "title": "The hip thrust is your first step",
       "body": "Your acceleration off the mark is hip extension — pure glute power. That's why the hip thrust and box jump are in your plan: they train the most sprint-specific strength there is, so the first two steps are yours.",
-      "sports": ["football", "rugby", "american_football", "touch_rugby", "futsal", "handball", "lacrosse", "ultimate_frisbee", "ice_hockey", "fencing"]
+      "sports": [
+        "football",
+        "rugby",
+        "american_football",
+        "touch_rugby",
+        "futsal",
+        "handball",
+        "lacrosse",
+        "ultimate_frisbee",
+        "ice_hockey",
+        "fencing"
+      ]
     },
     {
       "id": "nug_111",
@@ -903,7 +970,12 @@
       "icon": "figure.basketball",
       "title": "Why we train the landing, not just the jump",
       "body": "Basketball, volleyball, netball, skiing — you jump and land hundreds of times. Box jumps build the spring; single-leg RDLs and step-downs build the control to absorb every landing. The landing is where knees get hurt, so it's where we train.",
-      "sports": ["basketball", "volleyball", "netball", "skiing"]
+      "sports": [
+        "basketball",
+        "volleyball",
+        "netball",
+        "skiing"
+      ]
     },
     {
       "id": "nug_112",
@@ -912,7 +984,12 @@
       "icon": "arrow.up.circle.fill",
       "title": "Springy calves win you inches",
       "body": "Your calves drive the rebound, the block and the take-off. We add calf raises and jumps so they store and return more energy — a more explosive first jump and a softer, safer landing on the second.",
-      "sports": ["basketball", "volleyball", "netball", "skiing"]
+      "sports": [
+        "basketball",
+        "volleyball",
+        "netball",
+        "skiing"
+      ]
     },
     {
       "id": "nug_113",
@@ -921,7 +998,13 @@
       "icon": "figure.pool.swim",
       "title": "Why overhead athletes guard the shoulder",
       "body": "Swimming, water polo, gymnastics, climbing, archery — your shoulder works overhead under load again and again. Cable external rotations and face pulls keep the rotator cuff strong and balanced, so the joint stays healthy stroke after stroke.",
-      "sports": ["swimming", "water_polo", "gymnastics", "climbing", "archery"]
+      "sports": [
+        "swimming",
+        "water_polo",
+        "gymnastics",
+        "climbing",
+        "archery"
+      ]
     },
     {
       "id": "nug_114",
@@ -930,7 +1013,13 @@
       "icon": "figure.core.training",
       "title": "A rigid midline transfers your power",
       "body": "Overhead and in the water, force has to travel cleanly from your legs to your hands. The hollow hold in your plan builds the rigid midline that stops energy leaking — so more of your strength reaches the stroke or the hold.",
-      "sports": ["swimming", "water_polo", "gymnastics", "climbing", "archery"]
+      "sports": [
+        "swimming",
+        "water_polo",
+        "gymnastics",
+        "climbing",
+        "archery"
+      ]
     },
     {
       "id": "nug_115",
@@ -939,7 +1028,12 @@
       "icon": "figure.boxing",
       "title": "Your punch and your shot start at the floor",
       "body": "Boxing, MMA, grappling — rotational power is the punch, the throw, the takedown. Landmine rotations and kettlebell swings train explosive hips and trunk, so the force you generate from the ground actually lands.",
-      "sports": ["boxing", "mma", "bjj", "wrestling"]
+      "sports": [
+        "boxing",
+        "mma",
+        "bjj",
+        "wrestling"
+      ]
     },
     {
       "id": "nug_116",
@@ -948,7 +1042,12 @@
       "icon": "hand.raised.fill",
       "title": "Grip and neck win the late rounds",
       "body": "Clinches, grips and scrambles are decided by grip and neck strength — and they're the first to fade. We add carries, grip work and light neck strengthening so your hands and head hold up when the fight gets long.",
-      "sports": ["boxing", "mma", "bjj", "wrestling"]
+      "sports": [
+        "boxing",
+        "mma",
+        "bjj",
+        "wrestling"
+      ]
     },
     {
       "id": "nug_117",
@@ -957,7 +1056,12 @@
       "icon": "bolt.horizontal.fill",
       "title": "Explosive hips, conditioning included",
       "body": "The kettlebell swing in your plan is a hinge done fast — the same explosive hip drive behind every takedown and throw, with conditioning baked in. Power and gas tank in one move is exactly what combat sport demands.",
-      "sports": ["boxing", "mma", "bjj", "wrestling"]
+      "sports": [
+        "boxing",
+        "mma",
+        "bjj",
+        "wrestling"
+      ]
     },
     {
       "id": "nug_118",
@@ -1086,6 +1190,14 @@
       "icon": "flag.checkered",
       "title": "Your HIIT finisher ends on a high",
       "body": "Push through to the last interval and your HIIT finisher gives you a proper sign-off — your rounds, minutes and an estimated calorie burn — plus a heads-up on what's next in your week. No more abrupt cut-off; it's the cherry on top of a hard session."
+    },
+    {
+      "id": "nug_134",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "applewatch",
+      "title": "Live heart rate from your Apple Watch",
+      "body": "Got an Apple Watch? Open the Strathlon watch app and tap Start before a session — your heart rate then streams to your phone in real time, so the live BPM and zone during warm-ups and HIIT update beat-by-beat from your wrist instead of the slightly delayed Health reading. A ⌚ shows when it's live. (Premium.)"
     }
   ]
 }
