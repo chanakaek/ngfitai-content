@@ -1,5 +1,5 @@
 {
-  "version": "1.13.0",
+  "version": "1.14.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1222,6 +1222,14 @@
       "icon": "camera.viewfinder",
       "title": "Snap a photo to log your weight",
       "body": "Hate typing weights mid-set? Subscribers can tap '📷 Snap to fill' on the weight panel and point the camera at the dumbbell, plate, machine display or your logbook — the AI reads the number and fills in the weight and reps. It shows what it read; you just review and tap Save. (Premium.)"
+    },
+    {
+      "id": "nug_138",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "stopwatch",
+      "title": "Don't rest too long between sets",
+      "body": "Strathlon now learns from your rest between sets. If you wear an Apple Watch it tracks how fast your heart rate drops between sets — a faster drop over time signals improving fitness — and flags when you've rested so long your HR fully recovered and the set's gone cold. See the Rest & recovery card in your review."
     }
   ]
 }
