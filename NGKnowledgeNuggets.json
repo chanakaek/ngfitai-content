@@ -1,5 +1,5 @@
 {
-  "version": "1.12.0",
+  "version": "1.13.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1206,6 +1206,22 @@
       "icon": "heart.text.square",
       "title": "Watch your heart rate between sets",
       "body": "Your live heart rate now shows on the strength session screen too — during each set and the rest countdown between them. Glancing at it as it drops between sets is a simple readiness check: once it eases back toward your warm-up range you're recovered enough for a strong next set. A ⌚ means it's live from your Apple Watch."
+    },
+    {
+      "id": "nug_136",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "scalemass",
+      "title": "Track the weights you lift",
+      "body": "Open any exercise on your Plan and log your working weight × reps (pre-filled from last time — usually one tap), or tap 'Log each set' for set-by-set detail. Enter in kg or lb; both are shown. After a few sessions your review gains a Strength progress section: heaviest set, estimated 1-rep max, total volume-load, your trend, and a nudge to deload when a lift stalls."
+    },
+    {
+      "id": "nug_137",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "camera.viewfinder",
+      "title": "Snap a photo to log your weight",
+      "body": "Hate typing weights mid-set? Subscribers can tap '📷 Snap to fill' on the weight panel and point the camera at the dumbbell, plate, machine display or your logbook — the AI reads the number and fills in the weight and reps. It shows what it read; you just review and tap Save. (Premium.)"
     }
   ]
 }
