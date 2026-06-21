@@ -1,5 +1,5 @@
 {
-  "version": "1.11.0",
+  "version": "1.12.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1198,6 +1198,14 @@
       "icon": "applewatch",
       "title": "Live heart rate from your Apple Watch",
       "body": "Got an Apple Watch? Open the Strathlon watch app and tap Start before a session — your heart rate then streams to your phone in real time, so the live BPM and zone during warm-ups and HIIT update beat-by-beat from your wrist instead of the slightly delayed Health reading. A ⌚ shows when it's live. (Premium.)"
+    },
+    {
+      "id": "nug_135",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "heart.text.square",
+      "title": "Watch your heart rate between sets",
+      "body": "Your live heart rate now shows on the strength session screen too — during each set and the rest countdown between them. Glancing at it as it drops between sets is a simple readiness check: once it eases back toward your warm-up range you're recovered enough for a strong next set. A ⌚ means it's live from your Apple Watch."
     }
   ]
 }
