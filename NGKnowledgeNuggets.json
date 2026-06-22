@@ -1,5 +1,5 @@
 {
-  "version": "1.14.0",
+  "version": "1.15.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1230,6 +1230,14 @@
       "icon": "stopwatch",
       "title": "Don't rest too long between sets",
       "body": "Strathlon now learns from your rest between sets. If you wear an Apple Watch it tracks how fast your heart rate drops between sets — a faster drop over time signals improving fitness — and flags when you've rested so long your HR fully recovered and the set's gone cold. See the Rest & recovery card in your review."
+    },
+    {
+      "id": "nug_139",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "checkmark.circle",
+      "title": "Know when you're ready for the next set",
+      "body": "Wear an Apple Watch? During your rest between sets, Strathlon now shows a '✓ Recovered — ready for your next set' cue (with a gentle tap) once your heart rate has dropped back from the effort. It's just a readiness hint — rest as long as you like — but it helps you avoid resting so long the set goes cold."
     }
   ]
 }
