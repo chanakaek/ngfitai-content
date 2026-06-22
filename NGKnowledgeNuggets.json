@@ -1,5 +1,5 @@
 {
-  "version": "1.16.0",
+  "version": "1.17.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1246,6 +1246,14 @@
       "icon": "figure.walk.motion",
       "title": "You don't need to add your walks (if you wear a watch)",
       "body": "Wear an Apple Watch? The walks, runs and rides you actually do are counted automatically — no need to add them in 'Add a walk or activity'. Use that only if you DON'T wear a tracker, or to plan ahead. And if you add one your watch already recorded, Strathlon spots it and won't count the calories twice."
+    },
+    {
+      "id": "nug_141",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "allergens",
+      "title": "Set your allergies so plans avoid them",
+      "body": "In onboarding or Settings, add your food allergies (common ones in a tap, plus custom) and any supplement ingredients to avoid. Strathlon then treats them as hard, never-suggest exclusions in your meal plans and AI coach, and flags clashing supplements. Always check labels too — we can't guarantee third-party ingredient data."
     }
   ]
 }
