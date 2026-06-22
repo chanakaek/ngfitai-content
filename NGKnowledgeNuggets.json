@@ -1,5 +1,5 @@
 {
-  "version": "1.18.0",
+  "version": "1.19.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1261,7 +1261,15 @@
       "audience": "all",
       "icon": "heart.text.square.fill",
       "title": "Health & safety: tell us what keeps your plan safe",
-      "body": "There's a private Health & safety step in onboarding (and in Settings). Note any ongoing health conditions or medications, or — if it applies — that you're pregnant or breastfeeding. Strathlon then keeps your plan safe: never a calorie deficit when you're pregnant or breastfeeding, pregnancy-aware food and exercise guidance, and caution flags for your AI coach. If you're pregnant we recommend pausing and following your doctor or midwife. It stays on your device, and it's general information, not medical advice."
+      "body": "There's a private Health & safety step in onboarding (and in Settings). Note any ongoing health conditions or medications, or — if it applies — that you're pregnant or breastfeeding. If you're pregnant or breastfeeding, Strathlon recommends pausing the programme and following your doctor or midwife: it won't set a weight-loss target or a pregnancy training or eating plan, and never puts you in a calorie deficit — but you can still log meals, weight and activity. Everything stays on your device. General information, not medical advice."
+    },
+    {
+      "id": "nug_143",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "checklist",
+      "title": "A quick fitness-readiness check",
+      "body": "Onboarding includes a short, optional set of yes/no readiness questions — the kind a personal trainer asks before you start (heart conditions, chest pain, dizziness, and so on). If any answer stands out, Strathlon recommends getting medical clearance from your doctor before you begin or push harder. It's a readiness check, not medical advice, and your answers stay on your device. You can retake it anytime in Settings."
     }
   ]
 }
