@@ -1,5 +1,5 @@
 {
-  "version": "1.15.0",
+  "version": "1.16.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1238,6 +1238,14 @@
       "icon": "checkmark.circle",
       "title": "Know when you're ready for the next set",
       "body": "Wear an Apple Watch? During your rest between sets, Strathlon now shows a '✓ Recovered — ready for your next set' cue (with a gentle tap) once your heart rate has dropped back from the effort. It's just a readiness hint — rest as long as you like — but it helps you avoid resting so long the set goes cold."
+    },
+    {
+      "id": "nug_140",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "figure.walk.motion",
+      "title": "You don't need to add your walks (if you wear a watch)",
+      "body": "Wear an Apple Watch? The walks, runs and rides you actually do are counted automatically — no need to add them in 'Add a walk or activity'. Use that only if you DON'T wear a tracker, or to plan ahead. And if you add one your watch already recorded, Strathlon spots it and won't count the calories twice."
     }
   ]
 }
