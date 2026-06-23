@@ -1,5 +1,5 @@
 {
-  "version": "1.23.0",
+  "version": "1.24.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1302,6 +1302,14 @@
       "icon": "chart-candle",
       "title": "Turn your phone for a bigger weight chart",
       "body": "Rotate to landscape for a full-screen weight chart, pinch to zoom, and drag across it to read any day's value. Want a trading-style view? Tap Candle to see each week or month as a candle showing its range and direction — green is weight loss, amber is weight gain. The familiar line stays the default."
+    },
+    {
+      "id": "nug_148",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "lock.shield.fill",
+      "title": "You decide what the AI Coach sees",
+      "body": "Strathlon asks once — during setup, and any time in Settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's off by default: leave it off and your Health data stays on your device and is never sent to the AI. Turn it on for sharper coaching, and switch it back off whenever you like. Your cycle info is always kept separate unless you specifically enable cycle-aware coaching."
     }
   ]
 }
