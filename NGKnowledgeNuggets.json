@@ -1,5 +1,5 @@
 {
-  "version": "1.20.0",
+  "version": "1.21.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1278,6 +1278,14 @@
       "icon": "scalemass.fill",
       "title": "Your weights remember themselves",
       "body": "Log a working weight on an exercise once — typed, set-by-set, or with the photo — and Strathlon auto-fills it next time, so you don't re-enter the same number every week. Just keep it, or nudge it up/down as you progress. Logged something by mistake? Tap the ✓/✕ to untick and unsave it, per set or per exercise."
+    },
+    {
+      "id": "nug_145",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "figure.walk.motion",
+      "title": "Going away? Tell Strathlon",
+      "body": "On the Plan tab, tap \"Away or catching up?\". Set a holiday or busy spell and those days show \"On a break\" — your plan pauses where it is, nothing's lost, and there's no \"missed day\" nagging; you get a welcome-back when you're home. Trained while away (off-app, a different gym, a walk)? Tick the days and what you did — even several at once — and it counts toward your progress on any day."
     }
   ]
 }
