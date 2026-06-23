@@ -1,5 +1,5 @@
 {
-  "version": "1.27.0",
+  "version": "1.28.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1317,7 +1317,7 @@
       "audience": "all",
       "icon": "chart.xyaxis.line",
       "title": "Why the scale doesn't always match the maths",
-      "body": "On the Tracker, the new Predicted vs Actual weight chart shows the weight your logged calorie deficit predicts (≈7,700 kcal ≈ 1 kg) next to your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask your coach to explain this gap': the coach reads your real numbers (logging consistency, whether burn is Apple Watch or an estimate, sleep) and asks a question or two before explaining, rather than guessing. Needs Health-data sharing turned on."
+      "body": "On the Tracker, your weight chart overlays the weight your logged calorie deficit predicts (≈7,700 kcal ≈ 1 kg, a dashed line) against your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask your coach to explain this gap': it opens the AI Coach chat with your real numbers loaded (logging consistency, whether burn is Apple Watch or an estimate, sleep), and the coach asks a question or two before explaining rather than guessing — so you can answer and keep the conversation going. Needs Health-data sharing turned on."
     },
     {
       "id": "nug_150",
