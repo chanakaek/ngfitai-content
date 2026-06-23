@@ -1,5 +1,5 @@
 {
-  "version": "1.30.0",
+  "version": "1.31.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1300,8 +1300,8 @@
       "category": "app-tip",
       "audience": "all",
       "icon": "chart-candle",
-      "title": "Turn your phone for a bigger weight chart",
-      "body": "Rotate to landscape for a full-screen weight chart, pinch to zoom, and drag across it to read any day's value. Want a trading-style view? Tap Candle to see each week or month as a candle showing its range and direction — green is weight loss, amber is weight gain. The familiar line stays the default."
+      "title": "A clearer weight chart",
+      "body": "Your weight chart keeps it simple: your actual weight (solid line) plus your predicted weight from your tracked calorie deficit (dashed line, ≈7,700 kcal ≈ 1 kg). Rotate to landscape or tap ⤢ for a full-screen view — pinch to zoom and drag to read any day's value, with a note explaining the prediction is an estimate (water, glycogen and adaptation make real weight differ)."
     },
     {
       "id": "nug_148",
@@ -1317,7 +1317,7 @@
       "audience": "all",
       "icon": "chart.xyaxis.line",
       "title": "Why the scale doesn't always match the maths",
-      "body": "On the Tracker, your weight chart overlays the weight your logged calorie deficit predicts (≈7,700 kcal ≈ 1 kg, a dashed line) against your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask your coach to explain this gap': it opens the AI Coach chat with your real numbers loaded (logging consistency, whether burn is Apple Watch or an estimate, sleep), and the coach asks a question or two before explaining rather than guessing — so you can answer and keep the conversation going. Needs Health-data sharing turned on."
+      "body": "On the Tracker, your weight chart overlays the weight your logged calorie deficit predicts (dashed line) against your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask your coach to explain this gap': confirm a quick share prompt (your numbers are used only for that answer and aren't remembered) and it goes straight into the AI Coach, which explains it or asks you a question or two — no typing needed."
     },
     {
       "id": "nug_150",
