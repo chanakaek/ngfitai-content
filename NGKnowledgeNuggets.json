@@ -1,5 +1,5 @@
 {
-  "version": "1.25.0",
+  "version": "1.26.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1318,6 +1318,14 @@
       "icon": "chart.xyaxis.line",
       "title": "Why the scale doesn't always match the maths",
       "body": "On the Tracker, the new Predicted vs Actual weight chart shows the weight your logged calorie deficit predicts (≈7,700 kcal ≈ 1 kg) next to your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask your coach to explain this gap': the coach reads your real numbers (logging consistency, whether burn is Apple Watch or an estimate, sleep) and asks a question or two before explaining, rather than guessing. Needs Health-data sharing turned on."
+    },
+    {
+      "id": "nug_150",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "heart.circle.fill",
+      "title": "Your plan can flex with your cycle",
+      "body": "If you log your cycle in Apple Health, Strathlon adds gentle, on-device notes for where you are in it. Around your period and the week before, the Nutrition tab reminds you that rising cravings are normal (with iron, hydration and protein tips) — and an optional switch can ease your calorie target by about 100 kcal that week so you stay consistent. On the Plan tab, a note suggests training by feel when energy dips and pushing in your stronger mid-cycle window. Both switches are off by default in Settings, and your cycle data never leaves your device."
     }
   ]
 }
