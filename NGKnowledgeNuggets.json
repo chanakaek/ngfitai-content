@@ -1,5 +1,5 @@
 {
-  "version": "1.29.0",
+  "version": "1.30.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1197,7 +1197,7 @@
       "audience": "all",
       "icon": "applewatch",
       "title": "Live heart rate from your Apple Watch",
-      "body": "Got an Apple Watch? Open the Strathlon watch app and tap Start before a session — your heart rate then streams to your phone in real time, so the live BPM and zone during warm-ups and HIIT update beat-by-beat from your wrist instead of the slightly delayed Health reading. A ⌚ shows when it's live. (Premium.)"
+      "body": "Got an Apple Watch with the Strathlon watch app? As a premium member it now starts itself the moment you begin a session — no need to tap Start on your wrist — and your live heart rate streams straight to your phone, so the BPM and zone update beat-by-beat (a ⌚ shows when it's live). It records as one continuous workout of the right type, with calories. Just don't also start Apple's own Workout app at the same time, or your calories get counted twice. No watch? Your heart rate still comes from Apple Health where available."
     },
     {
       "id": "nug_135",
