@@ -1,5 +1,5 @@
 {
-  "version": "1.22.0",
+  "version": "1.23.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1294,6 +1294,14 @@
       "icon": "target",
       "title": "Your Tracker now shows today's target",
       "body": "The Tracker's top row shows four tiles — Target, Burned, Consumed and Deficit — so today's calorie target sits right next to your actuals. The target is worked out for your day type (training vs rest) and updates live when you add a walk or activity. Tap the small ⓘ on any tile to see where its number comes from."
+    },
+    {
+      "id": "nug_147",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "chart-candle",
+      "title": "Turn your phone for a bigger weight chart",
+      "body": "Rotate to landscape for a full-screen weight chart, pinch to zoom, and drag across it to read any day's value. Want a trading-style view? Tap Candle to see each week or month as a candle showing its range and direction — green is weight loss, amber is weight gain. The familiar line stays the default."
     }
   ]
 }
