@@ -1,5 +1,5 @@
 {
-  "version": "1.24.0",
+  "version": "1.25.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1310,6 +1310,14 @@
       "icon": "lock.shield.fill",
       "title": "You decide what the AI Coach sees",
       "body": "Strathlon asks once — during setup, and any time in Settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's off by default: leave it off and your Health data stays on your device and is never sent to the AI. Turn it on for sharper coaching, and switch it back off whenever you like. Your cycle info is always kept separate unless you specifically enable cycle-aware coaching."
+    },
+    {
+      "id": "nug_149",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "chart.xyaxis.line",
+      "title": "Why the scale doesn't always match the maths",
+      "body": "On the Tracker, the new Predicted vs Actual weight chart shows the weight your logged calorie deficit predicts (≈7,700 kcal ≈ 1 kg) next to your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask your coach to explain this gap': the coach reads your real numbers (logging consistency, whether burn is Apple Watch or an estimate, sleep) and asks a question or two before explaining, rather than guessing. Needs Health-data sharing turned on."
     }
   ]
 }
