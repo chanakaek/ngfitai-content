@@ -1,5 +1,5 @@
 {
-  "version": "1.26.0",
+  "version": "1.27.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1326,6 +1326,14 @@
       "icon": "heart.circle.fill",
       "title": "Your plan can flex with your cycle",
       "body": "If you log your cycle in Apple Health, Strathlon adds gentle, on-device notes for where you are in it. Around your period and the week before, the Nutrition tab reminds you that rising cravings are normal (with iron, hydration and protein tips) — and an optional switch can ease your calorie target by about 100 kcal that week so you stay consistent. On the Plan tab, a note suggests training by feel when energy dips and pushing in your stronger mid-cycle window. Both switches are off by default in Settings, and your cycle data never leaves your device."
+    },
+    {
+      "id": "nug_151",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "bubble.left.and.text.bubble.right.fill",
+      "title": "Want cycle-aware coaching? You choose",
+      "body": "There's a separate, off-by-default switch in Settings that lets the AI coach factor your cycle into its advice. If you turn it on, the coach sees only a general phase label — like 'pre-menstrual' or 'mid-cycle' — and nothing else: never your dates, flow, symptoms or history. It's kept separate from the general Health-data sharing control, so it's entirely your call. Leave it off and the coach works exactly as before."
     }
   ]
 }
