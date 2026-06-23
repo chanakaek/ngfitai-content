@@ -1,5 +1,5 @@
 {
-  "version": "1.19.0",
+  "version": "1.20.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1270,6 +1270,14 @@
       "icon": "checklist",
       "title": "A quick fitness-readiness check",
       "body": "Onboarding includes a short, optional set of yes/no readiness questions — the kind a personal trainer asks before you start (heart conditions, chest pain, dizziness, and so on). If any answer stands out, Strathlon recommends getting medical clearance from your doctor before you begin or push harder. It's a readiness check, not medical advice, and your answers stay on your device. You can retake it anytime in Settings."
+    },
+    {
+      "id": "nug_144",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "scalemass.fill",
+      "title": "Your weights remember themselves",
+      "body": "Log a working weight on an exercise once — typed, set-by-set, or with the photo — and Strathlon auto-fills it next time, so you don't re-enter the same number every week. Just keep it, or nudge it up/down as you progress. Logged something by mistake? Tap the ✓/✕ to untick and unsave it, per set or per exercise."
     }
   ]
 }
