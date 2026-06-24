@@ -1,5 +1,5 @@
 {
-  "version": "1.32.0",
+  "version": "1.33.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1350,6 +1350,22 @@
       "icon": "scalemass.fill",
       "title": "Your weight fills itself in",
       "body": "If you record your weight in Apple Health, Strathlon pulls it into your Tracker automatically — even for past days you're back-filling on the Edit Log screen. Look for the small 'i' next to the weight field for a reminder of how it works. You can always type over the number to set a different value for that day; what you enter by hand wins."
+    },
+    {
+      "id": "nug_154",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "applewatch",
+      "title": "Your Apple Watch does the work — free",
+      "body": "Got an Apple Watch? Start your session on the phone and Strathlon starts the workout on your watch automatically — your live heart rate streams in, and each block (warm-up, strength, HIIT) is logged to the Apple Workout app with its own calories. No taps on the watch, and no subscription needed — it's part of the free app."
+    },
+    {
+      "id": "nug_155",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "heart.fill",
+      "title": "Red means you're on it",
+      "body": "During a session your live heart rate is colour-coded so you can read it at a glance without thinking: bright amber means you're below target (push a little harder), and red means you're at or above target — you're working. Same whether the reading comes from your Apple Watch or Apple Health."
     }
   ]
 }
