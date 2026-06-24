@@ -1,5 +1,5 @@
 {
-  "version": "1.33.0",
+  "version": "1.34.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1366,6 +1366,22 @@
       "icon": "heart.fill",
       "title": "Red means you're on it",
       "body": "During a session your live heart rate is colour-coded so you can read it at a glance without thinking: bright amber means you're below target (push a little harder), and red means you're at or above target — you're working. Same whether the reading comes from your Apple Watch or Apple Health."
+    },
+    {
+      "id": "nug_156",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "applewatch.side.right",
+      "title": "Run your workout from your wrist",
+      "body": "With an Apple Watch, once your session starts you can drive the whole thing from your wrist — your watch shows the current exercise, your set and rep target, and one big button. Tap Done to log a set and start your rest countdown; tap again during rest to skip it. It carries you from warm-up through every set to your HIIT finisher, so you never have to pick up your phone. (A premium feature — the app works fully without a watch too.)"
+    },
+    {
+      "id": "nug_157",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "brain.head.profile",
+      "title": "Your AI coach knows your whole day",
+      "body": "Your AI coach isn't guessing. It reads your real macros and the foods you've logged straight from your Tracker, and it knows your full programme — every phase, today's actual exercises, and how you're tracking to date — so its advice fits exactly where you are. Your weight and body-composition data stay private unless you've chosen to share Health data."
     }
   ]
 }
