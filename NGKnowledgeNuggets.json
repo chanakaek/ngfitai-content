@@ -1,5 +1,5 @@
 {
-  "version": "1.31.0",
+  "version": "1.32.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1334,6 +1334,22 @@
       "icon": "bubble.left.and.text.bubble.right.fill",
       "title": "Want cycle-aware coaching? You choose",
       "body": "There's a separate, off-by-default switch in Settings that lets the AI coach factor your cycle into its advice. If you turn it on, the coach sees only a general phase label — like 'pre-menstrual' or 'mid-cycle' — and nothing else: never your dates, flow, symptoms or history. It's kept separate from the general Health-data sharing control, so it's entirely your call. Leave it off and the coach works exactly as before."
+    },
+    {
+      "id": "nug_152",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "flag.checkered",
+      "title": "Your finish knows what's next",
+      "body": "When you wrap up a workout, Strathlon now congratulates you on the session you just finished — then looks at the rest of your day. If you've got a match, a long ride or another hard session still to come, it suggests an easier HIIT finisher, with one tap to lighten it, so you're not cooked before the main event. And if there's more ahead, it'll point you to the AI coach for recovery and meal ideas. Nothing is forced — it only ever suggests, and the option quietly disappears if you don't take it."
+    },
+    {
+      "id": "nug_153",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "scalemass.fill",
+      "title": "Your weight fills itself in",
+      "body": "If you record your weight in Apple Health, Strathlon pulls it into your Tracker automatically — even for past days you're back-filling on the Edit Log screen. Look for the small 'i' next to the weight field for a reminder of how it works. You can always type over the number to set a different value for that day; what you enter by hand wins."
     }
   ]
 }
