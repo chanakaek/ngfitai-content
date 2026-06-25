@@ -1,5 +1,5 @@
 {
-  "version": "1.34.0",
+  "version": "1.35.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1382,6 +1382,14 @@
       "icon": "brain.head.profile",
       "title": "Your AI coach knows your whole day",
       "body": "Your AI coach isn't guessing. It reads your real macros and the foods you've logged straight from your Tracker, and it knows your full programme — every phase, today's actual exercises, and how you're tracking to date — so its advice fits exactly where you are. Your weight and body-composition data stay private unless you've chosen to share Health data."
+    },
+    {
+      "id": "nug_158",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "flag.checkered",
+      "title": "Not done when your plan ends? It adapts",
+      "body": "When a plan finishes its weeks, Strathlon checks how you did against your goal. Close but not there? It offers to keep going with a fresh block sized to exactly what's left — recalculating your calories and tightening the training. Hit your goal? It points you to Maintenance. Stalled? It says so honestly and helps you regroup, or asks your AI coach what to change."
     }
   ]
 }
