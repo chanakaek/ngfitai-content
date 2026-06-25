@@ -1,5 +1,5 @@
 {
-  "version": "1.36.0",
+  "version": "1.37.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1406,6 +1406,14 @@
       "icon": "heart.fill",
       "title": "Live heart rate, hands-free — and free",
       "body": "With an Apple Watch, your real-time heart rate streams to your phone during every session and each block logs to Apple's Workout app with calories — no subscription needed. Premium adds hands-free control: tap Done on your wrist to log a set and start your rest."
+    },
+    {
+      "id": "nug_161",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "exclamationmark.triangle.fill",
+      "title": "Let Strathlon start the watch workout — not you",
+      "body": "When you begin a session on your phone, Strathlon automatically starts (and stops) the workout on your Apple Watch. Don't also tap Start in Apple's own Workout app for the same session — running two at once double-counts your calories and can interrupt the heart-rate stream. Just start on the phone and let it drive."
     }
   ]
 }
