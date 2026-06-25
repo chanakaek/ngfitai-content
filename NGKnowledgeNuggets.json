@@ -1,5 +1,5 @@
 {
-  "version": "1.37.0",
+  "version": "1.38.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1414,6 +1414,14 @@
       "icon": "exclamationmark.triangle.fill",
       "title": "Let Strathlon start the watch workout — not you",
       "body": "When you begin a session on your phone, Strathlon automatically starts (and stops) the workout on your Apple Watch. Don't also tap Start in Apple's own Workout app for the same session — running two at once double-counts your calories and can interrupt the heart-rate stream. Just start on the phone and let it drive."
+    },
+    {
+      "id": "nug_162",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "chart.xyaxis.line",
+      "title": "Your weight chart shows when you were away",
+      "body": "Holidays and breaks you set now appear as a soft sky-blue band behind your weight chart, and cycle phases show in baby pink — so a dip or a plateau is easy to explain at a glance. The chart also scrolls sideways now: the daily view opens on your most recent weeks and you can swipe back through your history, just like a stock chart."
     }
   ]
 }
