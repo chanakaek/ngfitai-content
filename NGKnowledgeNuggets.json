@@ -1,5 +1,5 @@
 {
-  "version": "1.35.0",
+  "version": "1.36.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1390,6 +1390,22 @@
       "icon": "flag.checkered",
       "title": "Not done when your plan ends? It adapts",
       "body": "When a plan finishes its weeks, Strathlon checks how you did against your goal. Close but not there? It offers to keep going with a fresh block sized to exactly what's left — recalculating your calories and tightening the training. Hit your goal? It points you to Maintenance. Stalled? It says so honestly and helps you regroup, or asks your AI coach what to change."
+    },
+    {
+      "id": "nug_159",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "applewatch",
+      "title": "First time with your Apple Watch?",
+      "body": "One-time setup: open the Strathlon app on your watch and tap Allow when it asks for Health access. After that, starting a session on your phone launches the workout on your wrist automatically — live heart rate, no taps. You only do this once per watch."
+    },
+    {
+      "id": "nug_160",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "heart.fill",
+      "title": "Live heart rate, hands-free — and free",
+      "body": "With an Apple Watch, your real-time heart rate streams to your phone during every session and each block logs to Apple's Workout app with calories — no subscription needed. Premium adds hands-free control: tap Done on your wrist to log a set and start your rest."
     }
   ]
 }
