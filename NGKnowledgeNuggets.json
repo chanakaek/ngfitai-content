@@ -1,5 +1,5 @@
 {
-  "version": "1.38.0",
+  "version": "1.39.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1422,6 +1422,14 @@
       "icon": "chart.xyaxis.line",
       "title": "Your weight chart shows when you were away",
       "body": "Holidays and breaks you set now appear as a soft sky-blue band behind your weight chart, and cycle phases show in baby pink — so a dip or a plateau is easy to explain at a glance. The chart also scrolls sideways now: the daily view opens on your most recent weeks and you can swipe back through your history, just like a stock chart."
+    },
+    {
+      "id": "nug_163",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "circle.fill",
+      "title": "Red dots on your weight chart = a session you didn't log",
+      "body": "If you train but don't run the guided session, tap Done on your watch, or mark it done, the app can't see it. A small red dot on a scheduled gym day means no session was logged that day. Did train it? Tap the dot and choose 'I trained this day' — it'll count toward your consistency and the dot clears. Dots only show once you're logging regularly."
     }
   ]
 }
