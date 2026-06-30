@@ -1,5 +1,5 @@
 {
-  "version": "1.39.0",
+  "version": "1.45.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1244,8 +1244,8 @@
       "category": "app-tip",
       "audience": "all",
       "icon": "figure.walk.motion",
-      "title": "You don't need to add your walks (if you wear a watch)",
-      "body": "Wear an Apple Watch? The walks, runs and rides you actually do are counted automatically — no need to add them in 'Add a walk or activity'. Use that only if you DON'T wear a tracker, or to plan ahead. And if you add one your watch already recorded, Strathlon spots it and won't count the calories twice."
+      "title": "Logging an activity adjusts what you can eat",
+      "body": "Adding a walk, run or ride in 'Add a session, walk or activity' raises today's eating allowance — it's how anyone, watch or not, accounts for activity in what they eat. Handy to plan ahead, or to log something you've already done. Your Apple Watch separately tracks the calories you burn — that's a different number, on the burn side."
     },
     {
       "id": "nug_141",
@@ -1430,6 +1430,46 @@
       "icon": "circle.fill",
       "title": "Red dots on your weight chart = a session you didn't log",
       "body": "If you train but don't run the guided session, tap Done on your watch, or mark it done, the app can't see it. A small red dot on a scheduled gym day means no session was logged that day. Did train it? Tap the dot and choose 'I trained this day' — it'll count toward your consistency and the dot clears. Dots only show once you're logging regularly."
+    },
+    {
+      "id": "nug_164",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "flame.fill",
+      "title": "Where to find your watch calories",
+      "body": "Apple's Fitness app lists every workout by its duration, not calories — that's Apple's layout, not a missing number. Your calories ARE recorded: tap any workout to see them. And while you train, your live burn vs target shows right on your wrist and in Strathlon."
+    },
+    {
+      "id": "nug_165",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "figure.indoor.cycle",
+      "title": "Log your gym classes in a tap",
+      "body": "Went to Spin, HIIT, Body Pump, Yoga or Step? Tap 'Add a session, walk or activity', open Gym classes, and pick yours — search the name you know (try 'rpm' or 'bodypump'). Calories scale to your weight; tweak the duration or pin your own number. Not listed? Use 'Other class (custom)'."
+    },
+    {
+      "id": "nug_166",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "scalemass",
+      "title": "kg, lb or stone — your choice",
+      "body": "Prefer pounds or stone? In Settings, under Body & Stats, tap Units and choose kg, lb or stone. Your weight reflows everywhere instantly — profile, tracker, charts and progress photos — and weight entry switches too (stone gives you two fields, st and lb). Your saved data never changes, so switch back any time."
+    },
+    {
+      "id": "nug_167",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "ruler",
+      "title": "Add distance to your runs and walks",
+      "body": "When you log a run or walk in 'Add a session, walk or activity', add the distance in km — it drives the calorie estimate directly, so the burn matches how far you actually went, not just how long. It's optional: leave it blank and we use the duration estimate. Cycling and swimming log distance as a stat, with the estimate still based on duration."
+    },
+    {
+      "id": "nug_168",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "icloud",
+      "title": "Back up your progress photos privately",
+      "body": "You can optionally back up your progress photos to your own private iCloud, so they appear on your other devices and return if you reinstall or get a new phone. It is off by default — turn it on in Profile > Privacy & your data. Your photos go only to your personal iCloud account, never to a Strathlon server, never to the AI, and never to any export. Turning it off keeps every photo safely on your device."
     }
   ]
 }
