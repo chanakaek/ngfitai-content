@@ -1,5 +1,5 @@
 {
-  "version": "1.45.0",
+  "version": "1.46.0",
   "nuggets": [
     {
       "id": "nug_039",
@@ -1470,6 +1470,14 @@
       "icon": "icloud",
       "title": "Back up your progress photos privately",
       "body": "You can optionally back up your progress photos to your own private iCloud, so they appear on your other devices and return if you reinstall or get a new phone. It is off by default — turn it on in Profile > Privacy & your data. Your photos go only to your personal iCloud account, never to a Strathlon server, never to the AI, and never to any export. Turning it off keeps every photo safely on your device."
+    },
+    {
+      "id": "nug_169",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "sparkles",
+      "title": "Your AI progress analysis, one tap away",
+      "body": "Open the AI Coach with no chat going and you'll see a 'Your AI progress analysis' card at the top. It gives a quick read on your week — your weight trend, sessions logged or nutrition, in your chosen units — and shows a NEW badge when a fresh weekly review is ready. Tap it for your full analysis: the computed stats plus your coach's take on what's working."
     }
   ]
 }
