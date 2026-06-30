@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.7.0",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -41,9 +41,8 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "name": "Machine Chest Press",
-          "tip": "SHOULDER ADAPTED: machine press removes shoulder impingement risk. Full ROM, squeeze at peak.",
-          "isAdapted": false
+          "tip": "SHOULDER ADAPTED: reduce incline toward flat, neutral grip, press only to a pain-free height. Lighter load.",
+          "isAdapted": true
         }
       }
     },
@@ -126,9 +125,9 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "name": "Cable Lateral Raise",
-          "tip": "SHOULDER ADAPTED: lateral raise only — no overhead pressing.",
-          "isAdapted": false
+          "tip": "SHOULDER ADAPTED: swapped to DB Lateral Raise — no overhead pressing. Light DBs, elbow leads to shoulder height only, controlled descent.",
+          "isAdapted": true,
+          "name": "DB Lateral Raise"
         }
       }
     },
@@ -211,9 +210,8 @@
       },
       "injuryAdaptations": {
         "elbow": {
-          "name": "DB Overhead Extension (Neutral)",
-          "tip": "ELBOW ADAPTED: neutral grip dumbbell. Hinge at elbow only. No wrist extension.",
-          "isAdapted": false
+          "tip": "ELBOW ADAPTED: light load, elbows pinned, partial ROM (no full lockout). Stop before pain.",
+          "isAdapted": true
         }
       }
     },
@@ -258,8 +256,8 @@
       "injuryAdaptations": {
         "elbow": {
           "name": "DB Overhead Extension (Neutral)",
-          "tip": "ELBOW ADAPTED: neutral grip dumbbell. Hinge at elbow only. Stop before pain.",
-          "isAdapted": false
+          "tip": "ELBOW ADAPTED: neutral-grip DB overhead extension is gentler on the elbow than a straight-bar overhead.",
+          "isAdapted": true
         }
       }
     },
@@ -303,9 +301,8 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "name": "Cable Crossover (Low-to-High)",
-          "tip": "SHOULDER ADAPTED: low-to-high cable crossover — arms below shoulder height.",
-          "isAdapted": false
+          "tip": "SHOULDER ADAPTED: reduce the stretch range (stop before the shoulders feel pulled back), lighter load.",
+          "isAdapted": true
         }
       }
     },
@@ -351,12 +348,11 @@
         "elbow": {
           "name": "Close-Grip Neutral DB Press",
           "tip": "ELBOW ADAPTED: neutral grip DB press — no shoulder loading from dip position.",
-          "isAdapted": false
+          "isAdapted": true
         },
         "shoulder": {
-          "name": "Machine Chest Press",
-          "tip": "SHOULDER ADAPTED: machine press instead.",
-          "isAdapted": false
+          "tip": "SHOULDER ADAPTED: keep the dip shallow (no deep shoulder extension), feet forward to offload. Stop at the first pinch.",
+          "isAdapted": true
         }
       }
     },
@@ -365,8 +361,7 @@
       "name": "Band Pull-Apart",
       "category": "push",
       "environment": [
-        "gym",
-        "home"
+        "gym"
       ],
       "videoURL": "https://www.youtube.com/results?search_query=band+pull+apart+form",
       "phases": {
@@ -390,6 +385,45 @@
           "tempo": "2-1-1",
           "tip": "Arms straight. Rotator cuff health. Rest 40s.",
           "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "20",
+          "tempo": "2-1-1",
+          "tip": "Daily shoulder health volume.",
+          "group": ""
+        }
+      }
+    },
+    {
+      "id": "push-band-pull-apart-home",
+      "name": "Band Pull-Apart",
+      "category": "push",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=band+pull+apart+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "20",
+          "tempo": "2-1-1",
+          "tip": "Arms straight. Pull to chest width. Squeeze shoulder blades.",
+          "group": ""
+        },
+        "2": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "Arms straight. Pull to chest width. Rest 45s.",
+          "group": "C1"
+        },
+        "3": {
+          "sets": "3",
+          "reps": "20",
+          "tempo": "2-1-1",
+          "tip": "Arms straight. Rotator cuff health. Rest 40s.",
+          "group": "B2"
         },
         "maintenance": {
           "sets": "3",
@@ -480,12 +514,11 @@
       "injuryAdaptations": {
         "elbow": {
           "tip": "ELBOW ADAPTED: bodyweight only. No added load.",
-          "isAdapted": false
+          "isAdapted": true
         },
         "shoulder": {
-          "name": "Machine Chest Press",
-          "tip": "SHOULDER ADAPTED: machine press instead.",
-          "isAdapted": false
+          "tip": "SHOULDER ADAPTED: bodyweight only, shallow depth, torso upright — never let the shoulders drop below the elbows.",
+          "isAdapted": true
         }
       }
     },
@@ -569,7 +602,7 @@
       "injuryAdaptations": {
         "shoulder": {
           "tip": "SHOULDER ADAPTED: use low-to-high cable — arms stay below shoulder height.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -614,7 +647,7 @@
       "injuryAdaptations": {
         "shoulder": {
           "tip": "SHOULDER ADAPTED: wider grip only. Pull to upper chest — no behind-neck.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -697,9 +730,8 @@
       },
       "injuryAdaptations": {
         "lowerBack": {
-          "name": "Chest-Supported DB Row",
-          "tip": "LOWER BACK ADAPTED: chest-supported row removes spinal loading entirely.",
-          "isAdapted": false
+          "tip": "LOWER BACK ADAPTED: brace one hand on a bench so the torso is fully supported; keep the spine neutral, light load.",
+          "isAdapted": true
         }
       }
     },
@@ -782,9 +814,8 @@
       },
       "injuryAdaptations": {
         "elbow": {
-          "name": "Hammer Curl (Neutral Grip)",
-          "tip": "ELBOW ADAPTED: neutral grip throughout. Full extension at bottom. Elbows fixed.",
-          "isAdapted": false
+          "tip": "ELBOW ADAPTED: neutral/hammer grip, lighter load, no full extension at the bottom. Stop before pain.",
+          "isAdapted": true
         }
       }
     },
@@ -868,7 +899,7 @@
       "injuryAdaptations": {
         "elbow": {
           "tip": "ELBOW ADAPTED: neutral grip preferred. Longer ROM but stop before pain.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -912,9 +943,8 @@
       },
       "injuryAdaptations": {
         "lowerBack": {
-          "name": "Chest-Supported DB Row",
-          "tip": "LOWER BACK ADAPTED: chest-supported removes spinal loading.",
-          "isAdapted": false
+          "tip": "LOWER BACK ADAPTED: brace the chest on an incline bench (chest-supported) and use light dumbbells; keep the spine neutral.",
+          "isAdapted": true
         }
       }
     },
@@ -960,7 +990,7 @@
         "shoulder": {
           "name": "Lat Pulldown",
           "tip": "SHOULDER ADAPTED: lat pulldown with adjusted grip width.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -1082,14 +1112,12 @@
       },
       "injuryAdaptations": {
         "hamstring": {
-          "name": "Seated Leg Curl (Light)",
-          "tip": "HAMSTRING ADAPTED: light resistance only. Stay in pain-free range. Stop at discomfort.",
-          "isAdapted": false
+          "tip": "HAMSTRING ADAPTED: shorten the range so the hamstrings never reach a deep stretch; light load only. A seated leg curl is a safe alternative.",
+          "isAdapted": true
         },
         "lowerBack": {
-          "name": "Cable Pull-Through",
-          "tip": "LOWER BACK ADAPTED: cable pull-through removes spinal compression.",
-          "isAdapted": false
+          "tip": "LOWER BACK ADAPTED: drop the load and shorten the range to a hip-hinge you can keep perfectly flat-backed; or substitute an upright goblet squat. Stop at the first sign of rounding.",
+          "isAdapted": true
         }
       }
     },
@@ -1133,9 +1161,8 @@
       },
       "injuryAdaptations": {
         "hip": {
-          "name": "Floor Glute Bridge (Unloaded)",
-          "tip": "HIP ADAPTED: engage pelvic floor before each rep. Press through heels. No bar load.",
-          "isAdapted": false
+          "tip": "HIP ADAPTED: remove the bar (bodyweight only), engage the pelvic floor before each rep, and keep the range pain-free.",
+          "isAdapted": true
         }
       }
     },
@@ -1179,8 +1206,15 @@
       },
       "injuryAdaptations": {
         "knee": {
-          "name": "Leg Press (Partial ROM)",
-          "tip": "KNEE ADAPTED: feet HIGH on plate. 60° max. Do not go deeper. Straight to B2.",
+          "tip": "KNEE ADAPTED: feet high on the platform, stop at ~90 degree knee bend (no deeper), reduce load. Do not chase depth.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep the lower back flat on the pad through the whole range; do not let the pelvis tuck at the bottom.",
+          "isAdapted": true
+        },
+        "hamstring": {
+          "tip": "HAMSTRING ADAPTED: stop short of deep knee flexion to limit hamstring stretch; keep tension on the quads.",
           "isAdapted": true
         }
       }
@@ -1304,7 +1338,11 @@
       "injuryAdaptations": {
         "ankle": {
           "tip": "ANKLE ADAPTED: remain seated throughout. Slow and controlled.",
-          "isAdapted": false
+          "isAdapted": true
+        },
+        "hamstring": {
+          "tip": "HAMSTRING ADAPTED: pure hip abduction places no load on the hamstrings; keep the movement slow and controlled.",
+          "isAdapted": true
         }
       }
     },
@@ -1348,14 +1386,12 @@
       },
       "injuryAdaptations": {
         "lowerBack": {
-          "name": "Cable Pull-Through",
-          "tip": "LOWER BACK ADAPTED: cable pull-through removes spinal compression.",
-          "isAdapted": false
+          "tip": "LOWER BACK ADAPTED: very light load, shallow hinge, ribs-down brace. If the lower back complains, switch to a machine leg press instead.",
+          "isAdapted": true
         },
         "hamstring": {
-          "name": "Seated Leg Curl",
-          "tip": "HAMSTRING ADAPTED: leg curl only — no hip hinge loading on the hamstring.",
-          "isAdapted": false
+          "tip": "HAMSTRING ADAPTED: avoid the deep lengthened position; keep the hinge shallow and light, or use a quad-dominant leg press instead.",
+          "isAdapted": true
         }
       }
     },
@@ -1444,9 +1480,9 @@
       },
       "injuryAdaptations": {
         "ankle": {
-          "name": "Seated Calf Raise",
+          "name": "Standing Calf Raise",
           "tip": "ANKLE ADAPTED: seated only. No standing loading on the ankle.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -1490,9 +1526,8 @@
       },
       "injuryAdaptations": {
         "hamstring": {
-          "name": "Seated Leg Curl",
-          "tip": "HAMSTRING ADAPTED: standard leg curl instead. No aggressive eccentric loading.",
-          "isAdapted": false
+          "tip": "HAMSTRING ADAPTED: do NOT perform the heavy Nordic eccentric on an injured hamstring — use band-assisted partial reps only, or substitute an unloaded glute bridge.",
+          "isAdapted": true
         }
       }
     },
@@ -1536,9 +1571,9 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "name": "Cable Lateral Raise",
-          "tip": "SHOULDER ADAPTED: lateral raise only — shoulder height strictly.",
-          "isAdapted": false
+          "tip": "SHOULDER ADAPTED: swapped to Cable Face Pull — no overhead lockout. Light, pull to the forehead with elbows high, external-rotate at the end. Rotator-cuff friendly.",
+          "isAdapted": true,
+          "name": "Cable Face Pull"
         }
       }
     },
@@ -1614,9 +1649,8 @@
       },
       "injuryAdaptations": {
         "elbow": {
-          "name": "Hammer Curl",
-          "tip": "ELBOW ADAPTED: hammer curl only. Neutral grip.",
-          "isAdapted": false
+          "tip": "ELBOW ADAPTED: rope pushdown with light load, elbows pinned to the sides, no full lockout. Stop before pain.",
+          "isAdapted": true
         }
       }
     },
@@ -1662,7 +1696,7 @@
         "shoulder": {
           "name": "DB Lateral Raise",
           "tip": "SHOULDER ADAPTED: lateral raises only — no pressing overhead.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -1671,8 +1705,7 @@
       "name": "Band Pull-Apart",
       "category": "upper",
       "environment": [
-        "gym",
-        "home"
+        "gym"
       ],
       "videoURL": "https://www.youtube.com/results?search_query=band+pull+apart+form",
       "phases": {
@@ -1696,6 +1729,45 @@
           "tempo": "2-0-1",
           "tip": "Arms straight. Rear delt squeeze. Rotator cuff health.",
           "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "20",
+          "tempo": "2-0-1",
+          "tip": "Daily volume. Essential shoulder health in maintenance.",
+          "group": ""
+        }
+      }
+    },
+    {
+      "id": "upper-band-pull-apart-home",
+      "name": "Band Pull-Apart",
+      "category": "upper",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=band+pull+apart+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "20",
+          "tempo": "2-0-1",
+          "tip": "Arms straight. Pull band to chest. Squeeze rear delts. Rotator cuff health.",
+          "group": ""
+        },
+        "2": {
+          "sets": "3",
+          "reps": "20",
+          "tempo": "2-0-1",
+          "tip": "Arms straight. Pull to chest. Straight to B2.",
+          "group": "C1"
+        },
+        "3": {
+          "sets": "3",
+          "reps": "20",
+          "tempo": "2-0-1",
+          "tip": "Arms straight. Rear delt squeeze. Rotator cuff health.",
+          "group": "B2"
         },
         "maintenance": {
           "sets": "3",
@@ -1746,9 +1818,9 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "name": "Cable Lateral Raise",
-          "tip": "SHOULDER ADAPTED: strict lateral raise only. Shoulder height strictly.",
-          "isAdapted": false
+          "tip": "SHOULDER ADAPTED: swapped to Face Pull — no overhead lockout. Light, pull to the forehead with elbows high, external-rotate at the end. Rotator-cuff friendly.",
+          "isAdapted": true,
+          "name": "Face Pull"
         }
       }
     },
@@ -1909,9 +1981,9 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "name": "DB Front Raise",
-          "tip": "SHOULDER ADAPTED: front raise only — upright row can impinge.",
-          "isAdapted": false
+          "tip": "SHOULDER ADAPTED: swapped to Band Lateral Raise — upright rows pinch the shoulder. Raise to shoulder height only, lighter band.",
+          "isAdapted": true,
+          "name": "Band Lateral Raise"
         }
       }
     },
@@ -2072,9 +2144,8 @@
       },
       "injuryAdaptations": {
         "elbow": {
-          "name": "Hammer Curl (Neutral)",
-          "tip": "ELBOW ADAPTED: neutral grip throughout. Elbows fixed. No wrist deviation.",
-          "isAdapted": false
+          "tip": "ELBOW ADAPTED: switch to a neutral/hammer grip, lighter load, no full extension at the bottom. Stop before pain.",
+          "isAdapted": true
         }
       }
     },
@@ -2235,9 +2306,9 @@
       },
       "injuryAdaptations": {
         "elbow": {
-          "name": "Cable Pushdown",
+          "name": "Tricep Rope Pushdown",
           "tip": "ELBOW ADAPTED: pushdown only — overhead extension stresses inflamed elbow.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -2320,9 +2391,8 @@
       },
       "injuryAdaptations": {
         "elbow": {
-          "name": "Cable Pushdown (Straight Bar)",
-          "tip": "ELBOW ADAPTED: pushdown only — skull crushers place too much stress on inflamed elbow.",
-          "isAdapted": false
+          "tip": "ELBOW ADAPTED: lighter load, lower to the forehead only (partial ROM), keep elbows from flaring. Stop before pain.",
+          "isAdapted": true
         }
       }
     },
@@ -2407,7 +2477,7 @@
         "lowerBack": {
           "name": "Goblet Squat",
           "tip": "LOWER BACK ADAPTED: goblet squat — upright torso removes spinal compression.",
-          "isAdapted": false
+          "isAdapted": true
         },
         "knee": {
           "name": "Barbell Hip Thrust",
@@ -2462,7 +2532,7 @@
         "shoulder": {
           "name": "DB Lateral Raise",
           "tip": "SHOULDER ADAPTED: no overhead pressing — lateral raise instead.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -2546,7 +2616,7 @@
       "injuryAdaptations": {
         "hip": {
           "tip": "HIP ADAPTED: engage pelvic floor and transverse abdominis before each rep. Press lower back into floor.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -2590,9 +2660,8 @@
       },
       "injuryAdaptations": {
         "lowerBack": {
-          "name": "Goblet Squat",
-          "tip": "LOWER BACK ADAPTED: goblet squat — no ballistic hip hinge loading.",
-          "isAdapted": false
+          "tip": "LOWER BACK ADAPTED: do NOT perform ballistic swings with a back injury — substitute a slow cable pull-through or a dead-bug core hold instead.",
+          "isAdapted": true
         }
       }
     },
@@ -2638,7 +2707,7 @@
         "shoulder": {
           "name": "Goblet Squat",
           "tip": "SHOULDER ADAPTED: goblet squat only — no overhead press.",
-          "isAdapted": false
+          "isAdapted": true
         },
         "knee": {
           "tip": "KNEE ADAPTED: keep depth ABOVE parallel — stop well before the knee passes 90°. Reduce load; prioritise the press over the squat.",
@@ -2667,7 +2736,7 @@
         "shoulder": {
           "name": "Machine Chest Press",
           "tip": "SHOULDER ADAPTED: machine press. Full ROM, squeeze at peak.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -2710,7 +2779,7 @@
         "shoulder": {
           "name": "Cable Lateral Raise",
           "tip": "SHOULDER ADAPTED: strict lateral raise only. Shoulder height.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -2734,12 +2803,12 @@
       "injuryAdaptations": {
         "elbow": {
           "tip": "ELBOW ADAPTED: bodyweight only. No added load.",
-          "isAdapted": false
+          "isAdapted": true
         },
         "shoulder": {
-          "name": "Machine Chest Press",
-          "tip": "SHOULDER ADAPTED: machine chest press instead.",
-          "isAdapted": false
+          "name": "Tricep Rope Pushdown",
+          "tip": "SHOULDER ADAPTED: rope pushdown instead — elbow-only hinge, no shoulder loading or impingement.",
+          "isAdapted": true
         }
       }
     },
@@ -2764,7 +2833,7 @@
         "shoulder": {
           "name": "Lat Pulldown",
           "tip": "SHOULDER ADAPTED: lat pulldown with adjusted grip.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -2789,7 +2858,7 @@
         "lowerBack": {
           "name": "Chest-Supported DB Row",
           "tip": "LOWER BACK ADAPTED: chest-supported row.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -2832,7 +2901,7 @@
         "elbow": {
           "name": "Hammer Curl",
           "tip": "ELBOW ADAPTED: neutral grip. Heavy. Elbows fixed.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -2873,14 +2942,14 @@
       },
       "injuryAdaptations": {
         "knee": {
-          "name": "Barbell Hip Thrust",
-          "tip": "KNEE ADAPTED: hip thrust is the primary compound movement — no knee flexion under load. Drive through heels, full glute squeeze at top.",
+          "name": "Leg Press (Partial ROM)",
+          "tip": "KNEE ADAPTED: heavy leg press is the primary compound movement — feet high on the plate, 60° max depth so the knee never passes the toes. Drive through heels.",
           "isAdapted": true
         },
         "lowerBack": {
           "name": "Goblet Squat",
           "tip": "LOWER BACK ADAPTED: heavy goblet squat. Upright torso.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -2935,7 +3004,7 @@
         "lowerBack": {
           "name": "Cable Pull-Through",
           "tip": "LOWER BACK ADAPTED: cable pull-through.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -2995,7 +3064,7 @@
     },
     {
       "id": "maintenance-upper-pullup",
-      "name": "Weighted Pull-Up",
+      "name": "Weighted Pull-Up (Upper Split)",
       "category": "maintenance",
       "environment": [
         "gym"
@@ -3069,9 +3138,8 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "name": "Incline Push-Up",
-          "tip": "SHOULDER ADAPTED: hands on table or chair. Reduces shoulder angle significantly.",
-          "isAdapted": false
+          "tip": "SHOULDER ADAPTED: elevate the hands on a bench/counter (incline) to reduce shoulder load and shorten the painful arc.",
+          "isAdapted": true
         }
       }
     },
@@ -3111,6 +3179,12 @@
           "tempo": "3-0-1",
           "tip": "Heavy dumbbells. Full press from floor.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: keep elbows tucked ~45 degrees and press only to a pain-free height. Lighter dumbbells.",
+          "isAdapted": true
         }
       }
     },
@@ -3390,7 +3464,7 @@
         "elbow": {
           "name": "Hammer Curl",
           "tip": "ELBOW ADAPTED: neutral grip throughout.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -3473,14 +3547,12 @@
       },
       "injuryAdaptations": {
         "hamstring": {
-          "name": "Single-Leg Glute Bridge",
-          "tip": "HAMSTRING ADAPTED: single-leg glute bridge — no hip hinge loading.",
-          "isAdapted": false
+          "tip": "HAMSTRING ADAPTED: avoid the loaded hinge/stretch — substitute a clamshell or glute bridge (hip work without hamstring lengthening).",
+          "isAdapted": true
         },
         "lowerBack": {
-          "name": "Bodyweight Hip Thrust",
-          "tip": "LOWER BACK ADAPTED: hip thrust removes spinal hinge.",
-          "isAdapted": false
+          "tip": "LOWER BACK ADAPTED: drop the dumbbells and shorten the hinge, or substitute a single-leg glute bridge — keep the spine neutral throughout.",
+          "isAdapted": true
         }
       }
     },
@@ -3526,7 +3598,7 @@
         "hip": {
           "name": "Floor Glute Bridge (Unloaded)",
           "tip": "HIP ADAPTED: engage pelvic floor before each rep. Bodyweight only.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -3621,7 +3693,7 @@
         "ankle": {
           "name": "Seated DB Calf Press",
           "tip": "ANKLE ADAPTED: seated calf press only. Stop if painful.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -3743,9 +3815,8 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "name": "Incline Push-Up",
-          "tip": "SHOULDER ADAPTED: incline push-up reduces shoulder angle.",
-          "isAdapted": false
+          "tip": "SHOULDER ADAPTED: skip the deep unilateral reach — do a standard or incline push-up to a pain-free depth, or a floor press instead.",
+          "isAdapted": true
         }
       }
     },
@@ -3790,7 +3861,7 @@
       "injuryAdaptations": {
         "lowerBack": {
           "tip": "LOWER BACK ADAPTED: keep body in neutral spine. Don't arch.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -3836,7 +3907,7 @@
         "shoulder": {
           "name": "Machine Chest Press",
           "tip": "SHOULDER ADAPTED: machine press removes impingement risk. Full ROM.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -3882,7 +3953,7 @@
         "lowerBack": {
           "name": "Chest-Supported DB Row",
           "tip": "LOWER BACK ADAPTED: chest-supported removes spinal loading.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -3928,7 +3999,7 @@
         "shoulder": {
           "name": "Lat Pulldown (Wide Grip)",
           "tip": "SHOULDER ADAPTED: wider grip, pull to upper chest only.",
-          "isAdapted": false
+          "isAdapted": true
         }
       }
     },
@@ -3972,9 +4043,1983 @@
       },
       "injuryAdaptations": {
         "elbow": {
-          "name": "Hammer Curl (Neutral Grip)",
-          "tip": "ELBOW ADAPTED: neutral grip, elbows fixed.",
-          "isAdapted": false
+          "name": "Hammer Curl",
+          "tip": "ELBOW ADAPTED: hammer curl — neutral grip reduces strain on the elbow tendons vs. the EZ bar.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "cable-crossover-low-high",
+      "name": "Cable Crossover (Low-to-High)",
+      "category": "push",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=low+to+high+cable+crossover+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Low pulleys. Drive up to shoulder height. Squeeze upper chest.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Low-to-high path. Squeeze at top. Straight to C2.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Low-to-high. Upper chest focus. Straight to C2.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Heavier. Controlled low-to-high path. 1s squeeze.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {}
+    },
+    {
+      "id": "chest-supported-db-row",
+      "name": "Chest-Supported DB Row",
+      "category": "pull",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=chest+supported+dumbbell+row+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Chest on an incline bench. Row DBs to ribs. No spinal load.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Chest supported. Elbows past body. Straight to A2.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Chest supported. Full ROM. Straight to A2.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heavy chest-supported row. 1s squeeze at top.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {}
+    },
+    {
+      "id": "db-lateral-raise",
+      "name": "DB Lateral Raise",
+      "category": "shoulders",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+lateral+raise+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Slight elbow bend. Raise to shoulder height only. Control descent.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Shoulder height strictly. Straight to B2.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Light weight. Shoulder height. Straight to B2.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Strict form. Shoulder height. Definition and health.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {}
+    },
+    {
+      "id": "floor-glute-bridge-unloaded",
+      "name": "Floor Glute Bridge (Unloaded)",
+      "category": "legs",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=floor+glute+bridge+bodyweight+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Lie flat, feet planted. Drive hips up via glutes. No added load.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Bodyweight only. 1s squeeze at top. Straight to B3.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Unloaded. Full hip extension. Straight to B3.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "Bodyweight activation. Pause 1s at top each rep.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "hamstring": {
+          "tip": "HAMSTRING ADAPTED: drive through the heels and glutes, not the hamstrings; reduce range if the hamstrings engage.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: engage the pelvic floor before each rep and keep the range pain-free; bodyweight only.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "goblet-squat",
+      "name": "Goblet Squat",
+      "category": "legs",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=goblet+squat+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Hold DB/KB at chest. Upright torso. Squat to depth. Drive through heels.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Front-loaded. Upright torso. Straight to A3.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Upright torso protects the spine. Straight to A3.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heavy goblet hold. Upright torso. Full depth.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep the torso tall and brace the core; reduce depth if the lower back rounds.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "incline-push-up",
+      "name": "Incline Push-Up",
+      "category": "home",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=incline+push+up+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Hands elevated on a bench/counter. Body straight. Controlled descent.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Hands elevated. Full ROM. Straight to A3.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Hands elevated. Reduced shoulder load. Straight to A3.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Lower the surface for more load. Body straight. Full ROM.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {}
+    },
+    {
+      "id": "leg-press-partial-rom",
+      "name": "Leg Press (Partial ROM)",
+      "category": "legs",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=leg+press+partial+range+knee+friendly+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Machine-guided. Stop at ~90 degree knee — no deeper. Protects the knee.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Partial ROM. 90 degree knee max. Straight to C3.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Partial ROM. No deep flexion. Straight to C3.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "10",
+          "tempo": "2-1-1",
+          "tip": "Partial ROM. Controlled. 90 degree knee limit.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: keep the range above 90 degrees and the feet high on the platform to reduce patellar load.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "seated-db-calf-press",
+      "name": "Seated DB Calf Press",
+      "category": "legs",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=seated+dumbbell+calf+raise+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Seated, DB on knees. Press through balls of feet. Controlled range.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Seated calf press. Full controlled ROM. Straight to C3.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Seated. Pause at top. Straight to C3.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Seated calf. Heavier DBs. 1s squeeze at top.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {}
+    },
+    {
+      "id": "legs-seated-calf-press-home",
+      "name": "Seated DB Calf Press",
+      "category": "legs",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=seated+dumbbell+calf+raise+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Seated, DB on knees. Press through balls of feet. Controlled range.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Seated calf press. Full controlled ROM. Straight to C3.",
+          "group": "C1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Seated. Pause at top. Straight to C3.",
+          "group": "B2"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Seated calf. Heavier DBs. 1s squeeze at top.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {}
+    },
+    {
+      "id": "seated-leg-curl-light",
+      "name": "Seated Leg Curl (Light)",
+      "category": "legs",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=seated+leg+curl+light+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Light resistance. Controlled curl. No ballistic motion — hamstring-safe.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Light load. Slow tempo. Straight to A3.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Light. Pain-free range only. Straight to A3.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Light resistance. Strict controlled curl.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {}
+    },
+    {
+      "id": "push-dumbbell-bench-press-home",
+      "name": "Dumbbell Bench Press",
+      "category": "push",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+bench+press+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Flat bench or sturdy floor. Full ROM. Neutral grip option. Elbows ~45 degrees.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A1"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: press on the floor (floor press) so the elbows stop at the floor — limits the painful shoulder range. Neutral grip, lighter DBs.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: neutral grip, stop short of full elbow lockout, lighter load.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "push-incline-dumbbell-press-home",
+      "name": "Incline Dumbbell Press",
+      "category": "push",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+press+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "30 degree incline (chair propped). Neutral grip. Elbows 45 degrees.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A2"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: reduce the incline toward flat, neutral grip, press to a pain-free height only.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter weight, neutral grip, stop before pain.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "push-tricep-dip-home",
+      "name": "Tricep Dip",
+      "category": "push",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=tricep+dip+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Chair or bench. Elbows track back. Controlled descent.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A3"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: feet on the ground with knees bent and keep the dip shallow — minimal shoulder loading.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: shallow depth, elbows pinned, light load. Stop before pain.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "push-band-chest-press-home",
+      "name": "Band Chest Press",
+      "category": "push",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=band+chest+press+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Band anchored low. Press to chest height. Full ROM.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B1"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: stagger your stance, lighter band, press to mid-chest only.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter band, stop short of full lockout.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "push-dumbbell-flye-home",
+      "name": "Dumbbell Flye",
+      "category": "push",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+flye+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Bench or floor. Slight elbow bend. Full ROM stretch. Squeeze at top.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "C2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B3"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: keep the arms near shoulder height with a small range — do not let the shoulders stretch back. Light DBs.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: keep the elbows bent ~90 degrees, avoid full extension.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "upper-dumbbell-floor-press-home",
+      "name": "Dumbbell Floor Press",
+      "category": "upper",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+floor+press+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Lying on the floor. Press DBs straight up. Elbows to the floor each rep.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A1"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: keep elbows tucked ~45 degrees and press only to a pain-free height. Lighter DBs.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: neutral grip, hinge at the elbow, stop before pain.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "upper-dumbbell-upright-row-home",
+      "name": "Dumbbell Upright Row",
+      "category": "upper",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+upright+row+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Elbows lead. Pull DBs to chin height. Controlled lower.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A2"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: swapped to Band Lateral Raise — upright rows pinch the shoulder. Raise strictly to shoulder height, lighter band, stop at the first sign of discomfort.",
+          "isAdapted": true,
+          "name": "Band Lateral Raise"
+        }
+      }
+    },
+    {
+      "id": "upper-dumbbell-lateral-raise-home",
+      "name": "Dumbbell Lateral Raise",
+      "category": "upper",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+lateral+raise+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Slight elbow bend. Raise to shoulder height. Control descent.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A3"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: lighter weight, raise strictly to shoulder height, stop at the first sign of discomfort.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "upper-dumbbell-bent-row-home",
+      "name": "Dumbbell Bent-Over Row",
+      "category": "upper",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+bent-over+row+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Hip hinge. Back flat. Pull DBs to the ribs. Squeeze the shoulder blades.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B1"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: switch to a single-arm row braced on a bench so the torso is supported; light load, neutral spine.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "upper-tricep-chair-dip-home",
+      "name": "Tricep Chair Dip",
+      "category": "upper",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=tricep+chair+dip+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Hands on a chair behind you. Lower until elbows 90 degrees. Elbows in.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "C2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B3"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: shallow depth, elbows pinned, light load — or do a band pressdown instead.",
+          "isAdapted": true
+        },
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: feet on the floor and keep the dip shallow; stop before the shoulders complain.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "pull-resistance-band-pulldown-home",
+      "name": "Resistance Band Pull-Down",
+      "category": "pull",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=resistance+band+pull-down+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Anchor the band overhead. Pull to upper chest. Shoulder blades down first.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A1"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: use a thicker band for control and pull to chest height only — no overhead loading.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "pull-resistance-band-row-home",
+      "name": "Resistance Band Row",
+      "category": "pull",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=resistance+band+row+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Step on the band. Chest proud. Pull to the ribcage. 1s hold.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A2"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: kneel tall or sit and support the chest; keep the spine neutral with no hip hinge.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "pull-band-assisted-pullup-home",
+      "name": "Band-Assisted Pull-Up",
+      "category": "pull",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=band-assisted+pull-up+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "Loop the band under the feet. Pull the chin over the bar. Control the descent.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "6",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "6",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A3"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: use a thicker band for more support and a shorter range — do not drop into a full dead hang.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "pull-doorway-band-row-home",
+      "name": "Doorway Band Row",
+      "category": "pull",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=doorway+band+row+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Wrap the band around a door. Split stance. Pull to the ribcage. Elbows track back.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B1"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: stay upright with no hip hinge and brace the core throughout.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "pull-eccentric-pullup-home",
+      "name": "Eccentric Pull-Up",
+      "category": "pull",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=eccentric+pull-up+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "6",
+          "tempo": "2-0-1",
+          "tip": "Step to a chin-over-bar position, then lower over 4 seconds. Full controlled eccentric.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "5",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "C1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "5",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B2"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: use a band to shorten the eccentric range; start from a 90 degree arm bend, not a full dead hang.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "pull-band-bicep-curl-home",
+      "name": "Resistance Band Bicep Curl",
+      "category": "pull",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=resistance+band+bicep+curl+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Band under the feet. Elbows fixed. Full curl, controlled lower.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "C2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B3"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: use a light/thin band, keep the elbows pinned, and stop short of full extension.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "legs-split-squat-home",
+      "name": "Split Squat",
+      "category": "legs",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=split+squat+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Rear foot elevated on a chair. Front knee tracks over the toes. Drive through the front heel.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A1"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: front knee stays at 90 degrees max — do not go deeper. Shorter range, reduce load.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: engage the pelvic floor before each rep and stay in a pain-free range.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "legs-step-up-home",
+      "name": "DB Step-Up",
+      "category": "legs",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=db+step-up+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Step onto a chair/bench (12-15 inches). Drive through the front heel. Hold DBs.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A2"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: use a lower step (8-10 inches); the front knee stays at 90 degrees or less.",
+          "isAdapted": true
+        },
+        "ankle": {
+          "tip": "ANKLE ADAPTED: stay controlled on the step-up — no explosive jumping.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: light DBs only and maintain a neutral spine throughout.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "legs-band-loop-squat-home",
+      "name": "Resistance Band Loop Squat",
+      "category": "legs",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=resistance+band+loop+squat+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Band looped above the knees or under the feet. Squat to parallel.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A3"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: squat to ~60 degrees only — stop well before parallel. Light band.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: light band only and engage the pelvic floor throughout.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "legs-dead-bug-press-home",
+      "name": "Dead Bug Leg Press",
+      "category": "legs",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dead+bug+leg+press+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Lie flat. Hips/knees at 90 degrees. Press one leg straight, lower the opposite arm. Alternate.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B1"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "hip": {
+          "tip": "HIP ADAPTED: engage the pelvic floor before each rep and keep the range small — knees at 60 degrees max.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: press the lower back into the floor throughout — never let it lift.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "legs-monster-walk-home",
+      "name": "Monster Walk (Resistance Band)",
+      "category": "legs",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=monster+walk+resistance+band+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "20",
+          "tempo": "2-0-1",
+          "tip": "Band above the knees or around the ankles. Quarter-squat. Step and stay low.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "20",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "C2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B3"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "20",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: stay more upright (shallower squat) and use a light band only.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: reduce the step distance, stay controlled, light band only.",
+          "isAdapted": true
+        },
+        "ankle": {
+          "tip": "ANKLE ADAPTED: place the band around the knees (not the ankles) and reduce the distance covered.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "shoulders-band-lateral-raise-home",
+      "name": "Band Lateral Raise",
+      "category": "shoulders",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=band+lateral+raise+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Stand on the band. Elbows slightly bent. Raise to shoulder height only.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A1"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: raise to shoulder height ONLY — stop before the impingement zone. Lighter band.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "shoulders-db-bent-fly-home",
+      "name": "Dumbbell Bent-Over Fly",
+      "category": "shoulders",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+bent-over+fly+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Hinge at the hips 45 degrees. Chest proud. Fly the DBs out. Squeeze rear delts.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A2"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: lighter DBs and hinge deeper (closer to 90 degrees) to reduce shoulder load.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep the hinge shallow (30 degrees max) and brace the core throughout.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "shoulders-band-pull-apart-strict-home",
+      "name": "Band Pull-Apart (Strict)",
+      "category": "shoulders",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=band+pull-apart+strict+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "20",
+          "tempo": "2-0-1",
+          "tip": "Arms straight. Pull the band to chest width. External rotate at the end. 1s hold.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "20",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A3"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: lighter band, reduce the external-rotation range if painful, focus on scapular retraction.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "shoulders-db-reverse-fly-home",
+      "name": "Dumbbell Reverse Fly",
+      "category": "shoulders",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+reverse+fly+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Seated, slight forward lean. Fly the DBs out to shoulder height. Full ROM.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B1"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: lighter DBs and raise to ear height ONLY — no higher, to prevent impingement.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "shoulders-incline-db-press-home",
+      "name": "Incline Dumbbell Press",
+      "category": "shoulders",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+press+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Back against a chair (incline ~30 degrees). Press the DBs straight up. Front-delt emphasis.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "C1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B2"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: reduce the incline toward flat, neutral grip, press only to a pain-free height.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "shoulders-db-arnold-press-home",
+      "name": "Dumbbell Arnold Press",
+      "category": "shoulders",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+arnold+press+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Start palms facing you, rotate as you press overhead. Controlled. Light to start.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "C2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B3"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: swapped to Dumbbell Lateral Raise — no overhead pressing. Lighter DBs, raise strictly to shoulder height, stop at the first sign of discomfort.",
+          "isAdapted": true,
+          "name": "Dumbbell Lateral Raise"
+        }
+      }
+    },
+    {
+      "id": "arms-dumbbell-curl-home",
+      "name": "Dumbbell Curl",
+      "category": "arms",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+curl+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Elbows pinned to the sides. Full ROM. Controlled descent.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A1"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: light load, elbows fixed, stop short of full extension. A light band curl is a safe alternative.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "arms-chair-tricep-dip-home",
+      "name": "Tricep Dip (Chair)",
+      "category": "arms",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=tricep+dip+chair+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Hands on a chair behind the back. Elbows track back. Controlled.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A2"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: shallow depth, elbows pinned, light load — or do a standing band extension instead.",
+          "isAdapted": true
+        },
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: keep the dip shallow and feet on the floor; a band pushdown avoids dip loading.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "arms-band-bicep-curl-home",
+      "name": "Resistance Band Bicep Curl",
+      "category": "arms",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=resistance+band+bicep+curl+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Band under the feet. Elbows fixed. Full extension at the bottom.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "A3"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: use a light/thin band only; full extension stops before pain.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "arms-band-tricep-pushdown-home",
+      "name": "Resistance Band Tricep Pushdown",
+      "category": "arms",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=resistance+band+tricep+pushdown+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Band anchored high on a door frame. Elbows pinned. Full extension at the bottom.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B1"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: light band only, elbows pinned, avoid a high-load pushdown. Stop at comfort.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "arms-close-grip-push-up-home",
+      "name": "Close-Grip Push-Up",
+      "category": "arms",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=close-grip+push-up+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Hands shoulder-width. Elbows track to the ribcage. Full ROM.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "C1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B2"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: elevate the hands on a bench (incline) to reduce load on an inflamed elbow.",
+          "isAdapted": true
+        },
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: incline variation (hands elevated) reduces shoulder stress.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "arms-db-concentration-curl-home",
+      "name": "Dumbbell Concentration Curl",
+      "category": "arms",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+concentration+curl+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Seated, elbow braced on the inner thigh. Strict single-arm curl. Squeeze at the top.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "C2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Straight to next.",
+          "group": "B3"
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heaviest available load. Strict form.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter DB, slow controlled reps, stop short of full extension at the bottom.",
+          "isAdapted": true
         }
       }
     }
