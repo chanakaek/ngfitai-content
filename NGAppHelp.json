@@ -1,0 +1,81 @@
+{
+  "version": "1.0.0",
+  "title": "HOW STRATHLON WORKS (product help — use this to answer 'how do I…' questions about the app)",
+  "sections": [
+    {
+      "name": "Getting started",
+      "tips": [
+        "During onboarding, tap 'Import from Apple Health' to pull in weight, height, resting HR, VO2 max and body-fat at once. Strathlon only ever READS from Health, never writes back.",
+        "Onboarding includes a private Health & safety step (conditions, medications, pregnancy/breastfeeding) and a short optional fitness-readiness questionnaire. If pregnant or breastfeeding, Strathlon pauses the programme, sets no weight-loss target and never uses a calorie deficit. Everything stays on-device; general info, not medical advice.",
+        "Set food allergies and supplement ingredients to avoid in onboarding or Settings — Strathlon treats them as hard, never-suggest exclusions in meal plans and Coach advice.",
+        "Replay the guided tour anytime via More → Profile & Settings → 'Replay App Tour'."
+      ]
+    },
+    {
+      "name": "Training plan & sessions",
+      "tips": [
+        "Today's session is at the top of the Plan tab. The programme periodises through phases that get harder as you progress; tap 'Why this phase?' on a gym day to see the science.",
+        "Tap an exercise to run rest timers, spoken cues and a 3-2-1 into each set. Tap 'Ask Coach' on any exercise to hand the Coach that exercise's full context for form tips.",
+        "Warm-up, rest and HIIT timers keep running on the Lock Screen and Dynamic Island.",
+        "Log working weight × reps on any exercise (pre-filled from last time), or 'Log each set' for detail. Enter kg or lb. Subscribers can tap '📷 Snap to fill' to read the weight off a plate/machine/logbook. Weights auto-fill next time.",
+        "Trained away from the app or your phone? Tap 'Mark this session done' on the plan so it still counts (works for earlier days too). Tap again to undo. Auto-captured sessions (guided or Apple Watch) stay locked.",
+        "Collapse/expand workout sections (warm-up, exercises, HIIT finisher) by tapping their headers.",
+        "Turn on 'Can double up' so double days train the muscles opposite to those your sport fatigues.",
+        "When a plan finishes, Strathlon checks you against your goal: close-but-not-there offers a fresh block sized to what's left; goal hit points to Maintenance; stalled tells you honestly and helps regroup."
+      ]
+    },
+    {
+      "name": "Logging food & the AI Coach",
+      "tips": [
+        "On the AI Coach tab, tap the camera, photograph your food, then Analyse Photo — or just type what you ate ('two eggs on toast and a flat white'). Either returns a macro estimate with one-tap 'Add to Log'.",
+        "From Add to Log, pick the day and meal slot — you can back-date meals up to two weeks.",
+        "The AI Coach knows your goals, sport, today's targets, logged foods and full programme. Ask 'what should I eat before training?', 'build me a meal plan for today' (returns a full day of meals it saves into Nutrition), or 'how's my progress?'.",
+        "Strathlon spots foods you log regularly and offers to auto-add them on chosen days; manage rules under Nutrition → My Foods.",
+        "Nutrition shows evidence-based supplement guidance tuned to your day type, with dose, timing and why.",
+        "The AI Coach (chat, meal plans, photo macro scanning, progress analysis) is premium with a 14-day free trial on annual. Plan, timers, targets, supplements, tracker and Health sync are built in."
+      ]
+    },
+    {
+      "name": "Tracker, weight & progress",
+      "tips": [
+        "The Tracker's top row shows four tiles — Target, Burned, Consumed, Deficit. Target is worked out for your day type and updates live when you add activity. Tap the ⓘ on any tile for its source.",
+        "If you record weight in Apple Health it fills the Tracker automatically (including back-filled past days); typing over it wins for that day.",
+        "The weight chart shows actual weight (solid line) plus predicted weight from your tracked deficit (dashed line, ≈7,700 kcal ≈ 1 kg). They drift apart normally (water, glycogen, adaptation). Premium members can tap 'Ask your coach to explain this gap'. The chart scrolls sideways; rotate or tap ⤢ for full screen with pinch-zoom. Break periods show as a sky-blue band, cycle phases in baby pink.",
+        "Open More → Progress Photos to add a photo every week or two (auto-tagged with that day's weight) and tap Compare for before/after. Photos stay on-device by default; optional private-iCloud backup is off by default in Profile → Privacy & your data.",
+        "A 'Your week's ready' card atop the AI Coach tab opens your weekly review (sessions, rest, real burn, energy balance, sleep, weight trend). Tap 'Ask the Coach about this' to chat with your stats pre-loaded. The 'Your AI progress analysis' card (shown with no chat open) gives a quick weekly read plus your coach's take."
+      ]
+    },
+    {
+      "name": "Apple Watch",
+      "tips": [
+        "One-time setup: open the Strathlon app on the watch and tap Allow for Health. You only do this once per watch.",
+        "Start a session on the phone and Strathlon starts the workout on the watch automatically — live heart rate streams in and each block logs to Apple's Workout app with calories. No taps, no subscription. A ⌚ shows when it's live.",
+        "Do NOT also start Apple's own Workout app for the same session — that double-counts calories.",
+        "Heart rate is colour-coded: amber = below target (push harder), red = at/above target.",
+        "Premium adds hands-free control: on the wrist, tap Done to log a set and start rest, tap again during rest to skip it — carries you from warm-up through the HIIT finisher.",
+        "Apple's Fitness app lists workouts by duration, not calories; tap a workout to see calories — they ARE recorded.",
+        "No watch? Heart rate still comes from Apple Health where available."
+      ]
+    },
+    {
+      "name": "Activities, sports & goals",
+      "tips": [
+        "Add a walk, run, cycle, swim, gym class or any sport to any day (including rest days) via 'Add a session, walk or activity'. IMPORTANT distinction: your watch AUTO-tracks the calories you BURN; logging an activity here is the other side — it RAISES today's eating allowance so you can eat a bit more for it. They are different numbers and are never added together. Add distance (km) to runs/walks for a sharper estimate; enter your own burn from a watch if you have it.",
+        "For gym classes, open Gym classes and search the name (e.g. 'rpm', 'bodypump'); calories scale to your weight and you can tweak duration or pin your own number.",
+        "Set each sport's Intensity (Light/Standard/High) in More → your sport to tune its calorie bonus. With multiple sports, the primary gets the full bonus and others scale.",
+        "When a programme completes, switch to Maintenance: calories rise to full TDEE with carbs raised gradually over a 4-week reverse diet.",
+        "Going away? Plan tab → 'Away or catching up?' pauses your plan (calories ease to maintenance, no deficit, no 'missed day' nagging) and lets you tick days you trained while away.",
+        "Change units (kg/lb/stone) in Settings → Body & Stats → Units; everything reflows and saved data is unchanged."
+      ]
+    },
+    {
+      "name": "Privacy",
+      "tips": [
+        "Health-data sharing with the AI Coach (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) is OFF by default; turn it on in Settings → Privacy & your data for sharper coaching, off keeps that data on-device.",
+        "Cycle-aware coaching is a separate, off-by-default switch; if on, the coach sees only a general phase label (e.g. 'pre-menstrual'), never dates, flow, symptoms or history.",
+        "The tracker mirrors food logs, saved foods and auto-add rules to your private iCloud (no account, raw meals never uploaded to Strathlon); turn off in Profile → Privacy & your data.",
+        "Suggest and vote on features via More → 'App roadmap & Feature requests'."
+      ]
+    }
+  ]
+}
