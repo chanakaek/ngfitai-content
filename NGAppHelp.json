@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "HOW STRATHLON WORKS (product help — use this to answer 'how do I…' questions about the app)",
   "sections": [
     {
@@ -75,6 +75,58 @@
         "Cycle-aware coaching is a separate, off-by-default switch; if on, the coach sees only a general phase label (e.g. 'pre-menstrual'), never dates, flow, symptoms or history.",
         "The tracker mirrors food logs, saved foods and auto-add rules to your private iCloud (no account, raw meals never uploaded to Strathlon); turn off in Profile → Privacy & your data.",
         "Suggest and vote on features via More → 'App roadmap & Feature requests'."
+      ]
+    },
+    {
+      "name": "Onboarding & your profile in detail",
+      "tips": [
+        "There is no account, sign-up or password — your profile, logs and full history live on your device, so nothing to remember and nothing to lose to a forgotten password.",
+        "First-run setup builds the plan around you: your body details, your goal, your sport (pick from any category across 38 sports), and your weekly training/match schedule. Everything you enter here is editable later in Settings.",
+        "The readiness check is a short, optional set of yes/no questions — the kind a trainer asks before you start. If an answer stands out, Strathlon gently suggests getting medical clearance first. It is a readiness check, not medical advice, and stays on-device.",
+        "The health & safety step captures pregnancy/breastfeeding, ongoing conditions, medications, allergies, and any food or supplement ingredients to avoid. Meal plans and the Coach treat allergies and avoid-ingredients as HARD, never-suggest exclusions.",
+        "You are asked ONCE whether the AI Coach may see your Apple Health figures. It is off by default and can be changed any time in Settings → Privacy & your data.",
+        "To edit anything later: More → Profile & Settings. Body & Stats holds your measurements, goal and units; Privacy & your data holds every sharing switch."
+      ]
+    },
+    {
+      "name": "Running a workout, timers & supersets",
+      "tips": [
+        "The workout screen is split into fold-out sections — warm-up, your main workout, and a HIIT finisher. Warm-up and HIIT start folded to cut scrolling; your main workout stays open. Tap any header to collapse or expand it.",
+        "Warm-up, rest and HIIT countdowns keep running on the Lock Screen and in the Dynamic Island with spoken cues, so you can put the phone down between sets. The voice coach calls each exercise and set including the rep target, with a 3-2-1 into each work set.",
+        "Log working weight × reps on any exercise (pre-filled from last time), or choose 'Log each set' for per-set detail. Enter kg or lb. Bodyweight moves can be saved with a weight of 0.",
+        "Subscribers can tap 'Snap to fill' to photograph a dumbbell, plate or machine display and Strathlon reads the number off it. Weights then auto-fill next time, so you just confirm or nudge them.",
+        "Where the plan pairs exercises, toggle the back-to-back superset/tri-set run mode on or off to suit your gym and your energy that day.",
+        "Trained away from the app or your phone? Tap 'Mark this session done' so it still counts (works for earlier days too); tap again to undo. Sessions captured automatically (a guided session or an Apple Watch workout) stay locked so real training is never removed by accident."
+      ]
+    },
+    {
+      "name": "The weight chart & energy-balance in detail",
+      "tips": [
+        "The weight chart plots your ACTUAL weight as a solid line and your PREDICTED weight (from your tracked calorie deficit, at roughly 7,700 kcal per kg) as a dashed line. Reading them together shows whether real change is tracking the maths.",
+        "The two lines drift apart normally — real weight often drops faster at first from water and glycogen, then the prediction can run ahead as your body adapts. That divergence is expected, not an error.",
+        "Tap the expand button or rotate to landscape for a full-screen chart with pinch-zoom and a drag crosshair. The chart scrolls sideways through your history.",
+        "Break periods show as a sky-blue band and, if cycle-aware coaching is on, cycle phases show in baby pink — so context around a plateau is visible at a glance.",
+        "Premium members can tap 'Ask your coach to explain this gap' to open a chat with the numbers pre-loaded; the coach usually asks a question or two before explaining rather than guessing.",
+        "The Tracker's four top tiles are Target, Burned, Consumed and Deficit. Target is computed for your day type and updates live as you add activity. Tap the info icon on any tile to see exactly where its number comes from."
+      ]
+    },
+    {
+      "name": "History, export & data ownership",
+      "tips": [
+        "Open Tracker → History for your daily log, newest first — calories in, calories out and weight for each day.",
+        "Use Import / Export in History for a CSV round-trip of your daily log, so your data is portable and yours to keep.",
+        "Because there is no account, everything lives on-device by default. Optional private-iCloud sync (food logs, saved foods, auto-add rules; and separately progress photos) is yours to enable or disable in Profile → Privacy & your data.",
+        "Raw meals and photos are never uploaded to Strathlon's servers. Health data is only ever read, never written back to Apple Health.",
+        "Change units (kg / lb / stone) any time in Settings → Body & Stats → Units; the whole app reflows and your saved data is unchanged underneath."
+      ]
+    },
+    {
+      "name": "Notifications, nuggets & learning",
+      "tips": [
+        "A daily knowledge nugget card surfaces a short, evidence-based tip; some nuggets carry a 'Learn more' link that opens a fuller article on strathlon.com.",
+        "The weekly review card ('Your week's ready') sits atop the AI Coach tab and opens a summary of sessions, rest, real burn, energy balance, sleep and weight trend. Tap 'Ask the Coach about this' to chat with those stats pre-loaded.",
+        "The 'Your AI progress analysis' card (shown when no chat is open) gives a quick weekly read plus your coach's take, without you having to ask.",
+        "Deeper guides and evidence articles live on the website — the Learn library, per-stat explainer pages, and topic guides (building muscle, fat loss, training with your cycle, supplements, recovery, habits). Ask the Coach and it can point you to the relevant one."
       ]
     }
   ]
