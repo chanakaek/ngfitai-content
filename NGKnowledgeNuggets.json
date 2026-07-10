@@ -1,41 +1,45 @@
 {
-  "version": "1.47.0",
+  "version": "1.48.0",
   "nuggets": [
     {
-      "id": "nug_039",
+      "id": "nug_170",
       "category": "app-tip",
       "audience": "all",
-      "icon": "camera.fill",
-      "title": "Snap a photo to log your meal",
-      "body": "On the AI Coach tab, tap the camera, photograph your food, then Analyse Photo. Strathlon estimates calories and macros — tap Add to Log to drop it straight into your tracker.",
-      "learnMoreURL": "https://strathlon.com/blog-ai-macro-logging"
+      "icon": "hand.wave.fill",
+      "title": "New here? Start with your first week",
+      "body": "Take a two-minute tour of the five tabs — Plan, Nutrition, Tracker, Coach and Profile — and see how your week fits together.",
+      "learnMoreURL": "https://strathlon.com/blog-getting-started",
+      "stage": "usage-core"
     },
     {
-      "id": "nug_040",
+      "id": "nug_171",
       "category": "app-tip",
       "audience": "all",
-      "icon": "text.bubble.fill",
-      "title": "Just tell the Coach what you ate",
-      "body": "No photo needed — type 'two eggs on toast and a flat white' in the AI Coach and it returns a macro estimate with a one-tap Add to Log. The fastest logging there is.",
-      "learnMoreURL": "https://strathlon.com/blog-ai-macro-logging"
+      "icon": "chart.xyaxis.line",
+      "title": "Read your charts like a pro",
+      "body": "Daily, weekly or monthly, your weight and deficit charts always open on your latest data. Here's how to read the trend, the range and the away shading.",
+      "learnMoreURL": "https://strathlon.com/blog-tracking-progress",
+      "stage": "usage-core"
     },
     {
-      "id": "nug_049",
+      "id": "nug_172",
       "category": "app-tip",
       "audience": "all",
-      "icon": "bubble.left.and.bubble.right.fill",
-      "title": "Your AI Coach knows your plan",
-      "body": "The AI Coach sees your goals, sport and today's targets. Ask it 'what should I eat before training?', 'build me a meal plan', or 'how's my progress?' — answers are tailored, not generic.",
-      "learnMoreURL": "https://strathlon.com/blog-ai-coach"
+      "icon": "calendar",
+      "title": "Set up your week and your sports",
+      "body": "Pick your sports, set a primary one, and Strathlon shapes your gym plan around them — showing only what's in season this week.",
+      "learnMoreURL": "https://strathlon.com/blog-your-schedule",
+      "stage": "usage-core"
     },
     {
-      "id": "nug_050",
+      "id": "nug_173",
       "category": "app-tip",
       "audience": "all",
-      "icon": "calendar.badge.plus",
-      "title": "Ask for a full-day meal plan",
-      "body": "Tell the Coach 'build me a meal plan for today' and it returns a full day of meals — ingredients, steps and macros — hitting your target and respecting your diet. It saves into Nutrition.",
-      "learnMoreURL": "https://strathlon.com/blog-ai-coach"
+      "icon": "questionmark.circle.fill",
+      "title": "When the scale and the maths disagree",
+      "body": "If your predicted and actual weight drift apart, tap 'explain my gap' and your Coach talks it through — asking a question or two before it guesses.",
+      "learnMoreURL": "https://strathlon.com/blog-weight-photo-and-gap",
+      "stage": "usage-premium"
     },
     {
       "id": "nug_041",
@@ -44,7 +48,8 @@
       "icon": "slider.horizontal.3",
       "title": "Set your real match intensity",
       "body": "In More → your sport, set Intensity to Light, Standard or High to match how hard you actually play. It tunes the calorie bonus on your sport days so targets stay accurate.",
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-your-schedule",
+      "stage": "usage-core"
     },
     {
       "id": "nug_042",
@@ -52,7 +57,8 @@
       "audience": "all",
       "icon": "lock.iphone",
       "title": "Timers live on your Lock Screen",
-      "body": "Your warm-up, rest and HIIT countdowns keep running in the Dynamic Island and on the Lock Screen. Put the phone down between sets and still see exactly how long is left."
+      "body": "Your warm-up, rest and HIIT countdowns keep running in the Dynamic Island and on the Lock Screen. Put the phone down between sets and still see exactly how long is left.",
+      "stage": "usage-core"
     },
     {
       "id": "nug_043",
@@ -60,16 +66,18 @@
       "audience": "all",
       "icon": "speaker.wave.2.fill",
       "title": "Let the Coach talk you through it",
-      "body": "Strathlon narrates your session out loud — set cues, mid-rest reminders, 3-2-1 countdowns. Pick a male or female voice (or a higher-quality AI voice) in More → settings."
+      "body": "Strathlon narrates your session out loud — set cues, mid-rest reminders, 3-2-1 countdowns. Pick a male or female voice (or a higher-quality AI voice) in More → settings.",
+      "stage": "usage-core"
     },
     {
-      "id": "nug_044",
+      "id": "nug_174",
       "category": "app-tip",
       "audience": "all",
-      "icon": "questionmark.bubble.fill",
-      "title": "Tap 'Ask Coach' on any exercise",
-      "body": "One tap hands the AI Coach the full context of that exercise — your scheme and form tip — and asks for perfect-form guidance, muscles worked and common mistakes. Instant expert.",
-      "learnMoreURL": "https://strathlon.com/blog-ai-coach"
+      "icon": "icloud.fill",
+      "title": "Your data, safe across your devices",
+      "body": "Turn on iCloud backup and your training and Tracker history sync privately across your iPhone and iPad. Your cycle data never leaves your phone.",
+      "learnMoreURL": "https://strathlon.com/blog-icloud-sync",
+      "stage": "usage-premium"
     },
     {
       "id": "nug_048",
@@ -77,7 +85,8 @@
       "audience": "all",
       "icon": "clock.arrow.circlepath",
       "title": "Forgot to log? Back-date it",
-      "body": "You can log meals to any day in the last two weeks. When you Add to Log from a photo or description, just pick the day and meal slot — yesterday's lunch still counts."
+      "body": "You can log meals to any day in the last two weeks. When you Add to Log from a photo or description, just pick the day and meal slot — yesterday's lunch still counts.",
+      "stage": "usage-core"
     },
     {
       "id": "nug_046",
@@ -85,7 +94,8 @@
       "audience": "all",
       "icon": "calendar",
       "title": "See your whole year at a glance",
-      "body": "The year calendar view paints every gym and sport session across the months, including seasonality. A satisfying way to spot streaks — and gaps — at a glance."
+      "body": "The year calendar view paints every gym and sport session across the months, including seasonality. A satisfying way to spot streaks — and gaps — at a glance.",
+      "stage": "usage-core"
     },
     {
       "id": "nug_047",
@@ -94,7 +104,18 @@
       "icon": "arrow.up.forward.circle.fill",
       "title": "Graduate into Maintenance & reverse diet",
       "body": "Once your programme completes, switch to Maintenance: calories rise to full TDEE with carbs raised gradually over a 4-week reverse diet — protecting muscle and performance.",
-      "learnMoreURL": "https://strathlon.com/blog-plan-ends-goal-reached"
+      "learnMoreURL": "https://strathlon.com/blog-plan-ends-goal-reached",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_175",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "heart.fill",
+      "title": "Make Strathlon cycle-aware — your choice",
+      "body": "Four separate opt-ins let your nutrition, training, insights and Coach flex with your cycle. Your cycle data stays on your device.",
+      "learnMoreURL": "https://strathlon.com/blog-cycle-features",
+      "stage": "usage-premium"
     },
     {
       "id": "nug_045",
@@ -103,7 +124,8 @@
       "icon": "arrow.triangle.swap",
       "title": "Double days pair muscles smartly",
       "body": "Turn on 'Can double up' and Strathlon trains the opposite muscle groups to those your sport fatigues — so you never hammer already-tired muscles twice in one day.",
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "usage-core"
     },
     {
       "id": "nug_051",
@@ -112,7 +134,8 @@
       "icon": "list.number",
       "title": "Add several sports — priority handled",
       "body": "Pick more than one sport and your primary gets the full calorie bonus while the others scale sensibly, so daily totals never balloon. Change the order any time in More.",
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "usage-core"
     },
     {
       "id": "nug_052",
@@ -121,7 +144,18 @@
       "icon": "pills.fill",
       "title": "Supplement tips match your day type",
       "body": "Nutrition shows evidence-based supplement guidance for the kind of day you're having — creatine, post-match protein, match-day electrolytes, rest-day magnesium — with dose, timing and the why.",
-      "learnMoreURL": "https://strathlon.com/guide-supplements-that-work#the-short-list"
+      "learnMoreURL": "https://strathlon.com/guide-supplements-that-work#the-short-list",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_039",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "camera.fill",
+      "title": "Snap a photo to log your meal",
+      "body": "On the AI Coach tab, tap the camera, photograph your food, then Analyse Photo. Strathlon estimates calories and macros — tap Add to Log to drop it straight into your tracker.",
+      "learnMoreURL": "https://strathlon.com/blog-ai-macro-logging",
+      "stage": "usage-premium"
     },
     {
       "id": "nug_053",
@@ -130,16 +164,8 @@
       "icon": "heart.text.square.fill",
       "title": "Import your stats from Apple Health",
       "body": "In setup tap 'Import from Apple Health' to pull weight, height, resting HR, VO2 max and body-fat in one go. Strathlon only ever reads from Health — it never writes back.",
-      "learnMoreURL": "https://strathlon.com/blog-apple-watch"
-    },
-    {
-      "id": "nug_054",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "crown.fill",
-      "title": "What your subscription unlocks",
-      "body": "Plan, timers, targets, supplements, tracker and Health sync are built in. The AI Coach — chat, meal plans, photo macro scanning, progress analysis — is premium, with a 14-day free trial on annual.",
-      "learnMoreURL": "https://strathlon.com/blog-ai-coach"
+      "learnMoreURL": "https://strathlon.com/blog-getting-started",
+      "stage": "usage-core"
     },
     {
       "id": "nug_094",
@@ -148,16 +174,8 @@
       "icon": "chart.line.uptrend.xyaxis",
       "title": "'Your week's ready' — open your review",
       "body": "When a new week has data worth showing, a 'Your week's ready 👀' card appears atop the AI Coach tab. Tap it for stat tiles and charts — sessions, rest, real burn, energy balance, sleep and weight trend — built from your own data.",
-      "learnMoreURL": "https://strathlon.com/understanding-your-stats"
-    },
-    {
-      "id": "nug_095",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "bubble.left.and.text.bubble.right.fill",
-      "title": "Ask the Coach about your numbers",
-      "body": "In your weekly review, tap 'Ask the Coach about this' — it drops you into chat with your stats already loaded. Ask 'why did my burn drop?' or 'am I recovering enough?' and get answers grounded in your own data.",
-      "learnMoreURL": "https://strathlon.com/understanding-your-stats"
+      "learnMoreURL": "https://strathlon.com/understanding-your-stats",
+      "stage": "usage-core"
     },
     {
       "id": "nug_096",
@@ -166,7 +184,18 @@
       "icon": "bed.double.circle.fill",
       "title": "A bedtime nudge after a big session",
       "body": "Turn on 'Bedtime reminder' in More → Nudges & Tips and Strathlon sends one gentle wind-down reminder on heavy-training days only — never late, at most once a day. Deep sleep after a hard session is when muscle rebuilds.",
-      "learnMoreURL": "https://strathlon.com/stats-sleep"
+      "learnMoreURL": "https://strathlon.com/stats-sleep",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_040",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "text.bubble.fill",
+      "title": "Just tell the Coach what you ate",
+      "body": "No photo needed — type 'two eggs on toast and a flat white' in the AI Coach and it returns a macro estimate with a one-tap Add to Log. The fastest logging there is.",
+      "learnMoreURL": "https://strathlon.com/blog-ai-macro-logging",
+      "stage": "usage-premium"
     },
     {
       "id": "nug_097",
@@ -174,7 +203,8 @@
       "audience": "all",
       "icon": "arrow.counterclockwise.circle.fill",
       "title": "Replay the guided tutorial any time",
-      "body": "The quick first-run tour shows you the best bits in about 30 seconds. Want it again? Tap 'Replay App Tour' in More → Profile & Settings to walk through the plan, timers, AI Coach and more whenever you like."
+      "body": "The quick first-run tour shows you the best bits in about 30 seconds. Want it again? Tap 'Replay App Tour' in More → Profile & Settings to walk through the plan, timers, AI Coach and more whenever you like.",
+      "stage": "usage-core"
     },
     {
       "id": "nug_098",
@@ -183,7 +213,8 @@
       "icon": "questionmark.circle.fill",
       "title": "Tap 'Why this phase?' on a gym day",
       "body": "On a gym day's session card, tap 'Why this phase?' to see the science behind today's block — why Phase 3 uses tri-sets and short rest, why a climbing heart rate is intended, and what each phase is really training.",
-      "learnMoreURL": "https://strathlon.com/stats-sessions-per-week#phases"
+      "learnMoreURL": "https://strathlon.com/stats-sessions-per-week#phases",
+      "stage": "usage-core"
     },
     {
       "id": "nug_099",
@@ -191,7 +222,494 @@
       "audience": "all",
       "icon": "party.popper.fill",
       "title": "Celebrations when you hit a milestone",
-      "body": "Log a weight and cross a real milestone — a quarter, half, a fresh kilo, a personal best or your goal — and Strathlon throws a brief confetti celebration. Positive-only: wrong-way moves stay silent. Toggle in Nudges & Tips."
+      "body": "Log a weight and cross a real milestone — a quarter, half, a fresh kilo, a personal best or your goal — and Strathlon throws a brief confetti celebration. Positive-only: wrong-way moves stay silent. Toggle in Nudges & Tips.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_049",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "bubble.left.and.bubble.right.fill",
+      "title": "Your AI Coach knows your plan",
+      "body": "The AI Coach sees your goals, sport and today's targets. Ask it 'what should I eat before training?', 'build me a meal plan', or 'how's my progress?' — answers are tailored, not generic.",
+      "learnMoreURL": "https://strathlon.com/blog-ai-coach",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_119",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "checkmark.circle",
+      "title": "Trained away from the app? Log it in a tap",
+      "body": "Did your session without the in-app timers — or away from your phone entirely? Tap \"Mark this session done\" on your plan so it still counts toward your progress and your analytics. You can mark earlier days too. And if you have an Apple Watch, your strength workouts are picked up automatically.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_122",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "plus.circle",
+      "title": "Log any activity, any day",
+      "body": "It's not just gym sessions — add a walk, run, cycle or swim to any day, including rest days, from \"Add a walk or activity\" on your plan. Set the duration (or enter your own burn from a watch) and your nutrition targets adjust to match. Handy for planning ahead: see what a lunchtime walk frees up before you decide on that treat.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_125",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "wand.and.stars",
+      "title": "Foods you log often, on autopilot",
+      "body": "Eat the same breakfast most days? Strathlon spots foods you log regularly and offers to add them automatically on your chosen days — tap \"Set it up\" on the suggestion card and pick the days and meal slot. It's all worked out on your device, and you can manage or remove any rule under Nutrition → My Foods.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_050",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "calendar.badge.plus",
+      "title": "Ask for a full-day meal plan",
+      "body": "Tell the Coach 'build me a meal plan for today' and it returns a full day of meals — ingredients, steps and macros — hitting your target and respecting your diet. It saves into Nutrition.",
+      "learnMoreURL": "https://strathlon.com/blog-ai-coach",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_126",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "lightbulb.fill",
+      "title": "Shape what we build next",
+      "body": "Got an idea for Strathlon? Open More → \"App roadmap & Feature requests\" to suggest a feature and vote others up or down. The public roadmap is ordered by votes, so the most-wanted ideas rise to the top — your vote genuinely steers what gets built.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_127",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "rectangle.compress.vertical",
+      "title": "Tidy up your workout screen",
+      "body": "Sections on the workout screen — your warm-up, today's exercises and the optional HIIT finisher — collapse and expand with a tap on their header. Fold away what you've finished (or don't need yet) to keep the bit you're working on front and centre. Strathlon remembers a sensible default each time.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_128",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "figure.arms.open",
+      "title": "Sharper targets from your body composition",
+      "body": "If a smart scale or wearable logs your lean mass to Apple Health, turn on Body composition in Profile → Settings. Strathlon then uses the Katch-McArdle formula for a more accurate calorie (BMR) and protein target — better for muscular or higher-body-fat builds. It reads body fat % and lean mass only, stays on your device, and is never sent to the AI.",
+      "learnMoreURL": "https://strathlon.com/stats-protein#factors",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_044",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "questionmark.bubble.fill",
+      "title": "Tap 'Ask Coach' on any exercise",
+      "body": "One tap hands the AI Coach the full context of that exercise — your scheme and form tip — and asks for perfect-form guidance, muscles worked and common mistakes. Instant expert.",
+      "learnMoreURL": "https://strathlon.com/blog-ai-coach",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_129",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "photo.on.rectangle.angled",
+      "title": "Track your progress in photos",
+      "body": "The scale only tells half the story. Open More → Progress Photos and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Your photos stay private on your device: never uploaded, never sent to the AI, never in any export.",
+      "learnMoreURL": "https://strathlon.com/blog-tracking-progress",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_130",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "rectangle.split.2x1",
+      "title": "See your before & after",
+      "body": "Got two or more progress photos? Open More → Progress Photos and tap Compare to put two side by side — oldest vs newest by default — with the days between them and your weight change. Tap either date to pick any two. It all stays on your device.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_132",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "arrow.uturn.backward",
+      "title": "Marked a session by mistake?",
+      "body": "Tapped \"Mark this session done\" by accident? Just tap it again to undo. Sessions captured automatically — from a guided session or your Apple Watch — stay locked, so your real training is never removed by accident.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_054",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "crown.fill",
+      "title": "What your subscription unlocks",
+      "body": "Plan, timers, targets, supplements, tracker and Health sync are built in. The AI Coach — chat, meal plans, photo macro scanning, progress analysis — is premium, with a 14-day free trial on annual.",
+      "learnMoreURL": "https://strathlon.com/blog-ai-coach",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_134",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "applewatch",
+      "title": "Live heart rate from your Apple Watch",
+      "body": "Got an Apple Watch with the Strathlon watch app? As a premium member it now starts itself the moment you begin a session — no need to tap Start on your wrist — and your live heart rate streams straight to your phone, so the BPM and zone update beat-by-beat (a ⌚ shows when it's live). It records as one continuous workout of the right type, with calories. Just don't also start Apple's own Workout app at the same time, or your calories get counted twice. No watch? Your heart rate still comes from Apple Health where available.",
+      "learnMoreURL": "https://strathlon.com/blog-apple-watch",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_135",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "heart.text.square",
+      "title": "Watch your heart rate between sets",
+      "body": "Your live heart rate now shows on the strength session screen too — during each set and the rest countdown between them. Glancing at it as it drops between sets is a simple readiness check: once it eases back toward your warm-up range you're recovered enough for a strong next set. A ⌚ means it's live from your Apple Watch.",
+      "learnMoreURL": "https://strathlon.com/stats-average-heart-rate",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_136",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "scalemass",
+      "title": "Track the weights you lift",
+      "body": "Open any exercise on your Plan and log your working weight × reps (pre-filled from last time — usually one tap), or tap 'Log each set' for set-by-set detail. Enter in kg or lb; both are shown. After a few sessions your review gains a Strength progress section: heaviest set, estimated 1-rep max, total volume-load, your trend, and a nudge to deload when a lift stalls.",
+      "learnMoreURL": "https://strathlon.com/stats-strength-progress",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_095",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "bubble.left.and.text.bubble.right.fill",
+      "title": "Ask the Coach about your numbers",
+      "body": "In your weekly review, tap 'Ask the Coach about this' — it drops you into chat with your stats already loaded. Ask 'why did my burn drop?' or 'am I recovering enough?' and get answers grounded in your own data.",
+      "learnMoreURL": "https://strathlon.com/understanding-your-stats",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_138",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "stopwatch",
+      "title": "Don't rest too long between sets",
+      "body": "Strathlon now learns from your rest between sets. If you wear an Apple Watch it tracks how fast your heart rate drops between sets — a faster drop over time signals improving fitness — and flags when you've rested so long your HR fully recovered and the set's gone cold. See the Rest & recovery card in your review.",
+      "learnMoreURL": "https://strathlon.com/stats-hr-recovery",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_139",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "checkmark.circle",
+      "title": "Know when you're ready for the next set",
+      "body": "Wear an Apple Watch? During your rest between sets, Strathlon now shows a '✓ Recovered — ready for your next set' cue (with a gentle tap) once your heart rate has dropped back from the effort. It's just a readiness hint — rest as long as you like — but it helps you avoid resting so long the set goes cold.",
+      "learnMoreURL": "https://strathlon.com/stats-hr-recovery",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_140",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "figure.walk.motion",
+      "title": "Logging an activity adjusts what you can eat",
+      "body": "Adding a walk, run or ride in 'Add a session, walk or activity' raises today's eating allowance — it's how anyone, watch or not, accounts for activity in what they eat. Handy to plan ahead, or to log something you've already done. Your Apple Watch separately tracks the calories you burn — that's a different number, on the burn side. For example: log a lunchtime walk and today's eating allowance nudges up — your watch was already counting the burn.",
+      "learnMoreURL": "https://strathlon.com/blog-apple-watch",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_124",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "icloud.fill",
+      "title": "Your tracker backs up to iCloud",
+      "body": "Strathlon quietly mirrors your food logs, saved foods and auto-add rules to your private iCloud so they survive a reinstall or a new phone — no account, no upload of your raw meals to us. Restore happens automatically on a fresh install. Prefer to keep it local? Turn it off in Profile → Privacy & your data, where you can also export a full copy anytime.",
+      "learnMoreURL": "https://strathlon.com/blog-icloud-sync",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_141",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "allergens",
+      "title": "Set your allergies so plans avoid them",
+      "body": "In onboarding or Settings, add your food allergies (common ones in a tap, plus custom) and any supplement ingredients to avoid. Strathlon then treats them as hard, never-suggest exclusions in your meal plans and AI coach, and flags clashing supplements. Always check labels too — we can't guarantee third-party ingredient data.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_142",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "heart.text.square.fill",
+      "title": "Health & safety: tell us what keeps your plan safe",
+      "body": "There's a private Health & safety step in onboarding (and in Settings). Note any ongoing health conditions or medications, or — if it applies — that you're pregnant or breastfeeding. If you're pregnant or breastfeeding, Strathlon recommends pausing the programme and following your doctor or midwife: it won't set a weight-loss target or a pregnancy training or eating plan, and never puts you in a calorie deficit — but you can still log meals, weight and activity. Everything stays on your device. General information, not medical advice.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_143",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "checklist",
+      "title": "A quick fitness-readiness check",
+      "body": "Onboarding includes a short, optional set of yes/no readiness questions — the kind a personal trainer asks before you start (heart conditions, chest pain, dizziness, and so on). If any answer stands out, Strathlon recommends getting medical clearance from your doctor before you begin or push harder. It's a readiness check, not medical advice, and your answers stay on your device. You can retake it anytime in Settings.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_137",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "camera.viewfinder",
+      "title": "Snap a photo to log your weight",
+      "body": "Hate typing weights mid-set? Subscribers can tap '📷 Snap to fill' on the weight panel and point the camera at the dumbbell, plate, machine display or your logbook — the AI reads the number and fills in the weight and reps. It shows what it read; you just review and tap Save. (Premium.)",
+      "learnMoreURL": "https://strathlon.com/blog-weight-photo-and-gap",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_144",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "scalemass.fill",
+      "title": "Your weights remember themselves",
+      "body": "Log a working weight on an exercise once — typed, set-by-set, or with the photo — and Strathlon auto-fills it next time, so you don't re-enter the same number every week. Just keep it, or nudge it up/down as you progress. Logged something by mistake? Tap the ✓/✕ to untick and unsave it, per set or per exercise.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_145",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "figure.walk.motion",
+      "title": "Going away? Tell Strathlon",
+      "body": "On the Plan tab, tap \"Away or catching up?\". Set a holiday or busy spell and those days show \"On a break\" — your plan pauses where it is, nothing's lost, and there's no \"missed day\" nagging; you get a welcome-back when you're home. While you're on a break your calories ease to maintenance (no deficit) and any scheduled sport bonus isn't counted — enjoy it; your normal targets resume automatically when you're back. Trained while away (off-app, a different gym, a walk)? Tick the days and what you did — even several at once — and it counts toward your progress on any day.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_146",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "target",
+      "title": "Your Tracker now shows today's target",
+      "body": "The Tracker's top row shows four tiles — Target, Burned, Consumed and Deficit — so today's calorie target sits right next to your actuals. The target is worked out for your day type (training vs rest) and updates live when you add a walk or activity. Tap the small ⓘ on any tile to see where its number comes from.",
+      "learnMoreURL": "https://strathlon.com/understanding-your-stats#energy-balance",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_151",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "bubble.left.and.text.bubble.right.fill",
+      "title": "Want cycle-aware coaching? You choose",
+      "body": "There's a separate, off-by-default switch in Settings that lets the AI coach factor your cycle into its advice. If you turn it on, the coach sees only a general phase label — like 'pre-menstrual' or 'mid-cycle' — and nothing else: never your dates, flow, symptoms or history. It's kept separate from the general Health-data sharing control, so it's entirely your call. Leave it off and the coach works exactly as before.",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_147",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "chart-candle",
+      "title": "A clearer weight chart",
+      "body": "Your weight chart keeps it simple: your actual weight (solid line) plus your predicted weight from your tracked calorie deficit (dashed line, ≈7,700 kcal ≈ 1 kg). Rotate to landscape or tap ⤢ for a full-screen view — pinch to zoom and drag to read any day's value, with a note explaining the prediction is an estimate (water, glycogen and adaptation make real weight differ).",
+      "learnMoreURL": "https://strathlon.com/blog-tracking-progress",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_148",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "lock.shield.fill",
+      "title": "You decide what the AI Coach sees",
+      "body": "Strathlon asks once — during setup, and any time in Settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's off by default: leave it off and your Health data stays on your device and is never sent to the AI. Turn it on for sharper coaching, and switch it back off whenever you like. Your cycle info is always kept separate unless you specifically enable cycle-aware coaching.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_149",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "chart.xyaxis.line",
+      "title": "Why the scale doesn't always match the maths",
+      "body": "On the Tracker, your weight chart overlays the weight your logged calorie deficit predicts (dashed line) against your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask your coach to explain this gap': confirm a quick share prompt (your numbers are used only for that answer and aren't remembered) and it goes straight into the AI Coach, which explains it or asks you a question or two — no typing needed.",
+      "learnMoreURL": "https://strathlon.com/stats-weight-trend#predicted-line",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_156",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "applewatch.side.right",
+      "title": "Run your workout from your wrist",
+      "body": "With an Apple Watch, once your session starts you can drive the whole thing from your wrist — your watch shows the current exercise, your set and rep target, and one big button. Tap Done to log a set and start your rest countdown; tap again during rest to skip it. It carries you from warm-up through every set to your HIIT finisher, so you never have to pick up your phone. (A premium feature — the app works fully without a watch too.)",
+      "learnMoreURL": "https://strathlon.com/blog-apple-watch",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_150",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "heart.circle.fill",
+      "title": "Your plan can flex with your cycle",
+      "body": "If you log your cycle in Apple Health, Strathlon adds gentle, on-device notes for where you are in it. Around your period and the week before, the Nutrition tab reminds you that rising cravings are normal (with iron, hydration and protein tips) — and an optional switch can ease your calorie target by about 100 kcal that week so you stay consistent. On the Plan tab, a note suggests training by feel when energy dips and pushing in your stronger mid-cycle window. Both switches are off by default in Settings, and your cycle data never leaves your device.",
+      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_152",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "flag.checkered",
+      "title": "Your finish knows what's next",
+      "body": "When you wrap up a workout, Strathlon now congratulates you on the session you just finished — then looks at the rest of your day. If you've got a match, a long ride or another hard session still to come, it suggests an easier HIIT finisher, with one tap to lighten it, so you're not cooked before the main event. And if there's more ahead, it'll point you to the AI coach for recovery and meal ideas. Nothing is forced — it only ever suggests, and the option quietly disappears if you don't take it.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_153",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "scalemass.fill",
+      "title": "Your weight fills itself in",
+      "body": "If you record your weight in Apple Health, Strathlon pulls it into your Tracker automatically — even for past days you're back-filling on the Edit Log screen. Look for the small 'i' next to the weight field for a reminder of how it works. You can always type over the number to set a different value for that day; what you enter by hand wins.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_157",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "brain.head.profile",
+      "title": "Your AI coach knows your whole day",
+      "body": "Your AI coach isn't guessing. It reads your real macros and the foods you've logged straight from your Tracker, and it knows your full programme — every phase, today's actual exercises, and how you're tracking to date — so its advice fits exactly where you are. Your weight and body-composition data stay private unless you've chosen to share Health data.",
+      "learnMoreURL": "https://strathlon.com/blog-ai-coach",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_154",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "applewatch",
+      "title": "Your Apple Watch does the work — free",
+      "body": "Got an Apple Watch? Start your session on the phone and Strathlon starts the workout on your watch automatically — your live heart rate streams in, and each block (warm-up, strength, HIIT) is logged to the Apple Workout app with its own calories. No taps on the watch, and no subscription needed — it's part of the free app.",
+      "learnMoreURL": "https://strathlon.com/blog-apple-watch",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_155",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "heart.fill",
+      "title": "Red means you're on it",
+      "body": "During a session your live heart rate is colour-coded so you can read it at a glance without thinking: bright amber means you're below target (push a little harder), and red means you're at or above target — you're working. Same whether the reading comes from your Apple Watch or Apple Health.",
+      "learnMoreURL": "https://strathlon.com/stats-average-heart-rate",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_158",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "flag.checkered",
+      "title": "Not done when your plan ends? It adapts",
+      "body": "When a plan finishes its weeks, Strathlon checks how you did against your goal. Close but not there? It offers to keep going with a fresh block sized to exactly what's left — recalculating your calories and tightening the training. Hit your goal? It points you to Maintenance. Stalled? It says so honestly and helps you regroup, or asks your AI coach what to change.",
+      "learnMoreURL": "https://strathlon.com/blog-plan-ends-goal-reached",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_161",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "exclamationmark.triangle.fill",
+      "title": "Let Strathlon start the watch workout — not you",
+      "body": "When you begin a session on your phone, Strathlon automatically starts (and stops) the workout on your Apple Watch. Don't also tap Start in Apple's own Workout app for the same session — running two at once double-counts your calories and can interrupt the heart-rate stream. Just start on the phone and let it drive.",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_159",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "applewatch",
+      "title": "First time with your Apple Watch?",
+      "body": "One-time setup: open the Strathlon app on your watch and tap Allow when it asks for Health access. After that, starting a session on your phone launches the workout on your wrist automatically — live heart rate, no taps. You only do this once per watch.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_160",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "heart.fill",
+      "title": "Live heart rate, hands-free — and free",
+      "body": "With an Apple Watch, your real-time heart rate streams to your phone during every session and each block logs to Apple's Workout app with calories — no subscription needed. Premium adds hands-free control: tap Done on your wrist to log a set and start your rest.",
+      "learnMoreURL": "https://strathlon.com/blog-apple-watch",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_162",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "chart.xyaxis.line",
+      "title": "Your weight chart shows when you were away",
+      "body": "Holidays and breaks you set now appear as a soft sky-blue band behind your weight chart, and cycle phases show in baby pink — so a dip or a plateau is easy to explain at a glance. The chart also scrolls sideways now: the daily view opens on your most recent weeks and you can swipe back through your history, just like a stock chart.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_168",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "icloud",
+      "title": "Back up your progress photos privately",
+      "body": "You can optionally back up your progress photos to your own private iCloud, so they appear on your other devices and return if you reinstall or get a new phone. It is off by default — turn it on in Profile > Privacy & your data. Your photos go only to your personal iCloud account, never to a Strathlon server, never to the AI, and never to any export. Turning it off keeps every photo safely on your device.",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_163",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "circle.fill",
+      "title": "Red dots on your weight chart = a session you didn't log",
+      "body": "If you train but don't run the guided session, tap Done on your watch, or mark it done, the app can't see it. A small red dot on a scheduled gym day means no session was logged that day. Did train it? Tap the dot and choose 'I trained this day' — it'll count toward your consistency and the dot clears. Dots only show once you're logging regularly.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_164",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "flame.fill",
+      "title": "Where to find your watch calories",
+      "body": "Apple's Fitness app lists every workout by its duration, not calories — that's Apple's layout, not a missing number. Your calories ARE recorded: tap any workout to see them. And while you train, your live burn vs target shows right on your wrist and in Strathlon.",
+      "learnMoreURL": "https://strathlon.com/blog-apple-watch",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_165",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "figure.indoor.cycle",
+      "title": "Log your gym classes in a tap",
+      "body": "Went to Spin, HIIT, Body Pump, Yoga or Step? Tap 'Add a session, walk or activity', open Gym classes, and pick yours — search the name you know (try 'rpm' or 'bodypump'). Calories scale to your weight; tweak the duration or pin your own number. Not listed? Use 'Other class (custom)'.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_169",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "sparkles",
+      "title": "Your AI progress analysis, one tap away",
+      "body": "Open the AI Coach with no chat going and you'll see a 'Your AI progress analysis' card at the top. It gives a quick read on your week — your weight trend, sessions logged or nutrition, in your chosen units — and shows a NEW badge when a fresh weekly review is ready. Tap it for your full analysis: the computed stats plus your coach's take on what's working.",
+      "learnMoreURL": "https://strathlon.com/blog-ai-coach",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_166",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "scalemass",
+      "title": "kg, lb or stone — your choice",
+      "body": "Prefer pounds or stone? In Settings, under Body & Stats, tap Units and choose kg, lb or stone. Your weight reflows everywhere instantly — profile, tracker, charts and progress photos — and weight entry switches too (stone gives you two fields, st and lb). Your saved data never changes, so switch back any time.",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_167",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "ruler",
+      "title": "Add distance to your runs and walks",
+      "body": "When you log a run or walk in 'Add a session, walk or activity', add the distance in km — it drives the calorie estimate directly, so the burn matches how far you actually went, not just how long. It's optional: leave it blank and we use the duration estimate. Cycling and swimming log distance as a stat, with the estimate still based on duration.",
+      "stage": "usage-core"
     },
     {
       "id": "nug_001",
@@ -200,7 +718,8 @@
       "icon": "scalemass.fill",
       "title": "Why the scale lies after a hard week",
       "body": "A tough training week stores extra glycogen, and every gram of glycogen holds ~3g of water. The scale jumps while you're actually losing fat underneath. Trust the trend over weeks, not the daily number.",
-      "learnMoreURL": "https://strathlon.com/stats-weight-trend"
+      "learnMoreURL": "https://strathlon.com/stats-weight-trend",
+      "stage": "knowledge"
     },
     {
       "id": "nug_002",
@@ -209,7 +728,8 @@
       "icon": "flame.fill",
       "title": "Fat loss is one equation",
       "body": "You lose fat when you burn more energy than you eat — full stop. No food is magic or forbidden; total weekly calories are what move the needle. Everything else just makes the deficit easier to hold.",
-      "learnMoreURL": "https://strathlon.com/stats-energy-balance"
+      "learnMoreURL": "https://strathlon.com/stats-energy-balance",
+      "stage": "knowledge"
     },
     {
       "id": "nug_004",
@@ -218,7 +738,8 @@
       "icon": "figure.walk",
       "title": "NEAT: your hidden calorie burner",
       "body": "Fidgeting, walking, standing and chores (NEAT) can burn more daily calories than your workout. When dieting, the body quietly moves less — so a daily step target protects your deficit.",
-      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#the-equation"
+      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#the-equation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_005",
@@ -227,7 +748,8 @@
       "icon": "fork.knife",
       "title": "Protein keeps you full on fewer calories",
       "body": "Protein is the most satiating macro and costs energy just to digest. Leaning your meals toward protein means you eat less without feeling deprived — the 'protein leverage' effect.",
-      "learnMoreURL": "https://strathlon.com/stats-protein"
+      "learnMoreURL": "https://strathlon.com/stats-protein",
+      "stage": "knowledge"
     },
     {
       "id": "nug_009",
@@ -236,7 +758,8 @@
       "icon": "arrow.up.right.circle.fill",
       "title": "Progressive overload is the whole game",
       "body": "Muscle grows when you ask it to do slightly more over time — more reps, more weight, or better control. If the demand never rises, neither does the muscle.",
-      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#progressive-overload"
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#progressive-overload",
+      "stage": "knowledge"
     },
     {
       "id": "nug_010",
@@ -245,7 +768,8 @@
       "icon": "bandage.fill",
       "title": "Soreness isn't a scorecard",
       "body": "DOMS means a movement was novel, not that it 'worked'. You can grow with little soreness and be wrecked by a session that built nothing. Track your numbers, not your aches.",
-      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#recovery"
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#recovery",
+      "stage": "knowledge"
     },
     {
       "id": "nug_010b",
@@ -254,7 +778,8 @@
       "icon": "bed.double.fill",
       "title": "You grow on rest days, not in the gym",
       "body": "Training is the stimulus; the adaptation happens while you recover. Heavy strength work especially needs full rest between sessions — train fatigued and you just dig a hole.",
-      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#rest-days"
+      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#rest-days",
+      "stage": "knowledge"
     },
     {
       "id": "nug_006",
@@ -263,7 +788,8 @@
       "icon": "chart.line.downtrend.xyaxis",
       "title": "Weigh the trend, not the day",
       "body": "Daily weight swings 1–2 kg from food, water, salt and sleep — none of it fat. Take a weekly average and judge that line. One high morning means nothing on its own.",
-      "learnMoreURL": "https://strathlon.com/stats-weight-trend"
+      "learnMoreURL": "https://strathlon.com/stats-weight-trend",
+      "stage": "knowledge"
     },
     {
       "id": "nug_003",
@@ -272,7 +798,8 @@
       "icon": "minus.circle.fill",
       "title": "Bigger deficit isn't better",
       "body": "A 300–500 kcal daily deficit keeps muscle, energy and training quality intact. Crash deficits strip muscle and tank your performance, so you rebound fast. Slower is what actually sticks.",
-      "learnMoreURL": "https://strathlon.com/stats-energy-balance#not-linear"
+      "learnMoreURL": "https://strathlon.com/stats-energy-balance#not-linear",
+      "stage": "knowledge"
     },
     {
       "id": "nug_007",
@@ -281,7 +808,8 @@
       "icon": "arrow.triangle.2.circlepath",
       "title": "Stalled? You're probably eating more than you think",
       "body": "Plateaus are almost always creeping portions and untracked bites, not a 'broken metabolism'. Tighten logging for a week before slashing calories further.",
-      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#plateaus"
+      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#plateaus",
+      "stage": "knowledge"
     },
     {
       "id": "nug_008",
@@ -290,7 +818,8 @@
       "icon": "moon.zzz.fill",
       "title": "Bad sleep makes you hungrier",
       "body": "One short night raises ghrelin (hunger) and lowers leptin (fullness), so you crave more and burn slightly less. Protecting sleep is a fat-loss tool, not a luxury.",
-      "learnMoreURL": "https://strathlon.com/stats-sleep#appetite"
+      "learnMoreURL": "https://strathlon.com/stats-sleep#appetite",
+      "stage": "knowledge"
     },
     {
       "id": "nug_055",
@@ -299,7 +828,8 @@
       "icon": "tortoise.fill",
       "title": "Patience is a fat-loss skill",
       "body": "Healthy fat loss runs about 0.5–1% of body weight a week. Faster looks great on the scale but is mostly water and muscle — and it comes straight back. Slow is what keeps the result.",
-      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#rate-of-loss"
+      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#rate-of-loss",
+      "stage": "knowledge"
     },
     {
       "id": "nug_056",
@@ -308,7 +838,8 @@
       "icon": "fork.knife.circle.fill",
       "title": "A diet break can help",
       "body": "After a long deficit, a week or two eating at maintenance can restore hormones, energy and sanity — then you resume the cut refreshed. It's a tool, not a failure.",
-      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#diet-breaks"
+      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#diet-breaks",
+      "stage": "knowledge"
     },
     {
       "id": "nug_021",
@@ -317,7 +848,8 @@
       "icon": "fork.knife.circle.fill",
       "title": "Hit protein every day",
       "body": "Aim for roughly 1.6–2.2g of protein per kg of body weight to build and hold muscle, especially in a deficit. Spread it across meals so synthesis stays topped up.",
-      "learnMoreURL": "https://strathlon.com/stats-protein#target"
+      "learnMoreURL": "https://strathlon.com/stats-protein#target",
+      "stage": "knowledge"
     },
     {
       "id": "nug_022",
@@ -326,7 +858,8 @@
       "icon": "leaf.fill",
       "title": "Fibre is the underrated nutrient",
       "body": "25–35g of fibre a day steadies blood sugar, feeds gut bacteria and keeps you full for ages. Most people miss it — load up on veg, beans, oats and fruit.",
-      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#fibre"
+      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#fibre",
+      "stage": "knowledge"
     },
     {
       "id": "nug_024",
@@ -335,7 +868,8 @@
       "icon": "carrot.fill",
       "title": "Carbs aren't the enemy",
       "body": "Carbs fuel hard training and refill muscle glycogen. Cutting them mainly drops water weight, not fat. Time them around your sessions and train better for it.",
-      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#carbs"
+      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#carbs",
+      "stage": "knowledge"
     },
     {
       "id": "nug_034",
@@ -344,7 +878,8 @@
       "icon": "calendar.circle.fill",
       "title": "Why the scale spikes before your period",
       "body": "In the days before your period, hormonal shifts make your body hold extra water — often 1–2 kg. It's not fat. It clears on its own a few days into your cycle, so don't panic-diet.",
-      "learnMoreURL": "https://strathlon.com/stats-cycle-phase#water"
+      "learnMoreURL": "https://strathlon.com/stats-cycle-phase#water",
+      "stage": "knowledge"
     },
     {
       "id": "nug_023",
@@ -353,7 +888,8 @@
       "icon": "drop.fill",
       "title": "Thirst can masquerade as hunger",
       "body": "Mild dehydration often reads as a snack craving. Have a glass of water and wait ten minutes before reaching for food — half the time the 'hunger' fades.",
-      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#hydration"
+      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#hydration",
+      "stage": "knowledge"
     },
     {
       "id": "nug_025",
@@ -362,7 +898,8 @@
       "icon": "cup.and.saucer.fill",
       "title": "Watch what you drink",
       "body": "Juices, lattes and 'healthy' smoothies can hide hundreds of calories that never fill you up. Liquid calories are the silent killer of a careful diet.",
-      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#liquid-calories"
+      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#liquid-calories",
+      "stage": "knowledge"
     },
     {
       "id": "nug_026",
@@ -371,7 +908,8 @@
       "icon": "takeoutbag.and.cup.and.straw.fill",
       "title": "Whole foods do the heavy lifting",
       "body": "You don't need to be perfect, but building meals around minimally processed foods gives you more volume, fibre and protein per calorie — fullness for free.",
-      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#whole-foods"
+      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#whole-foods",
+      "stage": "knowledge"
     },
     {
       "id": "nug_027",
@@ -380,7 +918,8 @@
       "icon": "clock.fill",
       "title": "Meal timing is a rounding error",
       "body": "Total daily intake dwarfs whether you eat at 8pm or skip breakfast. Eat on a schedule that keeps you full and consistent — the clock is the least important part.",
-      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#timing"
+      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#timing",
+      "stage": "knowledge"
     },
     {
       "id": "nug_057",
@@ -389,7 +928,8 @@
       "icon": "scalemass",
       "title": "Your eyes underestimate portions",
       "body": "Oil, dressings, nut butters and 'a handful' of nuts are calorie-dense and easy to under-count. Weighing the dense stuff for a week recalibrates your eye fast.",
-      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#portions"
+      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#portions",
+      "stage": "knowledge"
     },
     {
       "id": "nug_058",
@@ -398,7 +938,8 @@
       "icon": "drop.circle.fill",
       "title": "Hydration sharpens performance",
       "body": "Even mild dehydration drops strength, endurance and focus. Aim for pale-straw urine; add a pinch of salt or electrolytes on long, sweaty or match days.",
-      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#hydration"
+      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#hydration",
+      "stage": "knowledge"
     },
     {
       "id": "nug_059",
@@ -407,7 +948,8 @@
       "icon": "fish.fill",
       "title": "Spread protein across the day",
       "body": "Muscle protein synthesis responds best to 0.3–0.4g/kg of protein per meal, a few times a day. Three or four solid protein hits beat one giant dinner.",
-      "learnMoreURL": "https://strathlon.com/stats-protein"
+      "learnMoreURL": "https://strathlon.com/stats-protein",
+      "stage": "knowledge"
     },
     {
       "id": "nug_037",
@@ -416,7 +958,8 @@
       "icon": "fork.knife.circle",
       "title": "Cravings near your period are hormonal",
       "body": "A small rise in appetite and cravings before your period is normal physiology, not a failure of willpower. Plan a few satisfying, protein-rich meals for those days.",
-      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#cravings"
+      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#cravings",
+      "stage": "knowledge"
     },
     {
       "id": "nug_060",
@@ -425,7 +968,8 @@
       "icon": "moon.circle.fill",
       "title": "Late eating won't make you fat",
       "body": "Calories don't 'count more' at night. If a late meal fits your daily total, it's fine — many people sleep better with some food. Total intake is what decides fat gain or loss.",
-      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#carbs-at-night"
+      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#carbs-at-night",
+      "stage": "knowledge"
     },
     {
       "id": "nug_011",
@@ -434,7 +978,8 @@
       "icon": "timer",
       "title": "Rest longer for heavy lifts",
       "body": "On heavy compound work, 2–3 minutes between sets lets you actually move the load that drives strength. Rushing rest turns a strength set into mediocre cardio.",
-      "learnMoreURL": "https://strathlon.com/stats-rest-between-sets"
+      "learnMoreURL": "https://strathlon.com/stats-rest-between-sets",
+      "stage": "knowledge"
     },
     {
       "id": "nug_012",
@@ -443,7 +988,8 @@
       "icon": "gauge.with.dots.needle.67percent",
       "title": "Leave a rep or two in reserve",
       "body": "Most sets work best stopped 1–2 reps shy of failure. You keep the quality stimulus while staying fresh enough to hit your next sets and recover for tomorrow.",
-      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#effort-rir"
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#effort-rir",
+      "stage": "knowledge"
     },
     {
       "id": "nug_013",
@@ -452,7 +998,8 @@
       "icon": "figure.strengthtraining.traditional",
       "title": "Full range beats heavy ego",
       "body": "Controlled full-range reps build more muscle than heavier half-reps. Pick a weight you can own through the whole movement — that's where the growth lives.",
-      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#range-of-motion"
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#range-of-motion",
+      "stage": "knowledge"
     },
     {
       "id": "nug_015",
@@ -461,7 +1008,8 @@
       "icon": "sparkles",
       "title": "Lifting won't make you bulky",
       "body": "Building large muscle takes years, surplus calories and high volume. Lifting heavy while eating at a deficit makes you leaner and stronger, not bigger — it shapes, it doesn't inflate.",
-      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#wont-bulk"
+      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#wont-bulk",
+      "stage": "knowledge"
     },
     {
       "id": "nug_014",
@@ -470,7 +1018,8 @@
       "icon": "repeat",
       "title": "Consistency beats the perfect program",
       "body": "A decent plan you follow for months beats a 'perfect' one you abandon in three weeks. Showing up and progressing slightly each session is the secret nobody sells.",
-      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#better-not-perfect"
+      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#better-not-perfect",
+      "stage": "knowledge"
     },
     {
       "id": "nug_061",
@@ -479,7 +1028,8 @@
       "icon": "chart.bar.fill",
       "title": "Volume drives growth — to a point",
       "body": "Roughly 10–20 hard sets per muscle per week builds muscle for most people. More isn't automatically better; past your recovery, extra sets just add fatigue.",
-      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#volume"
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#volume",
+      "stage": "knowledge"
     },
     {
       "id": "nug_062",
@@ -488,7 +1038,8 @@
       "icon": "tortoise.fill",
       "title": "Slow the lowering phase",
       "body": "Controlling the eccentric (the lowering part) for 2–3 seconds adds tension and growth without extra weight. Don't just drop the bar — own the way down.",
-      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#tempo"
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#tempo",
+      "stage": "knowledge"
     },
     {
       "id": "nug_063",
@@ -497,7 +1048,8 @@
       "icon": "figure.cooldown",
       "title": "Warm up to lift more, safely",
       "body": "A few ramp-up sets prime your nervous system and joints so your working sets feel stronger and safer. Two minutes of warm-up buys you better top sets.",
-      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics"
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics",
+      "stage": "knowledge"
     },
     {
       "id": "nug_064",
@@ -506,7 +1058,8 @@
       "icon": "pencil.and.list.clipboard",
       "title": "Log your lifts to beat them",
       "body": "If you don't record weight and reps, you can't reliably add to them. A logged number last week is the target to beat this week — that's progressive overload in practice.",
-      "learnMoreURL": "https://strathlon.com/stats-strength-progress#logging"
+      "learnMoreURL": "https://strathlon.com/stats-strength-progress#logging",
+      "stage": "knowledge"
     },
     {
       "id": "nug_035",
@@ -515,7 +1068,8 @@
       "icon": "bolt.heart.fill",
       "title": "Strength can dip mid-cycle — that's normal",
       "body": "Energy and strength can vary across your cycle. A flat session in your luteal phase isn't lost progress — log it, keep showing up, and the strong days come back around.",
-      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#strength-dip"
+      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#strength-dip",
+      "stage": "knowledge"
     },
     {
       "id": "nug_065",
@@ -524,7 +1078,8 @@
       "icon": "figure.run",
       "title": "Cardio won't kill your gains",
       "body": "Moderate cardio improves recovery and heart health and barely dents muscle growth if protein and lifting stay on point. Balance both — don't fear the treadmill.",
-      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#recovery"
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#recovery",
+      "stage": "knowledge"
     },
     {
       "id": "nug_016",
@@ -533,7 +1088,8 @@
       "icon": "moon.stars.fill",
       "title": "Sleep is your best recovery drug",
       "body": "Most muscle repair and growth hormone release happen in deep sleep. Seven to nine hours does more for your results than any supplement on the shelf.",
-      "learnMoreURL": "https://strathlon.com/stats-sleep"
+      "learnMoreURL": "https://strathlon.com/stats-sleep",
+      "stage": "knowledge"
     },
     {
       "id": "nug_017",
@@ -542,7 +1098,8 @@
       "icon": "heart.fill",
       "title": "Rest days are part of the plan",
       "body": "Adaptation happens between sessions, not during them. Skipping rest doesn't speed progress — it stacks fatigue until performance and motivation both fall off.",
-      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#rest-days"
+      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#rest-days",
+      "stage": "knowledge"
     },
     {
       "id": "nug_018",
@@ -551,7 +1108,8 @@
       "icon": "figure.walk.motion",
       "title": "Move a little on rest days",
       "body": "A light walk or easy mobility boosts blood flow and clears soreness faster than lying flat all day. Recovery is active, not horizontal.",
-      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#rest-days"
+      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#rest-days",
+      "stage": "knowledge"
     },
     {
       "id": "nug_036",
@@ -560,7 +1118,8 @@
       "icon": "chart.bar.xaxis",
       "title": "Compare weight at the same cycle point",
       "body": "Because cycle water retention adds 1–2 kg, the fairest comparison is the same week of consecutive cycles. Judge progress month to month, not against last week's bloat.",
-      "learnMoreURL": "https://strathlon.com/stats-cycle-phase#water"
+      "learnMoreURL": "https://strathlon.com/stats-cycle-phase#water",
+      "stage": "knowledge"
     },
     {
       "id": "nug_019",
@@ -569,7 +1128,8 @@
       "icon": "brain.head.profile",
       "title": "Stress eats your recovery",
       "body": "Chronic life stress raises cortisol and blunts the gains from training. Managing stress and winding down before bed is genuine performance work, not self-help fluff.",
-      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#stress-cortisol"
+      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#stress-cortisol",
+      "stage": "knowledge"
     },
     {
       "id": "nug_020",
@@ -578,7 +1138,8 @@
       "icon": "wineglass.fill",
       "title": "Alcohol blunts muscle building",
       "body": "A heavy night suppresses muscle protein synthesis for up to 24 hours and wrecks deep sleep — the exact things you train for. Occasional is fine; just know the cost.",
-      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#alcohol"
+      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#alcohol",
+      "stage": "knowledge"
     },
     {
       "id": "nug_090",
@@ -587,7 +1148,8 @@
       "icon": "moon.zzz.fill",
       "title": "Deep and REM sleep do different jobs",
       "body": "Not all sleep is equal: deep sleep rebuilds muscle and releases growth hormone; REM resets your nervous system and locks in skills. You need both — and total sleep time is how you get enough of each.",
-      "learnMoreURL": "https://strathlon.com/stats-sleep#architecture"
+      "learnMoreURL": "https://strathlon.com/stats-sleep#architecture",
+      "stage": "knowledge"
     },
     {
       "id": "nug_091",
@@ -596,7 +1158,8 @@
       "icon": "bed.double.fill",
       "title": "Trained hard? Make it an early night",
       "body": "The repair from a tough session happens mostly in deep sleep — so after a heavy workout or match, an early night is when the gains are actually built. The work is done; let your body cash it in.",
-      "learnMoreURL": "https://strathlon.com/stats-sleep#deep-sleep"
+      "learnMoreURL": "https://strathlon.com/stats-sleep#deep-sleep",
+      "stage": "knowledge"
     },
     {
       "id": "nug_092",
@@ -605,7 +1168,8 @@
       "icon": "clock.fill",
       "title": "Consistent sleep beats weekend catch-ups",
       "body": "A steady schedule beats binge-sleeping on Sunday. Going to bed and waking at similar times deepens your sleep quality and steadies both recovery and appetite — regularity is its own performance tool.",
-      "learnMoreURL": "https://strathlon.com/stats-sleep#improve"
+      "learnMoreURL": "https://strathlon.com/stats-sleep#improve",
+      "stage": "knowledge"
     },
     {
       "id": "nug_093",
@@ -614,7 +1178,8 @@
       "icon": "shield.fill",
       "title": "Sleep protects muscle when you're dieting",
       "body": "Skimp on sleep in a deficit and more of your weight loss comes from muscle, not fat. Protecting sleep protects the lean mass you're training so hard to keep — it's a fat-loss tool, not a luxury.",
-      "learnMoreURL": "https://strathlon.com/stats-sleep#muscle"
+      "learnMoreURL": "https://strathlon.com/stats-sleep#muscle",
+      "stage": "knowledge"
     },
     {
       "id": "nug_066",
@@ -623,7 +1188,8 @@
       "icon": "thermometer.sun.fill",
       "title": "Deload before you break down",
       "body": "Every several weeks, a lighter 'deload' week lets accumulated fatigue clear so you come back stronger. Planned easy weeks prevent forced time off later.",
-      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#deload"
+      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#deload",
+      "stage": "knowledge"
     },
     {
       "id": "nug_067",
@@ -632,7 +1198,8 @@
       "icon": "exclamationmark.triangle.fill",
       "title": "Know the signs of overtraining",
       "body": "Stalled lifts, poor sleep, low mood, lingering soreness and a higher resting heart rate often mean too much, not too little. The fix is usually rest, not more effort.",
-      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#overtraining"
+      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#overtraining",
+      "stage": "knowledge"
     },
     {
       "id": "nug_068",
@@ -641,7 +1208,8 @@
       "icon": "hand.raised.fill",
       "title": "Stretching isn't injury insurance",
       "body": "Static stretching feels nice but doesn't prevent injury or soreness much. Mobility through a full range, plus a proper warm-up, does far more for staying healthy.",
-      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#stretching"
+      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#stretching",
+      "stage": "knowledge"
     },
     {
       "id": "nug_069",
@@ -650,7 +1218,8 @@
       "icon": "snowflake",
       "title": "Don't ice straight after lifting",
       "body": "Cold plunges right after strength work can blunt the muscle-building signal you just earned. Save the ice for genuine injuries or pure recovery days, not post-lift.",
-      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#icing"
+      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#icing",
+      "stage": "knowledge"
     },
     {
       "id": "nug_028",
@@ -659,7 +1228,8 @@
       "icon": "xmark.octagon.fill",
       "title": "Myth: you can spot-reduce fat",
       "body": "Crunches don't burn belly fat and arm circles don't trim arms. Fat comes off your whole body in an order your genes decide — train the muscle, diet for the fat.",
-      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#spot-reduction"
+      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#spot-reduction",
+      "stage": "knowledge"
     },
     {
       "id": "nug_029",
@@ -668,7 +1238,8 @@
       "icon": "flame.circle.fill",
       "title": "Myth: a 'fat-burning zone'",
       "body": "Lower-intensity cardio burns a higher fraction of fat but fewer total calories. What matters for fat loss is total energy burned and your overall deficit, not the zone.",
-      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#fat-burning-zone"
+      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#fat-burning-zone",
+      "stage": "knowledge"
     },
     {
       "id": "nug_030",
@@ -677,7 +1248,8 @@
       "icon": "wind",
       "title": "Myth: sweat equals fat lost",
       "body": "Sweat is temperature control — it's water, not fat leaving your body. A brutal sweaty session and a calm strength session can build identical results.",
-      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#sweat"
+      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#sweat",
+      "stage": "knowledge"
     },
     {
       "id": "nug_038",
@@ -686,7 +1258,8 @@
       "icon": "drop.triangle.fill",
       "title": "Train through it — movement helps",
       "body": "Light to moderate exercise can ease period cramps and lift mood via endorphins. Listen to your body, scale the load if needed, but you rarely need to skip entirely.",
-      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#training-through"
+      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#training-through",
+      "stage": "knowledge"
     },
     {
       "id": "nug_031",
@@ -695,7 +1268,8 @@
       "icon": "bolt.slash.fill",
       "title": "Myth: more is always better",
       "body": "Past a point, extra training just adds fatigue you can't recover from. Beyond your recovery ceiling, doing more makes you progress less, not more.",
-      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#overtraining"
+      "learnMoreURL": "https://strathlon.com/guide-recovery-and-rest#overtraining",
+      "stage": "knowledge"
     },
     {
       "id": "nug_032",
@@ -704,7 +1278,8 @@
       "icon": "calendar.badge.exclamationmark",
       "title": "Myth: one bad day undoes everything",
       "body": "A single big meal can't store overnight fat the way a single deficit day can't melt it. Results are the average of weeks — never let one day spiral into ten.",
-      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#worked-example"
+      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#worked-example",
+      "stage": "knowledge"
     },
     {
       "id": "nug_033",
@@ -713,7 +1288,8 @@
       "icon": "tortoise.fill",
       "title": "Myth: 'starvation mode' stalls you",
       "body": "Your metabolism adapts modestly when you diet, but it never falls below the calories you eat. Persistent stalls are creeping intake, not a body that's 'holding on'.",
-      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#plateaus"
+      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#plateaus",
+      "stage": "knowledge"
     },
     {
       "id": "nug_070",
@@ -722,7 +1298,8 @@
       "icon": "nosign",
       "title": "Myth: carbs after 6pm make you fat",
       "body": "There's no magic cut-off where carbs turn to fat. Fat gain comes from a calorie surplus over time, not from a clock. Eat carbs whenever suits your training and sleep.",
-      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#carbs-at-night"
+      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#carbs-at-night",
+      "stage": "knowledge"
     },
     {
       "id": "nug_071",
@@ -731,7 +1308,8 @@
       "icon": "questionmark.diamond.fill",
       "title": "Myth: 'toning' is a special workout",
       "body": "There's no separate 'toning'. The lean, defined look is just muscle you built plus fat you lost. Lift to build it and diet to reveal it — that's all 'toned' means.",
-      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#toning"
+      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#toning",
+      "stage": "knowledge"
     },
     {
       "id": "nug_072",
@@ -740,7 +1318,8 @@
       "icon": "drop.degreesign",
       "title": "Myth: detox teas clean you out",
       "body": "Your liver and kidneys already detox you for free. 'Detox' teas mostly act as laxatives and diuretics — you lose water, not fat, and gain nothing lasting.",
-      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#detox"
+      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#detox",
+      "stage": "knowledge"
     },
     {
       "id": "nug_073",
@@ -749,7 +1328,8 @@
       "icon": "scalemass.fill",
       "title": "Myth: muscle weighs more than fat",
       "body": "A kilo is a kilo. Muscle is just denser, so it takes up less space — you can look leaner at the same weight. That's why the mirror and tape beat the scale.",
-      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#more-myths"
+      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#more-myths",
+      "stage": "knowledge"
     },
     {
       "id": "nug_074",
@@ -758,7 +1338,8 @@
       "icon": "bolt.fill",
       "title": "Myth: you need supplements to progress",
       "body": "Food, training and sleep do 95% of the work. A few supplements (creatine, protein, vitamin D) help at the margins — but none rescue a plan that's missing the basics.",
-      "learnMoreURL": "https://strathlon.com/guide-supplements-that-work#skip"
+      "learnMoreURL": "https://strathlon.com/guide-supplements-that-work#skip",
+      "stage": "knowledge"
     },
     {
       "id": "nug_075",
@@ -767,7 +1348,8 @@
       "icon": "figure.walk.circle.fill",
       "title": "Steps are the easiest win",
       "body": "Walking 7,000–10,000 steps a day quietly burns calories, aids recovery and lifts mood — no kit, no soreness. It's the most underrated fat-loss and health habit there is.",
-      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#the-equation"
+      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#the-equation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_076",
@@ -776,7 +1358,8 @@
       "icon": "target",
       "title": "Aim for better, not perfect",
       "body": "An 80%-consistent plan you keep for a year beats a flawless plan you quit in a month. Build habits you can sustain on a bad week, not just a good one.",
-      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#better-not-perfect"
+      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#better-not-perfect",
+      "stage": "knowledge"
     },
     {
       "id": "nug_077",
@@ -785,7 +1368,8 @@
       "icon": "ruler.fill",
       "title": "Use more than the scale",
       "body": "Photos, the tape measure, how clothes fit and your gym numbers all track progress the scale can hide. When weight stalls, these often show you're still winning.",
-      "learnMoreURL": "https://strathlon.com/stats-weight-trend"
+      "learnMoreURL": "https://strathlon.com/stats-weight-trend",
+      "stage": "knowledge"
     },
     {
       "id": "nug_078",
@@ -794,7 +1378,8 @@
       "icon": "heart.circle.fill",
       "title": "Train for life, not just looks",
       "body": "Strength, mobility and a fit heart protect you for decades — independence, energy and a sharper brain. The physique is a bonus; the health is the real prize.",
-      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#train-for-life"
+      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#train-for-life",
+      "stage": "knowledge"
     },
     {
       "id": "nug_079",
@@ -803,7 +1388,8 @@
       "icon": "arrow.uturn.up.circle.fill",
       "title": "A missed day isn't a missed week",
       "body": "Skipping one session or one meal target means nothing over a year. Don't 'write off' the week — just do the next right thing. Consistency forgives the odd off-day.",
-      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#missed-day"
+      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#missed-day",
+      "stage": "knowledge"
     },
     {
       "id": "nug_080",
@@ -812,7 +1398,8 @@
       "icon": "brain.fill",
       "title": "Exercise is medicine for your mind",
       "body": "Regular training cuts anxiety and low mood about as well as many interventions, and sharpens focus and sleep. Some days you train for your head, not your body — that counts.",
-      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#mind"
+      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#mind",
+      "stage": "knowledge"
     },
     {
       "id": "nug_081",
@@ -821,7 +1408,8 @@
       "icon": "arrow.up.heart.fill",
       "title": "Build muscle to burn more at rest",
       "body": "Muscle is metabolically active and raises the floor of what you burn doing nothing. Lifting while you diet means you keep that engine — and rebound far less afterwards.",
-      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics"
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics",
+      "stage": "knowledge"
     },
     {
       "id": "nug_082",
@@ -830,7 +1418,8 @@
       "icon": "square.grid.2x2.fill",
       "title": "Fill half your plate with veg",
       "body": "Vegetables add huge volume, fibre and micronutrients for almost no calories. Half a plate of veg fills you up so the calorie-dense half does less damage to your target.",
-      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#veg-volume"
+      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#veg-volume",
+      "stage": "knowledge"
     },
     {
       "id": "nug_083",
@@ -839,7 +1428,8 @@
       "icon": "cube.box.fill",
       "title": "Creatine is the proven supplement",
       "body": "5g of creatine monohydrate daily reliably boosts strength and muscle, with decades of safety data. It's cheap, well-studied and timing doesn't matter — just take it consistently.",
-      "learnMoreURL": "https://strathlon.com/guide-supplements-that-work#creatine"
+      "learnMoreURL": "https://strathlon.com/guide-supplements-that-work#creatine",
+      "stage": "knowledge"
     },
     {
       "id": "nug_084",
@@ -848,7 +1438,8 @@
       "icon": "sunrise.fill",
       "title": "Morning light sets your sleep clock",
       "body": "A few minutes of daylight soon after waking anchors your body clock, so you fall asleep easier that night. Better sleep means better recovery — and it's completely free.",
-      "learnMoreURL": "https://strathlon.com/stats-sleep#improve"
+      "learnMoreURL": "https://strathlon.com/stats-sleep#improve",
+      "stage": "knowledge"
     },
     {
       "id": "nug_085",
@@ -857,7 +1448,8 @@
       "icon": "figure.mind.and.body",
       "title": "Mind the muscle, not the weight",
       "body": "Focusing on the working muscle and feeling it contract often beats chasing a heavier number with sloppy form. Tension where it counts is what actually drives growth.",
-      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics"
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics",
+      "stage": "knowledge"
     },
     {
       "id": "nug_086",
@@ -866,7 +1458,8 @@
       "icon": "bolt.heart",
       "title": "Eat enough to keep your cycle",
       "body": "Under-eating plus heavy training can disrupt or stop your period — a sign you're pushing too hard. A regular cycle is a marker of enough fuel; fat loss isn't worth losing it.",
-      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#fuel-your-cycle"
+      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#fuel-your-cycle",
+      "stage": "knowledge"
     },
     {
       "id": "nug_087",
@@ -875,7 +1468,8 @@
       "icon": "hourglass",
       "title": "Myth: skipping meals burns more fat",
       "body": "Fasting can suit some people, but skipping meals only helps if it lowers your total intake. If you binge later to compensate, you gain nothing. It's a tool, not magic.",
-      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#meal-timing"
+      "learnMoreURL": "https://strathlon.com/guide-fitness-myths#meal-timing",
+      "stage": "knowledge"
     },
     {
       "id": "nug_088",
@@ -884,7 +1478,8 @@
       "icon": "person.2.fill",
       "title": "Don't compare your start to their middle",
       "body": "The lean, strong people you admire have months or years behind them. Compare yourself to where you were last month, not to someone else's highlight reel.",
-      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#comparison"
+      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#comparison",
+      "stage": "knowledge"
     },
     {
       "id": "nug_089",
@@ -893,7 +1488,8 @@
       "icon": "checklist",
       "title": "Plan the week, not the willpower",
       "body": "Decisions made in advance beat willpower in the moment. Prepping a few meals and stocking high-protein, high-fibre options means the easy choice is already the right one.",
-      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#plan-the-week"
+      "learnMoreURL": "https://strathlon.com/guide-habits-and-consistency#plan-the-week",
+      "stage": "knowledge"
     },
     {
       "id": "nug_100",
@@ -902,7 +1498,8 @@
       "icon": "arrow.triangle.swap",
       "title": "Supersets: it's about density, not magic",
       "body": "Pairing two exercises back-to-back isn't a secret muscle trigger — it keeps your work density high and heart rate up, which drives fat loss and conditioning. Can't get two stations at once? Do them as straight sets with short (~30–45s) rest and you get the same effect.",
-      "learnMoreURL": "https://strathlon.com/stats-rest-between-sets#supersets"
+      "learnMoreURL": "https://strathlon.com/stats-rest-between-sets#supersets",
+      "stage": "knowledge"
     },
     {
       "id": "nug_101",
@@ -911,7 +1508,8 @@
       "icon": "timer",
       "title": "Short rest is the point",
       "body": "In Phase 2 and 3 the short rest isn't an accident — it's the stimulus. Keeping rest brief spikes metabolic stress and keeps calories burning. Resting 2–3 minutes between every set quietly turns a fat-loss session into a strength session.",
-      "learnMoreURL": "https://strathlon.com/stats-rest-between-sets"
+      "learnMoreURL": "https://strathlon.com/stats-rest-between-sets",
+      "stage": "knowledge"
     },
     {
       "id": "nug_102",
@@ -920,7 +1518,8 @@
       "icon": "flame.fill",
       "title": "Density beats 'heavy' on a cut",
       "body": "In a calorie deficit you're not chasing maximal weight — you're chasing quality reps under fatigue, done densely: more work in less time, heart rate up, form intact. That's what makes definition show while you're losing fat.",
-      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals"
+      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals",
+      "stage": "knowledge"
     },
     {
       "id": "nug_103",
@@ -929,7 +1528,8 @@
       "icon": "heart.fill",
       "title": "Your heart rate is your density gauge",
       "body": "Between sets, glance at your heart rate. If it stays up, you're holding the pace that burns fat and builds conditioning. If it drops right down, you rested too long. The colour cue in your warm-up and HIIT works the same way.",
-      "learnMoreURL": "https://strathlon.com/stats-average-heart-rate"
+      "learnMoreURL": "https://strathlon.com/stats-average-heart-rate",
+      "stage": "knowledge"
     },
     {
       "id": "nug_104",
@@ -950,7 +1550,8 @@
         "polo",
         "hockey"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_105",
@@ -971,7 +1572,8 @@
         "polo",
         "hockey"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_106",
@@ -992,7 +1594,8 @@
         "polo",
         "hockey"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_107",
@@ -1008,7 +1611,8 @@
         "rowing",
         "crossfit"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_108",
@@ -1024,7 +1628,8 @@
         "rowing",
         "crossfit"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_109",
@@ -1045,7 +1650,8 @@
         "ice_hockey",
         "fencing"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_110",
@@ -1066,7 +1672,8 @@
         "ice_hockey",
         "fencing"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_111",
@@ -1081,7 +1688,8 @@
         "netball",
         "skiing"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_112",
@@ -1096,7 +1704,8 @@
         "netball",
         "skiing"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_113",
@@ -1112,7 +1721,8 @@
         "climbing",
         "archery"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_114",
@@ -1128,7 +1738,8 @@
         "climbing",
         "archery"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_115",
@@ -1143,7 +1754,8 @@
         "bjj",
         "wrestling"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_116",
@@ -1158,7 +1770,8 @@
         "bjj",
         "wrestling"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_117",
@@ -1173,7 +1786,8 @@
         "bjj",
         "wrestling"
       ],
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_118",
@@ -1181,15 +1795,8 @@
       "audience": "all",
       "icon": "figure.run",
       "title": "Your plan follows your training, not the calendar",
-      "body": "Your programme phase only moves forward on weeks you actually train. Take a holiday or a flat-out work week and your plan pauses right where you left it — so you're never pushed into the hardest block without doing the build-up first. Consistency moves you on; time off simply waits for you."
-    },
-    {
-      "id": "nug_119",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "checkmark.circle",
-      "title": "Trained away from the app? Log it in a tap",
-      "body": "Did your session without the in-app timers — or away from your phone entirely? Tap \"Mark this session done\" on your plan so it still counts toward your progress and your analytics. You can mark earlier days too. And if you have an Apple Watch, your strength workouts are picked up automatically."
+      "body": "Your programme phase only moves forward on weeks you actually train. Take a holiday or a flat-out work week and your plan pauses right where you left it — so you're never pushed into the hardest block without doing the build-up first. Consistency moves you on; time off simply waits for you.",
+      "stage": "knowledge"
     },
     {
       "id": "nug_120",
@@ -1197,7 +1804,8 @@
       "audience": "all",
       "icon": "figure.walk.motion",
       "title": "Back after a break? Ease in first",
-      "body": "Returning from a longer layoff, your body isn't quite where it was — so jumping straight back into heavy, peak work is how people get hurt. After a real gap your plan offers a reactivation week to rebuild movement and resilience before intensity ramps again. A week of easing in beats a month on the sidelines."
+      "body": "Returning from a longer layoff, your body isn't quite where it was — so jumping straight back into heavy, peak work is how people get hurt. After a real gap your plan offers a reactivation week to rebuild movement and resilience before intensity ramps again. A week of easing in beats a month on the sidelines.",
+      "stage": "knowledge"
     },
     {
       "id": "nug_121",
@@ -1205,15 +1813,8 @@
       "audience": "all",
       "icon": "figure.walk",
       "title": "Ate a bit much? Walk it back",
-      "body": "Over your calories today, or short on your burn? Tap \"Add a walk or activity\" on your plan, pick a walk, run, cycle or swim and a duration — Strathlon adds the burn to today's allowance and shows what it frees up (\"about a large glass of wine\"). A 30–45 min walk is an easy few hundred calories to keep your deficit on track."
-    },
-    {
-      "id": "nug_122",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "plus.circle",
-      "title": "Log any activity, any day",
-      "body": "It's not just gym sessions — add a walk, run, cycle or swim to any day, including rest days, from \"Add a walk or activity\" on your plan. Set the duration (or enter your own burn from a watch) and your nutrition targets adjust to match. Handy for planning ahead: see what a lunchtime walk frees up before you decide on that treat."
+      "body": "Over your calories today, or short on your burn? Tap \"Add a walk or activity\" on your plan, pick a walk, run, cycle or swim and a duration — Strathlon adds the burn to today's allowance and shows what it frees up (\"about a large glass of wine\"). A 30–45 min walk is an easy few hundred calories to keep your deficit on track.",
+      "stage": "knowledge"
     },
     {
       "id": "nug_123",
@@ -1221,64 +1822,8 @@
       "audience": "all",
       "icon": "arrow.triangle.swap",
       "title": "Supersets are optional",
-      "body": "On Phase 2 and 3 days you'll see a \"Supersets\" toggle. On, the app runs each pair back-to-back with one combined timer; off, you do them as straight sets with rest between. Both deliver the same volume — if the gym's busy or you prefer straight sets, switch it off and tap \"Can't pair them?\" for how to keep the same density."
-    },
-    {
-      "id": "nug_124",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "icloud.fill",
-      "title": "Your tracker backs up to iCloud",
-      "body": "Strathlon quietly mirrors your food logs, saved foods and auto-add rules to your private iCloud so they survive a reinstall or a new phone — no account, no upload of your raw meals to us. Restore happens automatically on a fresh install. Prefer to keep it local? Turn it off in Profile → Privacy & your data, where you can also export a full copy anytime."
-    },
-    {
-      "id": "nug_125",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "wand.and.stars",
-      "title": "Foods you log often, on autopilot",
-      "body": "Eat the same breakfast most days? Strathlon spots foods you log regularly and offers to add them automatically on your chosen days — tap \"Set it up\" on the suggestion card and pick the days and meal slot. It's all worked out on your device, and you can manage or remove any rule under Nutrition → My Foods."
-    },
-    {
-      "id": "nug_126",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "lightbulb.fill",
-      "title": "Shape what we build next",
-      "body": "Got an idea for Strathlon? Open More → \"App roadmap & Feature requests\" to suggest a feature and vote others up or down. The public roadmap is ordered by votes, so the most-wanted ideas rise to the top — your vote genuinely steers what gets built."
-    },
-    {
-      "id": "nug_127",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "rectangle.compress.vertical",
-      "title": "Tidy up your workout screen",
-      "body": "Sections on the workout screen — your warm-up, today's exercises and the optional HIIT finisher — collapse and expand with a tap on their header. Fold away what you've finished (or don't need yet) to keep the bit you're working on front and centre. Strathlon remembers a sensible default each time."
-    },
-    {
-      "id": "nug_128",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "figure.arms.open",
-      "title": "Sharper targets from your body composition",
-      "body": "If a smart scale or wearable logs your lean mass to Apple Health, turn on Body composition in Profile → Settings. Strathlon then uses the Katch-McArdle formula for a more accurate calorie (BMR) and protein target — better for muscular or higher-body-fat builds. It reads body fat % and lean mass only, stays on your device, and is never sent to the AI.",
-      "learnMoreURL": "https://strathlon.com/stats-protein#factors"
-    },
-    {
-      "id": "nug_129",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "photo.on.rectangle.angled",
-      "title": "Track your progress in photos",
-      "body": "The scale only tells half the story. Open More → Progress Photos and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Your photos stay private on your device: never uploaded, never sent to the AI, never in any export."
-    },
-    {
-      "id": "nug_130",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "rectangle.split.2x1",
-      "title": "See your before & after",
-      "body": "Got two or more progress photos? Open More → Progress Photos and tap Compare to put two side by side — oldest vs newest by default — with the days between them and your weight change. Tap either date to pick any two. It all stays on your device."
+      "body": "On Phase 2 and 3 days you'll see a \"Supersets\" toggle. On, the app runs each pair back-to-back with one combined timer; off, you do them as straight sets with rest between. Both deliver the same volume — if the gym's busy or you prefer straight sets, switch it off and tap \"Can't pair them?\" for how to keep the same density.",
+      "stage": "knowledge"
     },
     {
       "id": "nug_131",
@@ -1287,15 +1832,8 @@
       "icon": "list.number",
       "title": "Set your primary sport",
       "body": "Play more than one sport? In your profile you can reorder them — the one at the top is your primary. Your gym work is tuned to your top two sports, while any others still shape your schedule and nutrition. Reorder anytime to change which two drive your lifts.",
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation"
-    },
-    {
-      "id": "nug_132",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "arrow.uturn.backward",
-      "title": "Marked a session by mistake?",
-      "body": "Tapped \"Mark this session done\" by accident? Just tap it again to undo. Sessions captured automatically — from a guided session or your Apple Watch — stay locked, so your real training is never removed by accident."
+      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "stage": "knowledge"
     },
     {
       "id": "nug_133",
@@ -1303,314 +1841,8 @@
       "audience": "all",
       "icon": "flag.checkered",
       "title": "Your HIIT finisher ends on a high",
-      "body": "Push through to the last interval and your HIIT finisher gives you a proper sign-off — your rounds, minutes and an estimated calorie burn — plus a heads-up on what's next in your week. No more abrupt cut-off; it's the cherry on top of a hard session."
-    },
-    {
-      "id": "nug_134",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "applewatch",
-      "title": "Live heart rate from your Apple Watch",
-      "body": "Got an Apple Watch with the Strathlon watch app? As a premium member it now starts itself the moment you begin a session — no need to tap Start on your wrist — and your live heart rate streams straight to your phone, so the BPM and zone update beat-by-beat (a ⌚ shows when it's live). It records as one continuous workout of the right type, with calories. Just don't also start Apple's own Workout app at the same time, or your calories get counted twice. No watch? Your heart rate still comes from Apple Health where available.",
-      "learnMoreURL": "https://strathlon.com/blog-apple-watch"
-    },
-    {
-      "id": "nug_135",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "heart.text.square",
-      "title": "Watch your heart rate between sets",
-      "body": "Your live heart rate now shows on the strength session screen too — during each set and the rest countdown between them. Glancing at it as it drops between sets is a simple readiness check: once it eases back toward your warm-up range you're recovered enough for a strong next set. A ⌚ means it's live from your Apple Watch.",
-      "learnMoreURL": "https://strathlon.com/stats-average-heart-rate"
-    },
-    {
-      "id": "nug_136",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "scalemass",
-      "title": "Track the weights you lift",
-      "body": "Open any exercise on your Plan and log your working weight × reps (pre-filled from last time — usually one tap), or tap 'Log each set' for set-by-set detail. Enter in kg or lb; both are shown. After a few sessions your review gains a Strength progress section: heaviest set, estimated 1-rep max, total volume-load, your trend, and a nudge to deload when a lift stalls.",
-      "learnMoreURL": "https://strathlon.com/stats-strength-progress"
-    },
-    {
-      "id": "nug_137",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "camera.viewfinder",
-      "title": "Snap a photo to log your weight",
-      "body": "Hate typing weights mid-set? Subscribers can tap '📷 Snap to fill' on the weight panel and point the camera at the dumbbell, plate, machine display or your logbook — the AI reads the number and fills in the weight and reps. It shows what it read; you just review and tap Save. (Premium.)",
-      "learnMoreURL": "https://strathlon.com/blog-ai-macro-logging"
-    },
-    {
-      "id": "nug_138",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "stopwatch",
-      "title": "Don't rest too long between sets",
-      "body": "Strathlon now learns from your rest between sets. If you wear an Apple Watch it tracks how fast your heart rate drops between sets — a faster drop over time signals improving fitness — and flags when you've rested so long your HR fully recovered and the set's gone cold. See the Rest & recovery card in your review.",
-      "learnMoreURL": "https://strathlon.com/stats-hr-recovery"
-    },
-    {
-      "id": "nug_139",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "checkmark.circle",
-      "title": "Know when you're ready for the next set",
-      "body": "Wear an Apple Watch? During your rest between sets, Strathlon now shows a '✓ Recovered — ready for your next set' cue (with a gentle tap) once your heart rate has dropped back from the effort. It's just a readiness hint — rest as long as you like — but it helps you avoid resting so long the set goes cold.",
-      "learnMoreURL": "https://strathlon.com/stats-hr-recovery"
-    },
-    {
-      "id": "nug_140",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "figure.walk.motion",
-      "title": "Logging an activity adjusts what you can eat",
-      "body": "Adding a walk, run or ride in 'Add a session, walk or activity' raises today's eating allowance — it's how anyone, watch or not, accounts for activity in what they eat. Handy to plan ahead, or to log something you've already done. Your Apple Watch separately tracks the calories you burn — that's a different number, on the burn side. For example: log a lunchtime walk and today's eating allowance nudges up — your watch was already counting the burn.",
-      "learnMoreURL": "https://strathlon.com/blog-apple-watch"
-    },
-    {
-      "id": "nug_141",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "allergens",
-      "title": "Set your allergies so plans avoid them",
-      "body": "In onboarding or Settings, add your food allergies (common ones in a tap, plus custom) and any supplement ingredients to avoid. Strathlon then treats them as hard, never-suggest exclusions in your meal plans and AI coach, and flags clashing supplements. Always check labels too — we can't guarantee third-party ingredient data."
-    },
-    {
-      "id": "nug_142",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "heart.text.square.fill",
-      "title": "Health & safety: tell us what keeps your plan safe",
-      "body": "There's a private Health & safety step in onboarding (and in Settings). Note any ongoing health conditions or medications, or — if it applies — that you're pregnant or breastfeeding. If you're pregnant or breastfeeding, Strathlon recommends pausing the programme and following your doctor or midwife: it won't set a weight-loss target or a pregnancy training or eating plan, and never puts you in a calorie deficit — but you can still log meals, weight and activity. Everything stays on your device. General information, not medical advice."
-    },
-    {
-      "id": "nug_143",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "checklist",
-      "title": "A quick fitness-readiness check",
-      "body": "Onboarding includes a short, optional set of yes/no readiness questions — the kind a personal trainer asks before you start (heart conditions, chest pain, dizziness, and so on). If any answer stands out, Strathlon recommends getting medical clearance from your doctor before you begin or push harder. It's a readiness check, not medical advice, and your answers stay on your device. You can retake it anytime in Settings."
-    },
-    {
-      "id": "nug_144",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "scalemass.fill",
-      "title": "Your weights remember themselves",
-      "body": "Log a working weight on an exercise once — typed, set-by-set, or with the photo — and Strathlon auto-fills it next time, so you don't re-enter the same number every week. Just keep it, or nudge it up/down as you progress. Logged something by mistake? Tap the ✓/✕ to untick and unsave it, per set or per exercise."
-    },
-    {
-      "id": "nug_145",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "figure.walk.motion",
-      "title": "Going away? Tell Strathlon",
-      "body": "On the Plan tab, tap \"Away or catching up?\". Set a holiday or busy spell and those days show \"On a break\" — your plan pauses where it is, nothing's lost, and there's no \"missed day\" nagging; you get a welcome-back when you're home. While you're on a break your calories ease to maintenance (no deficit) and any scheduled sport bonus isn't counted — enjoy it; your normal targets resume automatically when you're back. Trained while away (off-app, a different gym, a walk)? Tick the days and what you did — even several at once — and it counts toward your progress on any day."
-    },
-    {
-      "id": "nug_146",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "target",
-      "title": "Your Tracker now shows today's target",
-      "body": "The Tracker's top row shows four tiles — Target, Burned, Consumed and Deficit — so today's calorie target sits right next to your actuals. The target is worked out for your day type (training vs rest) and updates live when you add a walk or activity. Tap the small ⓘ on any tile to see where its number comes from.",
-      "learnMoreURL": "https://strathlon.com/understanding-your-stats#energy-balance"
-    },
-    {
-      "id": "nug_147",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "chart-candle",
-      "title": "A clearer weight chart",
-      "body": "Your weight chart keeps it simple: your actual weight (solid line) plus your predicted weight from your tracked calorie deficit (dashed line, ≈7,700 kcal ≈ 1 kg). Rotate to landscape or tap ⤢ for a full-screen view — pinch to zoom and drag to read any day's value, with a note explaining the prediction is an estimate (water, glycogen and adaptation make real weight differ).",
-      "learnMoreURL": "https://strathlon.com/stats-weight-trend#predicted-line"
-    },
-    {
-      "id": "nug_148",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "lock.shield.fill",
-      "title": "You decide what the AI Coach sees",
-      "body": "Strathlon asks once — during setup, and any time in Settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's off by default: leave it off and your Health data stays on your device and is never sent to the AI. Turn it on for sharper coaching, and switch it back off whenever you like. Your cycle info is always kept separate unless you specifically enable cycle-aware coaching."
-    },
-    {
-      "id": "nug_149",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "chart.xyaxis.line",
-      "title": "Why the scale doesn't always match the maths",
-      "body": "On the Tracker, your weight chart overlays the weight your logged calorie deficit predicts (dashed line) against your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask your coach to explain this gap': confirm a quick share prompt (your numbers are used only for that answer and aren't remembered) and it goes straight into the AI Coach, which explains it or asks you a question or two — no typing needed.",
-      "learnMoreURL": "https://strathlon.com/stats-weight-trend#predicted-line"
-    },
-    {
-      "id": "nug_150",
-      "category": "app-tip",
-      "audience": "female",
-      "icon": "heart.circle.fill",
-      "title": "Your plan can flex with your cycle",
-      "body": "If you log your cycle in Apple Health, Strathlon adds gentle, on-device notes for where you are in it. Around your period and the week before, the Nutrition tab reminds you that rising cravings are normal (with iron, hydration and protein tips) — and an optional switch can ease your calorie target by about 100 kcal that week so you stay consistent. On the Plan tab, a note suggests training by feel when energy dips and pushing in your stronger mid-cycle window. Both switches are off by default in Settings, and your cycle data never leaves your device.",
-      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle"
-    },
-    {
-      "id": "nug_151",
-      "category": "app-tip",
-      "audience": "female",
-      "icon": "bubble.left.and.text.bubble.right.fill",
-      "title": "Want cycle-aware coaching? You choose",
-      "body": "There's a separate, off-by-default switch in Settings that lets the AI coach factor your cycle into its advice. If you turn it on, the coach sees only a general phase label — like 'pre-menstrual' or 'mid-cycle' — and nothing else: never your dates, flow, symptoms or history. It's kept separate from the general Health-data sharing control, so it's entirely your call. Leave it off and the coach works exactly as before."
-    },
-    {
-      "id": "nug_152",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "flag.checkered",
-      "title": "Your finish knows what's next",
-      "body": "When you wrap up a workout, Strathlon now congratulates you on the session you just finished — then looks at the rest of your day. If you've got a match, a long ride or another hard session still to come, it suggests an easier HIIT finisher, with one tap to lighten it, so you're not cooked before the main event. And if there's more ahead, it'll point you to the AI coach for recovery and meal ideas. Nothing is forced — it only ever suggests, and the option quietly disappears if you don't take it."
-    },
-    {
-      "id": "nug_153",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "scalemass.fill",
-      "title": "Your weight fills itself in",
-      "body": "If you record your weight in Apple Health, Strathlon pulls it into your Tracker automatically — even for past days you're back-filling on the Edit Log screen. Look for the small 'i' next to the weight field for a reminder of how it works. You can always type over the number to set a different value for that day; what you enter by hand wins."
-    },
-    {
-      "id": "nug_154",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "applewatch",
-      "title": "Your Apple Watch does the work — free",
-      "body": "Got an Apple Watch? Start your session on the phone and Strathlon starts the workout on your watch automatically — your live heart rate streams in, and each block (warm-up, strength, HIIT) is logged to the Apple Workout app with its own calories. No taps on the watch, and no subscription needed — it's part of the free app.",
-      "learnMoreURL": "https://strathlon.com/blog-apple-watch"
-    },
-    {
-      "id": "nug_155",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "heart.fill",
-      "title": "Red means you're on it",
-      "body": "During a session your live heart rate is colour-coded so you can read it at a glance without thinking: bright amber means you're below target (push a little harder), and red means you're at or above target — you're working. Same whether the reading comes from your Apple Watch or Apple Health.",
-      "learnMoreURL": "https://strathlon.com/stats-average-heart-rate"
-    },
-    {
-      "id": "nug_156",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "applewatch.side.right",
-      "title": "Run your workout from your wrist",
-      "body": "With an Apple Watch, once your session starts you can drive the whole thing from your wrist — your watch shows the current exercise, your set and rep target, and one big button. Tap Done to log a set and start your rest countdown; tap again during rest to skip it. It carries you from warm-up through every set to your HIIT finisher, so you never have to pick up your phone. (A premium feature — the app works fully without a watch too.)",
-      "learnMoreURL": "https://strathlon.com/blog-apple-watch"
-    },
-    {
-      "id": "nug_157",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "brain.head.profile",
-      "title": "Your AI coach knows your whole day",
-      "body": "Your AI coach isn't guessing. It reads your real macros and the foods you've logged straight from your Tracker, and it knows your full programme — every phase, today's actual exercises, and how you're tracking to date — so its advice fits exactly where you are. Your weight and body-composition data stay private unless you've chosen to share Health data.",
-      "learnMoreURL": "https://strathlon.com/blog-ai-coach"
-    },
-    {
-      "id": "nug_158",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "flag.checkered",
-      "title": "Not done when your plan ends? It adapts",
-      "body": "When a plan finishes its weeks, Strathlon checks how you did against your goal. Close but not there? It offers to keep going with a fresh block sized to exactly what's left — recalculating your calories and tightening the training. Hit your goal? It points you to Maintenance. Stalled? It says so honestly and helps you regroup, or asks your AI coach what to change.",
-      "learnMoreURL": "https://strathlon.com/blog-plan-ends-goal-reached"
-    },
-    {
-      "id": "nug_159",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "applewatch",
-      "title": "First time with your Apple Watch?",
-      "body": "One-time setup: open the Strathlon app on your watch and tap Allow when it asks for Health access. After that, starting a session on your phone launches the workout on your wrist automatically — live heart rate, no taps. You only do this once per watch."
-    },
-    {
-      "id": "nug_160",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "heart.fill",
-      "title": "Live heart rate, hands-free — and free",
-      "body": "With an Apple Watch, your real-time heart rate streams to your phone during every session and each block logs to Apple's Workout app with calories — no subscription needed. Premium adds hands-free control: tap Done on your wrist to log a set and start your rest.",
-      "learnMoreURL": "https://strathlon.com/blog-apple-watch"
-    },
-    {
-      "id": "nug_161",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "exclamationmark.triangle.fill",
-      "title": "Let Strathlon start the watch workout — not you",
-      "body": "When you begin a session on your phone, Strathlon automatically starts (and stops) the workout on your Apple Watch. Don't also tap Start in Apple's own Workout app for the same session — running two at once double-counts your calories and can interrupt the heart-rate stream. Just start on the phone and let it drive."
-    },
-    {
-      "id": "nug_162",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "chart.xyaxis.line",
-      "title": "Your weight chart shows when you were away",
-      "body": "Holidays and breaks you set now appear as a soft sky-blue band behind your weight chart, and cycle phases show in baby pink — so a dip or a plateau is easy to explain at a glance. The chart also scrolls sideways now: the daily view opens on your most recent weeks and you can swipe back through your history, just like a stock chart."
-    },
-    {
-      "id": "nug_163",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "circle.fill",
-      "title": "Red dots on your weight chart = a session you didn't log",
-      "body": "If you train but don't run the guided session, tap Done on your watch, or mark it done, the app can't see it. A small red dot on a scheduled gym day means no session was logged that day. Did train it? Tap the dot and choose 'I trained this day' — it'll count toward your consistency and the dot clears. Dots only show once you're logging regularly."
-    },
-    {
-      "id": "nug_164",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "flame.fill",
-      "title": "Where to find your watch calories",
-      "body": "Apple's Fitness app lists every workout by its duration, not calories — that's Apple's layout, not a missing number. Your calories ARE recorded: tap any workout to see them. And while you train, your live burn vs target shows right on your wrist and in Strathlon.",
-      "learnMoreURL": "https://strathlon.com/blog-apple-watch"
-    },
-    {
-      "id": "nug_165",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "figure.indoor.cycle",
-      "title": "Log your gym classes in a tap",
-      "body": "Went to Spin, HIIT, Body Pump, Yoga or Step? Tap 'Add a session, walk or activity', open Gym classes, and pick yours — search the name you know (try 'rpm' or 'bodypump'). Calories scale to your weight; tweak the duration or pin your own number. Not listed? Use 'Other class (custom)'."
-    },
-    {
-      "id": "nug_166",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "scalemass",
-      "title": "kg, lb or stone — your choice",
-      "body": "Prefer pounds or stone? In Settings, under Body & Stats, tap Units and choose kg, lb or stone. Your weight reflows everywhere instantly — profile, tracker, charts and progress photos — and weight entry switches too (stone gives you two fields, st and lb). Your saved data never changes, so switch back any time."
-    },
-    {
-      "id": "nug_167",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "ruler",
-      "title": "Add distance to your runs and walks",
-      "body": "When you log a run or walk in 'Add a session, walk or activity', add the distance in km — it drives the calorie estimate directly, so the burn matches how far you actually went, not just how long. It's optional: leave it blank and we use the duration estimate. Cycling and swimming log distance as a stat, with the estimate still based on duration."
-    },
-    {
-      "id": "nug_168",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "icloud",
-      "title": "Back up your progress photos privately",
-      "body": "You can optionally back up your progress photos to your own private iCloud, so they appear on your other devices and return if you reinstall or get a new phone. It is off by default — turn it on in Profile > Privacy & your data. Your photos go only to your personal iCloud account, never to a Strathlon server, never to the AI, and never to any export. Turning it off keeps every photo safely on your device."
-    },
-    {
-      "id": "nug_169",
-      "category": "app-tip",
-      "audience": "all",
-      "icon": "sparkles",
-      "title": "Your AI progress analysis, one tap away",
-      "body": "Open the AI Coach with no chat going and you'll see a 'Your AI progress analysis' card at the top. It gives a quick read on your week — your weight trend, sessions logged or nutrition, in your chosen units — and shows a NEW badge when a fresh weekly review is ready. Tap it for your full analysis: the computed stats plus your coach's take on what's working.",
-      "learnMoreURL": "https://strathlon.com/blog-ai-coach"
+      "body": "Push through to the last interval and your HIIT finisher gives you a proper sign-off — your rounds, minutes and an estimated calorie burn — plus a heads-up on what's next in your week. No more abrupt cut-off; it's the cherry on top of a hard session.",
+      "stage": "knowledge"
     }
   ]
 }
