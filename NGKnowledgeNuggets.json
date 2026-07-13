@@ -1,5 +1,5 @@
 {
-  "version": "1.49.0",
+  "version": "1.50.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -565,9 +565,10 @@
       "category": "app-tip",
       "audience": "all",
       "icon": "scalemass.fill",
-      "title": "Your weight fills itself in",
-      "body": "If you record your weight in Apple Health, Strathlon pulls it into your Tracker automatically — even for past days you're back-filling on the Edit Log screen. Look for the small 'i' next to the weight field for a reminder of how it works. You can always type over the number to set a different value for that day; what you enter by hand wins.",
-      "stage": "usage-core"
+      "title": "Your weight keeps your plan current",
+      "body": "Weigh in on a scale that syncs to Apple Health and Strathlon brings it in automatically — there's no \"update your weight?\" tap any more. What you see is always your latest reading; behind the scenes your calorie and protein targets follow a smoothed, roughly 7-day trend of your weight, so one heavy or light morning never jerks your targets around. Want to set a specific day yourself? Type it in and your number wins for that day.",
+      "stage": "usage-core",
+      "learnMoreURL": "https://strathlon.com/blog-tracking-progress"
     },
     {
       "id": "nug_157",
