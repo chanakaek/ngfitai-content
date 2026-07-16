@@ -1,5 +1,5 @@
 {
-  "version": "1.51.0",
+  "version": "1.52.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -1796,7 +1796,7 @@
       "audience": "all",
       "icon": "figure.run",
       "title": "Your plan follows your training, not the calendar",
-      "body": "Your programme phase only moves forward on weeks you actually train. Take a holiday or a flat-out work week and your plan pauses right where you left it — so you're never pushed into the hardest block without doing the build-up first. Consistency moves you on; time off simply waits for you.",
+      "body": "Your programme phase only moves forward on weeks you actually train. Take a holiday or a flat-out work week and your plan pauses right where you left it — so you're never pushed into the hardest block without doing the build-up first. Future phases stay locked until you earn them: tap one on the Plan tab to preview what's coming and when it unlocks. Anything you've earned never locks again — and if you'd rather browse freely, turn off 'Lock future phases until earned' in More → Profile & Settings → Training.",
       "stage": "knowledge"
     },
     {

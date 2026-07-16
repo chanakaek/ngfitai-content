@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "title": "HOW STRATHLON WORKS (product help — use this to answer 'how do I…' questions about the app)",
   "sections": [
     {
@@ -14,7 +14,7 @@
     {
       "name": "Training plan & sessions",
       "tips": [
-        "Today's session is at the top of the Plan tab. The programme periodises through phases that get harder as you progress; tap 'Why this phase?' on a gym day to see the science.",
+        "Today's session is at the top of the Plan tab. The programme periodises through phases that get harder as you progress; tap 'Why this phase?' on a gym day to see the science. The plan opens on the phase you're actually in, and future phases stay locked until you earn them by training (on by default). Tap a locked phase to read what's coming and when it unlocks — your workouts stay on your current phase until then — and a small 'Phase unlocked' note appears when you get there. Anything you've already earned never locks again, even after a fresh cut or a break. Prefer free access to every phase? Turn off 'Lock future phases until earned' in More → Profile & Settings → Training. Maintenance is always available.",
         "Tap an exercise to run rest timers, spoken cues and a 3-2-1 into each set. Tap 'Ask Coach' on any exercise to hand the Coach that exercise's full context for form tips.",
         "Warm-up, rest and HIIT timers keep running on the Lock Screen and Dynamic Island.",
         "Log working weight × reps on any exercise (pre-filled from last time), or 'Log each set' for detail. Enter kg or lb. Subscribers can tap '📷 Snap to fill' to read the weight off a plate/machine/logbook. Weights auto-fill next time.",
