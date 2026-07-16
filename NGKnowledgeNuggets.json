@@ -1,5 +1,5 @@
 {
-  "version": "1.52.0",
+  "version": "1.53.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -424,7 +424,7 @@
       "audience": "all",
       "icon": "icloud.fill",
       "title": "Your tracker backs up to iCloud",
-      "body": "Strathlon quietly mirrors your food logs, saved foods and auto-add rules to your private iCloud so they survive a reinstall or a new phone — no account, no upload of your raw meals to us. Restore happens automatically on a fresh install. Prefer to keep it local? Turn it off in More → Profile & Settings → App settings → Privacy & your data, where you can also export a full copy anytime.",
+      "body": "Strathlon quietly mirrors your profile, food logs, saved foods, meal plans, schedule and holiday breaks to your private iCloud so they survive a reinstall or a new phone — no account, no upload of your raw meals to us. On a fresh install a Welcome back screen offers to restore everything (or start fresh). Prefer to keep it local? Turn it off in More → Profile & Settings → App settings → Privacy & your data, where you can also export a full copy anytime.",
       "learnMoreURL": "https://strathlon.com/blog-icloud-sync",
       "stage": "usage-premium"
     },
