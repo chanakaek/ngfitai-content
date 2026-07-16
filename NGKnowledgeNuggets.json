@@ -1,5 +1,5 @@
 {
-  "version": "1.50.0",
+  "version": "1.51.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -1823,7 +1823,7 @@
       "audience": "all",
       "icon": "arrow.triangle.swap",
       "title": "Supersets are optional",
-      "body": "On Phase 2 and 3 days you'll see a \"Supersets\" toggle. On, the app runs each pair back-to-back with one combined timer; off, you do them as straight sets with rest between. Both deliver the same volume — if the gym's busy or you prefer straight sets, switch it off and tap \"Can't pair them?\" for how to keep the same density.",
+      "body": "On Phase 2 and 3 days exercises come in groups, and each group header has its own switch. On, the app runs that group back-to-back with one combined timer; off, those exercises run as straight sets with rest between every set. Both deliver the same volume — and the app remembers your choice per pairing, so a group that never works at your gym stays as straight sets. Tap the info button on a switched-off group for how to keep the same density.",
       "stage": "knowledge"
     },
     {

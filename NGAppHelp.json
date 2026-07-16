@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "title": "HOW STRATHLON WORKS (product help — use this to answer 'how do I…' questions about the app)",
   "sections": [
     {
@@ -95,7 +95,7 @@
         "Warm-up, rest and HIIT countdowns keep running on the Lock Screen and in the Dynamic Island with spoken cues, so you can put the phone down between sets. The voice coach calls each exercise and set including the rep target, with a 3-2-1 into each work set.",
         "Log working weight × reps on any exercise (pre-filled from last time), or choose 'Log each set' for per-set detail. Enter kg or lb. Bodyweight moves can be saved with a weight of 0.",
         "Subscribers can tap 'Snap to fill' to photograph a dumbbell, plate or machine display and Strathlon reads the number off it. Weights then auto-fill next time, so you just confirm or nudge them.",
-        "Where the plan pairs exercises, toggle the back-to-back superset/tri-set run mode on or off to suit your gym and your energy that day.",
+        "Where the plan pairs exercises into groups, each group header has its own switch. Leave it on to run that group back-to-back as a superset/tri-set; turn it off to do those exercises one at a time as straight sets, each with its own start button and rest between every set. The app remembers the choice per pairing, so a combination that never works at your gym stays as straight sets. On a switched-off group, tap the info button on its header for how to keep the same training density.",
         "Trained away from the app or your phone? Tap 'Mark this session done' so it still counts (works for earlier days too); tap again to undo. Sessions captured automatically (a guided session or an Apple Watch workout) stay locked so real training is never removed by accident."
       ]
     },
