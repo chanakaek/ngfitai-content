@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -125,9 +125,9 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: swapped to DB Lateral Raise — no overhead pressing. Light DBs, elbow leads to shoulder height only, controlled descent.",
+          "tip": "SHOULDER ADAPTED: swapped to Dumbbell Lateral Raise — no overhead pressing. Light DBs, elbow leads to shoulder height only, controlled descent.",
           "isAdapted": true,
-          "name": "DB Lateral Raise"
+          "name": "Dumbbell Lateral Raise"
         }
       }
     },
@@ -255,7 +255,7 @@
       },
       "injuryAdaptations": {
         "elbow": {
-          "name": "DB Overhead Extension (Neutral)",
+          "name": "Dumbbell Overhead Extension (Neutral)",
           "tip": "ELBOW ADAPTED: neutral-grip DB overhead extension is gentler on the elbow than a straight-bar overhead.",
           "isAdapted": true
         }
@@ -346,7 +346,7 @@
       },
       "injuryAdaptations": {
         "elbow": {
-          "name": "Close-Grip Neutral DB Press",
+          "name": "Close-Grip Neutral Dumbbell Press",
           "tip": "ELBOW ADAPTED: neutral grip DB press — no shoulder loading from dip position.",
           "isAdapted": true
         },
@@ -692,7 +692,7 @@
     },
     {
       "id": "db-single-arm-row",
-      "name": "DB Single-Arm Row",
+      "name": "Dumbbell Single-Arm Row",
       "category": "pull",
       "environment": [
         "gym"
@@ -860,7 +860,7 @@
     },
     {
       "id": "incline-db-curl",
-      "name": "Incline DB Curl",
+      "name": "Incline Dumbbell Curl",
       "category": "pull",
       "environment": [
         "gym"
@@ -1533,7 +1533,7 @@
     },
     {
       "id": "db-shoulder-press-upper",
-      "name": "DB Shoulder Press",
+      "name": "Dumbbell Shoulder Press",
       "category": "upper",
       "environment": [
         "gym"
@@ -1694,7 +1694,7 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "name": "DB Lateral Raise",
+          "name": "Dumbbell Lateral Raise",
           "tip": "SHOULDER ADAPTED: lateral raises only — no pressing overhead.",
           "isAdapted": true
         }
@@ -1820,7 +1820,7 @@
         "shoulder": {
           "tip": "SHOULDER ADAPTED: swapped to Face Pull — no overhead lockout. Light, pull to the forehead with elbows high, external-rotate at the end. Rotator-cuff friendly.",
           "isAdapted": true,
-          "name": "Face Pull"
+          "name": "Cable Face Pull"
         }
       }
     },
@@ -2190,7 +2190,7 @@
     },
     {
       "id": "incline-db-curl-arms",
-      "name": "Incline DB Curl",
+      "name": "Incline Dumbbell Curl",
       "category": "arms",
       "environment": [
         "gym"
@@ -2229,7 +2229,7 @@
     },
     {
       "id": "db-overhead-extension-neutral",
-      "name": "DB Overhead Extension (Neutral)",
+      "name": "Dumbbell Overhead Extension (Neutral)",
       "category": "arms",
       "environment": [
         "gym"
@@ -2314,7 +2314,7 @@
     },
     {
       "id": "close-grip-neutral-db-press",
-      "name": "Close-Grip Neutral DB Press",
+      "name": "Close-Grip Neutral Dumbbell Press",
       "category": "arms",
       "environment": [
         "gym"
@@ -2530,7 +2530,7 @@
           "isAdapted": false
         },
         "shoulder": {
-          "name": "DB Lateral Raise",
+          "name": "Dumbbell Lateral Raise",
           "tip": "SHOULDER ADAPTED: no overhead pressing — lateral raise instead.",
           "isAdapted": true
         }
@@ -2667,7 +2667,7 @@
     },
     {
       "id": "db-thruster",
-      "name": "DB Thruster",
+      "name": "Dumbbell Thruster",
       "category": "fullbody",
       "environment": [
         "gym"
@@ -2717,7 +2717,7 @@
     },
     {
       "id": "maintenance-push-incline",
-      "name": "Incline Barbell / DB Press",
+      "name": "Incline Dumbbell Press",
       "category": "maintenance",
       "environment": [
         "gym"
@@ -2728,7 +2728,7 @@
           "sets": "4",
           "reps": "5-6",
           "tempo": "3-1-1",
-          "tip": "Heaviest pressing of your programme. Control descent fully. Strength benchmark.",
+          "tip": "Heaviest pressing of your programme. Control descent fully. Strength benchmark. Barbell or heavy dumbbells.",
           "group": ""
         }
       },
@@ -2742,12 +2742,12 @@
     },
     {
       "id": "maintenance-push-flat",
-      "name": "Flat DB Press",
+      "name": "Dumbbell Bench Press",
       "category": "maintenance",
       "environment": [
         "gym"
       ],
-      "videoURL": "https://www.youtube.com/results?search_query=flat+db+press+form",
+      "videoURL": "https://www.youtube.com/results?search_query=flat+dumbbell+press+form",
       "phases": {
         "maintenance": {
           "sets": "4",
@@ -2760,7 +2760,7 @@
     },
     {
       "id": "maintenance-push-shoulder",
-      "name": "Seated DB Shoulder Press",
+      "name": "Dumbbell Shoulder Press",
       "category": "maintenance",
       "environment": [
         "gym"
@@ -2839,7 +2839,7 @@
     },
     {
       "id": "maintenance-pull-row",
-      "name": "Barbell / Heavy DB Row",
+      "name": "Barbell Row",
       "category": "maintenance",
       "environment": [
         "gym"
@@ -2850,13 +2850,13 @@
           "sets": "4",
           "reps": "6-8",
           "tempo": "2-1-1",
-          "tip": "Heaviest horizontal pull. Pull to hip, not ribcage. Elbow past body.",
+          "tip": "Heaviest horizontal pull. Pull to hip, not ribcage. Elbow past body. Barbell or heavy dumbbells.",
           "group": ""
         }
       },
       "injuryAdaptations": {
         "lowerBack": {
-          "name": "Chest-Supported DB Row",
+          "name": "Chest-Supported Dumbbell Row",
           "tip": "LOWER BACK ADAPTED: chest-supported row.",
           "isAdapted": true
         }
@@ -2907,7 +2907,7 @@
     },
     {
       "id": "maintenance-pull-facepull",
-      "name": "Face Pull",
+      "name": "Cable Face Pull",
       "category": "maintenance",
       "environment": [
         "gym"
@@ -3010,7 +3010,7 @@
     },
     {
       "id": "maintenance-legs-legcurl",
-      "name": "Leg Curl",
+      "name": "Seated Leg Curl",
       "category": "maintenance",
       "environment": [
         "gym"
@@ -3046,7 +3046,7 @@
     },
     {
       "id": "maintenance-upper-incline",
-      "name": "Incline DB Press",
+      "name": "Incline Dumbbell Press",
       "category": "maintenance",
       "environment": [
         "gym"
@@ -3064,7 +3064,7 @@
     },
     {
       "id": "maintenance-upper-pullup",
-      "name": "Weighted Pull-Up (Upper Split)",
+      "name": "Weighted Pull-Up",
       "category": "maintenance",
       "environment": [
         "gym"
@@ -3145,7 +3145,7 @@
     },
     {
       "id": "db-floor-press",
-      "name": "DB Floor Press",
+      "name": "Dumbbell Floor Press",
       "category": "home",
       "environment": [
         "home"
@@ -3229,7 +3229,7 @@
     },
     {
       "id": "db-shoulder-press-home",
-      "name": "DB Shoulder Press",
+      "name": "Dumbbell Shoulder Press",
       "category": "home",
       "environment": [
         "home"
@@ -3346,12 +3346,12 @@
     },
     {
       "id": "single-arm-db-row-home",
-      "name": "Single-Arm DB Row",
+      "name": "Single-Arm Dumbbell Row",
       "category": "home",
       "environment": [
         "home"
       ],
-      "videoURL": "https://www.youtube.com/results?search_query=single+arm+db+row+form",
+      "videoURL": "https://www.youtube.com/results?search_query=single+arm+dumbbell+row+form",
       "phases": {
         "1": {
           "sets": "3",
@@ -3385,7 +3385,7 @@
     },
     {
       "id": "rear-delt-fly-home",
-      "name": "Rear Delt DB Fly",
+      "name": "Rear Delt Dumbbell Fly",
       "category": "home",
       "environment": [
         "home"
@@ -3424,7 +3424,7 @@
     },
     {
       "id": "db-curl-home",
-      "name": "DB Curl",
+      "name": "Dumbbell Curl",
       "category": "home",
       "environment": [
         "home"
@@ -3509,7 +3509,7 @@
     },
     {
       "id": "db-romanian-deadlift-home",
-      "name": "DB Romanian Deadlift",
+      "name": "Dumbbell Romanian Deadlift",
       "category": "home",
       "environment": [
         "home"
@@ -3604,7 +3604,7 @@
     },
     {
       "id": "goblet-squat-home",
-      "name": "DB Goblet Squat",
+      "name": "Dumbbell Goblet Squat",
       "category": "home",
       "environment": [
         "home"
@@ -3691,7 +3691,7 @@
           "isAdapted": true
         },
         "ankle": {
-          "name": "Seated DB Calf Press",
+          "name": "Seated Dumbbell Calf Press",
           "tip": "ANKLE ADAPTED: seated calf press only. Stop if painful.",
           "isAdapted": true
         }
@@ -3951,7 +3951,7 @@
       },
       "injuryAdaptations": {
         "lowerBack": {
-          "name": "Chest-Supported DB Row",
+          "name": "Chest-Supported Dumbbell Row",
           "tip": "LOWER BACK ADAPTED: chest-supported removes spinal loading.",
           "isAdapted": true
         }
@@ -4091,7 +4091,7 @@
     },
     {
       "id": "chest-supported-db-row",
-      "name": "Chest-Supported DB Row",
+      "name": "Chest-Supported Dumbbell Row",
       "category": "pull",
       "environment": [
         "gym"
@@ -4131,7 +4131,7 @@
     },
     {
       "id": "db-lateral-raise",
-      "name": "DB Lateral Raise",
+      "name": "Dumbbell Lateral Raise",
       "category": "shoulders",
       "environment": [
         "gym"
@@ -4350,7 +4350,7 @@
     },
     {
       "id": "seated-db-calf-press",
-      "name": "Seated DB Calf Press",
+      "name": "Seated Dumbbell Calf Press",
       "category": "legs",
       "environment": [
         "gym"
@@ -4390,7 +4390,7 @@
     },
     {
       "id": "legs-seated-calf-press-home",
-      "name": "Seated DB Calf Press",
+      "name": "Seated Dumbbell Calf Press",
       "category": "legs",
       "environment": [
         "home"
@@ -5268,12 +5268,12 @@
     },
     {
       "id": "legs-step-up-home",
-      "name": "DB Step-Up",
+      "name": "Dumbbell Step-Up",
       "category": "legs",
       "environment": [
         "home"
       ],
-      "videoURL": "https://www.youtube.com/results?search_query=db+step-up+form",
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+step-up+form",
       "phases": {
         "1": {
           "sets": "3",
