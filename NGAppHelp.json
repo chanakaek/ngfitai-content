@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
+  "version": "1.7.0",
   "title": "HOW STRATHLON WORKS (product help — use this to answer 'how do I…' questions about the app)",
   "sections": [
     {
@@ -42,7 +42,8 @@
         "Weight from Apple Health is adopted automatically now — there is no \"update your weight?\" confirm step. What you SEE on the Tracker is always your latest reading; your calorie and protein targets follow a smoothed ~7-day TREND of your weight, so a single heavy or light day doesn't move them. Type a weight in yourself and that entry wins for that day (for about 48 hours). This uses your Apple Health READ permission, which is separate from sharing Health data with the AI Coach.",
         "The weight chart shows actual weight (solid line) plus predicted weight from your tracked deficit (dashed line, ≈7,700 kcal ≈ 1 kg). They drift apart normally (water, glycogen, adaptation). Premium members can tap 'Ask your coach to explain this gap'. The chart scrolls sideways; rotate or tap ⤢ for full screen with pinch-zoom. Break periods show as a sky-blue band, cycle phases in baby pink. A muted 'Trend' line shows the smoothed ~7-day weight trend that drives your targets.",
         "Open More → Progress Photos to add a photo every week or two (auto-tagged with that day's weight) and tap Compare for before/after. Photos stay on-device by default; optional private-iCloud backup is off by default in More → Profile & Settings → App settings → Privacy & your data.",
-        "A 'Your week's ready' card atop the AI Coach tab opens your weekly review (sessions, rest, real burn, energy balance, sleep, weight trend). Tap 'Ask the Coach about this' to chat with your stats pre-loaded. The 'Your AI progress analysis' card (shown with no chat open) gives a quick weekly read plus your coach's take."
+        "A 'Your week's ready' card atop the AI Coach tab opens your weekly review (sessions, rest, real burn, energy balance, sleep, weight trend). Tap 'Ask the Coach about this' to chat with your stats pre-loaded. The 'Your AI progress analysis' card (shown with no chat open) gives a quick weekly read plus your coach's take.",
+        "The Strength progress card in your weekly review is free (per exercise: heaviest set, estimated 1RM, volume-load, trend, and a deload nudge when a lift stalls). Subscribers can also tap 'See full strength history' — next to that card, and in Your Trends (the Progress button, top-left of the AI Coach tab) — to open a per-exercise chart of how a lift has changed over time: estimated 1RM or top-set (a toggle), personal-record markers, and shaded plateaus, in your chosen weight unit; swipe to scroll your history."
       ]
     },
     {
