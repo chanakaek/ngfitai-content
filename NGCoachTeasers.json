@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "teasers": [
     { "id": "tz_photo_macros", "template": "photoMacros", "audience": "all",
       "title": "Snap your plate. Macros in seconds.",
@@ -101,6 +101,21 @@
       "title": "Predicted vs actual — they've drifted apart.",
       "blurred": ["Some of the gap is likely patchy data — you logged food on 3 of the last 7 days. Your sleep also looks…"],
       "cta": "Explain my gap" },
+
+    { "id": "tz_strength_climb", "template": "chart", "audience": "all",
+      "title": "Your lifts are climbing. Here's the read.",
+      "blurred": ["Your estimated 1-rep-max has trended up over the last few weeks — the pace says you're ready to push the next jump on…"],
+      "cta": "Analyse my strength" },
+
+    { "id": "tz_strength_plateau", "template": "chart", "audience": "all",
+      "title": "Same weight for 3 sessions? That's a plateau.",
+      "blurred": ["Your est-1RM has flatlined and I've shaded the stall on your chart. Two things that usually break a plateau like this are…"],
+      "cta": "Break my plateau" },
+
+    { "id": "tz_strength_pr", "template": "chart", "audience": "all",
+      "title": "New personal record — how'd you get here?",
+      "blurred": ["You just beat your best est-1RM. Here's what's driving it, and the movers I'd keep leaning on to keep the streak going…"],
+      "cta": "See my strength trend" },
 
     { "id": "tz_weekly", "template": "weekly", "audience": "all",
       "title": "Your week's ready.",
