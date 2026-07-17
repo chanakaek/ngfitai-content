@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.9.0",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -125,7 +125,7 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: swapped to Dumbbell Lateral Raise — no overhead pressing. Light DBs, elbow leads to shoulder height only, controlled descent.",
+          "tip": "SHOULDER ADAPTED: swapped to Dumbbell Lateral Raise — no overhead pressing. Light dumbbells, elbow leads to shoulder height only, controlled descent.",
           "isAdapted": true,
           "name": "Dumbbell Lateral Raise"
         }
@@ -256,7 +256,7 @@
       "injuryAdaptations": {
         "elbow": {
           "name": "Dumbbell Overhead Extension (Neutral)",
-          "tip": "ELBOW ADAPTED: neutral-grip DB overhead extension is gentler on the elbow than a straight-bar overhead.",
+          "tip": "ELBOW ADAPTED: neutral-grip dumbbell overhead extension is gentler on the elbow than a straight-bar overhead.",
           "isAdapted": true
         }
       }
@@ -347,7 +347,7 @@
       "injuryAdaptations": {
         "elbow": {
           "name": "Close-Grip Neutral Dumbbell Press",
-          "tip": "ELBOW ADAPTED: neutral grip DB press — no shoulder loading from dip position.",
+          "tip": "ELBOW ADAPTED: neutral grip dumbbell press — no shoulder loading from dip position.",
           "isAdapted": true
         },
         "shoulder": {
@@ -500,14 +500,14 @@
           "sets": "3",
           "reps": "8",
           "tempo": "3-0-1",
-          "tip": "Add weight via belt or DB between legs. Elbows back.",
+          "tip": "Add weight via belt or dumbbell between legs. Elbows back.",
           "group": ""
         },
         "maintenance": {
           "sets": "3",
           "reps": "6-8",
           "tempo": "3-0-1",
-          "tip": "Add weight via belt or DB between legs. Elbows back.",
+          "tip": "Add weight via belt or dumbbell between legs. Elbows back.",
           "group": ""
         }
       },
@@ -2039,7 +2039,7 @@
           "sets": "3",
           "reps": "15",
           "tempo": "2-0-1",
-          "tip": "Strict form. Shoulder height only. Machine stabilises — go heavier than DBs.",
+          "tip": "Strict form. Shoulder height only. Machine stabilises — go heavier than dumbbells.",
           "group": ""
         },
         "2": {
@@ -2796,7 +2796,7 @@
           "sets": "3",
           "reps": "6-8",
           "tempo": "3-0-1",
-          "tip": "Add weight via belt or DB between legs. Elbows back.",
+          "tip": "Add weight via belt or dumbbell between legs. Elbows back.",
           "group": ""
         }
       },
@@ -3541,7 +3541,7 @@
           "sets": "3",
           "reps": "10",
           "tempo": "4-0-1",
-          "tip": "Heavy DBs. 4-second lower. Full stretch.",
+          "tip": "Heavy dumbbells. 4-second lower. Full stretch.",
           "group": ""
         }
       },
@@ -3590,7 +3590,7 @@
           "sets": "4",
           "reps": "15",
           "tempo": "2-1-1",
-          "tip": "Add DB or plate for progression.",
+          "tip": "Add dumbbell or plate for progression.",
           "group": ""
         }
       },
@@ -3615,7 +3615,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "3-0-1",
-          "tip": "DB at chest. Upright torso. Depth to parallel. Elbows inside knees.",
+          "tip": "dumbbell at chest. Upright torso. Depth to parallel. Elbows inside knees.",
           "group": ""
         },
         "2": {
@@ -3636,7 +3636,7 @@
           "sets": "4",
           "reps": "10",
           "tempo": "3-1-1",
-          "tip": "Heavy DB. Pause at depth.",
+          "tip": "Heavy dumbbell. Pause at depth.",
           "group": ""
         }
       },
@@ -4102,7 +4102,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "Chest on an incline bench. Row DBs to ribs. No spinal load.",
+          "tip": "Chest on an incline bench. Row dumbbells to ribs. No spinal load.",
           "group": ""
         },
         "2": {
@@ -4231,7 +4231,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "Hold DB/KB at chest. Upright torso. Squat to depth. Drive through heels.",
+          "tip": "Hold dumbbell/kettlebell at chest. Upright torso. Squat to depth. Drive through heels.",
           "group": ""
         },
         "2": {
@@ -4361,7 +4361,7 @@
           "sets": "3",
           "reps": "15",
           "tempo": "2-0-1",
-          "tip": "Seated, DB on knees. Press through balls of feet. Controlled range.",
+          "tip": "Seated, dumbbell on knees. Press through balls of feet. Controlled range.",
           "group": ""
         },
         "2": {
@@ -4382,7 +4382,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-1-1",
-          "tip": "Seated calf. Heavier DBs. 1s squeeze at top.",
+          "tip": "Seated calf. Heavier dumbbells. 1s squeeze at top.",
           "group": ""
         }
       },
@@ -4401,7 +4401,7 @@
           "sets": "3",
           "reps": "15",
           "tempo": "2-0-1",
-          "tip": "Seated, DB on knees. Press through balls of feet. Controlled range.",
+          "tip": "Seated, dumbbell on knees. Press through balls of feet. Controlled range.",
           "group": ""
         },
         "2": {
@@ -4422,7 +4422,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-1-1",
-          "tip": "Seated calf. Heavier DBs. 1s squeeze at top.",
+          "tip": "Seated calf. Heavier dumbbells. 1s squeeze at top.",
           "group": ""
         }
       },
@@ -4508,7 +4508,7 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: press on the floor (floor press) so the elbows stop at the floor — limits the painful shoulder range. Neutral grip, lighter DBs.",
+          "tip": "SHOULDER ADAPTED: press on the floor (floor press) so the elbows stop at the floor — limits the painful shoulder range. Neutral grip, lighter dumbbells.",
           "isAdapted": true
         },
         "elbow": {
@@ -4704,7 +4704,7 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: keep the arms near shoulder height with a small range — do not let the shoulders stretch back. Light DBs.",
+          "tip": "SHOULDER ADAPTED: keep the arms near shoulder height with a small range — do not let the shoulders stretch back. Light dumbbells.",
           "isAdapted": true
         },
         "elbow": {
@@ -4726,7 +4726,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "Lying on the floor. Press DBs straight up. Elbows to the floor each rep.",
+          "tip": "Lying on the floor. Press dumbbells straight up. Elbows to the floor each rep.",
           "group": ""
         },
         "2": {
@@ -4753,7 +4753,7 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: keep elbows tucked ~45 degrees and press only to a pain-free height. Lighter DBs.",
+          "tip": "SHOULDER ADAPTED: keep elbows tucked ~45 degrees and press only to a pain-free height. Lighter dumbbells.",
           "isAdapted": true
         },
         "elbow": {
@@ -4775,7 +4775,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "Elbows lead. Pull DBs to chin height. Controlled lower.",
+          "tip": "Elbows lead. Pull dumbbells to chin height. Controlled lower.",
           "group": ""
         },
         "2": {
@@ -4866,7 +4866,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "Hip hinge. Back flat. Pull DBs to the ribs. Squeeze the shoulder blades.",
+          "tip": "Hip hinge. Back flat. Pull dumbbells to the ribs. Squeeze the shoulder blades.",
           "group": ""
         },
         "2": {
@@ -5279,7 +5279,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "Step onto a chair/bench (12-15 inches). Drive through the front heel. Hold DBs.",
+          "tip": "Step onto a chair/bench (12-15 inches). Drive through the front heel. Hold dumbbells.",
           "group": ""
         },
         "2": {
@@ -5314,7 +5314,7 @@
           "isAdapted": true
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: light DBs only and maintain a neutral spine throughout.",
+          "tip": "LOWER BACK ADAPTED: light dumbbells only and maintain a neutral spine throughout.",
           "isAdapted": true
         }
       }
@@ -5528,7 +5528,7 @@
           "sets": "3",
           "reps": "15",
           "tempo": "2-0-1",
-          "tip": "Hinge at the hips 45 degrees. Chest proud. Fly the DBs out. Squeeze rear delts.",
+          "tip": "Hinge at the hips 45 degrees. Chest proud. Fly the dumbbells out. Squeeze rear delts.",
           "group": ""
         },
         "2": {
@@ -5555,7 +5555,7 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: lighter DBs and hinge deeper (closer to 90 degrees) to reduce shoulder load.",
+          "tip": "SHOULDER ADAPTED: lighter dumbbells and hinge deeper (closer to 90 degrees) to reduce shoulder load.",
           "isAdapted": true
         },
         "lowerBack": {
@@ -5622,7 +5622,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "Seated, slight forward lean. Fly the DBs out to shoulder height. Full ROM.",
+          "tip": "Seated, slight forward lean. Fly the dumbbells out to shoulder height. Full ROM.",
           "group": ""
         },
         "2": {
@@ -5649,7 +5649,7 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: lighter DBs and raise to ear height ONLY — no higher, to prevent impingement.",
+          "tip": "SHOULDER ADAPTED: lighter dumbbells and raise to ear height ONLY — no higher, to prevent impingement.",
           "isAdapted": true
         }
       }
@@ -5667,7 +5667,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "Back against a chair (incline ~30 degrees). Press the DBs straight up. Front-delt emphasis.",
+          "tip": "Back against a chair (incline ~30 degrees). Press the dumbbells straight up. Front-delt emphasis.",
           "group": ""
         },
         "2": {
@@ -5739,7 +5739,7 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: swapped to Dumbbell Lateral Raise — no overhead pressing. Lighter DBs, raise strictly to shoulder height, stop at the first sign of discomfort.",
+          "tip": "SHOULDER ADAPTED: swapped to Dumbbell Lateral Raise — no overhead pressing. Lighter dumbbells, raise strictly to shoulder height, stop at the first sign of discomfort.",
           "isAdapted": true,
           "name": "Dumbbell Lateral Raise"
         }
@@ -6018,7 +6018,7 @@
       },
       "injuryAdaptations": {
         "elbow": {
-          "tip": "ELBOW ADAPTED: lighter DB, slow controlled reps, stop short of full extension at the bottom.",
+          "tip": "ELBOW ADAPTED: lighter dumbbell, slow controlled reps, stop short of full extension at the bottom.",
           "isAdapted": true
         }
       }
