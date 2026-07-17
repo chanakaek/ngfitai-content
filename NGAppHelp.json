@@ -1,5 +1,5 @@
 {
-  "version": "1.7.2",
+  "version": "1.7.3",
   "title": "HOW STRATHLON WORKS (product help — use this to answer 'how do I…' questions about the app)",
   "sections": [
     {
@@ -86,11 +86,12 @@
       "name": "Onboarding & your profile in detail",
       "tips": [
         "There is no account, sign-up or password — your profile, logs and full history live on your device, so nothing to remember and nothing to lose to a forgotten password.",
-        "First-run setup builds the plan around you: your body details, your goal, your sport (pick from any category across 38 sports), and your weekly training/match schedule. You can edit these later in More → Profile & Settings (your goal and experience change by redoing onboarding).",
+        "First-run setup builds the plan around you: your body details, your goal, your sport (pick from any category across 38 sports), and your weekly training/match schedule. You can edit these later in More → Profile & Settings (to change your goal and experience, use More → Profile & Settings → Reset & Data → 'Restart and redo onboarding', which keeps all your logged history).",
+        "Manage your data in More → Profile & Settings → Reset & Data. RESTART: 'Restart my plan' puts your plan back to Week 1 today (keeps all history), and 'Restart and redo onboarding' lets you change your goal or experience (also keeps history). CLEAR SPECIFIC DATA: tick just what you want gone — Nutrition log, Weight & body, Lifting history, Holiday periods, Coach conversations or Cycle data — everything is off by default, and what you clear is removed both on this device and from your private iCloud. DELETE EVERYTHING: type DELETE to erase all your data and your iCloud backup and start fresh. Clearing Cycle data asks a second time and never touches Apple Health. It cannot be undone and Strathlon keeps no hidden recoverable copy, so use 'Export my data first' (a CSV + JSON copy) at the top of that screen before you clear or delete.",
         "The readiness check is a short, optional set of yes/no questions — the kind a trainer asks before you start. If an answer stands out, Strathlon gently suggests getting medical clearance first. It is a readiness check, not medical advice, and stays on-device.",
         "The health & safety step captures pregnancy/breastfeeding, ongoing conditions, medications, allergies, and any food or supplement ingredients to avoid. Meal plans and the Coach treat allergies and avoid-ingredients as HARD, never-suggest exclusions.",
         "You are asked ONCE whether the AI Coach may see your Apple Health figures. It is off by default and can be changed any time in More → Profile & Settings → App settings → Privacy & your data.",
-        "To edit anything later: More → Profile & Settings. Body & Stats holds your measurements and units (your goal is read-only there — change it by redoing onboarding); the Health-data sharing switch is under App settings → Privacy & your data, and cycle-phase sharing under HEALTH → Cycle-aware insights."
+        "To edit anything later: More → Profile & Settings. Body & Stats holds your measurements and units (your goal is read-only there — change it via Reset & Data → 'Restart and redo onboarding'); the Health-data sharing switch is under App settings → Privacy & your data, and cycle-phase sharing under HEALTH → Cycle-aware insights."
       ]
     },
     {
