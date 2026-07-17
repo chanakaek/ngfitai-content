@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "title": "HOW STRATHLON WORKS (product help — use this to answer 'how do I…' questions about the app)",
   "sections": [
     {
@@ -60,8 +60,9 @@
     {
       "name": "Activities, sports & goals",
       "tips": [
-        "Add a walk, run, cycle, swim, gym class or any sport to any day (including rest days) via 'Add a session, walk or activity'. IMPORTANT distinction: your watch AUTO-tracks the calories you BURN; logging an activity here is the other side — it RAISES today's eating allowance so you can eat a bit more for it. They are different numbers and are never added together. Add distance (km) to runs/walks for a sharper estimate; enter your own burn from a watch if you have it.",
+        "Add a walk, run, cycle, swim, gym class, gym or home workout, or any sport to any day (including rest days) via 'Add a session, walk or activity'. IMPORTANT distinction: your watch AUTO-tracks the calories you BURN; logging an activity here is the other side — it RAISES today's eating allowance so you can eat a bit more for it. They are different numbers and are never added together. Add distance (km) to runs/walks for a sharper estimate; enter your own burn from a watch if you have it.",
         "For gym classes, open Gym classes and search the name (e.g. 'rpm', 'bodypump'); calories scale to your weight and you can tweak duration or pin your own number.",
+        "For a gym or home workout, open the 'Gym & home' tile: pick Push/Pull/Leg/Upper day, a full-body/circuit, home bodyweight or home dumbbell — or 'Other workout (custom)'. Search by the name you use ('ppl', 'leg day', 'calisthenics'); calories scale to your weight and duration, or turn on Override to enter your own from a watch. It's for EXTRA or unplanned work — your planned gym session is already counted, so it's never double-counted.",
         "Set each sport's Intensity (Light/Standard/High) in More → Profile & Settings → Sports to tune its calorie bonus. With multiple sports, the primary gets the full bonus and others scale.",
         "When a programme completes, switch to Maintenance: calories rise to full TDEE with carbs raised gradually over a 4-week reverse diet.",
         "Going away? Plan tab → 'On a break or catching up?' pauses your plan (calories ease to maintenance, no deficit, no 'missed day' nagging) and lets you tick days you trained while away.",
