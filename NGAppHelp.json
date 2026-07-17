@@ -1,5 +1,5 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "title": "HOW STRATHLON WORKS (product help — use this to answer 'how do I…' questions about the app)",
   "sections": [
     {
@@ -30,6 +30,8 @@
         "On the AI Coach tab, tap the camera, photograph your food, then Analyse Photo — or just type what you ate ('two eggs on toast and a flat white'). Either returns a macro estimate with one-tap 'Add to Log'.",
         "From Add to Log, pick the day and meal slot — you can back-date meals up to two weeks.",
         "The AI Coach knows your goals, sport, today's targets, logged foods and full programme. Ask 'what should I eat before training?', 'build me a meal plan for today' (returns a full day of meals it saves into Nutrition), or 'how's my progress?'.",
+        "A free Readiness card at the top of the AI Coach tab gives you a 0-100 readiness score from your sleep, resting heart rate and recovery, with the components shown — no subscription needed. When there isn't enough recent Health data yet it says so instead of guessing.",
+        "When you've turned on 'Share Health data with AI coaching' (More → Profile & Settings → App settings → Privacy), the Coach can also see and discuss your Apple Health trends — sleep, resting heart rate, VO2 max, between-set recovery, weight trend and readiness. Just ask 'how's my sleep been?', 'why's my resting HR up?' or 'am I recovered enough to train hard today?'. It reasons only from those figures, never invents numbers, and it's general guidance, not medical advice. Your cycle data is never shared and stays on its own separate switch.",
         "Strathlon spots foods you log regularly and offers to auto-add them on chosen days; manage rules under Nutrition → Quick Add (hold a food and choose 'Set as daily auto-add').",
         "Nutrition shows evidence-based supplement guidance tuned to your day type, with dose, timing and why.",
         "The AI Coach (chat, meal plans, photo macro scanning, progress analysis) is premium with a 14-day free trial on annual. Plan, timers, targets, supplements, tracker and Health sync are built in."
