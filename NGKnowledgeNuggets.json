@@ -1,5 +1,5 @@
 {
-  "version": "1.53.0",
+  "version": "1.54.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -75,7 +75,7 @@
       "audience": "all",
       "icon": "icloud.fill",
       "title": "Your data, safe across your devices",
-      "body": "Turn on iCloud backup and your training and Tracker history sync privately across your iPhone and iPad. Your cycle data never leaves your phone.",
+      "body": "Turn on iCloud backup and your profile, Tracker totals, saved foods, meal plans and schedule sync privately across your iPhone and iPad. Your weigh-ins and lifting history need the separate 'Back up training data to iCloud' switch, and your health & safety details the separate 'Back up health & safety details' switch - both off by default. Your cycle data never leaves your phone.",
       "learnMoreURL": "https://strathlon.com/blog-icloud-sync",
       "stage": "usage-premium"
     },
@@ -113,7 +113,7 @@
       "audience": "female",
       "icon": "heart.fill",
       "title": "Make Strathlon cycle-aware — your choice",
-      "body": "Four separate opt-ins let your nutrition, training, insights and Coach flex with your cycle. Your cycle data stays on your device.",
+      "body": "Separate switches let your nutrition, training, insights and Coach flex with your cycle - the AI Coach one is off by default, and you can turn any of them off. Your cycle data stays on your device - the one exception is the separate, off-by-default Coach opt-in, which shares a single general phase word (e.g. 'pre-menstrual') and never your dates, flow, symptoms or history.",
       "learnMoreURL": "https://strathlon.com/blog-cycle-features",
       "stage": "usage-premium"
     },
@@ -296,7 +296,7 @@
       "audience": "all",
       "icon": "figure.arms.open",
       "title": "Sharper targets from your body composition",
-      "body": "If a smart scale or wearable logs your lean mass to Apple Health, turn on Body composition in More → Profile & Settings → Body composition. Strathlon then uses the Katch-McArdle formula for a more accurate calorie (BMR) and protein target — better for muscular or higher-body-fat builds. It reads body fat % and lean mass only, stays on your device, and is never sent to the AI.",
+      "body": "If a smart scale or wearable logs your lean mass to Apple Health, turn on Body composition in More → Profile & Settings → Body composition. Strathlon then uses the Katch-McArdle formula for a more accurate calorie (BMR) and protein target — better for muscular or higher-body-fat builds. It reads body fat % and lean mass only. These stay on your device unless you turn on 'Share Health data with AI coaching', which includes your body composition so the coach can tailor its advice; leave that switch off and they are never sent to the AI.",
       "learnMoreURL": "https://strathlon.com/stats-protein#factors",
       "stage": "usage-core"
     },
@@ -316,7 +316,7 @@
       "audience": "all",
       "icon": "photo.on.rectangle.angled",
       "title": "Track your progress in photos",
-      "body": "The scale only tells half the story. Open More → Progress Photos and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Your photos stay private on your device: never uploaded, never sent to the AI, never in any export.",
+      "body": "The scale only tells half the story. Open More → Progress Photos and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Your photos stay private on your device by default: never in any export, and never sent to the AI unless you turn on the optional AI physique insight. If you switch on 'Sync progress photos to iCloud' they also back up to your own private iCloud - never to a Strathlon server.",
       "learnMoreURL": "https://strathlon.com/blog-tracking-progress",
       "stage": "usage-core"
     },
@@ -443,7 +443,7 @@
       "audience": "all",
       "icon": "heart.text.square.fill",
       "title": "Health & safety: tell us what keeps your plan safe",
-      "body": "There's a private Health & safety step in onboarding (and under More → Profile & Settings → Health & safety). Note any ongoing health conditions or medications, or — if it applies — that you're pregnant or breastfeeding. If you're pregnant or breastfeeding, Strathlon recommends pausing the programme and following your doctor or midwife: it won't set a weight-loss target or a pregnancy training or eating plan, and never puts you in a calorie deficit — but you can still log meals, weight and activity. Everything stays on your device. General information, not medical advice.",
+      "body": "There's a private Health & safety step in onboarding (and under More → Profile & Settings → Health & safety). Note any ongoing health conditions or medications, or — if it applies — that you're pregnant or breastfeeding. If you're pregnant or breastfeeding, Strathlon recommends pausing the programme and following your doctor or midwife: it won't set a weight-loss target or a pregnancy training or eating plan, and never puts you in a calorie deficit — but you can still log meals, weight and activity. These details stay on your device and aren't in the default iCloud backup, but they ARE shared with your AI coach so its advice is safe for you - see More > Profile & Settings > App settings > Privacy & your data > 'What your AI coach can see'. General information, not medical advice.",
       "stage": "usage-core"
     },
     {
@@ -452,7 +452,7 @@
       "audience": "all",
       "icon": "checklist",
       "title": "A quick fitness-readiness check",
-      "body": "Onboarding includes a short, optional set of yes/no readiness questions — the kind a personal trainer asks before you start (heart conditions, chest pain, dizziness, and so on). If any answer stands out, Strathlon recommends getting medical clearance from your doctor before you begin or push harder. It's a readiness check, not medical advice, and your answers stay on your device. You can retake it anytime in More → Profile & Settings → Health & safety.",
+      "body": "Onboarding includes a short, optional set of yes/no readiness questions — the kind a personal trainer asks before you start (heart conditions, chest pain, dizziness, and so on). If any answer stands out, Strathlon recommends getting medical clearance from your doctor before you begin or push harder. It's a readiness check, not medical advice. Your individual answers stay on your device; your coach is told only that something was flagged, so it can keep its advice conservative. You can retake it anytime in More → Profile & Settings → Health & safety.",
       "stage": "usage-core"
     },
     {
@@ -518,7 +518,7 @@
       "audience": "all",
       "icon": "lock.shield.fill",
       "title": "You decide what the AI Coach sees",
-      "body": "Strathlon asks once — during setup, and any time in More → Profile & Settings → App settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's off by default: leave it off and your Health data stays on your device and is never sent to the AI. Turn it on for sharper coaching, and switch it back off whenever you like. Your cycle info is always kept separate unless you specifically enable cycle-aware coaching.",
+      "body": "Strathlon asks once — during setup, and any time in More → Profile & Settings → App settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's off by default: leave it off and those Apple Health MEASUREMENTS stay on your device and are never sent to the AI. Turn it on for sharper coaching, and switch it back off whenever you like. Note what this switch does NOT cover: the health & safety details you entered yourself - allergies, pregnancy or breastfeeding, conditions, medications and injuries - are always shared with your coach so its advice is safe for you. See Privacy & your data -> 'What your AI coach can see' for the full list. Your cycle info is always kept separate unless you specifically enable cycle-aware coaching.",
       "stage": "usage-core"
     },
     {
@@ -547,7 +547,7 @@
       "audience": "female",
       "icon": "heart.circle.fill",
       "title": "Your plan can flex with your cycle",
-      "body": "If you log your cycle in Apple Health, Strathlon adds gentle, on-device notes for where you are in it. Around your period and the week before, the Nutrition tab reminds you that rising cravings are normal (with iron, hydration and protein tips) — and an optional switch can ease your calorie target by about 100 kcal that week so you stay consistent. On the Plan tab, a note suggests training by feel when energy dips and pushing in your stronger mid-cycle window. Both switches are off by default in More → Profile & Settings → Cycle-aware insights, and your cycle data never leaves your device.",
+      "body": "If you log your cycle in Apple Health, Strathlon adds gentle, on-device notes for where you are in it. Around your period and the week before, the Nutrition tab reminds you that rising cravings are normal (with iron, hydration and protein tips) — and an optional switch can ease your calorie target by about 100 kcal that week so you stay consistent. On the Plan tab, a note suggests training by feel when energy dips and pushing in your stronger mid-cycle window. Both switches are off by default in More → Profile & Settings → Cycle-aware insights, and your cycle data never leaves your device. Sharing a general phase word with the AI Coach is a separate, off-by-default switch again - and even then it is only the phase word.",
       "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle",
       "stage": "usage-core"
     },
@@ -576,7 +576,7 @@
       "audience": "all",
       "icon": "brain.head.profile",
       "title": "Your AI coach knows your whole day",
-      "body": "Your AI coach isn't guessing. It reads your real macros and the foods you've logged straight from your Tracker, and it knows your full programme — every phase, today's actual exercises, and how you're tracking to date — so its advice fits exactly where you are. Your weight and body-composition data stay private unless you've chosen to share Health data.",
+      "body": "Your AI coach isn't guessing. It reads your real macros and the foods you've logged straight from your Tracker, and it knows your full programme — every phase, today's actual exercises, and how you're tracking to date — so its advice fits exactly where you are. Your weight and body-composition figures stay private unless you've chosen to share Health data. Your health & safety details - allergies, pregnancy, conditions, medications, injuries - are always shared with the coach so its advice is safe for you.",
       "learnMoreURL": "https://strathlon.com/blog-ai-coach",
       "stage": "usage-premium"
     },
