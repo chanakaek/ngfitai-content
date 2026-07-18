@@ -1,5 +1,5 @@
 {
-  "version": "1.7.3",
+  "version": "1.7.4",
   "title": "HOW STRATHLON WORKS (product help — use this to answer 'how do I…' questions about the app)",
   "sections": [
     {
@@ -99,6 +99,8 @@
       "tips": [
         "The workout screen is split into fold-out sections — warm-up, your main workout, and a HIIT finisher. Warm-up and HIIT start folded to cut scrolling; your main workout stays open. Tap any header to collapse or expand it.",
         "Warm-up, rest and HIIT countdowns keep running on the Lock Screen and in the Dynamic Island with spoken cues, so you can put the phone down between sets. The voice coach calls each exercise and set including the rep target, with a 3-2-1 into each work set.",
+        "Some training days end with a HIIT finisher and a short core finisher (2 core moves such as plank, dead bug or glute bridge march). Core is added on strength days only — not on rest, sport-only, maintenance or gym-plus-sport double days — and it rotates week to week.",
+        "Both the HIIT finisher and the core finisher adapt to any injury you flag. HIIT filters its movements for all injury types (a shoulder injury hides overhead and forceful-arm moves; a lower-back injury hides jumps, hinges and crunches; an elbow injury hides gripping moves; knee/ankle keep the low-impact set), always leaving at least six safe options, and shows an 'Adapted for…' banner. The core finisher likewise only ever shows core work that is safe for your injuries.",
         "Log working weight × reps on any exercise (pre-filled from last time), or choose 'Log each set' for per-set detail. Enter kg or lb. Bodyweight moves can be saved with a weight of 0.",
         "Subscribers can tap 'Snap to fill' to photograph a dumbbell, plate or machine display and Strathlon reads the number off it. Weights then auto-fill next time, so you just confirm or nudge them.",
         "Where the plan pairs exercises into groups, each group header has its own switch. Leave it on to run that group back-to-back as a superset/tri-set; turn it off to do those exercises one at a time as straight sets, each with its own start button and rest between every set. The app remembers the choice per pairing, so a combination that never works at your gym stays as straight sets. On a switched-off group, tap the info button on its header for how to keep the same training density.",
