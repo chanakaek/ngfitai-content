@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
+  "version": "1.10.0",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -6022,6 +6022,405 @@
           "isAdapted": true
         }
       }
+    },
+    {
+      "id": "core-plank-forearm",
+      "name": "Plank (Forearm)",
+      "category": "core",
+      "environment": [
+        "gym",
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Plank+(Forearm)+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "30-45s",
+          "tempo": "—",
+          "tip": "On forearms and toes, body in one straight line — squeeze glutes and brace your abs. Don't let the hips sag or pike. Beginners: drop to the knees and hold.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "45-60s",
+          "tempo": "—",
+          "tip": "Longer holds. Neutral spine, ribs down.",
+          "group": ""
+        }
+      },
+      "contraindicatedInjuries": [
+        "shoulder"
+      ]
+    },
+    {
+      "id": "core-side-plank",
+      "name": "Side Plank",
+      "category": "core",
+      "environment": [
+        "gym",
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Side+Plank+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "20-30s each",
+          "tempo": "—",
+          "tip": "On one forearm, body straight, hips stacked and lifted. Don't let the top hip roll forward. Beginners: bend the bottom knee for support. Switch sides.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "30-45s each",
+          "tempo": "—",
+          "tip": "Hold each side. Lift the hips high.",
+          "group": ""
+        }
+      },
+      "contraindicatedInjuries": [
+        "shoulder"
+      ]
+    },
+    {
+      "id": "core-dead-bug",
+      "name": "Dead Bug",
+      "category": "core",
+      "environment": [
+        "gym",
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Dead+Bug+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "10-12 each side",
+          "tempo": "2-0-2",
+          "tip": "Lie on your back, arms up, knees at 90. Slowly lower the opposite arm and leg while pressing your low back FLAT into the floor. If it arches, shorten the range.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12-15 each side",
+          "tempo": "—",
+          "tip": "Slow and controlled. Low back stays pinned.",
+          "group": ""
+        }
+      }
+    },
+    {
+      "id": "core-bird-dog",
+      "name": "Bird Dog",
+      "category": "core",
+      "environment": [
+        "gym",
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Bird+Dog+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "10-12 each side",
+          "tempo": "2-1-2",
+          "tip": "On hands and knees, extend the opposite arm and leg to a straight line without twisting the hips. Pause, then return under control. Keep the spine neutral throughout.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12-15 each side",
+          "tempo": "—",
+          "tip": "Slow reps, brief hold at the top.",
+          "group": ""
+        }
+      },
+      "contraindicatedInjuries": [
+        "shoulder"
+      ]
+    },
+    {
+      "id": "core-glute-bridge-march",
+      "name": "Glute Bridge March",
+      "category": "core",
+      "environment": [
+        "gym",
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Glute+Bridge+March+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "8-10 each side",
+          "tempo": "1-1-1",
+          "tip": "Bridge your hips up and hold that height, then march one knee up at a time without letting the hips drop or tilt. Squeeze the glutes the whole set.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "10-12 each side",
+          "tempo": "—",
+          "tip": "Keep the hips level as you march.",
+          "group": ""
+        }
+      }
+    },
+    {
+      "id": "core-hollow-hold",
+      "name": "Hollow Hold",
+      "category": "core",
+      "environment": [
+        "gym",
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Hollow+Hold+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "20-30s",
+          "tempo": "—",
+          "tip": "Lie on your back, press your low back into the floor, then lift the shoulders and legs into a shallow banana shape. Lower the legs if the back lifts. Beginners: tuck the knees.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "30-40s",
+          "tempo": "—",
+          "tip": "Longer holds. Low back stays glued down.",
+          "group": ""
+        }
+      },
+      "contraindicatedInjuries": [
+        "lowerBack"
+      ]
+    },
+    {
+      "id": "core-bicycle-crunch",
+      "name": "Bicycle Crunch",
+      "category": "core",
+      "environment": [
+        "gym",
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Bicycle+Crunch+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15-20 each side",
+          "tempo": "1-0-1",
+          "tip": "Bring the opposite elbow toward the raised knee, extending the other leg. Rotate through the trunk, not the neck. Move with control — don't yank on your head.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "20-25 each side",
+          "tempo": "—",
+          "tip": "Steady tempo, full rotation.",
+          "group": ""
+        }
+      },
+      "contraindicatedInjuries": [
+        "lowerBack"
+      ]
+    },
+    {
+      "id": "core-reverse-crunch",
+      "name": "Reverse Crunch",
+      "category": "core",
+      "environment": [
+        "gym",
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Reverse+Crunch+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12-15",
+          "tempo": "2-0-1",
+          "tip": "Lie down, knees bent, and curl the knees toward your chest by lifting the hips off the floor — then lower slowly. Use the abs, not momentum. Keep the movement small and controlled.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "15-20",
+          "tempo": "—",
+          "tip": "Controlled lift, slow lower.",
+          "group": ""
+        }
+      },
+      "contraindicatedInjuries": [
+        "lowerBack",
+        "hip"
+      ]
+    },
+    {
+      "id": "core-lying-leg-raise",
+      "name": "Lying Leg Raise",
+      "category": "core",
+      "environment": [
+        "gym",
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Lying+Leg+Raise+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "10-12",
+          "tempo": "2-0-2",
+          "tip": "Flat on your back, legs straight, hands under your hips. Lower the legs slowly and only as far as you can keep the low back pressed down — then raise. Bend the knees to make it easier.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12-15",
+          "tempo": "—",
+          "tip": "Slow lower. Stop if the back arches.",
+          "group": ""
+        }
+      },
+      "contraindicatedInjuries": [
+        "lowerBack",
+        "hip"
+      ]
+    },
+    {
+      "id": "core-plank-shoulder-taps",
+      "name": "Plank Shoulder Taps",
+      "category": "core",
+      "environment": [
+        "gym",
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Plank+Shoulder+Taps+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "10-12 each side",
+          "tempo": "1-0-1",
+          "tip": "From a high plank with feet wide, tap the opposite shoulder with each hand while keeping the hips DEAD still — no rocking side to side. Slower is harder and better.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12-15 each side",
+          "tempo": "—",
+          "tip": "Minimise hip sway. Brace hard.",
+          "group": ""
+        }
+      },
+      "contraindicatedInjuries": [
+        "shoulder"
+      ]
+    },
+    {
+      "id": "core-pallof-press",
+      "name": "Pallof Press",
+      "category": "core",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Pallof+Press+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "10-12 each side",
+          "tempo": "2-1-2",
+          "tip": "Stand side-on to a cable or anchored band at chest height. Press the handle straight out and resist it pulling you into rotation — brace hard — then return. Switch sides.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12-15 each side",
+          "tempo": "—",
+          "tip": "Anti-rotation. Press slow, resist the twist.",
+          "group": ""
+        }
+      }
+    },
+    {
+      "id": "core-hanging-knee-raise",
+      "name": "Hanging Knee Raise",
+      "category": "core",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Hanging+Knee+Raise+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "10-15",
+          "tempo": "2-0-2",
+          "tip": "Hang from a bar, shoulders active (not fully slack). Curl the knees up toward the chest by rounding the pelvis — don't just swing the hips. Lower under control; no kipping.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12-15",
+          "tempo": "—",
+          "tip": "Controlled. Stop the swing.",
+          "group": ""
+        }
+      },
+      "contraindicatedInjuries": [
+        "shoulder",
+        "elbow",
+        "lowerBack",
+        "hip"
+      ]
+    },
+    {
+      "id": "core-cable-crunch",
+      "name": "Cable Crunch",
+      "category": "core",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Cable+Crunch+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12-15",
+          "tempo": "2-0-1",
+          "tip": "Kneel at a high cable, rope at the sides of your head. Crunch by curling the ribs toward the pelvis — flex the SPINE, don't just fold at the hips. Slow return.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "15-20",
+          "tempo": "—",
+          "tip": "Round the spine, resist on the way up.",
+          "group": ""
+        }
+      },
+      "contraindicatedInjuries": [
+        "lowerBack"
+      ]
+    },
+    {
+      "id": "core-ab-wheel-rollout",
+      "name": "Ab-Wheel Rollout",
+      "category": "core",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=Ab-Wheel+Rollout+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "8-10",
+          "tempo": "3-0-1",
+          "tip": "ADVANCED — roll the wheel out only as far as you can keep a braced, NON-arching low back, then pull back with the abs. BEGINNERS: do this from the knees with a short range, or hold a plank instead until you build the strength.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "8-12",
+          "tempo": "—",
+          "tip": "Short, braced range. Never let the back sag.",
+          "group": ""
+        }
+      },
+      "contraindicatedInjuries": [
+        "lowerBack",
+        "shoulder"
+      ]
     }
   ]
 }

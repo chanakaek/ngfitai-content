@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "exercises": [
     {
       "name": "Seated Battle Rope / Band Slams",
@@ -11,6 +11,7 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": true,
       "tip": "Slam the ropes or bands as hard and fast as you can. Drive through your shoulders with your core braced. No momentum from your legs — all upper body. Keep your back tall."
     },
     {
@@ -23,6 +24,7 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": true,
       "tip": "Lock your feet still and drive only with your arms — push and pull the handles alternately. Stay seated, keep your chest up, and go as fast as possible. Don't rock your torso."
     },
     {
@@ -35,6 +37,7 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": true,
       "tip": "Alternate a shoulder press with a bicep curl each rep — controlled on the way down, explosive on the way up. Use a moderate weight so you can maintain speed for the full interval."
     },
     {
@@ -47,6 +50,7 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": false,
       "tip": "Drive your elbows back — not your hands. Squeeze your shoulder blades together at the end of each rep. Fast tempo: snap back explosively, return under control. Keep your chest tall."
     },
     {
@@ -59,6 +63,7 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": true,
       "tip": "Rotate your torso slightly with each punch — the power comes from your core, not just your arm. Stay seated, keep your back straight, and punch at shoulder height. Maximum speed."
     },
     {
@@ -71,6 +76,7 @@
       "gripLoad": false,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": false,
       "tip": "Lie on your back, feet flat, drive your hips up and pulse rapidly at the top. Squeeze your glutes hard on every rep. Don't let your hips drop fully between pulses — keep constant tension."
     },
     {
@@ -83,6 +89,7 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": true,
+      "shoulderLoad": false,
       "tip": "Drive sequence: legs → hips → arms. Push the footplate away explosively, lean back slightly, then draw the handle to your lower chest. Return arms → hips → legs. Aim for a low split time."
     },
     {
@@ -95,6 +102,7 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": true,
       "tip": "Alternate arms to create fast, consistent waves from handle to anchor. Slight hip hinge, soft knees, core tight. Drive from your hips not just your arms. Go as fast as you can maintain form."
     },
     {
@@ -107,6 +115,7 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": true,
+      "shoulderLoad": true,
       "tip": "Push AND pull the handles while pedalling hard. The harder you push the handles, the more power you generate on top of leg drive. Stay seated, chest up, and don't slow down."
     },
     {
@@ -119,6 +128,7 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": false,
       "tip": "This is a HIP HINGE — not a squat. Hinge forward, drive hips forward explosively to swing the bell to shoulder height. Arms stay loose. Squeeze your glutes hard at the top. Control on the way back."
     },
     {
@@ -131,6 +141,7 @@
       "gripLoad": false,
       "spinalFlexion": false,
       "deepHipFlexion": true,
+      "shoulderLoad": false,
       "tip": "Jump: hinge, swing arms, explode up, land softly with bent knees on the box. Step down carefully. If joints are sore today, substitute with fast step-ups — same hip drive, lower impact."
     },
     {
@@ -143,6 +154,7 @@
       "gripLoad": false,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": false,
       "tip": "Lean slightly forward, drive your knees high, stay on the balls of your feet. Pump your arms hard — arm speed drives leg speed. Dial in a challenging pace before the interval starts."
     },
     {
@@ -155,6 +167,7 @@
       "gripLoad": false,
       "spinalFlexion": true,
       "deepHipFlexion": true,
+      "shoulderLoad": true,
       "tip": "Chest must touch the floor — no half reps. Jump your feet back, lower chest down, push up, jump feet in, then explode up with arms overhead. Maintain your pace; slow it down rather than stopping."
     },
     {
@@ -167,6 +180,7 @@
       "gripLoad": true,
       "spinalFlexion": true,
       "deepHipFlexion": true,
+      "shoulderLoad": true,
       "tip": "Keep your hips DOWN and level — they should not bounce up. Drive alternate knees fast toward your chest. Hands directly under your shoulders. The faster you go, the more cardio demand."
     },
     {
@@ -179,6 +193,7 @@
       "gripLoad": false,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": false,
       "tip": "Land softly with slightly bent knees to absorb impact. Go as fast as you can while staying in control. Arms fully overhead on the way up. If your knees need a break, step side to side instead."
     },
     {
@@ -191,6 +206,7 @@
       "gripLoad": false,
       "spinalFlexion": false,
       "deepHipFlexion": true,
+      "shoulderLoad": false,
       "tip": "Drive your knees up to hip height with each step. Stay on the balls of your feet — don't flat-foot. Pump your arms hard opposite to your legs. Keep your core braced and posture tall."
     },
     {
@@ -203,6 +219,7 @@
       "gripLoad": false,
       "spinalFlexion": false,
       "deepHipFlexion": true,
+      "shoulderLoad": false,
       "tip": "Descend to a full squat, then explode upward. Land SOFTLY with bent knees to absorb the impact — protect your joints. Keep your chest up throughout. Reset quickly and go again."
     },
     {
@@ -215,6 +232,7 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": true,
       "tip": "Do a push-up, then at the top tap opposite shoulder with each hand. The key: don't let your hips rock side to side during the tap — brace your core hard and keep your feet wider if needed."
     },
     {
@@ -227,6 +245,7 @@
       "gripLoad": false,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": false,
       "tip": "Lateral bounds — push off one leg and land on the other, reaching your trailing hand toward the landing foot. Think wide, fast arcs. Build momentum with each rep. Great for lateral power."
     },
     {
@@ -239,6 +258,7 @@
       "gripLoad": false,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": false,
       "tip": "Athletic stance: hips low, weight on balls of feet. Shuffle fast side to side — touch the floor or a marker each end. Stay low the whole interval. Don't let your feet cross; push off the outside foot."
     },
     {
@@ -251,7 +271,73 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": false,
+      "shoulderLoad": true,
       "tip": "From forearm plank, press to full plank one hand at a time, then lower back down. Keep your hips level throughout — don't rock side to side. The faster you can do this while staying stable, the better."
+    },
+    {
+      "name": "Fast Bodyweight Squat Pulse",
+      "emoji": "🪑",
+      "env": "lowImpact",
+      "impact": false,
+      "overhead": false,
+      "hinge": false,
+      "gripLoad": false,
+      "spinalFlexion": false,
+      "deepHipFlexion": false,
+      "shoulderLoad": false,
+      "tip": "Stay in a shallow quarter-to-half squat and pulse fast — never drop into a deep squat. Weight in your heels, chest tall, arms relaxed in front. Low-impact, joint-friendly leg burn for the whole interval."
+    },
+    {
+      "name": "Standing March in Place",
+      "emoji": "🚶",
+      "env": "lowImpact",
+      "impact": false,
+      "overhead": false,
+      "hinge": false,
+      "gripLoad": false,
+      "spinalFlexion": false,
+      "deepHipFlexion": false,
+      "shoulderLoad": false,
+      "tip": "March fast on the spot, driving each knee to a comfortable height — no jumping, one foot always down. Pump your arms opposite your legs. Keep it brisk and controlled for a safe, low-impact cardio hit."
+    },
+    {
+      "name": "Standing Band Pull-Apart Burst",
+      "emoji": "🎗️",
+      "env": "lowImpact",
+      "impact": false,
+      "overhead": false,
+      "hinge": false,
+      "gripLoad": false,
+      "spinalFlexion": false,
+      "deepHipFlexion": false,
+      "shoulderLoad": false,
+      "tip": "Hold a light band at chest height, arms straight, and pull it apart fast to chest width — squeeze the shoulder blades, then return under control. Gentle on the joints and great for shoulder-blade health."
+    },
+    {
+      "name": "Standing Boxing Combos (No Weight)",
+      "emoji": "🥊",
+      "env": "lowImpact",
+      "impact": false,
+      "overhead": false,
+      "hinge": false,
+      "gripLoad": false,
+      "spinalFlexion": false,
+      "deepHipFlexion": false,
+      "shoulderLoad": true,
+      "tip": "Light on your feet, no weights — throw fast jab-cross-hook combinations at shoulder height. Rotate through your core on each punch and keep your guard up. Pure upper-body cardio with no impact on the legs."
+    },
+    {
+      "name": "Standing Band Hip Abduction Pulse",
+      "emoji": "🦿",
+      "env": "lowImpact",
+      "impact": false,
+      "overhead": false,
+      "hinge": false,
+      "gripLoad": false,
+      "spinalFlexion": false,
+      "deepHipFlexion": false,
+      "shoulderLoad": false,
+      "tip": "Loop a band around your legs above the knees, stand tall holding support, and pulse one leg out to the side fast against the band. Squeeze the glute each rep. Swap legs halfway. Low-impact and hip-friendly."
     }
   ]
 }
