@@ -1,5 +1,5 @@
 {
-  "version": "1.11.0",
+  "version": "1.12.0",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -3017,6 +3017,598 @@
           "tempo": "2-1-1",
           "tip": "Heavy horizontal pull. Back flat.",
           "group": ""
+        }
+      }
+    },
+    {
+      "id": "maintenance-push-home-decline",
+      "name": "Decline Push-Up",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=decline+push+up+form",
+      "phases": {
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "3-1-1",
+          "tip": "Your heaviest home press. Feet on a chair or sofa, 3-second descent with a pause at the bottom. Raise the feet higher as it gets easy. 3 min rest.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: lower the feet to the floor (standard push-up) or go to an incline; overhead-leaning load can aggravate the shoulder.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: reduce depth, hands slightly wider.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: brace hard so the hips do not sag; regress to a flat push-up.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-push-home-diamond",
+      "name": "Diamond Push-Up",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=diamond+push+up+form",
+      "phases": {
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "3-0-1",
+          "tip": "Hands in a diamond under the chest. Triceps strength work. Slow descent, elbows tight to the ribs.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: widen the hands to a standard push-up to reduce elbow load.",
+          "isAdapted": true
+        },
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: keep it shallow, elbows pinned to the ribs.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-push-home-pike",
+      "name": "Pike Push-Up",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=pike+push+up+form",
+      "phases": {
+        "maintenance": {
+          "sets": "3",
+          "reps": "6-8",
+          "tempo": "3-0-1",
+          "tip": "Your vertical press. Hips high, head between the hands. Elevate the feet on a step to load it more.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: reduce the range and keep the hips a little lower (more incline); stop before any overhead pinch. Regress to the wall pike.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: reduce depth and keep the elbows tracking back, not flaring.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-push-home-archer",
+      "name": "Archer Push-Up",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=archer+push+up+form",
+      "phases": {
+        "maintenance": {
+          "sets": "3",
+          "reps": "5-6",
+          "tempo": "3-1-1",
+          "tip": "5-6 reps EACH side. The closest thing to a heavy single-arm press at home. If you cannot control the descent, do the Wide Push-Up in this session instead and build up to it.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: skip the deep unilateral reach - do a standard or incline push-up to a pain-free depth instead.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: shorten the range and keep the straight arm softly bent, never locked.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: brace the abs and squeeze the glutes so the hips do not sag; regress to a wide push-up.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-push-home-wide",
+      "name": "Wide Push-Up",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=wide+grip+push+up+form",
+      "phases": {
+        "maintenance": {
+          "sets": "3",
+          "reps": "10-12",
+          "tempo": "2-1-1",
+          "tip": "Chest-focused finisher and the beginner-friendly option in this session. Slow tempo, pause at the bottom.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: bring the hands in narrower and reduce depth; a very wide grip stresses the shoulder.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: reduce depth.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-pull-home-invertedrow",
+      "name": "Inverted Row (Under Table)",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=inverted+row+under+table+bodyweight+form",
+      "phases": {
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "3-0-1",
+          "tip": "Your heaviest home pull. Under a sturdy table or between two chairs with a broom handle. Straighten the legs (heels only) to make it harder. 3 min rest.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: use a neutral (palms-facing) grip and stop the pull before any shoulder pinch.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: bend the knees and plant the feet flat so the trunk stays supported; keep a neutral spine.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: use a neutral grip and avoid fully locking the elbows at the bottom.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-pull-home-supinatedrow",
+      "name": "Supinated Inverted Row",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=underhand+inverted+row+biceps+form",
+      "phases": {
+        "maintenance": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "3-0-1",
+          "tip": "Underhand grip - this is your biceps strength work. Pull the chest to the edge, 2s squeeze, 3-second lower.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: avoid fully locking out at the bottom and keep the load light.",
+          "isAdapted": true
+        },
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: stop the pull before any shoulder pinch.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-pull-home-superman",
+      "name": "Superman",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=superman+back+extension+form",
+      "phases": {
+        "maintenance": {
+          "sets": "3",
+          "reps": "10",
+          "tempo": "2-2-1",
+          "tip": "Posterior chain. Lift the chest and thighs together, 2-second hold at the top of every rep.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: lift the opposite arm and leg only (bird-dog style) with a small range; skip if extension is painful.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: keep the leg lift small and controlled.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-pull-home-yraise",
+      "name": "Prone Y-Raise",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=prone+y+raise+lower+trap+form",
+      "phases": {
+        "maintenance": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Face down, thumbs up, arms overhead into a Y. Lower traps. Light and strict - quality over reps.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: raise only within a pain-free range and keep the movement light.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: rest the forehead down and keep the chest low so the lower back stays neutral.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-pull-home-snowangel",
+      "name": "Reverse Snow Angel",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=reverse+snow+angel+prone+form",
+      "phases": {
+        "maintenance": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Non-negotiable shoulder health work in maintenance - the home stand-in for face pulls. Slow sweeps, arms hovering the whole set.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: reduce the overhead range; stop where the shoulder feels the pinch.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep the chest low and ribs down.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-legs-home-bulgarian",
+      "name": "Bulgarian Split Squat",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=bulgarian+split+squat+bodyweight+form",
+      "phases": {
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "3-1-1",
+          "tip": "6-8 reps EACH leg. Your primary lower-body strength movement at home. Rear foot on a chair, 3-second descent, pause at the bottom. Hold a bag or bottles to progress. If balance is the limit, do the Reverse Lunge in this session instead.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: reduce the depth and keep the front knee tracking the toes; regress to a standing split squat.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: lower the rear-foot elevation and control the range.",
+          "isAdapted": true
+        },
+        "ankle": {
+          "tip": "ANKLE ADAPTED: keep the front foot flat and shorten the range.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-legs-home-slrdl",
+      "name": "Single-Leg Romanian Deadlift",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=single+leg+romanian+deadlift+bodyweight+form",
+      "phases": {
+        "maintenance": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "3-1-1",
+          "tip": "8 reps EACH leg. Hamstring hinge - the home replacement for the Romanian deadlift. Slow hinge, pause at the stretch, soft knee. Hold a weight to progress.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "hamstring": {
+          "tip": "HAMSTRING ADAPTED: reduce the range so the stretch is mild, keep a soft knee; stop before any sharp pull.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep the spine neutral, use the kickstand (back toes down) regression and a short range.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: use the kickstand version and hold a wall for balance.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-legs-home-slbridge",
+      "name": "Single-Leg Glute Bridge",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=single+leg+glute+bridge+form",
+      "phases": {
+        "maintenance": {
+          "sets": "3",
+          "reps": "10",
+          "tempo": "2-2-1",
+          "tip": "10 reps EACH side. Glute strength - the home hip thrust. Drive through the heel, 2-second hold at full hip extension.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "hip": {
+          "tip": "HIP ADAPTED: use both feet (double-leg bridge) and engage the pelvic floor before each rep; no added load across the hips.",
+          "isAdapted": true
+        },
+        "hamstring": {
+          "tip": "HAMSTRING ADAPTED: bring the heel closer to the hips so the glute does the work, not the hamstring; stop before any cramp or pull.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: ribs down, do not over-arch at the top - stop the lift level with the thigh.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-legs-home-reverselunge",
+      "name": "Reverse Lunge",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=reverse+lunge+bodyweight+form",
+      "phases": {
+        "maintenance": {
+          "sets": "3",
+          "reps": "8-10",
+          "tempo": "2-1-1",
+          "tip": "8-10 reps EACH leg. Quad and glute volume, and the knee-friendlier option in this session. Slow descent, pause at the bottom.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: shorten the range and keep the front knee behind the toes; reverse lunges are gentler than forward.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: keep the step-back short and controlled.",
+          "isAdapted": true
+        },
+        "ankle": {
+          "tip": "ANKLE ADAPTED: reduce the depth and keep the front foot flat.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-legs-home-clamshell",
+      "name": "Clamshell",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=clamshell+exercise+form",
+      "phases": {
+        "maintenance": {
+          "sets": "3",
+          "reps": "15-20",
+          "tempo": "2-0-2",
+          "tip": "15-20 reps EACH side. Glute medius - the home stand-in for the abduction machine, and what keeps the knees and hips healthy long term. Slow and strict; add a band if you have one.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "hip": {
+          "tip": "HIP ADAPTED: keep the opening small and pain-free; stop if anything pinches at the front of the hip.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep the pelvis stacked and still - the trunk should not roll back with the knee.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-upper-home-pushup",
+      "name": "Push-Up",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=push+up+form",
+      "phases": {
+        "maintenance": {
+          "sets": "4",
+          "reps": "8-10",
+          "tempo": "3-1-1",
+          "tip": "Main press of the session. 3-second descent, 1-second pause at the bottom. Elevate the feet or slow it further as it gets easy.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: elevate the hands (incline push-up), elbows ~45 degrees.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: reduce depth, hands slightly wider.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: brace the abs and squeeze the glutes; drop to knees if the back sags.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-upper-home-doorwayrow",
+      "name": "Doorway Row",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=doorway+row+bodyweight+form",
+      "phases": {
+        "maintenance": {
+          "sets": "4",
+          "reps": "8-10",
+          "tempo": "3-0-1",
+          "tip": "Main pull of the session. Grip a solid door frame, lean back and row the chest to the hands. Step the feet forward to increase the load. 2s squeeze at the top.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: keep the elbows low and stop before any shoulder pinch.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: avoid fully locking the elbows at the stretch.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-upper-home-wallpike",
+      "name": "Wall Pike Push-Up",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=wall+pike+push+up+incline+form",
+      "phases": {
+        "maintenance": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "3-0-1",
+          "tip": "Overhead press pattern. Feet walked up a wall, hips stacked over the shoulders. Slow tempo with a pause; walk the feet higher to progress.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: keep the feet low and the range shallow; move only pain-free.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: shorten the range and keep the elbows tracking back, not flaring.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-upper-home-tricepext",
+      "name": "Bodyweight Tricep Extension",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=bodyweight+tricep+extension+bar+form",
+      "phases": {
+        "maintenance": {
+          "sets": "3",
+          "reps": "8-10",
+          "tempo": "3-0-1",
+          "tip": "Triceps strength against a table edge or a solid worktop. Elbows stay high and still; step the feet back to increase the load.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: stand more upright to reduce the load and keep the range short of pain.",
+          "isAdapted": true
+        },
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: keep the upper arms lower and the range comfortable.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "maintenance-upper-home-wallslide",
+      "name": "Scapular Wall Slide",
+      "category": "maintenance",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=scapular+wall+slide+form",
+      "phases": {
+        "maintenance": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Shoulder health work to finish - keeps the overhead pressing pain-free long term. Slow slides, pause at the top with the arms tall, ribs down.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: slide only as high as stays pain-free; keep the ribs down.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep the lower back flat against the wall throughout - do not let it arch to gain height.",
+          "isAdapted": true
         }
       }
     },
