@@ -1,5 +1,5 @@
 {
-  "version": "1.12.0",
+  "version": "1.13.0",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -257,6 +257,11 @@
         "elbow": {
           "name": "Dumbbell Overhead Extension (Neutral)",
           "tip": "ELBOW ADAPTED: neutral-grip dumbbell overhead extension is gentler on the elbow than a straight-bar overhead.",
+          "isAdapted": true
+        },
+        "shoulder": {
+          "name": "Skull Crusher",
+          "tip": "SHOULDER ADAPTED: lying skull crusher — the arm stays in front of the body instead of overhead.",
           "isAdapted": true
         }
       }
@@ -2186,6 +2191,13 @@
           "tip": "Neutral grip. Hinge at elbow only. Long-head emphasis.",
           "group": ""
         }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "name": "Tricep Rope Pushdown",
+          "tip": "SHOULDER ADAPTED: pushdown only — overhead flexion loads an irritated shoulder.",
+          "isAdapted": true
+        }
       }
     },
     {
@@ -2230,6 +2242,11 @@
         "elbow": {
           "name": "Tricep Rope Pushdown",
           "tip": "ELBOW ADAPTED: pushdown only — overhead extension stresses inflamed elbow.",
+          "isAdapted": true
+        },
+        "shoulder": {
+          "name": "Resistance Band Tricep Pushdown",
+          "tip": "SHOULDER ADAPTED: band pushdown — elbows pinned to the sides, nothing goes overhead.",
           "isAdapted": true
         }
       }
@@ -2627,8 +2644,8 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "name": "Goblet Squat",
-          "tip": "SHOULDER ADAPTED: goblet squat only — no overhead press.",
+          "name": "Dumbbell Goblet Squat",
+          "tip": "SHOULDER ADAPTED: goblet squat only — no overhead press. Dumbbell held at the chest.",
           "isAdapted": true
         },
         "knee": {
@@ -2999,6 +3016,13 @@
           "tempo": "3-0-2",
           "tip": "Primary pull strength. Add weight via belt.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "name": "Chest-Supported Dumbbell Row",
+          "tip": "SHOULDER ADAPTED: chest-supported row — no loaded overhead hang, torso carried by the bench.",
+          "isAdapted": true
         }
       }
     },
@@ -3739,6 +3763,16 @@
           "tip": "Hips high throughout. Head to floor.",
           "group": ""
         }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: reduce the range and keep the hips a little lower (more incline); stop before any overhead pinch. Regress to the wall pike.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: reduce depth and keep the elbows tracking back, not flaring.",
+          "isAdapted": true
+        }
       }
     },
     {
@@ -3777,6 +3811,13 @@
           "tempo": "2-0-1",
           "tip": "Heavy. Seated.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "name": "Dumbbell Lateral Raise",
+          "tip": "SHOULDER ADAPTED: no overhead pressing — lead with the elbow to shoulder height only.",
+          "isAdapted": true
         }
       }
     },
@@ -3855,6 +3896,13 @@
           "tempo": "2-0-2",
           "tip": "Add weight for progression. Full dead hang.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "name": "Doorway Row",
+          "tip": "SHOULDER ADAPTED: horizontal pull instead of a loaded overhead hang. Feet forward, chest to hands, elbows close.",
+          "isAdapted": true
         }
       }
     },
@@ -9314,6 +9362,131 @@
         },
         "lowerBack": {
           "tip": "LOWER BACK ADAPTED: keep the trunk tall and braced; avoid leaning back.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "farmers-carry-fb",
+      "name": "Farmer's Carry",
+      "category": "fullbody",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=farmers+carry+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "40m",
+          "tempo": "—",
+          "tip": "Heavy dumbbells or trap bar. Ribs down, shoulders back, walk tall. Grip and trunk in one.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "40m",
+          "tempo": "—",
+          "tip": "Go heavier than Phase 1. Braced trunk, no side lean. Full-body tension carry.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: lighter load, shorter distance. Keep the ribs down and do not let the torso side-bend.",
+          "isAdapted": true
+        },
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: keep the arms relaxed at the sides — no shrugging. Stop if the shoulder aches.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP/PELVIC FLOOR ADAPTED: lighter load. Exhale on the walk, engage the pelvic floor, avoid bearing down.",
+          "isAdapted": true
+        },
+        "ankle": {
+          "tip": "ANKLE ADAPTED: shorter, slower steps on a flat surface. Stop if the ankle complains.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "chest-supported-row-fb",
+      "name": "Chest-Supported Dumbbell Row",
+      "category": "fullbody",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=chest+supported+dumbbell+row+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Chest on an incline bench. Pull elbows past the torso, squeeze 1s. Zero lower-back load.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heavier. Chest stays down on the bench throughout — no cheating with the hips.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: this is the safe row — the bench carries your torso, so the spine is unloaded. Keep the chest down.",
+          "isAdapted": true
+        },
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: neutral grip, pull to the hip rather than the ribs. Stop before any pinch at the top.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: neutral grip, lighter load. Do not snap into full extension at the bottom.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "landmine-press-fb",
+      "name": "Landmine Press",
+      "category": "fullbody",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=landmine+press+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Half-kneeling or standing. Press along the bar's arc — a shoulder-friendly angle, not straight overhead.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "Heavier. Brace the trunk, press through the arc. Each side.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: the landmine arc is the shoulder-friendly press. Keep the hand below eye level and stop before any pinch.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter load, no hard lockout at the top.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: split stance, ribs down. Squeeze the glute of the rear leg and do not arch to finish the press. Kneel only if the knees are comfortable.",
+          "isAdapted": true
+        },
+        "knee": {
+          "tip": "KNEE ADAPTED: press from a STANDING split stance — do not kneel. Keep the front knee soft and behind the toes.",
           "isAdapted": true
         }
       }
