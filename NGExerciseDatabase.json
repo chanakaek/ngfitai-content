@@ -1,5 +1,5 @@
 {
-  "version": "1.13.0",
+  "version": "1.14.0",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -3904,7 +3904,10 @@
           "tip": "SHOULDER ADAPTED: horizontal pull instead of a loaded overhead hang. Feet forward, chest to hands, elbows close.",
           "isAdapted": true
         }
-      }
+      },
+      "equipment": [
+        "Pull-Up Bar"
+      ]
     },
     {
       "id": "single-arm-db-row-home",
