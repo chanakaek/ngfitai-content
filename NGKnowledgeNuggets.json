@@ -1,5 +1,5 @@
 {
-  "version": "1.55.0",
+  "version": "1.56.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -173,7 +173,7 @@
       "audience": "all",
       "icon": "chart.line.uptrend.xyaxis",
       "title": "'Your week's ready' — open your review",
-      "body": "When a new week has data worth showing, a 'Your week's ready 👀' card appears atop the AI Coach tab. Tap it for stat tiles and charts — sessions, rest, real burn, energy balance, sleep and weight trend — built from your own data.",
+      "body": "When a new week has data worth showing, a 'Your week's ready 👀' card appears atop the AI Coach tab. Tap it for stat tiles and charts — sessions, rest, active burn, energy balance, sleep and weight trend — built from your own data.",
       "learnMoreURL": "https://strathlon.com/understanding-your-stats",
       "stage": "usage-core"
     },
@@ -1844,6 +1844,15 @@
       "title": "Your HIIT finisher ends on a high",
       "body": "Push through to the last interval and your HIIT finisher gives you a proper sign-off — your rounds, minutes and an estimated calorie burn — plus a heads-up on what's next in your week. No more abrupt cut-off; it's the cherry on top of a hard session.",
       "stage": "knowledge"
+    },
+    {
+      "id": "nug_176",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "heart.text.square",
+      "title": "Tap your Readiness card to ask why",
+      "body": "The Readiness card at the top of the AI Coach tab is now tappable. Subscribers can tap it and the coach explains how the score was worked out from your sleep, resting heart rate and between-set recovery, and what to do about it today; if Health sharing is switched off it offers to turn that on first, and if you're not subscribed it opens your upgrade options instead. The score itself stays free. It's a general guide, not a medical measure.",
+      "stage": "usage-core"
     }
   ]
 }
