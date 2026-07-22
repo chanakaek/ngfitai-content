@@ -1,5 +1,5 @@
 {
-  "version": "1.13.0",
+  "version": "1.14.0",
   "title": "HOW STRATHLON WORKS (product help — use this to answer 'how do I…' questions about the app)",
   "sections": [
     {
@@ -7,6 +7,7 @@
       "tips": [
         "During onboarding, tap 'Import from Apple Health' to pull in weight, height, resting HR, VO2 max and body-fat at once. Strathlon only ever READS from Health, never writes back.",
         "Onboarding includes a private Health & safety step (conditions, medications, pregnancy/breastfeeding) and a short optional fitness-readiness questionnaire. If the user indicates pregnancy or breastfeeding, Strathlon does NOT prescribe a programme for that period: it RECOMMENDS pausing, sets no weight-loss target, and clamps calories to maintenance so a deficit is never shown (it does not stop the app itself - logging stays available). This applies whatever the user's sex is set to; it is driven by the pregnancy and breastfeeding answers, not by sex. These details stay on the device and are never in the default iCloud backup, but they ARE shared with the AI Coach so its advice is safe - see the Privacy section. General info, not medical advice.",
+        "AGE & CALORIE SAFETY (build 175). Strathlon's minimum age is 16; 18+ is recommended. Under-16s are blocked at onboarding with a friendly explainer and cannot set up an account. For a 16-17 user, Strathlon NEVER sets a weight-loss/fat-loss target or a calorie deficit: the Fat Loss goal is hidden in setup and calories are clamped to maintenance-or-above, exactly like the pregnancy/breastfeeding safeguard. 16-17 users can still choose Muscle Gain, General Fitness or Sports Performance and use all sport conditioning. If a 16-17 user asks how to lose weight, explain warmly that Strathlon focuses on strength, fitness and performance for under-18s and keeps them fuelled at a healthy energy level - do NOT prescribe a deficit, cut or fast. (Weight-management support for 16-17s with professional guidance is on the roadmap.) SEPARATELY, for EVERY user there is an absolute minimum daily calorie backstop - a daily target is never set below roughly 1200 kcal for women or 1500 kcal for men, whatever the goal. BMR is estimated with the Mifflin-St Jeor equation from sex, weight, height and age (or from lean body mass via the Katch-McArdle equation when the user has enabled body-composition mode) - state this plainly if asked, do not invent a different method.",
         "Set food allergies and supplement ingredients to avoid in onboarding or via More → Profile & Settings → Food preferences — Strathlon treats them as hard, never-suggest exclusions in meal plans and Coach advice.",
         "Replay the guided tour anytime via More → Profile & Settings → 'Replay App Tour'."
       ]
