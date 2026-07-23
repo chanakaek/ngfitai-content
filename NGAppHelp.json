@@ -1,5 +1,5 @@
 {
-  "version": "1.14.3",
+  "version": "1.14.4",
   "title": "HOW STRATHLON WORKS (product help — use this to answer 'how do I…' questions about the app)",
   "sections": [
     {
@@ -30,7 +30,7 @@
       "name": "Logging food & the AI Coach",
       "tips": [
         "On the AI Coach tab, tap the camera, photograph your food, then Analyse Photo — or just type what you ate ('two eggs on toast and a flat white'). Either returns a macro estimate with one-tap 'Add to Log'.",
-        "From Add to Log, pick the day and meal slot — you can back-date meals up to two weeks.",
+        "From Add to Log, pick the day and meal slot — you can back-date meals up to two weeks. Meal slots are Breakfast, Mid-Morning Snack, Lunch, Afternoon Snack, Dinner and Evening Snack (for anything eaten later in the day) — a food is filed under exactly the slot you tap, including anything the AI Coach logs for you. Logged something under the wrong meal? Tap the … next to any logged item in your Tracker food log — today or a past day — to move it to a different meal slot.",
         "The AI Coach knows your goals, sport, today's targets, logged foods and full programme. Ask 'what should I eat before training?', 'build me a meal plan for today' (returns a full day of meals it saves into Nutrition), or 'how's my progress?'.",
         "To turn a saved AI meal plan into a shopping list, open the Nutrition tab, scroll to that day type's meal plan and tap 'Shopping list'. It gathers every ingredient from that day's plan into a tickable checklist grouped by meal (ticks are saved), and the Share button sends a clean plain-text list to Apple Reminders, Notes or your grocery app's search. There is one list per day type (Training, Rest, Match, Sport, Maintenance) and it covers the AI meal plan only — saved favourites aren't included (they carry no ingredient details). If you regenerate that day's plan afterwards, the list shows a 'plan changed' banner with a Refresh that rebuilds it and keeps ticks that still match. It does not add items to a supermarket cart for you — it's a hand-off to get your list into your shopping app.",
         "A free Readiness card at the top of the AI Coach tab gives you a 0-100 readiness score from your sleep, resting heart rate and between-set recovery — the score itself needs no subscription. With no chat open it shows the components it used; once a conversation is running it collapses to a compact line, keeping any caveats. When there isn't enough recent Health data yet it says so instead of guessing. TAPPING the card asks the coach to explain the score: that is a subscriber feature, so a free user is shown the upgrade options instead, and a subscriber who has Health sharing switched off is asked to turn it on first (the coach cannot explain a score it cannot see).",
