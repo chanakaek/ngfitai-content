@@ -1,5 +1,5 @@
 {
-  "version": "1.56.0",
+  "version": "1.57.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -182,8 +182,8 @@
       "category": "app-tip",
       "audience": "all",
       "icon": "bed.double.circle.fill",
-      "title": "A bedtime nudge after a big session",
-      "body": "Turn on 'Bedtime reminder' in More → Profile & Settings → App settings → Notifications & Tips and Strathlon sends one gentle wind-down reminder on heavy-training days only — never late, at most once a day. Deep sleep after a hard session is when muscle rebuilds.",
+      "title": "A nightly reminder to protect your sleep",
+      "body": "Bedtime reminder is on by default (turn it off in More → Profile & Settings → App settings → Notifications & Tips). Every evening you'll get one gentle wind-down reminder — with extra emphasis on days you train hard, since deep sleep after a hard session is when muscle rebuilds. Never late, at most once a day.",
       "learnMoreURL": "https://strathlon.com/stats-sleep",
       "stage": "usage-core"
     },

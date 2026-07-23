@@ -1,5 +1,5 @@
 {
-  "version": "1.14.2",
+  "version": "1.14.3",
   "title": "HOW STRATHLON WORKS (product help — use this to answer 'how do I…' questions about the app)",
   "sections": [
     {
@@ -136,7 +136,7 @@
         "Picking a date you have ALREADY logged is safe: the sheet switches to 'Edit Day', shows what that day currently holds, and arrives with your saved values already filled in. Saving updates only the boxes shown — your logged food items and your protein/carbs/fat are always kept. Leaving a box empty means 'leave that value as it is', not zero.",
         "To correct just a weigh-in for a past day, open 'Add missed day' for that date and change only the weight — the calorie boxes can be left empty.",
         "Use Import / Export in History for a CSV round-trip of your daily log, so your data is portable and yours to keep.",
-        "Because there is no account, everything lives on-device by default. In More → Profile & Settings → App settings → Privacy & your data you control each backup separately: 'iCloud backup' (on by default) covers your basic details, weight, daily totals, goals, training setup, plan progress and food preferences - including any dietary or religious preference such as halal, kosher, vegetarian or vegan; 'Back up health & safety details' (OFF by default) covers your allergies, injuries, body composition and any pregnancy, health-condition or medication details; progress photos and training data each have their own off-by-default switch too. Cycle data is never included in any of them.",
+        "Because there is no account, everything lives on-device by default. In More → Profile & Settings → App settings → Privacy & your data you control each backup separately: 'iCloud backup' (on by default) covers your basic details, weight, daily totals, goals, training setup, plan progress and food preferences - including any dietary or religious preference such as halal, kosher, vegetarian or vegan; 'Back up training data to iCloud' (ON by default) covers your weigh-ins and lifting history; 'Back up health & safety details' and 'Sync progress photos to iCloud' are each OFF by default and cover your allergies/injuries/conditions and your progress photos respectively. All backups go to your own private iCloud only, never a Strathlon server. Cycle data is never included in any of them.",
         "Raw meals and photos are never uploaded to Strathlon's servers. Health data is only ever read, never written back to Apple Health.",
         "Change units (kg / lb / stone) any time in More → Profile & Settings → Body & Stats → Units; the whole app reflows and your saved data is unchanged underneath.",
         "If you reinstall or move to a new phone and restore your backup, your health & safety details will NOT come back unless you had turned 'Back up health & safety details' on — it is off by default. Strathlon warns you before you restore and keeps a reminder at the top of your Profile until you re-enter them, because until you do, your meals and plan cannot take your allergies, injuries, conditions or medications into account."
@@ -146,6 +146,7 @@
       "name": "Notifications, nuggets & learning",
       "tips": [
         "A daily knowledge nugget card surfaces a short, evidence-based tip; some nuggets carry a 'Learn more' link that opens a fuller article on strathlon.com.",
+        "Two local notifications are ON by default, controlled in More → Profile & Settings → App settings → Notifications & Tips: 'Daily tip notification' (one science-backed tip each morning, around 9am) and 'Bedtime reminder' (a gentle nightly wind-down reminder, with extra recovery emphasis after a hard training day, around 10:45pm). Notification permission is asked once, near the end of onboarding — if declined, both stay switched on in Settings but won't actually notify until permission is granted (Settings app → Notifications → Strathlon), and Strathlon never re-prompts automatically.",
         "The weekly review card ('Your week's ready') sits atop the AI Coach tab and opens a summary of sessions, rest, active burn, energy balance, sleep and weight trend. Tap 'Ask the Coach about this' to chat with those stats pre-loaded.",
         "The 'Your AI progress analysis' card (shown when no chat is open) gives a quick weekly read plus your coach's take, without you having to ask.",
         "Deeper guides and evidence articles live on the website — the Learn library, per-stat explainer pages, and topic guides (building muscle, fat loss, training with your cycle, supplements, recovery, habits). Ask the Coach and it can point you to the relevant one."
