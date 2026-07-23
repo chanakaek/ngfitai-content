@@ -1,5 +1,5 @@
 {
-  "version": "1.58.0",
+  "version": "1.59.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -75,7 +75,7 @@
       "audience": "all",
       "icon": "icloud.fill",
       "title": "Your data, safe across your devices",
-      "body": "Turn on iCloud backup and your profile, Tracker totals, saved foods, meal plans and schedule sync privately across your iPhone and iPad. Your weigh-ins and lifting history need the separate 'Back up training data to iCloud' switch, and your health & safety details the separate 'Back up health & safety details' switch - both off by default. Your cycle data never leaves your phone.",
+      "body": "Turn on iCloud backup and your profile, Tracker totals, saved foods, meal plans and schedule sync privately across your devices. Your weigh-ins and lifting history need the separate 'Back up training data to iCloud' switch (on by default), and your health & safety details the separate 'Back up health & safety details' switch (off by default). Your cycle data never leaves your phone.",
       "learnMoreURL": "https://strathlon.com/blog-icloud-sync",
       "stage": "usage-premium"
     },
