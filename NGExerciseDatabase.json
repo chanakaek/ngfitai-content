@@ -1,5 +1,5 @@
 {
-  "version": "1.14.0",
+  "version": "1.15.0",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -42,6 +42,10 @@
       "injuryAdaptations": {
         "shoulder": {
           "tip": "SHOULDER ADAPTED: reduce incline toward flat, neutral grip, press only to a pain-free height. Lighter load.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter weight, neutral grip, stop before pain.",
           "isAdapted": true
         }
       }
@@ -398,6 +402,12 @@
           "tip": "Daily shoulder health volume.",
           "group": ""
         }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: lighter band, reduce the external-rotation range if painful, focus on scapular retraction.",
+          "isAdapted": true
+        }
       }
     },
     {
@@ -524,6 +534,24 @@
           "tempo": "2-0-1",
           "tip": "Heavy. Controlled arc. Great shoulder-safe pressing movement.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: the landmine arc is the shoulder-friendly press. Keep the hand below eye level and stop before any pinch.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter load, no hard lockout at the top.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: split stance, ribs down. Squeeze the glute of the rear leg and do not arch to finish the press. Kneel only if the knees are comfortable.",
+          "isAdapted": true
+        },
+        "knee": {
+          "tip": "KNEE ADAPTED: press from a STANDING split stance — do not kneel. Keep the front knee soft and behind the toes.",
+          "isAdapted": true
         }
       }
     },
@@ -653,6 +681,12 @@
           "tempo": "2-2-1",
           "tip": "2-second hold at contraction. Mid-back focus.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: chest-supported removes spinal loading.",
+          "isAdapted": true
         }
       }
     },
@@ -1403,6 +1437,14 @@
         "knee": {
           "tip": "KNEE ADAPTED: shorter step. Do not flex front knee past 90°.",
           "isAdapted": true
+        },
+        "ankle": {
+          "tip": "ANKLE ADAPTED: reduce the depth and keep the front foot flat.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: keep the step-back short and controlled.",
+          "isAdapted": true
         }
       }
     },
@@ -1702,6 +1744,12 @@
           "tempo": "2-0-1",
           "tip": "Daily volume. Essential shoulder health in maintenance.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: lighter band, reduce the external-rotation range if painful, focus on scapular retraction.",
+          "isAdapted": true
         }
       }
     },
@@ -2151,6 +2199,12 @@
           "tempo": "3-0-1",
           "tip": "Full stretch at bottom. Controlled throughout.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: neutral grip preferred. Longer ROM but stop before pain.",
+          "isAdapted": true
         }
       }
     },
@@ -2676,6 +2730,10 @@
           "name": "Machine Chest Press",
           "tip": "SHOULDER ADAPTED: machine press. Full ROM, squeeze at peak.",
           "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter weight, neutral grip, stop before pain.",
+          "isAdapted": true
         }
       }
     },
@@ -2694,6 +2752,16 @@
           "tempo": "3-0-1",
           "tip": "Full ROM. Elbows 45° from torso.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: press on the floor (floor press) so the elbows stop at the floor — limits the painful shoulder range. Neutral grip, lighter dumbbells.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: neutral grip, stop short of full elbow lockout, lighter load.",
+          "isAdapted": true
         }
       }
     },
@@ -2816,6 +2884,12 @@
           "tempo": "2-2-1",
           "tip": "2-second hold at contraction. Mid-back focus.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: chest-supported removes spinal loading.",
+          "isAdapted": true
         }
       }
     },
@@ -2981,6 +3055,12 @@
           "tip": "Glute medius — critical for maintaining knee and hip health long-term.",
           "group": ""
         }
+      },
+      "injuryAdaptations": {
+        "ankle": {
+          "tip": "ANKLE ADAPTED: remain seated throughout. Slow and controlled.",
+          "isAdapted": true
+        }
       }
     },
     {
@@ -2998,6 +3078,16 @@
           "tempo": "3-1-1",
           "tip": "Primary push strength. Heavy.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: reduce incline toward flat, neutral grip, press only to a pain-free height. Lighter load.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter weight, neutral grip, stop before pain.",
+          "isAdapted": true
         }
       }
     },
@@ -3041,6 +3131,12 @@
           "tempo": "2-1-1",
           "tip": "Heavy horizontal pull. Back flat.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: chest-supported row.",
+          "isAdapted": true
         }
       }
     },
@@ -3678,6 +3774,14 @@
         "shoulder": {
           "tip": "SHOULDER ADAPTED: elevate the hands on a bench/counter (incline) to reduce shoulder load and shorten the painful arc.",
           "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: reduce depth and keep hands a touch wider so the elbows travel less.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: brace the abs and squeeze the glutes so the hips do not sag; drop to knees if the back rounds.",
+          "isAdapted": true
         }
       }
     },
@@ -3722,6 +3826,10 @@
       "injuryAdaptations": {
         "shoulder": {
           "tip": "SHOULDER ADAPTED: keep elbows tucked ~45 degrees and press only to a pain-free height. Lighter dumbbells.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: neutral grip, hinge at the elbow, stop before pain.",
           "isAdapted": true
         }
       }
@@ -3858,6 +3966,16 @@
           "tip": "Elbows tight throughout. Tricep emphasis.",
           "group": ""
         }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: widen the hands to a standard push-up to reduce elbow load.",
+          "isAdapted": true
+        },
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: keep it shallow, elbows pinned to the ribs.",
+          "isAdapted": true
+        }
       }
     },
     {
@@ -3946,6 +4064,12 @@
           "tip": "Heavy. Full ROM. Elbow past body.",
           "group": ""
         }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: brace one hand on a bench so the torso is fully supported; keep the spine neutral, light load.",
+          "isAdapted": true
+        }
       }
     },
     {
@@ -3984,6 +4108,12 @@
           "tempo": "2-1-1",
           "tip": "Bent over. Full ROM. Rear delt health.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: lighter dumbbells and raise to ear height ONLY — no higher, to prevent impingement.",
+          "isAdapted": true
         }
       }
     },
@@ -4069,6 +4199,12 @@
           "tempo": "2-1-1",
           "tip": "Daily shoulder health. Arms locked straight.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: lighter band, reduce the external-rotation range if painful, focus on scapular retraction.",
+          "isAdapted": true
         }
       }
     },
@@ -4209,6 +4345,14 @@
         "knee": {
           "tip": "KNEE ADAPTED: heels elevated on a plate or book. Depth reduced — stop before discomfort.",
           "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: narrow the stance, control the depth.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep the chest up and the core braced; lighten the load.",
+          "isAdapted": true
         }
       }
     },
@@ -4299,6 +4443,16 @@
           "tip": "Add band for resistance. Slow and controlled.",
           "group": ""
         }
+      },
+      "injuryAdaptations": {
+        "hip": {
+          "tip": "HIP ADAPTED: keep the opening small and pain-free; stop if anything pinches at the front of the hip.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep the pelvis stacked and still - the trunk should not roll back with the knee.",
+          "isAdapted": true
+        }
       }
     },
     {
@@ -4337,6 +4491,16 @@
           "tempo": "2-1-2",
           "tip": "Add weight on hips for progression.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "hip": {
+          "tip": "HIP ADAPTED: use both feet (double-leg bridge) and engage the pelvic floor before each rep; no added load across the hips.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: ribs down, do not over-arch at the top - stop the lift level with the thigh.",
+          "isAdapted": true
         }
       }
     },
@@ -4381,6 +4545,14 @@
       "injuryAdaptations": {
         "shoulder": {
           "tip": "SHOULDER ADAPTED: skip the deep unilateral reach — do a standard or incline push-up to a pain-free depth, or a floor press instead.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: shorten the range and keep the straight arm softly bent, never locked.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: brace the abs and squeeze the glutes so the hips do not sag; regress to a wide push-up.",
           "isAdapted": true
         }
       }
@@ -4472,6 +4644,10 @@
         "shoulder": {
           "name": "Machine Chest Press",
           "tip": "SHOULDER ADAPTED: machine press removes impingement risk. Full ROM.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter weight, neutral grip, stop before pain.",
           "isAdapted": true
         }
       }
@@ -4692,7 +4868,20 @@
           "group": ""
         }
       },
-      "injuryAdaptations": {}
+      "injuryAdaptations": {
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: this is the safe row — the bench carries your torso, so the spine is unloaded. Keep the chest down.",
+          "isAdapted": true
+        },
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: neutral grip, pull to the hip rather than the ribs. Stop before any pinch at the top.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: neutral grip, lighter load. Do not snap into full extension at the bottom.",
+          "isAdapted": true
+        }
+      }
     },
     {
       "id": "db-lateral-raise",
@@ -4732,7 +4921,12 @@
           "group": ""
         }
       },
-      "injuryAdaptations": {}
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: lighter weight, raise strictly to shoulder height, stop at the first sign of discomfort.",
+          "isAdapted": true
+        }
+      }
     },
     {
       "id": "floor-glute-bridge-unloaded",
@@ -4780,6 +4974,10 @@
         "hip": {
           "tip": "HIP ADAPTED: engage the pelvic floor before each rep and keep the range pain-free; bodyweight only.",
           "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: only bridge to a neutral line, do not over-arch; brace the abs at the top.",
+          "isAdapted": true
         }
       }
     },
@@ -4824,6 +5022,14 @@
       "injuryAdaptations": {
         "lowerBack": {
           "tip": "LOWER BACK ADAPTED: keep the torso tall and brace the core; reduce depth if the lower back rounds.",
+          "isAdapted": true
+        },
+        "knee": {
+          "tip": "KNEE ADAPTED: heels elevated on a plate. Depth reduced — stop before discomfort.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: narrow the stance, control the depth.",
           "isAdapted": true
         }
       }
@@ -4909,6 +5115,10 @@
       "injuryAdaptations": {
         "knee": {
           "tip": "KNEE ADAPTED: keep the range above 90 degrees and the feet high on the platform to reduce patellar load.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep the lower back flat on the pad through the whole range; do not let the pelvis tuck at the bottom.",
           "isAdapted": true
         }
       }
@@ -5074,6 +5284,12 @@
           "tempo": "—",
           "tip": "Slow and controlled. Low back stays pinned.",
           "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "hip": {
+          "tip": "HIP ADAPTED: engage pelvic floor and transverse abdominis before each rep. Press lower back into floor.",
+          "isAdapted": true
         }
       }
     },
@@ -5890,7 +6106,13 @@
       },
       "equipment": [
         "Resistance Bands"
-      ]
+      ],
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: lighter band, reduce the external-rotation range if painful, focus on scapular retraction.",
+          "isAdapted": true
+        }
+      }
     },
     {
       "id": "push-dumbbell-flye-home",
@@ -6383,6 +6605,14 @@
         "lowerBack": {
           "tip": "LOWER BACK ADAPTED: stay upright with no hip hinge and brace the core throughout.",
           "isAdapted": true
+        },
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: keep the elbows low and stop before any shoulder pinch.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: avoid fully locking the elbows at the stretch.",
+          "isAdapted": true
         }
       }
     },
@@ -6731,6 +6961,10 @@
         },
         "lowerBack": {
           "tip": "LOWER BACK ADAPTED: only bridge to a neutral line, do not over-arch; brace the abs at the top.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: engage the pelvic floor before each rep and keep the range pain-free; bodyweight only.",
           "isAdapted": true
         }
       }
@@ -7284,6 +7518,10 @@
         "shoulder": {
           "tip": "SHOULDER ADAPTED: keep the feet low and the range shallow; move only pain-free.",
           "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: shorten the range and keep the elbows tracking back, not flaring.",
+          "isAdapted": true
         }
       }
     },
@@ -7475,6 +7713,10 @@
       "injuryAdaptations": {
         "shoulder": {
           "tip": "SHOULDER ADAPTED: slide only as high as stays pain-free; keep the ribs down.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep the lower back flat against the wall throughout - do not let it arch to gain height.",
           "isAdapted": true
         }
       }
@@ -8793,7 +9035,13 @@
       },
       "equipment": [
         "Resistance Bands"
-      ]
+      ],
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: lighter band, reduce the external-rotation range if painful, focus on scapular retraction.",
+          "isAdapted": true
+        }
+      }
     },
     {
       "id": "upper-band-overhead-press-home",
@@ -9104,6 +9352,10 @@
         },
         "lowerBack": {
           "tip": "LOWER BACK ADAPTED: bridge only to a neutral line, brace the abs.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: engage the pelvic floor before each rep and keep the range pain-free; bodyweight only.",
           "isAdapted": true
         }
       }
