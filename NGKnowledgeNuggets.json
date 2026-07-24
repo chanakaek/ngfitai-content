@@ -1,5 +1,5 @@
 {
-  "version": "1.59.0",
+  "version": "1.60.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -414,7 +414,7 @@
       "audience": "all",
       "icon": "figure.walk.motion",
       "title": "Logging an activity adjusts what you can eat",
-      "body": "Adding a walk, run or ride in 'Add a session, walk or activity' raises today's eating allowance — it's how anyone, watch or not, accounts for activity in what they eat. Handy to plan ahead, or to log something you've already done. Tip: record the session in Apple Health too — an Apple Watch workout, or a manual entry — and its active energy counts toward the calories you've burned today. That's the other side of the same ledger: this bonus raises what you can eat, Apple Health's active energy raises what you've burned, and they're meant to offset each other, not double up. For example: log a lunchtime walk and today's eating allowance nudges up; if you also recorded it in Apple Health, your burned total nudges up too — same session, two sides of the ledger, never added together.",
+      "body": "Adding a walk, run or ride in 'Add activity' raises today's eating allowance — it's how anyone, watch or not, accounts for activity in what they eat. Handy to plan ahead, or to log something you've already done. Tip: record the session in Apple Health too — an Apple Watch workout, or a manual entry — and its active energy counts toward the calories you've burned today. That's the other side of the same ledger: this bonus raises what you can eat, Apple Health's active energy raises what you've burned, and they're meant to offset each other, not double up. For example: log a lunchtime walk and today's eating allowance nudges up; if you also recorded it in Apple Health, your burned total nudges up too — same session, two sides of the ledger, never added together.",
       "learnMoreURL": "https://strathlon.com/blog-apple-watch",
       "stage": "usage-core"
     },
@@ -681,7 +681,7 @@
       "audience": "all",
       "icon": "figure.indoor.cycle",
       "title": "Log your gym classes in a tap",
-      "body": "Went to Spin, HIIT, Body Pump, Yoga or Step? Tap 'Add a session, walk or activity', open Gym classes, and pick yours — search the name you know (try 'rpm' or 'bodypump'). Calories scale to your weight; tweak the duration or pin your own number. Not listed? Use 'Other class (custom)'.",
+      "body": "Went to Spin, HIIT, Body Pump, Yoga or Step? Tap 'Add activity', open Gym classes, and pick yours — search the name you know (try 'rpm' or 'bodypump'). Calories scale to your weight; tweak the duration or pin your own number. Not listed? Use 'Other class (custom)'.",
       "stage": "usage-core"
     },
     {
@@ -709,7 +709,7 @@
       "audience": "all",
       "icon": "ruler",
       "title": "Add distance to your runs and walks",
-      "body": "When you log a run or walk in 'Add a session, walk or activity', add the distance in km — it drives the calorie estimate directly, so the burn matches how far you actually went, not just how long. It's optional: leave it blank and we use the duration estimate. Cycling and swimming log distance as a stat, with the estimate still based on duration.",
+      "body": "When you log a run or walk in 'Add activity', add the distance in km — it drives the calorie estimate directly, so the burn matches how far you actually went, not just how long. It's optional: leave it blank and we use the duration estimate. Cycling and swimming log distance as a stat, with the estimate still based on duration.",
       "stage": "usage-core"
     },
     {
