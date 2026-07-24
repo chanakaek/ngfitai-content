@@ -1,5 +1,5 @@
 {
-  "version": "1.15.0",
+  "version": "1.16.1",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -1073,6 +1073,60 @@
       }
     },
     {
+      "id": "barbell-back-squat",
+      "name": "Barbell Back Squat",
+      "category": "legs",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=barbell+back+squat+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "3-0-1",
+          "tip": "Bar on the upper back, brace hard, sit between the hips to at least parallel. Drive through mid-foot.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "3-0-1",
+          "tip": "Heaviest squat — track load here. Controlled descent, full depth.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "3-0-1",
+          "tip": "Brace, depth, drive. No forward collapse.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "5-6",
+          "tempo": "3-0-1",
+          "tip": "Primary lower-body strength — the number to progress. Strength benchmark.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: squat to a box at a pain-free height, keep shins more vertical, lighter load.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER-BACK FRIENDLY: use a safety-bar or goblet load, reduce depth, brace the core hard — or sub the leg press.",
+          "isAdapted": true
+        }
+      },
+      "contraindicatedInjuries": [
+        "knee",
+        "hip",
+        "lowerBack"
+      ]
+    },
+    {
       "id": "romanian-deadlift",
       "name": "Romanian Deadlift",
       "category": "legs",
@@ -1367,14 +1421,14 @@
           "reps": "10",
           "tempo": "3-0-1",
           "tip": "Hinge at hips. Hamstring stretch. Straight to C1.",
-          "group": ""
+          "group": "F1"
         },
         "3": {
           "sets": "4",
           "reps": "8",
           "tempo": "3-1-1",
           "tip": "Pause at stretch. Hinge at hips. Straight to C1.",
-          "group": ""
+          "group": "D3"
         },
         "maintenance": {
           "sets": "4",
@@ -1416,14 +1470,14 @@
           "reps": "10",
           "tempo": "2-0-1",
           "tip": "Step back. Front heel drive. Straight to C2.",
-          "group": ""
+          "group": "D1"
         },
         "3": {
           "sets": "4",
           "reps": "8",
           "tempo": "3-0-1",
           "tip": "Step back. Full depth. Straight to C2.",
-          "group": ""
+          "group": "D1"
         },
         "maintenance": {
           "sets": "4",
@@ -1476,7 +1530,7 @@
           "reps": "12",
           "tempo": "2-1-2",
           "tip": "Full stretch. Full contraction. Straight to C2.",
-          "group": ""
+          "group": "C3"
         },
         "maintenance": {
           "sets": "4",
@@ -1515,7 +1569,7 @@
           "reps": "6",
           "tempo": "4-0-1",
           "tip": "Lower slow. Straight to C2.",
-          "group": ""
+          "group": "D2"
         },
         "3": {
           "sets": "3",
@@ -1535,6 +1589,491 @@
       "injuryAdaptations": {
         "hamstring": {
           "tip": "HAMSTRING ADAPTED: do NOT perform the heavy Nordic eccentric on an injured hamstring — use band-assisted partial reps only, or substitute an unloaded glute bridge.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "floor-glute-bridge-unloaded",
+      "name": "Floor Glute Bridge (Unloaded)",
+      "category": "legs",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=floor+glute+bridge+bodyweight+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Lie flat, feet planted. Drive hips up via glutes. No added load.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Bodyweight only. 1s squeeze at top. Straight to B3.",
+          "group": "E2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Unloaded. Full hip extension. Straight to B3.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "Bodyweight activation. Pause 1s at top each rep.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "hamstring": {
+          "tip": "HAMSTRING ADAPTED: drive through the heels and glutes, not the hamstrings; reduce range if the hamstrings engage.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: engage the pelvic floor before each rep and keep the range pain-free; bodyweight only.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: only bridge to a neutral line, do not over-arch; brace the abs at the top.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "goblet-squat",
+      "name": "Goblet Squat",
+      "category": "legs",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=goblet+squat+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Hold dumbbell/kettlebell at chest. Upright torso. Squat to depth. Drive through heels.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Front-loaded. Upright torso. Straight to A3.",
+          "group": "E1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Upright torso protects the spine. Straight to A3.",
+          "group": "D2"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-1-1",
+          "tip": "Heavy goblet hold. Upright torso. Full depth.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep the torso tall and brace the core; reduce depth if the lower back rounds.",
+          "isAdapted": true
+        },
+        "knee": {
+          "tip": "KNEE ADAPTED: heels elevated on a plate. Depth reduced — stop before discomfort.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: narrow the stance, control the depth.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "leg-press-partial-rom",
+      "name": "Leg Press (Partial ROM)",
+      "category": "legs",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=leg+press+partial+range+knee+friendly+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Machine-guided. Stop at ~90 degree knee — no deeper. Protects the knee.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Partial ROM. 90 degree knee max. Straight to C3.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Partial ROM. No deep flexion. Straight to C3.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "10",
+          "tempo": "2-1-1",
+          "tip": "Partial ROM. Controlled. 90 degree knee limit.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: keep the range above 90 degrees and the feet high on the platform to reduce patellar load.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep the lower back flat on the pad through the whole range; do not let the pelvis tuck at the bottom.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "seated-db-calf-press",
+      "name": "Seated Dumbbell Calf Press",
+      "category": "legs",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=seated+dumbbell+calf+raise+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Seated, dumbbell on knees. Press through balls of feet. Controlled range.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Seated calf press. Full controlled ROM. Straight to C3.",
+          "group": "F2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Seated. Pause at top. Straight to C3.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Seated calf. Heavier dumbbells. 1s squeeze at top.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {}
+    },
+    {
+      "id": "seated-leg-curl-light",
+      "name": "Seated Leg Curl (Light)",
+      "category": "legs",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=seated+leg+curl+light+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Light resistance. Controlled curl. No ballistic motion — hamstring-safe.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Light load. Slow tempo. Straight to A3.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-0-1",
+          "tip": "Light. Pain-free range only. Straight to A3.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Light resistance. Strict controlled curl.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {}
+    },
+    {
+      "id": "bulgarian-split-squat-legs",
+      "name": "Bulgarian Split Squat",
+      "category": "legs",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=bulgarian+split+squat+form",
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "10",
+          "tempo": "3-0-1",
+          "tip": "Rear foot on the bench, torso tall. Drop straight down, drive through the front heel. 10 per leg.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "3-0-1",
+          "tip": "Unilateral quad/glute strength + balance. 10 per side, control the depth.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "3-0-1",
+          "tip": "Slow eccentric, knee tracks the toe. 10 per side.",
+          "group": "C1"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "3-0-1",
+          "tip": "Controlled single-leg strength, 6-8 per leg.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: reduce depth, shorten the split, keep the shin vertical — or switch to a static split squat. Lighter load.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "leg-extension",
+      "name": "Leg Extension",
+      "category": "legs",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=leg+extension+machine+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "Seat back pad snug, pause and squeeze the quads at the top, control the return.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "Quad isolation — pause at lockout, no swinging the weight.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "Peak-squeeze each rep, slow eccentric.",
+          "group": "C2"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "12-15",
+          "tempo": "2-1-1",
+          "tip": "Strict quad isolation, squeeze at the top.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: use a partial range (avoid full terminal lockout if the kneecap is sensitive), lighter load, higher reps.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "pull-up-upper",
+      "name": "Pull-Up",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=pull+up+form",
+      "equipment": [
+        "Pull-Up Bar"
+      ],
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "Full hang to chin over the bar. Add band assistance or load as needed.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "Lead with the elbows, drive them to your ribs.",
+          "group": "E1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "Full range, no kipping.",
+          "group": "C1"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "5-6",
+          "tempo": "2-0-1",
+          "tip": "Heaviest vertical pull — add load to progress. Strength benchmark.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: neutral/parallel grip, pain-free range only, use band assistance to unload.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: neutral grip, avoid a dead-hang jerk out of the bottom.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "barbell-bench-press-upper",
+      "name": "Barbell Bench Press",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=barbell+bench+press+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "Flat bench, bar over mid-chest. Shoulder blades pinned back and down, drive through the whole foot.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "Heaviest horizontal press — track load here. Controlled to the chest, no bounce.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "Full ROM, blades retracted, brace the whole rep.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "5-6",
+          "tempo": "3-0-1",
+          "tip": "Primary pressing strength — the number to progress. Strength benchmark.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: switch to a neutral-grip dumbbell or floor press, reduce depth to a pain-free range, lighter load.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: slightly narrower or neutral grip, lighter load, avoid locking out hard.",
+          "isAdapted": true
+        }
+      },
+      "contraindicatedInjuries": [
+        "shoulder",
+        "elbow"
+      ]
+    },
+    {
+      "id": "flat-db-press-upper",
+      "name": "Flat Dumbbell Bench Press",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=flat+dumbbell+bench+press+form",
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Flat bench, dumbbells over the chest. Control to a deep stretch.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Heavier horizontal press.",
+          "group": "D1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Full ROM, controlled descent.",
+          "group": "C2"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "3-0-1",
+          "tip": "Deep controlled stretch, drive to lockout.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: neutral grip, reduce depth to a pain-free range, lighter load.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter weight, neutral grip.",
           "isAdapted": true
         }
       }
@@ -1579,9 +2118,9 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: swapped to Cable Face Pull — no overhead lockout. Light, pull to the forehead with elbows high, external-rotate at the end. Rotator-cuff friendly.",
+          "tip": "SHOULDER ADAPTED: swapped to Rear-Delt Dumbbell Fly — no overhead lockout, rear-delt and rotator-cuff friendly. Light load, controlled tempo.",
           "isAdapted": true,
-          "name": "Cable Face Pull"
+          "name": "Rear-Delt Dumbbell Fly"
         }
       }
     },
@@ -1606,7 +2145,7 @@
           "reps": "15",
           "tempo": "2-0-1",
           "tip": "Strict form. Shoulder height. Rest 45s.",
-          "group": ""
+          "group": "F1"
         },
         "maintenance": {
           "sets": "3",
@@ -1683,14 +2222,14 @@
           "reps": "10",
           "tempo": "2-0-1",
           "tip": "Rotate and press. Full shoulder ROM.",
-          "group": ""
+          "group": "E2"
         },
         "3": {
           "sets": "4",
           "reps": "8",
           "tempo": "2-0-1",
           "tip": "Full rotation. Controlled press.",
-          "group": ""
+          "group": "D1"
         },
         "maintenance": {
           "sets": "4",
@@ -1736,7 +2275,7 @@
           "reps": "20",
           "tempo": "2-0-1",
           "tip": "Arms straight. Rear delt squeeze. Rotator cuff health.",
-          "group": ""
+          "group": "D3"
         },
         "maintenance": {
           "sets": "3",
@@ -1749,6 +2288,339 @@
       "injuryAdaptations": {
         "shoulder": {
           "tip": "SHOULDER ADAPTED: lighter band, reduce the external-rotation range if painful, focus on scapular retraction.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "incline-db-press-upper",
+      "name": "Incline Dumbbell Press",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+press+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Controlled form.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "30° incline. Straight to A2.",
+          "group": "A1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "30° incline. Straight to A2.",
+          "group": "A1"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "2-0-1",
+          "tip": "Strength focus.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "name": "Machine Chest Press",
+          "tip": "SHOULDER ADAPTED: machine press removes impingement risk. Full ROM.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter weight, neutral grip, stop before pain.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "seated-cable-row-upper",
+      "name": "Seated Cable Row",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=seated+cable+row+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Controlled form.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-1-1",
+          "tip": "Chest proud. Rest 45s after A2.",
+          "group": "A2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-1-1",
+          "tip": "Chest proud, hold 1s. Straight to A3.",
+          "group": "A2"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "2-0-1",
+          "tip": "Strength focus.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "lowerBack": {
+          "name": "Chest-Supported Dumbbell Row",
+          "tip": "LOWER BACK ADAPTED: chest-supported removes spinal loading.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "lat-pulldown-upper",
+      "name": "Lat Pulldown",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=lat+pulldown+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Controlled form.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-2",
+          "tip": "Pull to upper chest. Straight to B2.",
+          "group": "B1"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-2",
+          "tip": "Shoulder blades first. Rest 40s after A3.",
+          "group": "A3"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "2-0-1",
+          "tip": "Strength focus.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "name": "Lat Pulldown (Wide Grip)",
+          "tip": "SHOULDER ADAPTED: wider grip, pull to upper chest only.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "ez-bar-curl-upper",
+      "name": "EZ Bar Curl",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=ez+bar+curl+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Controlled form.",
+          "group": ""
+        },
+        "2": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "3-0-1",
+          "tip": "Elbows fixed. Straight to C2.",
+          "group": "C1"
+        },
+        "3": {
+          "sets": "3",
+          "reps": "10",
+          "tempo": "3-0-1",
+          "tip": "Elbows fixed. Straight to B3.",
+          "group": "B2"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "2-0-1",
+          "tip": "Strength focus.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "name": "Hammer Curl",
+          "tip": "ELBOW ADAPTED: hammer curl — neutral grip reduces strain on the elbow tendons vs. the EZ bar.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "chest-supported-row-upper",
+      "name": "Chest-Supported Row",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=chest+supported+row+form",
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Chest on the incline pad — no momentum. Row to the lower ribs.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-1-1",
+          "tip": "Squeeze the blades, no torso swing.",
+          "group": "D2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-1-1",
+          "tip": "Strict, chest stays glued to the pad.",
+          "group": "D2"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "2-1-1",
+          "tip": "Strict row, full squeeze.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: neutral grip, row lower (toward the hips), pain-free range.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER-BACK FRIENDLY: chest support removes spinal load — keep it strict.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "cable-face-pull-upper",
+      "name": "Cable Face Pull",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=cable+face+pull+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "Pull to the forehead, external-rotate at the end, hands finish behind the ears.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "Rear-delt + rotator-cuff balance for all the pressing.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "High elbows, squeeze the rear delts.",
+          "group": "C3"
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "12-15",
+          "tempo": "2-1-1",
+          "tip": "Light, high reps, external rotation at the top.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER FRIENDLY: light load, this IS a cuff-health move — keep it slow and controlled.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "hammer-curl-upper",
+      "name": "Dumbbell Hammer Curl",
+      "category": "upper",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+hammer+curl+form",
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Neutral grip (palms facing in) the whole way. Elbows still, no swing — hits the brachialis and forearm.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Strict, neutral grip. Squeeze at the top.",
+          "group": "F2"
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Controlled eccentric, no body english.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "8-10",
+          "tempo": "2-0-1",
+          "tip": "Strict neutral-grip curl, controlled.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: neutral grip already elbow-friendly — lighter load, stop short of full flexion if it pinches.",
           "isAdapted": true
         }
       }
@@ -1793,9 +2665,9 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: swapped to Face Pull — no overhead lockout. Light, pull to the forehead with elbows high, external-rotate at the end. Rotator-cuff friendly.",
+          "tip": "SHOULDER ADAPTED: swapped to Band Pull-Apart — no overhead lockout, light, rotator-cuff and rear-delt friendly.",
           "isAdapted": true,
-          "name": "Cable Face Pull"
+          "name": "Band Pull-Apart"
         }
       }
     },
@@ -2429,6 +3301,186 @@
       }
     },
     {
+      "id": "cable-tricep-pushdown-arms",
+      "name": "Cable Tricep Pushdown",
+      "category": "arms",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=cable+tricep+pushdown+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Elbows pinned to your sides. Full lockout, control the return.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Constant cable tension throughout the rep.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Squeeze hard at lockout, control the return.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "8-10",
+          "tempo": "2-0-1",
+          "tip": "Full lockout, slow return.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter load, rope handle, stop short of full lockout if it pinches.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "cable-curl-arms",
+      "name": "Cable Curl",
+      "category": "arms",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=cable+curl+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Constant tension through the whole range. Elbows still.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Don't swing — the cable keeps tension at the bottom of the rep.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-0-1",
+          "tip": "Squeeze hard at the top, controlled return.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "8-10",
+          "tempo": "2-0-1",
+          "tip": "Constant tension, no swing.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter load, neutral/rope grip, stop before pain.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "preacher-curl-arms",
+      "name": "Preacher Curl",
+      "category": "arms",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=preacher+curl+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "3-0-1",
+          "tip": "Upper arm flat on the pad. Full stretch at the bottom, control it.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "3-0-1",
+          "tip": "Deep stretch each rep — the preacher pad kills the swing.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "3-0-1",
+          "tip": "Slow eccentric, no bouncing out of the bottom.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "6-8",
+          "tempo": "3-0-1",
+          "tip": "Full stretch, controlled descent.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: reduce range at the bottom (the deep stretch stresses the elbow), lighter load.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "db-kickback-arms",
+      "name": "Dumbbell Kickback",
+      "category": "arms",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+tricep+kickback+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "Upper arm parallel to the floor and still. Full extension, squeeze the triceps.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "Peak-contraction move — light, strict.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "Hold the lockout a beat each rep.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "10-12",
+          "tempo": "2-1-1",
+          "tip": "Strict, squeeze at lockout.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: lighter load, avoid snapping into lockout.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
       "id": "trap-bar-deadlift",
       "name": "Trap Bar Deadlift",
       "category": "fullbody",
@@ -2468,9 +3520,9 @@
       },
       "injuryAdaptations": {
         "lowerBack": {
-          "name": "Goblet Squat",
-          "tip": "LOWER BACK ADAPTED: goblet squat — upright torso removes spinal compression.",
-          "isAdapted": true
+          "tip": "LOWER-BACK FRIENDLY: swapped to Cable Pull-Through — a hip-hinge pattern with far less spinal loading than a heavy pull. Light load, brace hard, controlled tempo.",
+          "isAdapted": true,
+          "name": "Cable Pull-Through"
         },
         "knee": {
           "name": "Barbell Hip Thrust",
@@ -4603,194 +5655,6 @@
       }
     },
     {
-      "id": "incline-db-press-upper",
-      "name": "Incline Dumbbell Press",
-      "category": "upper",
-      "environment": [
-        "gym"
-      ],
-      "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+press+form",
-      "phases": {
-        "1": {
-          "sets": "3",
-          "reps": "12",
-          "tempo": "2-0-1",
-          "tip": "Controlled form.",
-          "group": ""
-        },
-        "2": {
-          "sets": "4",
-          "reps": "10",
-          "tempo": "2-0-1",
-          "tip": "30° incline. Straight to A2.",
-          "group": "A1"
-        },
-        "3": {
-          "sets": "4",
-          "reps": "8",
-          "tempo": "2-0-1",
-          "tip": "30° incline. Straight to A2.",
-          "group": "A1"
-        },
-        "maintenance": {
-          "sets": "4",
-          "reps": "6-8",
-          "tempo": "2-0-1",
-          "tip": "Strength focus.",
-          "group": ""
-        }
-      },
-      "injuryAdaptations": {
-        "shoulder": {
-          "name": "Machine Chest Press",
-          "tip": "SHOULDER ADAPTED: machine press removes impingement risk. Full ROM.",
-          "isAdapted": true
-        },
-        "elbow": {
-          "tip": "ELBOW ADAPTED: lighter weight, neutral grip, stop before pain.",
-          "isAdapted": true
-        }
-      }
-    },
-    {
-      "id": "seated-cable-row-upper",
-      "name": "Seated Cable Row",
-      "category": "upper",
-      "environment": [
-        "gym"
-      ],
-      "videoURL": "https://www.youtube.com/results?search_query=seated+cable+row+form",
-      "phases": {
-        "1": {
-          "sets": "3",
-          "reps": "12",
-          "tempo": "2-0-1",
-          "tip": "Controlled form.",
-          "group": ""
-        },
-        "2": {
-          "sets": "4",
-          "reps": "10",
-          "tempo": "2-1-1",
-          "tip": "Chest proud. Rest 45s after A2.",
-          "group": "A2"
-        },
-        "3": {
-          "sets": "4",
-          "reps": "10",
-          "tempo": "2-1-1",
-          "tip": "Chest proud, hold 1s. Straight to A3.",
-          "group": "A2"
-        },
-        "maintenance": {
-          "sets": "4",
-          "reps": "6-8",
-          "tempo": "2-0-1",
-          "tip": "Strength focus.",
-          "group": ""
-        }
-      },
-      "injuryAdaptations": {
-        "lowerBack": {
-          "name": "Chest-Supported Dumbbell Row",
-          "tip": "LOWER BACK ADAPTED: chest-supported removes spinal loading.",
-          "isAdapted": true
-        }
-      }
-    },
-    {
-      "id": "lat-pulldown-upper",
-      "name": "Lat Pulldown",
-      "category": "upper",
-      "environment": [
-        "gym"
-      ],
-      "videoURL": "https://www.youtube.com/results?search_query=lat+pulldown+form",
-      "phases": {
-        "1": {
-          "sets": "3",
-          "reps": "12",
-          "tempo": "2-0-1",
-          "tip": "Controlled form.",
-          "group": ""
-        },
-        "2": {
-          "sets": "4",
-          "reps": "10",
-          "tempo": "2-0-2",
-          "tip": "Pull to upper chest. Straight to B2.",
-          "group": "B1"
-        },
-        "3": {
-          "sets": "4",
-          "reps": "10",
-          "tempo": "2-0-2",
-          "tip": "Shoulder blades first. Rest 40s after A3.",
-          "group": "A3"
-        },
-        "maintenance": {
-          "sets": "4",
-          "reps": "6-8",
-          "tempo": "2-0-1",
-          "tip": "Strength focus.",
-          "group": ""
-        }
-      },
-      "injuryAdaptations": {
-        "shoulder": {
-          "name": "Lat Pulldown (Wide Grip)",
-          "tip": "SHOULDER ADAPTED: wider grip, pull to upper chest only.",
-          "isAdapted": true
-        }
-      }
-    },
-    {
-      "id": "ez-bar-curl-upper",
-      "name": "EZ Bar Curl",
-      "category": "upper",
-      "environment": [
-        "gym"
-      ],
-      "videoURL": "https://www.youtube.com/results?search_query=ez+bar+curl+form",
-      "phases": {
-        "1": {
-          "sets": "3",
-          "reps": "12",
-          "tempo": "2-0-1",
-          "tip": "Controlled form.",
-          "group": ""
-        },
-        "2": {
-          "sets": "3",
-          "reps": "12",
-          "tempo": "3-0-1",
-          "tip": "Elbows fixed. Straight to C2.",
-          "group": "C1"
-        },
-        "3": {
-          "sets": "3",
-          "reps": "10",
-          "tempo": "3-0-1",
-          "tip": "Elbows fixed. Straight to B3.",
-          "group": "B2"
-        },
-        "maintenance": {
-          "sets": "4",
-          "reps": "6-8",
-          "tempo": "2-0-1",
-          "tip": "Strength focus.",
-          "group": ""
-        }
-      },
-      "injuryAdaptations": {
-        "elbow": {
-          "name": "Hammer Curl",
-          "tip": "ELBOW ADAPTED: hammer curl — neutral grip reduces strain on the elbow tendons vs. the EZ bar.",
-          "isAdapted": true
-        }
-      }
-    },
-    {
       "id": "cable-crossover-low-high",
       "name": "Cable Crossover (Low-to-High)",
       "category": "push",
@@ -4929,107 +5793,150 @@
       }
     },
     {
-      "id": "floor-glute-bridge-unloaded",
-      "name": "Floor Glute Bridge (Unloaded)",
-      "category": "legs",
+      "id": "overhead-bb-press-shoulders",
+      "name": "Overhead Barbell Press",
+      "category": "shoulders",
       "environment": [
         "gym"
       ],
-      "videoURL": "https://www.youtube.com/results?search_query=floor+glute+bridge+bodyweight+form",
+      "videoURL": "https://www.youtube.com/results?search_query=overhead+barbell+press+form",
       "phases": {
         "1": {
           "sets": "3",
-          "reps": "15",
+          "reps": "8",
           "tempo": "2-0-1",
-          "tip": "Lie flat, feet planted. Drive hips up via glutes. No added load.",
+          "tip": "Standing, brace the core, press the bar to overhead lockout. Bar path just past the chin.",
           "group": ""
         },
         "2": {
           "sets": "4",
-          "reps": "15",
+          "reps": "8",
           "tempo": "2-0-1",
-          "tip": "Bodyweight only. 1s squeeze at top. Straight to B3.",
+          "tip": "Heaviest overhead press — track load here.",
           "group": ""
         },
         "3": {
           "sets": "4",
-          "reps": "15",
+          "reps": "8",
           "tempo": "2-0-1",
-          "tip": "Unloaded. Full hip extension. Straight to B3.",
+          "tip": "Full lockout, ribs down, brace throughout.",
           "group": ""
         },
         "maintenance": {
-          "sets": "3",
-          "reps": "15",
-          "tempo": "2-1-1",
-          "tip": "Bodyweight activation. Pause 1s at top each rep.",
+          "sets": "4",
+          "reps": "5-6",
+          "tempo": "3-0-1",
+          "tip": "Primary overhead strength — track load here. Strength benchmark.",
           "group": ""
         }
       },
       "injuryAdaptations": {
-        "hamstring": {
-          "tip": "HAMSTRING ADAPTED: drive through the heels and glutes, not the hamstrings; reduce range if the hamstrings engage.",
-          "isAdapted": true
-        },
-        "hip": {
-          "tip": "HIP ADAPTED: engage the pelvic floor before each rep and keep the range pain-free; bodyweight only.",
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: switch to a landmine or neutral-grip DB press, press to a pain-free height, lighter load.",
           "isAdapted": true
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: only bridge to a neutral line, do not over-arch; brace the abs at the top.",
+          "tip": "LOWER-BACK FRIENDLY: press seated with back support to remove the standing lumbar load.",
           "isAdapted": true
         }
       }
     },
     {
-      "id": "goblet-squat",
-      "name": "Goblet Squat",
-      "category": "legs",
+      "id": "arnold-press-shoulders",
+      "name": "Arnold Press",
+      "category": "shoulders",
       "environment": [
         "gym"
       ],
-      "videoURL": "https://www.youtube.com/results?search_query=goblet+squat+form",
+      "videoURL": "https://www.youtube.com/results?search_query=arnold+press+form",
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
       "phases": {
         "1": {
           "sets": "3",
-          "reps": "12",
+          "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Hold dumbbell/kettlebell at chest. Upright torso. Squat to depth. Drive through heels.",
+          "tip": "Rotate from palms-in at the bottom to palms-out overhead. Full ROM.",
           "group": ""
         },
         "2": {
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Front-loaded. Upright torso. Straight to A3.",
+          "tip": "The rotation hits all three delt heads.",
           "group": ""
         },
         "3": {
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Upright torso protects the spine. Straight to A3.",
+          "tip": "Smooth rotation, controlled descent throughout.",
           "group": ""
         },
         "maintenance": {
           "sets": "4",
-          "reps": "8",
-          "tempo": "2-1-1",
-          "tip": "Heavy goblet hold. Upright torso. Full depth.",
+          "reps": "6-8",
+          "tempo": "3-0-1",
+          "tip": "Full rotating ROM, controlled.",
           "group": ""
         }
       },
       "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: skip the rotation, press neutral-grip only, pain-free height.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "rear-delt-fly-shoulders",
+      "name": "Rear-Delt Dumbbell Fly",
+      "category": "shoulders",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=rear+delt+dumbbell+fly+form",
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "Hinge at the hips, soft elbows, raise the dumbbells wide. Squeeze the rear delts.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "Light, high reps — lead with the pinkies.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-1-1",
+          "tip": "No swing, pure rear-delt isolation.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "12-15",
+          "tempo": "2-1-1",
+          "tip": "Strict, wide arc, squeeze at the top.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER FRIENDLY: light load, this balances the pressing — keep it slow.",
+          "isAdapted": true
+        },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: keep the torso tall and brace the core; reduce depth if the lower back rounds.",
-          "isAdapted": true
-        },
-        "knee": {
-          "tip": "KNEE ADAPTED: heels elevated on a plate. Depth reduced — stop before discomfort.",
-          "isAdapted": true
-        },
-        "hip": {
-          "tip": "HIP ADAPTED: narrow the stance, control the depth.",
+          "tip": "LOWER-BACK FRIENDLY: perform chest-supported on an incline bench instead of hinging.",
           "isAdapted": true
         }
       }
@@ -5069,135 +5976,6 @@
           "reps": "12",
           "tempo": "2-1-1",
           "tip": "Lower the surface for more load. Body straight. Full ROM.",
-          "group": ""
-        }
-      },
-      "injuryAdaptations": {}
-    },
-    {
-      "id": "leg-press-partial-rom",
-      "name": "Leg Press (Partial ROM)",
-      "category": "legs",
-      "environment": [
-        "gym"
-      ],
-      "videoURL": "https://www.youtube.com/results?search_query=leg+press+partial+range+knee+friendly+form",
-      "phases": {
-        "1": {
-          "sets": "3",
-          "reps": "12",
-          "tempo": "2-0-1",
-          "tip": "Machine-guided. Stop at ~90 degree knee — no deeper. Protects the knee.",
-          "group": ""
-        },
-        "2": {
-          "sets": "4",
-          "reps": "12",
-          "tempo": "2-0-1",
-          "tip": "Partial ROM. 90 degree knee max. Straight to C3.",
-          "group": ""
-        },
-        "3": {
-          "sets": "4",
-          "reps": "12",
-          "tempo": "2-0-1",
-          "tip": "Partial ROM. No deep flexion. Straight to C3.",
-          "group": ""
-        },
-        "maintenance": {
-          "sets": "3",
-          "reps": "10",
-          "tempo": "2-1-1",
-          "tip": "Partial ROM. Controlled. 90 degree knee limit.",
-          "group": ""
-        }
-      },
-      "injuryAdaptations": {
-        "knee": {
-          "tip": "KNEE ADAPTED: keep the range above 90 degrees and the feet high on the platform to reduce patellar load.",
-          "isAdapted": true
-        },
-        "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: keep the lower back flat on the pad through the whole range; do not let the pelvis tuck at the bottom.",
-          "isAdapted": true
-        }
-      }
-    },
-    {
-      "id": "seated-db-calf-press",
-      "name": "Seated Dumbbell Calf Press",
-      "category": "legs",
-      "environment": [
-        "gym"
-      ],
-      "videoURL": "https://www.youtube.com/results?search_query=seated+dumbbell+calf+raise+form",
-      "phases": {
-        "1": {
-          "sets": "3",
-          "reps": "15",
-          "tempo": "2-0-1",
-          "tip": "Seated, dumbbell on knees. Press through balls of feet. Controlled range.",
-          "group": ""
-        },
-        "2": {
-          "sets": "4",
-          "reps": "15",
-          "tempo": "2-0-1",
-          "tip": "Seated calf press. Full controlled ROM. Straight to C3.",
-          "group": ""
-        },
-        "3": {
-          "sets": "4",
-          "reps": "15",
-          "tempo": "2-0-1",
-          "tip": "Seated. Pause at top. Straight to C3.",
-          "group": ""
-        },
-        "maintenance": {
-          "sets": "3",
-          "reps": "12",
-          "tempo": "2-1-1",
-          "tip": "Seated calf. Heavier dumbbells. 1s squeeze at top.",
-          "group": ""
-        }
-      },
-      "injuryAdaptations": {}
-    },
-    {
-      "id": "seated-leg-curl-light",
-      "name": "Seated Leg Curl (Light)",
-      "category": "legs",
-      "environment": [
-        "gym"
-      ],
-      "videoURL": "https://www.youtube.com/results?search_query=seated+leg+curl+light+form",
-      "phases": {
-        "1": {
-          "sets": "3",
-          "reps": "15",
-          "tempo": "2-0-1",
-          "tip": "Light resistance. Controlled curl. No ballistic motion — hamstring-safe.",
-          "group": ""
-        },
-        "2": {
-          "sets": "4",
-          "reps": "15",
-          "tempo": "2-0-1",
-          "tip": "Light load. Slow tempo. Straight to A3.",
-          "group": ""
-        },
-        "3": {
-          "sets": "4",
-          "reps": "15",
-          "tempo": "2-0-1",
-          "tip": "Light. Pain-free range only. Straight to A3.",
-          "group": ""
-        },
-        "maintenance": {
-          "sets": "3",
-          "reps": "12",
-          "tempo": "2-1-1",
-          "tip": "Light resistance. Strict controlled curl.",
           "group": ""
         }
       },
@@ -9742,6 +10520,154 @@
         },
         "knee": {
           "tip": "KNEE ADAPTED: press from a STANDING split stance — do not kneel. Keep the front knee soft and behind the toes.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "goblet-squat-fb",
+      "name": "Goblet Squat",
+      "category": "fullbody",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=goblet+squat+form",
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "3-0-1",
+          "tip": "Hold the dumbbell at your chest. Sit between the hips, elbows inside the knees.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "3-0-1",
+          "tip": "Upright torso, full depth each rep.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "3-0-1",
+          "tip": "Control the descent, drive up through mid-foot.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "8-10",
+          "tempo": "3-0-1",
+          "tip": "Full-depth, controlled squat pattern.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: reduce depth to a pain-free box height, keep the shins more vertical, lighter load.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "pull-up-fb",
+      "name": "Pull-Up",
+      "category": "fullbody",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=pull+up+form",
+      "equipment": [
+        "Pull-Up Bar"
+      ],
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "Full hang to chin over the bar. Band-assist or add load as needed.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "The only vertical pull in the full-body day.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "2-0-1",
+          "tip": "Full range, no kip.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "5-6",
+          "tempo": "2-0-1",
+          "tip": "Add load to progress. Upper-body strength benchmark.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: neutral grip, pain-free range, band assistance.",
+          "isAdapted": true
+        },
+        "elbow": {
+          "tip": "ELBOW ADAPTED: neutral grip, no jerk out of the dead hang.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "walking-lunge-fb",
+      "name": "Dumbbell Walking Lunge",
+      "category": "fullbody",
+      "environment": [
+        "gym"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+walking+lunge+form",
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "10 steps per leg. Long stride, torso tall, drive through the front heel.",
+          "group": ""
+        },
+        "2": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Unilateral leg strength + balance. 10 per side.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Controlled, knee tracks the toe. 10 per side.",
+          "group": ""
+        },
+        "maintenance": {
+          "sets": "4",
+          "reps": "8-10",
+          "tempo": "2-0-1",
+          "tip": "Long controlled stride, 8-10 per leg.",
+          "group": ""
+        }
+      },
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: shorten the stride, reduce depth, or switch to a static split squat; lighter load.",
           "isAdapted": true
         }
       }
