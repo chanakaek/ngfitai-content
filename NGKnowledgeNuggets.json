@@ -1,5 +1,5 @@
 {
-  "version": "1.60.0",
+  "version": "1.62.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -718,7 +718,7 @@
       "audience": "all",
       "icon": "scalemass.fill",
       "title": "Why the scale lies after a hard week",
-      "body": "A tough training week stores extra glycogen, and every gram of glycogen holds ~3g of water. The scale jumps while you're actually losing fat underneath. Trust the trend over weeks, not the daily number.",
+      "body": "A tough training week stores extra glycogen, and every gram of glycogen holds about 3g of water. That can push the scale up for days even when nothing has really changed underneath. Trust the trend over weeks, not any single morning.",
       "learnMoreURL": "https://strathlon.com/stats-weight-trend",
       "stage": "knowledge"
     },
@@ -729,6 +729,9 @@
       "icon": "flame.fill",
       "title": "Fat loss is one equation",
       "body": "You lose fat when you burn more energy than you eat — full stop. No food is magic or forbidden; total weekly calories are what move the needle. Everything else just makes the deficit easier to hold.",
+      "goals": [
+        "deficit"
+      ],
       "learnMoreURL": "https://strathlon.com/stats-energy-balance",
       "stage": "knowledge"
     },
@@ -739,6 +742,9 @@
       "icon": "figure.walk",
       "title": "NEAT: your hidden calorie burner",
       "body": "Fidgeting, walking, standing and chores (NEAT) can burn more daily calories than your workout. When dieting, the body quietly moves less — so a daily step target protects your deficit.",
+      "goals": [
+        "deficit"
+      ],
       "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#the-equation",
       "stage": "knowledge"
     },
@@ -749,6 +755,9 @@
       "icon": "fork.knife",
       "title": "Protein keeps you full on fewer calories",
       "body": "Protein is the most satiating macro and costs energy just to digest. Leaning your meals toward protein means you eat less without feeling deprived — the 'protein leverage' effect.",
+      "goals": [
+        "deficit"
+      ],
       "learnMoreURL": "https://strathlon.com/stats-protein",
       "stage": "knowledge"
     },
@@ -799,6 +808,9 @@
       "icon": "minus.circle.fill",
       "title": "Bigger deficit isn't better",
       "body": "A 300–500 kcal daily deficit keeps muscle, energy and training quality intact. Crash deficits strip muscle and tank your performance, so you rebound fast. Slower is what actually sticks.",
+      "goals": [
+        "deficit"
+      ],
       "learnMoreURL": "https://strathlon.com/stats-energy-balance#not-linear",
       "stage": "knowledge"
     },
@@ -809,6 +821,9 @@
       "icon": "arrow.triangle.2.circlepath",
       "title": "Stalled? You're probably eating more than you think",
       "body": "Plateaus are almost always creeping portions and untracked bites, not a 'broken metabolism'. Tighten logging for a week before slashing calories further.",
+      "goals": [
+        "deficit"
+      ],
       "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#plateaus",
       "stage": "knowledge"
     },
@@ -818,7 +833,7 @@
       "audience": "all",
       "icon": "moon.zzz.fill",
       "title": "Bad sleep makes you hungrier",
-      "body": "One short night raises ghrelin (hunger) and lowers leptin (fullness), so you crave more and burn slightly less. Protecting sleep is a fat-loss tool, not a luxury.",
+      "body": "One short night raises ghrelin (hunger) and lowers leptin (fullness), so you crave more and recover worse. Protecting sleep steadies both your appetite and your training — not a luxury, whatever your goal.",
       "learnMoreURL": "https://strathlon.com/stats-sleep#appetite",
       "stage": "knowledge"
     },
@@ -829,6 +844,9 @@
       "icon": "tortoise.fill",
       "title": "Patience is a fat-loss skill",
       "body": "Healthy fat loss runs about 0.5–1% of body weight a week. Faster looks great on the scale but is mostly water and muscle — and it comes straight back. Slow is what keeps the result.",
+      "goals": [
+        "deficit"
+      ],
       "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#rate-of-loss",
       "stage": "knowledge"
     },
@@ -839,6 +857,9 @@
       "icon": "fork.knife.circle.fill",
       "title": "A diet break can help",
       "body": "After a long deficit, a week or two eating at maintenance can restore hormones, energy and sanity — then you resume the cut refreshed. It's a tool, not a failure.",
+      "goals": [
+        "deficit"
+      ],
       "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#diet-breaks",
       "stage": "knowledge"
     },
@@ -888,7 +909,7 @@
       "audience": "all",
       "icon": "drop.fill",
       "title": "Thirst can masquerade as hunger",
-      "body": "Mild dehydration often reads as a snack craving. Have a glass of water and wait ten minutes before reaching for food — half the time the 'hunger' fades.",
+      "body": "Mild dehydration often reads as a snack craving. If one hits out of nowhere, have a glass of water and wait ten minutes — half the time the 'hunger' fades, so you end up eating when you're genuinely hungry.",
       "learnMoreURL": "https://strathlon.com/guide-eating-for-results#hydration",
       "stage": "knowledge"
     },
@@ -898,7 +919,7 @@
       "audience": "all",
       "icon": "cup.and.saucer.fill",
       "title": "Watch what you drink",
-      "body": "Juices, lattes and 'healthy' smoothies can hide hundreds of calories that never fill you up. Liquid calories are the silent killer of a careful diet.",
+      "body": "Juices, lattes and 'healthy' smoothies can hide hundreds of calories that never fill you up. Liquid calories are easy to overlook when you're counting — worth knowing whether you're trying to trim them or, if you're gaining, use them.",
       "learnMoreURL": "https://strathlon.com/guide-eating-for-results#liquid-calories",
       "stage": "knowledge"
     },
@@ -908,7 +929,7 @@
       "audience": "all",
       "icon": "takeoutbag.and.cup.and.straw.fill",
       "title": "Whole foods do the heavy lifting",
-      "body": "You don't need to be perfect, but building meals around minimally processed foods gives you more volume, fibre and protein per calorie — fullness for free.",
+      "body": "You don't need to be perfect, but building meals around minimally processed foods gives you more fibre, protein and micronutrients per calorie. Better nutrition per bite serves any goal — trimming, holding or building.",
       "learnMoreURL": "https://strathlon.com/guide-eating-for-results#whole-foods",
       "stage": "knowledge"
     },
@@ -1008,7 +1029,7 @@
       "audience": "female",
       "icon": "sparkles",
       "title": "Lifting won't make you bulky",
-      "body": "Building large muscle takes years, surplus calories and high volume. Lifting heavy while eating at a deficit makes you leaner and stronger, not bigger — it shapes, it doesn't inflate.",
+      "body": "Building large muscle takes years, a real calorie surplus and high training volume. For most women, lifting heavy makes you stronger and more defined — not bigger. It shapes; it doesn't inflate.",
       "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#wont-bulk",
       "stage": "knowledge"
     },
@@ -1179,6 +1200,9 @@
       "icon": "shield.fill",
       "title": "Sleep protects muscle when you're dieting",
       "body": "Skimp on sleep in a deficit and more of your weight loss comes from muscle, not fat. Protecting sleep protects the lean mass you're training so hard to keep — it's a fat-loss tool, not a luxury.",
+      "goals": [
+        "deficit"
+      ],
       "learnMoreURL": "https://strathlon.com/stats-sleep#muscle",
       "stage": "knowledge"
     },
@@ -1289,6 +1313,9 @@
       "icon": "tortoise.fill",
       "title": "Myth: 'starvation mode' stalls you",
       "body": "Your metabolism adapts modestly when you diet, but it never falls below the calories you eat. Persistent stalls are creeping intake, not a body that's 'holding on'.",
+      "goals": [
+        "deficit"
+      ],
       "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#plateaus",
       "stage": "knowledge"
     },
@@ -1348,7 +1375,7 @@
       "audience": "all",
       "icon": "figure.walk.circle.fill",
       "title": "Steps are the easiest win",
-      "body": "Walking 7,000–10,000 steps a day quietly burns calories, aids recovery and lifts mood — no kit, no soreness. It's the most underrated fat-loss and health habit there is.",
+      "body": "Walking 7,000–10,000 steps a day burns easy calories, aids recovery and lifts mood — no kit, no soreness. It's one of the most underrated health and recovery habits there is.",
       "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#the-equation",
       "stage": "knowledge"
     },
@@ -1408,7 +1435,7 @@
       "audience": "all",
       "icon": "arrow.up.heart.fill",
       "title": "Build muscle to burn more at rest",
-      "body": "Muscle is metabolically active and raises the floor of what you burn doing nothing. Lifting while you diet means you keep that engine — and rebound far less afterwards.",
+      "body": "Muscle is metabolically active, so more of it lifts the floor of what you burn at rest. Keeping and building muscle with regular lifting protects that engine whatever your goal — losing, holding or gaining.",
       "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics",
       "stage": "knowledge"
     },
@@ -1418,7 +1445,7 @@
       "audience": "all",
       "icon": "square.grid.2x2.fill",
       "title": "Fill half your plate with veg",
-      "body": "Vegetables add huge volume, fibre and micronutrients for almost no calories. Half a plate of veg fills you up so the calorie-dense half does less damage to your target.",
+      "body": "Vegetables add fibre, micronutrients and volume for almost no calories. Trimming down? Let them fill about half your plate to stay full on fewer calories. Gaining? Take a smaller veg share so there's room for the protein and carbs your training needs.",
       "learnMoreURL": "https://strathlon.com/guide-eating-for-results#veg-volume",
       "stage": "knowledge"
     },
@@ -1498,7 +1525,7 @@
       "audience": "all",
       "icon": "arrow.triangle.swap",
       "title": "Supersets: it's about density, not magic",
-      "body": "Pairing two exercises back-to-back isn't a secret muscle trigger — it keeps your work density high and heart rate up, which drives fat loss and conditioning. Can't get two stations at once? Do them as straight sets with short (~30–45s) rest and you get the same effect.",
+      "body": "Pairing two exercises back-to-back isn't a secret muscle trigger — it keeps your work density high and heart rate up, so the session stays hard and time-efficient. Can't get two stations at once? Do them as straight sets with short (~30–45s) rest and you get the same effect.",
       "learnMoreURL": "https://strathlon.com/stats-rest-between-sets#supersets",
       "stage": "knowledge"
     },
@@ -1508,7 +1535,7 @@
       "audience": "all",
       "icon": "timer",
       "title": "Short rest is the point",
-      "body": "In Phase 2 and 3 the short rest isn't an accident — it's the stimulus. Keeping rest brief spikes metabolic stress and keeps calories burning. Resting 2–3 minutes between every set quietly turns a fat-loss session into a strength session.",
+      "body": "In Phase 2 and 3 the short rest isn't an accident — it's the stimulus. Brief rest keeps metabolic stress and work density high; that's what the phase is built around. Rest 2–3 minutes between every set and you quietly turn it into a pure-strength session — fine if that's your aim, but it's a different effect.",
       "learnMoreURL": "https://strathlon.com/stats-rest-between-sets",
       "stage": "knowledge"
     },
@@ -1519,6 +1546,9 @@
       "icon": "flame.fill",
       "title": "Density beats 'heavy' on a cut",
       "body": "In a calorie deficit you're not chasing maximal weight — you're chasing quality reps under fatigue, done densely: more work in less time, heart rate up, form intact. That's what makes definition show while you're losing fat.",
+      "goals": [
+        "deficit"
+      ],
       "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals",
       "stage": "knowledge"
     },
@@ -1528,7 +1558,7 @@
       "audience": "all",
       "icon": "heart.fill",
       "title": "Your heart rate is your density gauge",
-      "body": "Between sets, glance at your heart rate. If it stays up, you're holding the pace that burns fat and builds conditioning. If it drops right down, you rested too long. The colour cue in your warm-up and HIIT works the same way.",
+      "body": "Between sets, glance at your heart rate. If it stays up, you're holding the density and conditioning the session is built for. If it drops right down, you rested too long. The colour cue in your warm-up and HIIT works the same way.",
       "learnMoreURL": "https://strathlon.com/stats-average-heart-rate",
       "stage": "knowledge"
     },
@@ -1815,6 +1845,9 @@
       "icon": "figure.walk",
       "title": "Ate a bit much? Walk it back",
       "body": "Over your calories today, or short on your burn? Tap \"Add a walk or activity\" on your plan, pick a walk, run, cycle or swim and a duration — Strathlon adds the burn to today's allowance and shows what it frees up (\"about a large glass of wine\"). A 30–45 min walk is an easy few hundred calories to keep your deficit on track.",
+      "goals": [
+        "deficit"
+      ],
       "stage": "knowledge"
     },
     {
@@ -1853,6 +1886,1307 @@
       "title": "Tap your Readiness card to ask why",
       "body": "The Readiness card at the top of the AI Coach tab is now tappable. Subscribers can tap it and the coach explains how the score was worked out from your sleep, resting heart rate and between-set recovery, and what to do about it today; if Health sharing is switched off it offers to turn that on first, and if you're not subscribed it opens your upgrade options instead. The score itself stays free. It's a general guide, not a medical measure.",
       "stage": "usage-core"
+    },
+    {
+      "id": "nug_177",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "scalemass.fill",
+      "title": "Bulking and the scale won't budge? Eat a little more",
+      "body": "On a build, a scale that's flat for two or three weeks usually means you're not actually in a surplus — not that you should train harder. Add roughly 100–200 kcal a day, mostly carbs and protein, and give it another fortnight. Nudge, don't leap: a small bump grows muscle, a big one just adds fat.",
+      "goals": [
+        "muscleGain"
+      ]
+    },
+    {
+      "id": "nug_178",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.traditional",
+      "title": "Building? Rest long and add load",
+      "body": "When your goal is size and strength, the short-rest, heart-rate-up style is the wrong tool. On your main lifts, take 2–3 minutes between sets so you can move real weight and add to it over time — that progressive load is the stimulus that builds muscle. Save the density and short rests for when you're cutting.",
+      "goals": [
+        "muscleGain"
+      ]
+    },
+    {
+      "id": "nug_179",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Build on a small surplus, not a big one",
+      "body": "Muscle grows fastest on a small surplus — about 200–400 kcal extra a day for most people. Beyond that you can't build muscle any quicker; the extra just lands as fat you'll have to diet off later. Aim to gain slowly, around 0.25–0.5% of body weight a week.",
+      "goals": [
+        "muscleGain"
+      ]
+    },
+    {
+      "id": "nug_180",
+      "category": "strength",
+      "audience": "all",
+      "icon": "calendar",
+      "title": "Muscle is built in months, not weeks",
+      "body": "Even training well, a trained lifter adds maybe 0.1–0.25 kg of muscle a month — beginners more, advanced lifters and women less. Anything faster on the scale is mostly food, water and fat. Judge a build over months, using your strength numbers and photos, not one good week.",
+      "goals": [
+        "muscleGain"
+      ]
+    },
+    {
+      "id": "nug_181",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fish.fill",
+      "title": "Extra calories only build with enough protein",
+      "body": "A surplus is the fuel, but protein is the building material. Keep 1.6–2.2 g per kg of body weight even while gaining, spread across the day, and pair it with lifts you're progressively loading. Without that, more calories mostly become more fat.",
+      "goals": [
+        "muscleGain"
+      ]
+    },
+    {
+      "id": "nug_191",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "figure.walk.motion",
+      "title": "Gaining? Watch how much you move on top",
+      "body": "The everyday movement that helps a cut — fidgeting, pacing, extra steps (NEAT) — can quietly burn through the surplus you're trying to build on. If the scale won't move despite eating more, some of those calories are leaking into daily activity. Keep moving for your health, but account for it and top up food to match.",
+      "goals": [
+        "muscleGain"
+      ]
+    },
+    {
+      "id": "nug_182",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "bolt.fill",
+      "title": "Carbs are the fuel your hard days run on",
+      "body": "For long, intense or competitive efforts, carbohydrate is your main fuel — low stores mean fading pace, weaker output and heavy legs. Top up in the day or two around big sessions and matches. This is fuelling to perform, which is separate from any fat-loss target.",
+      "goals": [
+        "performance"
+      ]
+    },
+    {
+      "id": "nug_183",
+      "category": "strength",
+      "audience": "all",
+      "icon": "bolt.heart.fill",
+      "title": "To get better at it, train it fresh",
+      "body": "Skill and top-end performance improve most when you practise what you care about while you're still fresh — not buried under fatigue from everything else. Put your priority session, sport or heaviest lift early in the week and before the tiring accessory work, not after it.",
+      "goals": [
+        "performance"
+      ]
+    },
+    {
+      "id": "nug_184",
+      "category": "recovery",
+      "audience": "all",
+      "icon": "flag.checkered",
+      "title": "Peak by doing less, not more, before the day",
+      "body": "In the final week before a race, match or test, cut your training volume by 40–60% but keep the intensity sharp. Backing off lets fatigue drain while fitness stays, so you turn up fresher and stronger. Cramming late adds tiredness, not fitness.",
+      "goals": [
+        "performance"
+      ]
+    },
+    {
+      "id": "nug_185",
+      "category": "recovery",
+      "audience": "all",
+      "icon": "bed.double.fill",
+      "title": "Recovery is training you can't skip",
+      "body": "Your best sessions are built on the sleep, food and easy days between the hard ones. Stack hard efforts without recovering and performance slides even though you're 'doing more'. Treat sleep and rest days as part of the programme, not time off it.",
+      "goals": [
+        "performance"
+      ]
+    },
+    {
+      "id": "nug_186",
+      "category": "general",
+      "audience": "all",
+      "icon": "shield.fill",
+      "title": "Strength is a retirement fund",
+      "body": "From your 30s on, you lose roughly 3–8% of your muscle each decade — faster later — unless you train to keep it. Two or three strength sessions a week protect your power, posture and independence for decades. You're not just training for now — you're banking function for later.",
+      "goals": [
+        "generalFit"
+      ]
+    },
+    {
+      "id": "nug_187",
+      "category": "general",
+      "audience": "all",
+      "icon": "checkmark.circle",
+      "title": "Holding fitness takes far less than building it",
+      "body": "Once you've built strength or fitness, you can maintain it on as little as one or two solid sessions a week. Busy spell, holiday, exam season? Don't quit — drop to the minimum that keeps what you've earned and rebuild when life settles.",
+      "goals": [
+        "generalFit"
+      ]
+    },
+    {
+      "id": "nug_188",
+      "category": "general",
+      "audience": "all",
+      "icon": "heart.fill",
+      "title": "Mix easy miles with the odd hard effort",
+      "body": "For a healthy heart, most of your cardio should be easy enough to hold a conversation — build the base with volume you recover from. Add one shorter, genuinely hard session a week for the top end. You don't have to suffer every time to get fitter.",
+      "goals": [
+        "generalFit"
+      ]
+    },
+    {
+      "id": "nug_189",
+      "category": "general",
+      "audience": "all",
+      "icon": "arrow.triangle.swap",
+      "title": "Build muscle and lose fat at once — slowly",
+      "body": "If you're new, returning after a break, or carrying more body fat, you can gain muscle and lose fat at the same time near maintenance calories, with high protein and lifts you keep progressing. It's real but slow, and the scale barely moves — so judge it by strength, photos and the tape, not weight.",
+      "goals": [
+        "balance"
+      ]
+    },
+    {
+      "id": "nug_190",
+      "category": "general",
+      "audience": "all",
+      "icon": "target",
+      "title": "Maintenance is a skill, not a finish line",
+      "body": "Hitting your goal isn't the end of the tracking — holding it is its own phase. Ease calories up to your true maintenance, keep weighing in, and treat a small range rather than a single number as success. Most rebound comes from stopping everything at once, not from the odd big meal.",
+      "goals": [
+        "balance"
+      ]
+    },
+    {
+      "id": "nug_192",
+      "category": "strength",
+      "audience": "all",
+      "icon": "calendar",
+      "title": "Hit each muscle twice a week, not once",
+      "body": "For building, working a muscle about twice a week usually beats blasting it hard just once — you get a second wave of growth signal and fresher, higher-quality sets. Spread your weekly work for each muscle across two sessions rather than one long hammering. Frequency is a lever you can pull before simply piling on more sets.",
+      "goals": [
+        "muscleGain"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_193",
+      "category": "strength",
+      "audience": "all",
+      "icon": "arrow.up.right.circle.fill",
+      "title": "Add reps first, then weight",
+      "body": "Progressive overload is the goal, but big jumps stall you fast. Pick a rep range — say 8 to 12 — and add a rep or two each week until you reach the top, then add the smallest weight you have (often just 1-2.5 kg) and start again at the bottom. Slow, repeatable steps are what actually add muscle over months, not heroic loads you can't control.",
+      "goals": [
+        "muscleGain"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_194",
+      "category": "general",
+      "audience": "all",
+      "icon": "calendar.badge.plus",
+      "title": "Build in seasons, then reveal it",
+      "body": "You can't pile on muscle and get lean at speed at the same time, so most people do better in phases. Run a build in a small surplus for a few months, then a shorter cut — think six to ten weeks — to bring body fat back down and show the muscle off. Judge each phase on its own: expect the scale to climb in the build and drop in the cut.",
+      "goals": [
+        "muscleGain"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-eating-to-build-muscle",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_195",
+      "category": "strength",
+      "audience": "all",
+      "icon": "sparkles",
+      "title": "Newbie gains don't come round twice",
+      "body": "In your first year of proper training you can add muscle far faster than you ever will again — often two to three times an experienced lifter's rate, and you can lose a little fat at the same time. So get the basics right now: progress your lifts, hit your protein and don't fritter the window away on gimmicks. After that, muscle comes slowly, and comparing yourself to a beginner only frustrates you.",
+      "goals": [
+        "muscleGain"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_196",
+      "category": "recovery",
+      "audience": "all",
+      "icon": "bed.double.fill",
+      "title": "Short-change sleep and your gains slip",
+      "body": "Your extra calories only become muscle if you recover well enough to build it, and much of that repair happens while you sleep. Cut sleep short and recovery quality drops, nudging how your body partitions those calories away from muscle and toward fat storage. Seven to nine hours isn't a luxury on a build — it's part of the recipe.",
+      "goals": [
+        "muscleGain"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_197",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Struggling to eat enough? Make calories easier",
+      "body": "If your appetite gives out before you hit your surplus, big bulky low-calorie meals are working against you. Lean on calorie-dense foods — nuts, oils, dairy, dried fruit — and sip easy liquid calories between meals; a single glass of whole milk is around 120-150 kcal with barely any effort. Pick two or three easy add-ons and hitting the surplus stops feeling like a chore.",
+      "goals": [
+        "muscleGain"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-eating-to-build-muscle",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_198",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "drop.fill",
+      "title": "Creatine's first kilo is water, not muscle",
+      "body": "Creatine is the one supplement with genuine muscle-building evidence, but the quick 1-2 kg it puts on the scale early is mostly water pulled into the muscle, not fresh tissue. Its real value is letting you grind out a touch more work each session, which compounds into more muscle over months. Take it daily and don't mistake that first-week jump for overnight gains.",
+      "goals": [
+        "muscleGain"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_199",
+      "category": "recovery",
+      "audience": "all",
+      "icon": "figure.cooldown",
+      "title": "Keep eating, but take the odd easy week",
+      "body": "On a long build it feels wrong to back off, but grinding hard for months buries you in fatigue and your lifts stall — and stalled lifts mean stalled muscle. Every four to eight weeks, take a lighter 'deload' week while still eating your surplus, so the tiredness clears and you come back adding load again. If your weight's climbing but the bar isn't moving, fatigue — not hunger — is usually the culprit.",
+      "goals": [
+        "muscleGain"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_200",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "drop.circle.fill",
+      "title": "Electrolytes matter when the session is long and sweaty",
+      "body": "For efforts under an hour, plain water is usually enough. Go longer, hotter or sweatier and you also lose sodium — the main electrolyte in sweat — so add a pinch of salt or a sports drink to hold your pace and fend off cramp. Drink to thirst, not to excess: forcing down litre after litre of plain water can be as harmful as too little.",
+      "goals": [
+        "performance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-hydration-and-electrolytes",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_201",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "clock.fill",
+      "title": "Fuel around the session, not just across the day",
+      "body": "For a hard effort, eat a carb-based meal one to four hours before so your tank is full. Once a session runs past about 60-90 minutes, take on 30-60g of carbohydrate an hour to hold the pace. Afterwards, protein plus carbs starts the refill — useful, though your total intake for the day still matters most.",
+      "goals": [
+        "performance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-pre-and-post-workout-nutrition",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_202",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "cup.and.saucer.fill",
+      "title": "Caffeine works — in the right dose, at the right time",
+      "body": "A moderate dose of caffeine, roughly 3mg per kg of body weight taken 45-60 minutes before, reliably sharpens endurance, power and focus. More isn't better — larger doses mostly bring jitters and a racing heart. And cut it off at least 6 hours before bed, or the recovery you're training for costs you sleep.",
+      "goals": [
+        "performance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-caffeine-and-performance",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_203",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "bandage.fill",
+      "title": "Unusually flat and breathless? It could be low iron",
+      "body": "Endurance athletes — and women especially — can run short of iron, the mineral that carries oxygen in your blood, leaving you tired and puffed even when training's going well. Low iron affects up to around 1 in 4 female endurance athletes. Don't guess or self-dose, as too much iron can harm: ask your GP for a simple blood test first.",
+      "goals": [
+        "performance"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_204",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "exclamationmark.triangle.fill",
+      "title": "Under-fuel for long and performance quietly falls apart",
+      "body": "Train hard on too little food, week after week, and your body starts cutting corners you can't see — weaker efforts, slow recovery, disrupted hormones and thinning bone. Sports scientists call it low energy availability, and it hits men and women alike. Sitting a few hundred calories short every day isn't discipline, it's a brake on performance — eat enough to cover the training you're doing.",
+      "goals": [
+        "performance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-energy-availability-red-s",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_205",
+      "category": "strength",
+      "audience": "all",
+      "icon": "slider.horizontal.3",
+      "title": "Some days you've got it, some you don't — train to that",
+      "body": "Fixed numbers on a page ignore how you actually turn up. Autoregulation means matching the day's load to how you feel — using reps in reserve (how many you could still do) or a simple 1-10 effort score to steer it. Feeling flat? Trim a little and keep the quality. Flying? Add a touch. Over a year, matching effort to the day beats grinding a fixed plan.",
+      "goals": [
+        "performance"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_206",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.run",
+      "title": "Cardio and lifting mix — with a little planning",
+      "body": "Training endurance and strength together can slightly blunt strength and power gains — the 'interference effect' — but it's smaller than gym legend claims. Keep it small by separating hard cardio and heavy lifting by a few hours, or onto different days, and lifting first when they share a session. Both still improve; you just stagger the hardest efforts.",
+      "goals": [
+        "performance"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_207",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "calendar.circle.fill",
+      "title": "Eat to build off-season, eat to perform in-season",
+      "body": "Your fuelling should follow your calendar. Off-season or pre-season, a small surplus — a couple of hundred calories a day — plus steady lifting builds the strength you'll draw on later. In-season the job changes to fuelling performance and holding what you built: eat around your matches, keep protein up, and save any hard body-composition push for the quieter months.",
+      "goals": [
+        "performance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-eating-for-results",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_208",
+      "category": "recovery",
+      "audience": "all",
+      "icon": "thermometer.sun.fill",
+      "title": "Heat and cold change the session — respect both",
+      "body": "In the heat you'll fade earlier, so start slower, drink to thirst with some sodium, and expect a week or two of training in it before you cope well (acclimatisation). In the cold your muscles are stiffer and strains more likely, so warm up for longer before anything explosive. Adjust the plan to the weather rather than fighting it.",
+      "goals": [
+        "performance"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_209",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "flag.checkered",
+      "title": "Competition day is no time to try something new",
+      "body": "On the day, stick to foods you've eaten before big efforts and know sit well — nerves plus an unfamiliar meal are a bad mix. Eat your main meal three to four hours out, keep sipping fluids, and pack familiar snacks when you travel so you're not at the mercy of what's on offer. Rehearse your race-day fuelling in training first.",
+      "goals": [
+        "performance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-carb-loading",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_210",
+      "category": "general",
+      "audience": "all",
+      "icon": "checkmark.circle",
+      "title": "Never miss twice",
+      "body": "A new habit takes on average about two months of repetition before it runs on autopilot — around 66 days in one well-known study — so the early weeks are when routines quietly die. The rule that protects them is simple: never miss twice. One skipped session is a blip; just make sure you're back for the next one before it becomes the new pattern.",
+      "goals": [
+        "generalFit"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_211",
+      "category": "general",
+      "audience": "all",
+      "icon": "link",
+      "title": "Bolt a new habit onto an old one",
+      "body": "The easiest way to make something stick is to anchor it to a thing you already do without thinking. 'After I switch the kettle on, I do ten squats'; 'after I brush my teeth, I lay out my kit' — the old habit becomes the reminder for the new one. Pick one cue you never skip and stack a 60-second habit onto it this week.",
+      "goals": [
+        "generalFit"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_212",
+      "category": "general",
+      "audience": "all",
+      "icon": "figure.walk.motion",
+      "title": "You can train hard and still sit too much",
+      "body": "A daily workout doesn't cancel out eight hours in a chair — long unbroken sitting carries its own health risk even in fit people. The fix isn't more gym; it's more incidental movement (NEAT — walking to take a call, the stairs, standing to break up the day). Aim to get up and move for a couple of minutes in every hour you're sat down.",
+      "goals": [
+        "generalFit"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_213",
+      "category": "general",
+      "audience": "all",
+      "icon": "figure.mind.and.body",
+      "title": "Use your range or lose it",
+      "body": "Joints stay supple by being taken through their full range regularly — motion is lotion for the tissue around them. Neglect it for years and that range quietly shrinks, which is why reaching overhead or squatting deep tends to get harder with age. Spend five minutes a day moving your hips, shoulders and ankles through their fullest comfortable range.",
+      "goals": [
+        "generalFit"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_214",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife.circle.fill",
+      "title": "Protein isn't just for gym-goers",
+      "body": "Even if you never lift, protein helps you hold onto muscle as you age — and after about 50 the body builds it less efficiently, so your needs actually rise. Most people fall short at breakfast and pile it all into dinner. Aim for roughly 1.2 g per kg of body weight a day for general health, with a palm-sized portion at each meal.",
+      "goals": [
+        "generalFit"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-protein-how-much",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_215",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "leaf.fill",
+      "title": "Feed your gut a variety of plants",
+      "body": "The bugs in your gut (your microbiome) thrive on variety, not just quantity — the wider the range of plants you eat, the more diverse and resilient that community tends to be. One large study linked eating around 30 different plant types a week to a healthier gut than fewer than 10. Count the veg, fruit, beans, nuts, seeds, herbs and wholegrains you eat across a week and nudge the number up.",
+      "goals": [
+        "generalFit"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_216",
+      "category": "general",
+      "audience": "all",
+      "icon": "heart.fill",
+      "title": "Your fitness is a longevity marker",
+      "body": "How much oxygen you can use at full effort (your cardio fitness, or VO2 max) is one of the strongest predictors of how long you'll live — in the research it's as telling a signal as well-known risks like smoking or high blood pressure. The good news is it responds to training at any age. Strathlon reads your VO2 max from Apple Health where available — watch it as a health number, not a vanity one.",
+      "goals": [
+        "generalFit"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_217",
+      "category": "general",
+      "audience": "all",
+      "icon": "heart.text.square.fill",
+      "title": "Exercise is blood-pressure medicine you already own",
+      "body": "Regular aerobic exercise lowers resting blood pressure for many people by around 5-7 mmHg — comparable to a single medication — and strength work and simply moving more add to it. If your numbers are creeping up, consistent cardio most weeks is one of the most reliable ways to bring them down. Do it alongside your doctor's advice, never instead of it. General information, not medical advice.",
+      "goals": [
+        "generalFit"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_218",
+      "category": "general",
+      "audience": "all",
+      "icon": "brain.head.profile",
+      "title": "On a stressful week, train lighter — not harder",
+      "body": "Your body recovers from training and from life out of the same tank. A brutal week at work or a run of poor sleep leaves less in reserve, so stacking hard sessions on top tends to backfire — it drains you rather than builds you. Keep moving (even a 20-minute walk lowers the stress hormone cortisol), but save the hard efforts for weeks you can actually recover from.",
+      "goals": [
+        "generalFit"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_219",
+      "category": "general",
+      "audience": "all",
+      "icon": "figure.walk",
+      "title": "A short walk after meals earns its keep",
+      "body": "A gentle 10-15 minute walk after eating helps your muscles mop up blood sugar, softening the spike a big meal can cause. It's one of the simplest things you can do for long-term metabolic health, and it settles digestion too. Make the after-dinner stroll a default, not a treat.",
+      "goals": [
+        "generalFit"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_220",
+      "category": "general",
+      "audience": "all",
+      "icon": "bolt.fill",
+      "title": "Snack on movement through the day",
+      "body": "You don't need a full session to get fitter — short, vigorous bursts count. 'Movement snacks' as brief as a minute of stairs, a set of squats or a quick brisk lap, done a few times a day, break up sitting and genuinely nudge fitness upward. In studies, even a handful of one-minute hard bursts a day lifted cardio fitness over a few weeks.",
+      "goals": [
+        "generalFit"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_221",
+      "category": "general",
+      "audience": "all",
+      "icon": "arrow.up.forward.circle.fill",
+      "title": "Ease your calories up, don't leap",
+      "body": "When a diet ends, add roughly 100–200 kcal back a week rather than jumping straight to maintenance. A gentle climb — a 'reverse diet' — lets your appetite, water and daily burn re-settle, so you land at maintenance without a quick fat rebound. Slow up is how you keep what you earned.",
+      "goals": [
+        "balance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-maintenance-nutrition",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_222",
+      "category": "general",
+      "audience": "all",
+      "icon": "target",
+      "title": "Your body defends a range, not a number",
+      "body": "Your weight settles into a band your habits and biology defend — a 'set-point' range — not one fixed figure. Shifting it for good takes a lasting change in how you eat and train, which is why holding a new, lower weight for a few months helps it stick. Give a fresh weight time to become your normal.",
+      "goals": [
+        "balance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-maintenance-nutrition",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_223",
+      "category": "general",
+      "audience": "all",
+      "icon": "scalemass",
+      "title": "Let the scale find your real maintenance",
+      "body": "Calculators only estimate maintenance — your true figure is whatever intake holds your weight steady. Eat a set amount, watch your weekly-average weight for 2–3 weeks, and nudge intake slightly if it drifts up or down. The scale, not the formula, has the final word.",
+      "goals": [
+        "balance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-maintenance-nutrition",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_224",
+      "category": "general",
+      "audience": "all",
+      "icon": "figure.strengthtraining.traditional",
+      "title": "Keep lifting or muscle quietly slips away",
+      "body": "Maintenance calories don't hold muscle on their own — the training does. Keep your protein up, around 1.6g per kg of body weight, and keep challenging your lifts, and the muscle you built stays put. Remove the stimulus and your body sheds what it thinks it no longer needs.",
+      "goals": [
+        "balance"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_225",
+      "category": "general",
+      "audience": "all",
+      "icon": "chart.xyaxis.line",
+      "title": "At maintenance, a steady wobble is the win",
+      "body": "Holding your weight isn't a flat line — expect it to roam across a 1–2 kg band day to day from food, water and salt. Maintenance is working when that band stays level over the weeks, not when the number never moves. Judge the weekly average and let the daily wobble be.",
+      "goals": [
+        "balance"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_226",
+      "category": "general",
+      "audience": "all",
+      "icon": "pause.circle.fill",
+      "title": "Bank the result before your next push",
+      "body": "Tempted to swing straight from a cut into a bulk, or the reverse? Spending 4–8 weeks at maintenance first lets your appetite, hormones and training recover, so the next phase starts from a stronger base. A short pause isn't lost time — it's what makes the next push actually work.",
+      "goals": [
+        "balance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-diet-breaks-and-refeeds",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_227",
+      "category": "general",
+      "audience": "all",
+      "icon": "airplane",
+      "title": "On holiday, aim to hold, not to lose",
+      "body": "A week or two away is rarely the place to chase fat loss — aim simply to maintain. Anchor one protein-rich meal a day, keep walking (trips often add steps), and enjoy the rest. Most 'holiday weight' is extra food and water that clears within a week of being home.",
+      "goals": [
+        "balance"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_228",
+      "category": "general",
+      "audience": "all",
+      "icon": "gauge.with.dots.needle.67percent",
+      "title": "You can loosen the reins at maintenance",
+      "body": "You don't have to weigh every gram forever. Once you know your portions, many people hold steady on a weekly weigh-in and a loose eye on protein and steps — logging fully again only if the trend drifts. Track just enough to catch a drift early, not to police every bite.",
+      "goals": [
+        "balance"
+      ],
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_230",
+      "category": "myth",
+      "audience": "all",
+      "icon": "questionmark.diamond.fill",
+      "title": "Myth: you must 'eat clean' to bulk",
+      "body": "A surplus is a surplus — a spare 300 kcal builds the same muscle whether it comes from rice or a biscuit, so 'clean' food earns you no leaner gains on its own. What whole foods really buy you is steadier digestion, the fibre and micronutrients that keep training and recovery sharp, and enough protein without feeling stuffed. Build most meals around them for that reason, not for magic.",
+      "goals": [
+        "muscleGain"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-clean-bulk-myth",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_231",
+      "category": "myth",
+      "audience": "all",
+      "icon": "tortoise.fill",
+      "title": "Dirty bulking is faster on the scale, not in the mirror",
+      "body": "Piling weight on quickly feels like progress, but your body builds muscle at a fixed pace — at best only about half of what you gain on a bulk is muscle, and rushing it skews far more of it to fat. A slower, leaner bulk reaches the same muscle with less fat, so you spend far less time dieting it back off later. Faster up just means longer down.",
+      "goals": [
+        "muscleGain"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-clean-bulk-myth",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_232",
+      "category": "general",
+      "audience": "all",
+      "icon": "arrow.triangle.2.circlepath",
+      "title": "Recomp runs on three levers",
+      "body": "Losing fat while building muscle — a recomposition — works when three things line up: eat near maintenance, keep protein high at about 2g per kg of body weight, and add reps or load to your lifts over time. It's most effective if you're new, returning after a break, or carrying more fat; a lean, experienced lifter usually has to pick one direction instead. Judge it by your strength, photos and the tape, not the scale.",
+      "goals": [
+        "balance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-body-recomposition",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_233",
+      "category": "general",
+      "audience": "all",
+      "icon": "scalemass.fill",
+      "title": "Let the scale set your surplus, not your appetite",
+      "body": "You don't need to force down as much food as you can — a modest surplus is plenty, and the extra just lands as fat. Pick a small one, then let a weekly weight trend judge it: a rise of roughly 0.2–0.3 kg a week for most people means it's about right, shooting up means too much, and flat means too little. Adjust in small steps, not big swings.",
+      "goals": [
+        "muscleGain"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-eating-to-build-muscle",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_259",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Fuel the back half of your rounds",
+      "body": "Boxing is repeated three-minute bursts, and by the later rounds it's your muscle glycogen — stored carbohydrate — running low, not just tired legs. Eating around 1 gram of carbs per kg of body weight in the two to three hours before hard sparring keeps your snap and footwork alive into rounds six and beyond. Get that porridge or rice bowl in before you glove up, not after.",
+      "sports": [
+        "boxing"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-boxing",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_260",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "The rehydration window beats the cut",
+      "body": "Most MMA weigh-ins land the day before you fight, leaving roughly 24 to 30 hours to safely put back what a sensible weight descent took off. Rehydrate gradually and refill carbs toward about 8 grams per kg of body weight across that window so you step in fuelled, not flat. Skip aggressive last-minute water cuts — reach your class the slow, safe way with a coach or dietitian.",
+      "sports": [
+        "mma"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-mma",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_261",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Grappling comps are an all-day grazing job",
+      "body": "A BJJ tournament can stretch six hours or more with unpredictable gaps between matches, so one big pre-comp meal won't carry you. Keep topping up with small, easy carbs — a banana, rice cakes, a sports drink — aiming for roughly 30 to 60 grams of carbohydrate an hour once you're competing. Pack a cooler bag so you're never hunting for food between rounds on the mat.",
+      "sports": [
+        "bjj"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-bjj",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_262",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Make weight without emptying the tank",
+      "body": "Wrestling and judo pair weight classes with several explosive matches in one day, and chronically starving down to a low class leaves you weak on the mat and risks your long-term health. Compete near a weight you can hold with sensible eating, and refuel between bouts with 30 to 60 grams of carbs so grip and drive last into the final match. Set your target class with a coach, not the bathroom scales the night before.",
+      "sports": [
+        "wrestling"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-wrestling",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_263",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Stay sharp from first pool to final DE",
+      "body": "A fencing competition is a long day of short, explosive bouts where reaction time and focus fade if your blood sugar dips. Graze on light carbs through the day and keep sipping — around 400 to 600 ml of fluid an hour in a warm hall — so your point control stays crisp from morning pools to the evening direct-elimination (knockout) rounds. Stash quick snacks in your kit bag rather than relying on the venue café.",
+      "sports": [
+        "fencing"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-fencing",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_270",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Fuel the second WOD, not just the first",
+      "body": "CrossFit lives in the glycolytic zone — repeated near-max efforts that chew through muscle glycogen (your stored training fuel) fast, so a second session or a long metcon feels flat once the tank runs low. On heavy-volume days aim for roughly 5–7g of carbs per kg of body weight across the day to keep those stores topped up. Eat a carb-focused meal two to three hours before your main WOD.",
+      "sports": [
+        "crossfit"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-crossfit",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_271",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Under-fuelling steals your skills",
+      "body": "Gymnastics rewards a lean, powerful frame, but grinding through three-plus hours of repeated explosive attempts on too little energy blunts skill, strength and bone health over time. Protect lean mass and bone by eating enough across the day and hitting roughly 1.6–2.2g of protein per kg of body weight. Never train a long skills session fasted — have a carb-and-protein meal beforehand.",
+      "sports": [
+        "gymnastics"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-gymnastics",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_272",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Graze between burns on a long crag day",
+      "body": "Climbing is stop-start — a hard burn, then a long rest, repeated for hours, with forearms and focus fading as glycogen drains. On long sessions, drip-feed 30–60g of easily-digested carbs per hour so you're not running on empty by your project attempt. Pack simple snacks you can nibble between climbs rather than one heavy meal that sits in your stomach.",
+      "sports": [
+        "climbing"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-climbing",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_273",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Don't go into an evening class empty",
+      "body": "A 45–60 minute spin, HIIT or bootcamp class is high-intensity from the first minute, so rolling in after a long day with nothing in the tank means light-headedness and a weaker effort. A small snack of 15–30g of carbs, 30–60 minutes before, tops you up without sitting heavy. Grab a banana or a slice of toast before you head in.",
+      "sports": [
+        "gym_class"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-gym_class",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_274",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Fuel the working sets, then feed the repair",
+      "body": "Resistance training runs on muscle glycogen for your hard sets, then needs protein to turn that work into muscle. Bookend your session: some carbs beforehand for quality sets, then 20–40g of protein within a few hours afterwards to drive repair. Don't lift fasted and then skip the post-session meal if you want the work to actually count.",
+      "sports": [
+        "gym_workout"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-gym_workout",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_264",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Swimming's hidden hunger",
+      "body": "Hard pool sets burn through muscle glycogen — your stored carbs — quickly, but cold water can mask the hunger until you're suddenly ravenous afterwards. For any swim beyond about 90 minutes, sip a carb drink poolside between sets rather than waiting until you're home to refuel. Keep a bottle on the wall for your next long session.",
+      "sports": [
+        "swimming"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-swimming",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_265",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Don't ride yourself into the bonk",
+      "body": "Running your glycogen — your muscles' stored carbs — dry mid-ride is 'the bonk', and it ends a good day fast. On rides longer than about two hours, take in roughly 60g of carbs an hour from a mix of bananas, gels and sports drink, and start before you feel empty. Pack that fuel before your next long ride.",
+      "sports": [
+        "cycling"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-cycling",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_266",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Fuel the long run, gut included",
+      "body": "On runs beyond about 90 minutes your carb stores run low, so aim for around 30-60g of carbs an hour from gels, chews or drink. Just as important, practise it in training — your gut has to be taught to absorb fuel while you pound the road. Trial your race fuel on your next long run, not on race day.",
+      "sports": [
+        "running"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-running",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_267",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Bank your fuel on the bike",
+      "body": "You can barely eat mid-swim and a jostling stomach makes running miserable, so the bike is your real feeding window in a long-course race. Take most of your carbs there — around 60g an hour — to top up glycogen before you run off the bike. Rehearse eating on the bike in training so race day feels routine.",
+      "sports": [
+        "triathlon"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-triathlon",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_268",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Regatta day is all-day fuelling",
+      "body": "A regatta can mean several races spread across hours, each a brutal effort that empties your carb stores. In the 30-60 minutes between heats, take on easy carbs — around 1g per kg of body weight — plus fluid, rather than sitting on an empty tank. Pack grazing food and drink for your next race day.",
+      "sports": [
+        "rowing"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-rowing",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_269",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Four quarters, no snack bar in the pool",
+      "body": "Water polo blends sprint swimming, treading water and contact across four quarters — a high, stop-start burn on your carb stores with no chance to eat once you're in. Fuel up beforehand and use the breaks between quarters for a few sips of a carb-electrolyte drink. Stash a bottle on the bench for your next match.",
+      "sports": [
+        "water_polo"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-water_polo",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_275",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Cold hides your thirst on the mountain",
+      "body": "A full day on the piste mixes short, hard runs with cold air that dulls your sense of thirst and burns extra energy just keeping you warm. Sip fluids and take on some carbs every hour or two even when you don't feel like it — aim for a drink roughly every hour rather than waiting for the top. Pack easy snacks so a long day never ends on empty.",
+      "sports": [
+        "skiing"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-skiing",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_276",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Fuel for the third-period sprint",
+      "body": "Hockey is played in short, all-out shifts, so your legs lean on stored carbohydrate (glycogen) that runs low by the third period. Go into a game well-fuelled with a carb-rich meal two to four hours before, then sip a carb drink or nibble something quick each intermission. Topping up between periods keeps your last shifts as sharp as your first.",
+      "sports": [
+        "ice_hockey"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-ice_hockey",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_277",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Don't let the back nine cost you",
+      "body": "A round is four to five hours of walking and concentration, and a dip in blood sugar late on shows up as sloppy decisions, not just tired legs. Eat a steady snack every five or six holes and keep drinking so your focus on the back nine matches the front. Slow-release foods like a banana, nuts or an oat bar beat one big sugary hit.",
+      "sports": [
+        "golf"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-golf",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_278",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Steady hands start with steady fuel",
+      "body": "Archery asks for fine control and long focus across a tournament day, and big swings in blood sugar or too much caffeine can add the small tremor that misses the gold. Caffeine won't steady your hands — if anything a strong dose can set them shaking — so graze on slow-release snacks between ends and keep coffee to a minimum before you shoot. Bring your own food so an all-day shoot never leaves you light-headed.",
+      "sports": [
+        "archery"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-archery",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_279",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Refuel between the chukkas",
+      "body": "A polo match is several hard riding periods (chukkas) of around seven minutes each, with sprinting and heat draining you across the game. Use the breaks to drink and take on a little carbohydrate so your last chukka has the same snap as your first. In hot weather aim for a good drink each break rather than one big bottle at the end.",
+      "sports": [
+        "polo"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-polo",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_280",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "When a walk needs more than water",
+      "body": "For most walks under an hour or so, water is all you need — your body runs happily on stored fuel at that steady pace. Once you're past about ninety minutes, add a light carbohydrate snack and keep drinking to hold your energy and enjoy the miles. Longer or hillier routes are where a small snack in your pocket makes the difference.",
+      "sports": [
+        "walking"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-walking",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_251",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Padel's real test is the second hour",
+      "body": "Social padel rarely stops at one match — an Americano or a long doubles session can keep you on court for two hours or more. That steadily drains glycogen (your muscles' stored carbohydrate), so once a session runs past 90 minutes aim for 30-60g of carbs an hour — a banana and a sports drink between matches covers it. Keep a bottle courtside and sip between games rather than waiting until you fade.",
+      "sports": [
+        "padel"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-padel",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_252",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Badminton burns hotter than it looks",
+      "body": "Those short rallies hide a big workload — constant lunges, jumps and direction changes in a warm indoor hall mean you can lose well over a litre of sweat in a hard singles match. Losing even 2% of your body weight in fluid blunts your footwork and reactions. Drink to thirst through the match and add electrolytes on sweaty days.",
+      "sports": [
+        "badminton"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-badminton",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_253",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Squash needs fuel in the tank",
+      "body": "Few sports run your engine as hard — a hot, enclosed court and near-continuous rallies can burn well over 600 calories an hour and empty your glycogen (stored carbohydrate) fast. Go in topped up with a carb-rich meal 2-3 hours before, and take a few sips of a sports drink between games in a long best-of-five. Don't start a match already under-fuelled.",
+      "sports": [
+        "squash"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-squash",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_254",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Use the changeover to fuel",
+      "body": "A close match can run past two hours in full sun, and the every-other-game changeover is your built-in fuelling window. Taking in around 30-60g of carbs an hour — the classic banana plus a drink — keeps your legs and focus intact into a third set. Start sipping early, not once you're already flagging.",
+      "sports": [
+        "tennis"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-tennis",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_255",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Steady fuel keeps your reactions sharp",
+      "body": "Table tennis leans on your brain as much as your legs — split-second reactions and focus that has to hold through a full tournament day of back-to-back matches. Your brain runs mainly on blood glucose, so don't go hours without eating between rounds; a light carb snack every couple of hours keeps concentration and reaction time steady. Pack easy snacks in your kit bag before you go.",
+      "sports": [
+        "table_tennis"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-table_tennis",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_256",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Fuel the fourth quarter",
+      "body": "Basketball is stop-start dynamite — repeated sprints and jumps across four quarters drain glycogen (your muscles' stored carbohydrate), and it's often the final quarter where the tank runs dry. Top up with a carb-rich meal a few hours before tip-off and use half-time for a drink and a quick carb hit. Aim to finish the game as fresh as you started it.",
+      "sports": [
+        "basketball"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-basketball",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_257",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Jump after jump needs carbs",
+      "body": "Every point is another near-maximal jump, and a tournament can stack match on match across a whole day — beach or indoor, that's a heavy glycogen (stored carbohydrate) drain. Eat a carb-rich meal before you start and graze on 30-60g of carbs an hour between matches; on the beach, add extra fluid and a little salt for the heat. Keep fuel and a bottle in your bag all day.",
+      "sports": [
+        "volleyball"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-volleyball",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_258",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Fuel the stop-start game",
+      "body": "Netball is all sharp accelerations, hard stops and changes of direction across four quarters — an interval pattern that leans heavily on your muscles' stored carbohydrate. Go in with a carb-rich meal a few hours before, and use the quarter breaks for a few sips of a sports drink in a tight game. Don't skip the pre-match meal on a busy league night.",
+      "sports": [
+        "netball"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-netball",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_240",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Fuel the long innings, not just the walk out",
+      "body": "A day batting in the middle or fielding in the heat can run for hours, and your concentration fades as your glycogen (stored carbohydrate fuel) drops. Take on 30-60g of carbohydrate an hour across the day — a banana, a gel or a sports drink at drinks, lunch and tea. Pack those snacks in your kit bag before you leave for the ground.",
+      "sports": [
+        "cricket"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-cricket",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_241",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Win the second half at dinner the night before",
+      "body": "That late-game heavy-legged feeling is glycogen running low after 90 minutes of stop-start sprinting. Front-load roughly 6-8g of carbohydrate per kg of body weight in the 24 hours before kick-off, then take a quick carb top-up at half-time. Plan your pre-match rice or pasta the night before, not on the way to the ground.",
+      "sports": [
+        "football"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-football",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_242",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Fuel the collisions, then rebuild them",
+      "body": "Every tackle and ruck is micro-damage your body has to repair, on top of 80 minutes of running. Aim for 1.6-2.0g of protein per kg of body weight across the day, with a carb-rich meal beforehand to power the contact. Get a protein-and-carb meal in within a couple of hours of full time.",
+      "sports": [
+        "rugby"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-rugby",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_243",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Sweat costs you the sprint",
+      "body": "Field hockey is continuous running in a low, crouched posture, and quarters in the sun drain a lot of fluid. Losing just 2% of your body weight in sweat measurably slows your sprint and dulls your decisions. Sip a carb-electrolyte drink at every quarter break rather than waiting for full time.",
+      "sports": [
+        "hockey"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-hockey",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_244",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Pads, heat and a three-hour clock",
+      "body": "Under a helmet and pads you can lose over a litre of sweat an hour, and the game itself stretches past three hours. Drink to your thirst on the sideline and take regular carbohydrate so late-game plays stay sharp. Weigh yourself before and after a game to learn how much fluid you actually need to replace.",
+      "sports": [
+        "american_football"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-american_football",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_245",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Steady fuel for a slow-burn game",
+      "body": "A game runs three hours or more of standing and waiting, broken by all-or-nothing sprints, swings and throws that need fresh reactions. Keep your blood sugar steady with a light carbohydrate snack every hour or two in the dugout, and keep sipping fluid. Stock your bag with easy snacks before first pitch.",
+      "sports": [
+        "baseball"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-baseball",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_246",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Cover the miles on a full tank",
+      "body": "Lacrosse has you running several kilometres of fast breaks and transitions, so you start draining your glycogen stores early. Eat a carb-rich meal 3-4 hours before face-off to top them up, with a small snack closer to the whistle if you're peckish. Sort your pre-game meal ahead of time so you're not playing on empty.",
+      "sports": [
+        "lacrosse"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-lacrosse",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_247",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Indoor, flat-out, half a tank by the break",
+      "body": "Sixty minutes of jumps, throws and sprints in a warm sports hall burns through glycogen fast. A carbohydrate drink at half-time delivering 30-60g helps you hold your speed and spring into the second half. Have that drink mixed and ready on the bench before the game starts.",
+      "sports": [
+        "handball"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-handball",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_248",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Repeated sprints reward a topped-up tank",
+      "body": "Futsal is near-constant maximal sprinting on a hard court, and well-fuelled players fade far less over rolling subs. Eat a carbohydrate-rich snack one to two hours before you play, and sip a sports drink while you're on the bench. Come to court already fuelled rather than hoping to catch up.",
+      "sports": [
+        "futsal"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-futsal",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_249",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Don't play your evening game on fumes",
+      "body": "Touch is continuous running with no contact, and an after-work fixture often lands hours after your last proper meal. Have a carbohydrate snack 60-90 minutes before kick-off and get some fluid in, so you're not starting flat and dehydrated. Keep a banana or a cereal bar in your bag for the commute to the pitch.",
+      "sports": [
+        "touch_rugby"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-touch_rugby",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_250",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Tournaments are won between games",
+      "body": "A tournament can mean three to five games of sprinting, jumping and diving in a single day in the sun. Refuel with 30-60g of carbohydrate plus fluid and a little salt in every gap between games, not just at lunch. Pack a cool bag of snacks and drinks the night before so recovery starts the moment you come off.",
+      "sports": [
+        "ultimate_frisbee"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-ultimate_frisbee",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_281",
+      "category": "strength",
+      "audience": "female",
+      "icon": "figure.strengthtraining.traditional",
+      "title": "Lifting shapes you — it won't 'bulk' you",
+      "body": "Women carry far less testosterone (the main muscle-building hormone) than men — roughly 10–20 times less — so a sensible strength programme with a small calorie surplus builds athletic, toned muscle, not size overnight. Visible muscle takes months of steady lifting, not a few weeks. Start with two or three full-body strength sessions a week and let it build.",
+      "goals": [
+        "muscleGain"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_282",
+      "category": "strength",
+      "audience": "female",
+      "icon": "arrow.up.right.circle.fill",
+      "title": "Progressive overload works the same for you",
+      "body": "The way muscle grows — progressive overload, or gradually asking it to do a little more — doesn't change by sex. Add a rep or two to each set first, and once you can hit your target reps with good form, nudge the weight up by a small amount (about 2.5 kg on the big lifts). Log every session so those small, steady gains are easy to see.",
+      "goals": [
+        "muscleGain"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_283",
+      "category": "nutrition",
+      "audience": "female",
+      "icon": "fork.knife.circle.fill",
+      "title": "Don't under-eat protein while you build",
+      "body": "Women building muscle or training hard benefit from the same protein as men — around 1.6–2.2 g per kilogram of body weight a day. The most common gap is simply eating too little, so if progress has stalled, check protein first. Spread it across three or four meals, with a protein source at each.",
+      "goals": [
+        "muscleGain"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_284",
+      "category": "nutrition",
+      "audience": "female",
+      "icon": "calendar.circle.fill",
+      "title": "Fuel a little more before your period",
+      "body": "In the days before your period your body can burn slightly more energy, so eating a little more then — not less — supports your session quality and steady progress. Think of it as fuelling to perform, not slipping up. Add a small extra snack, roughly 100–200 kcal, around your key training days that week.",
+      "goals": [
+        "performance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-nutrition-across-your-cycle",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_285",
+      "category": "nutrition",
+      "audience": "female",
+      "icon": "bandage.fill",
+      "title": "Feeling flat? Get your iron checked",
+      "body": "Regular periods plus heavy endurance training can slowly lower iron — the mineral your blood uses to carry oxygen — and low iron saps stamina; some studies find low stores in as many as 1 in 4 women who train endurance. Too much iron is harmful, so never start supplements to fix it on your own. If you're often unusually flat or breathless, book a simple blood test with your GP rather than guessing.",
+      "goals": [
+        "performance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_286",
+      "category": "nutrition",
+      "audience": "female",
+      "icon": "bolt.heart.fill",
+      "title": "Carbs fuel your hardest sessions",
+      "body": "Women rely on carbohydrate — your body's fastest fuel — to power high-intensity work just as men do, so under-fuelling key sessions leaves speed and strength on the table. Aim for a carb-rich meal or snack in the few hours beforehand; around 1 g per kilogram of body weight is a sensible starting point. Fuel the session, then refuel afterwards.",
+      "goals": [
+        "performance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_287",
+      "category": "general",
+      "audience": "female",
+      "icon": "arrow.triangle.2.circlepath",
+      "title": "Build muscle and lose fat at once",
+      "body": "If you're new to lifting or returning after a break, body recomposition — gaining muscle while losing a little fat at the same time — is realistic at maintenance calories with enough protein and consistent strength work. It's slower than chasing one goal at a time, so judge it by your gym strength and progress photos, not the scale. Give it at least 8–12 weeks of steady lifting before you weigh up the results.",
+      "goals": [
+        "balance"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-body-recomposition",
+      "stage": "knowledge"
     }
   ]
 }
