@@ -1,5 +1,5 @@
 {
-  "version": "1.62.1",
+  "version": "1.63.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -3186,6 +3186,539 @@
         "balance"
       ],
       "learnMoreURL": "https://strathlon.com/guide-body-recomposition",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_288",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.run",
+      "title": "Springy legs run cheaper",
+      "body": "Runners get faster in the gym by getting more economical, not bigger. Heavy, low-rep lifting plus a little plyometric hopping trains the calf-Achilles spring and stretch-shortening cycle, so each stride costs less energy — without piling on weight. Strathlon tunes your plan toward running and adds a reactive finisher on top.",
+      "sports": [
+        "running"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-running",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_289",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.traditional",
+      "title": "Heavy legs, faster pedals",
+      "body": "The pedal stroke is a one-leg-at-a-time push, so a cyclist's gym time is best spent on heavy squats and hinges plus single-leg work. That builds the force for a sharper sprint and lets you hold a pace more economically — with little change in body weight. Strathlon blends in this emphasis and adds a cycling finisher.",
+      "sports": [
+        "cycling"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-cycling",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_290",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.mixed.cardio",
+      "title": "A little lifting goes a long way",
+      "body": "Three endurance sports leave little time for the gym — and triathlon doesn't need much. A handful of heavy compound lifts a couple of times a week can improve both cycling and running economy without adding body mass, plus a dash of springy plyometrics for the run. Strathlon tunes the plan toward triathlon and adds a sport finisher.",
+      "sports": [
+        "triathlon"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-triathlon",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_291",
+      "category": "recovery",
+      "audience": "all",
+      "icon": "shield.lefthalf.filled",
+      "title": "Guard the swimmer's shoulder",
+      "body": "Shoulder pain is the swimmer's signature complaint, built from thousands of overhead strokes that overload the internal rotators and leave the cuff and scapular muscles behind. Twice-weekly rotator-cuff and scapular work — external rotations, prone T's and Y's, scapular punches — can help hold that balance across a season. Strathlon adds this shoulder-care work to a swim-tuned plan.",
+      "sports": [
+        "swimming"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-swimming",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_292",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.functional",
+      "title": "Row from the legs, not the back",
+      "body": "Every stroke is a leg drive through the hips and back, so the lifts that move the boat are heavy squats, hinges and pulls. A well-drilled deadlift does double duty — building stroke power and grooving the braced, neutral-spine hinge that protects a rower's easily-flared lower back. Strathlon tunes the plan toward rowing and adds a finisher.",
+      "sports": [
+        "rowing"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-rowing",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_293",
+      "category": "recovery",
+      "audience": "all",
+      "icon": "shield.lefthalf.filled",
+      "title": "Train your knees before the snow",
+      "body": "The knee — and the ACL especially — is skiing's signature injury. A multi-component routine of balance, landing control, leg strength and plyometrics together is linked to roughly halving ACL injuries, and works best done consistently before the season rather than mid-winter. Strathlon tunes a ski plan toward strong, controllable legs with balance and landing work built in.",
+      "sports": [
+        "skiing"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-skiing",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_294",
+      "category": "strength",
+      "audience": "all",
+      "icon": "dumbbell.fill",
+      "title": "Walking's missing half",
+      "body": "Walking is a superb aerobic base but a gentle one, so it does little for muscle, bone or balance. Strength fills exactly those gaps: heavy squats and hinges load bone the miles can't, while single-leg and balance work steadies each stride and guards against falls. Strathlon tunes a plan toward walking and adds calf, hip and balance work.",
+      "sports": [
+        "walking"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-walking",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_295",
+      "category": "strength",
+      "audience": "all",
+      "icon": "bolt.fill",
+      "title": "Punch with your legs, not your arm",
+      "body": "A hard punch is a whole-body chain: force starts at the floor and travels up through hip and trunk rotation, and the cross tends to hit hardest because it rides rear-leg drive. So train explosive power and rotational medicine-ball throws, not just bench press. Strathlon tunes your plan toward boxing with a rotational, explosive finisher on a strength base.",
+      "sports": [
+        "boxing"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-boxing",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_296",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.functional",
+      "title": "No single quality wins a fight",
+      "body": "MMA asks for everything at once — max strength you can express explosively for takedowns and strikes, an iron grip, a resilient neck, and both energy systems. So get strong first, then train that strength to arrive fast. Strathlon blends the emphasis and adds an MMA finisher plus grip, neck and rotational accessory work on your base plan.",
+      "sports": [
+        "mma"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-mma",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_297",
+      "category": "strength",
+      "audience": "all",
+      "icon": "dumbbell.fill",
+      "title": "Grip that lasts, a core that holds",
+      "body": "In jiu-jitsu your grip fades across a roll, so grip endurance — long holds and loaded carries — tends to matter more than a one-rep crush. Pair it with isometric core and hip strength, because guard retention and framing are really about not being moved. Strathlon biases your plan toward that grip, pulling and bracing work.",
+      "sports": [
+        "bjj"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-bjj",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_298",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.traditional",
+      "title": "Get strong for your size",
+      "body": "Wrestling rewards strength-to-weight, not bulk. Heavy hinges and hard pulling build the posterior chain and grip behind every shot and finish, and positional isometrics let you express force while locked up and tired. A deliberately built, resilient neck helps too. Strathlon tunes your plan toward wrestling with grip, neck and posterior-chain accessory work on a strength base.",
+      "sports": [
+        "wrestling"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-wrestling",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_299",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.core.training",
+      "title": "Serve speed starts at the floor",
+      "body": "The serve and groundstrokes are ground-up rotational actions, so explosive rotation — medicine-ball throws and cable chops — tends to transfer to racquet-head speed far better than curls ever will. Build it on single-leg strength that brakes as hard as it accelerates. Strathlon adds a rotational finisher and shoulder-care accessory work to your base plan.",
+      "sports": [
+        "tennis"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-tennis",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_300",
+      "category": "recovery",
+      "audience": "all",
+      "icon": "shield.lefthalf.filled",
+      "title": "Guard against padel elbow",
+      "body": "The elbow is padel's signature injury — usually wrist-extensor tendinopathy from all the gripping and overhead striking. The best-supported defence tends to be progressive eccentric wrist-extensor loading, plus grip work, a sensible grip size, and not over-playing through pain. Strathlon can layer this forearm and shoulder-care work onto your padel-tuned plan.",
+      "sports": [
+        "padel"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-padel",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_301",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.run",
+      "title": "Squash is played on one leg",
+      "body": "Most shots are struck from a lunge, so single-leg strength — split squats, step-ups, single-leg deadlifts — is your most sport-specific work, alongside the ability to decelerate and change direction. And don't skip heavy calf raises: the calf and Achilles top squash's injury list. Strathlon tunes your plan toward squash with single-leg and calf accessory work.",
+      "sports": [
+        "squash"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-squash",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_302",
+      "category": "strength",
+      "audience": "all",
+      "icon": "bolt.fill",
+      "title": "Springy legs, harder smash",
+      "body": "Badminton is played off one leg — deep lunges, hard stops, jump smashes. Build single-leg strength first, then add jumps (plyometrics) to make that power springy and fast, which tends to lift jump height and smash quality more than heavy lifting alone. Strathlon tilts your plan toward it with single-leg and reactive finishers.",
+      "sports": [
+        "badminton"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-badminton",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_303",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.core.training",
+      "title": "It's not all in the wrist",
+      "body": "Table tennis looks like a wrist game, but the fast bat comes from the ground up — legs and hips feeding a rotating trunk. Medicine-ball rotational throws build that power, trained as power: few reps, full intent, full recovery, not to fatigue. Strathlon adds a rotational-power finisher to your plan.",
+      "sports": [
+        "table_tennis"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-table_tennis",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_304",
+      "category": "strength",
+      "audience": "all",
+      "icon": "bolt.fill",
+      "title": "Speed beats stretch",
+      "body": "Clubhead speed tends to track with whole-body power, not flexibility. Build force with squats and hinges, then express it fast with jumps and rotational medicine-ball throws that train the X-factor — the hip-shoulder separation a big backswing turn alone won't give you. Strathlon tilts your plan toward that rotational power.",
+      "sports": [
+        "golf"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-golf",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_305",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.traditional",
+      "title": "A steadier hold is a stronger one",
+      "body": "Archery is stability and endurance, not power. The steadiest shots come from back, rotator-cuff and scapular endurance — plus a strength base that makes the draw feel submaximal, so your muscles tremble less under it. Strathlon leans your plan toward lighter, higher-rep pulling and cuff work.",
+      "sports": [
+        "archery"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-archery",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_306",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.functional",
+      "title": "Build a bowler-proof trunk",
+      "body": "Cricket's signature demand is fast bowling: the front foot lands under several times body weight. A strong posterior chain and anti-rotation trunk both produce that force and survive it, while rotational power feeds bat and ball speed — and Nordic-style work can help guard the hamstrings. Strathlon adds cricket rotational, single-leg and shoulder-care work.",
+      "sports": [
+        "cricket"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-cricket",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_307",
+      "category": "strength",
+      "audience": "all",
+      "icon": "bolt.fill",
+      "title": "Power comes from rotation",
+      "body": "A swing and a throw are the same move — power from the ground up through a fast-rotating trunk. Rotational medicine-ball throws build that sequenced power and tend to track bat and throwing velocity, but only on a base of heavy lower-body strength; protect the throwing arm with cuff and scapular work. Strathlon layers both on.",
+      "sports": [
+        "baseball"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-baseball",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_308",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.functional",
+      "title": "Strength per kilo wins",
+      "body": "Gymnastics is a relative-strength sport — force for every kilo you carry. It rewards straight-arm and static (isometric) holding strength and a braced core that ordinary lifting misses, and heavier low-rep work builds strength with little added size, raising power-to-weight so skills feel easier, not harder. Strathlon adds a straight-arm, core and landing layer.",
+      "sports": [
+        "gymnastics"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-gymnastics",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_309",
+      "category": "strength",
+      "audience": "all",
+      "icon": "dumbbell.fill",
+      "title": "Fingers first, but progress slowly",
+      "body": "Finger and grip strength is what really limits climbers — but the finger pulleys are also the most-injured tissue, so build finger load up slowly, over weeks not days. Favour open-hand grips, warm up well, and never climb through sharp finger pain. Strathlon tilts your gym plan toward climbing with a grip finisher on a pulling-and-pressing base.",
+      "sports": [
+        "climbing"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-climbing",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_310",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.core.training",
+      "title": "Power the swing from your core",
+      "body": "The mallet swing is a hip-to-shoulder rotation, so train both halves: build rotational power with medicine-ball throws and cable rotations, then an anti-rotation core (Pallof press, loaded carries) so that power reaches the mallet instead of leaking through a soft trunk. Train both sides, even though you swing one way. Strathlon adds rotational and core accessories to your base plan.",
+      "sports": [
+        "polo"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-polo",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_311",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.functional",
+      "title": "Win on the lunge",
+      "body": "Fencing is decided by the lunge — you explode off one leg, then brake and recover on the other. So train it with single-leg lifts (split squats, single-leg RDLs) plus jumps for reactive speed, and build eccentric deceleration strength — the front knee absorbs every lunge and is fencing's most-injured spot. Strathlon tilts your plan toward single-leg and explosive fencing work.",
+      "sports": [
+        "fencing"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-fencing",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_312",
+      "category": "recovery",
+      "audience": "all",
+      "icon": "shield.lefthalf.filled",
+      "title": "Nordic curls save hamstrings",
+      "body": "Hamstring strains are football's most common injury, and the Nordic hamstring curl is the standout defence — it tends to roughly halve hamstring-injury rates. Build it gradually, pair it with regular sprinting so match speed isn't a shock, and keep doing it; consistency is the active ingredient. Strathlon adds hamstring and single-leg work to your football plan.",
+      "sports": [
+        "football"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-football",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_313",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.traditional",
+      "title": "Get strong, then make it fast",
+      "body": "Rugby is won and survived in the collision, so heavy strength — squat, hinge, press and pull — is the base: it makes you harder to move and tends to lower injury risk, not slower. Then turn it into contact speed with jumps, throws and sprints, and don't skip cheap neck work. Strathlon tunes your plan with a rugby finisher and power accessories on that base.",
+      "sports": [
+        "rugby"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-rugby",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_314",
+      "category": "strength",
+      "audience": "all",
+      "icon": "bolt.fill",
+      "title": "Build the jump, train the landing",
+      "body": "A bigger vertical comes from two things trained together: heavy squats and hinges for force, then plyometrics — jumps, bounds, pogos — to fire it fast. Just as important, train to land and stop, not only to jump: controlled decelerations and stick landings build the eccentric strength that protects your knees. Strathlon adds a plyometric finisher and single-leg work to your basketball plan.",
+      "sports": [
+        "basketball"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-basketball",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_315",
+      "category": "recovery",
+      "audience": "all",
+      "icon": "shield.lefthalf.filled",
+      "title": "It's the landing, not the jump",
+      "body": "Netball is played and landed on one leg, and its ACL and ankle injuries strike on uncontrolled landings and hard stops — not the jump itself. So single-leg strength (split squats, single-leg RDLs), deliberate soft, balanced landings, and a few minutes of balance work are the highest-value training you can do. Strathlon tilts your plan toward single-leg and landing work.",
+      "sports": [
+        "netball"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-netball",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_316",
+      "category": "strength",
+      "audience": "all",
+      "icon": "bolt.fill",
+      "title": "Throw from the ground up",
+      "body": "Handball's jump throw is a whole-body whip, not an arm action — ball speed comes from the legs and trunk driving the shoulder. Heavy squats and hinges plus rotational medicine-ball throws tend to raise throwing velocity more than arm work alone. Strathlon tunes your plan toward handball with a throwing-power finisher on a strength base.",
+      "sports": [
+        "handball"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-handball",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_317",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.traditional",
+      "title": "Own the low stance",
+      "body": "Field hockey lives in a bent-forward, stick-low crouch, so every sprint and tackle fires from a flexed trunk and hips. A strong posterior chain — heavy hip hinges plus anti-rotation trunk work — tends to power that stance and protect the lower back it loads. Strathlon leans your plan toward hockey with posterior-chain and single-leg accessory work.",
+      "sports": [
+        "hockey"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-hockey",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_318",
+      "category": "recovery",
+      "audience": "all",
+      "icon": "shield.lefthalf.filled",
+      "title": "Guard the groin",
+      "body": "Skating is a sideways push, so the adductors both power your stride and take the strain — groin pulls are hockey's signature injury. Dedicated adductor work like the Copenhagen exercise, kept up through the season, can cut that risk while making your stride stronger. Strathlon adds hockey adductor and single-leg accessory work on a strength base.",
+      "sports": [
+        "ice_hockey"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-ice_hockey",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_319",
+      "category": "recovery",
+      "audience": "all",
+      "icon": "shield.lefthalf.filled",
+      "title": "Train the landing",
+      "body": "Lacrosse is won on cuts, plants and landings — the exact moments the ACL is most exposed, and women's lacrosse carries one of the highest ACL rates in sport. Neuromuscular work — single-leg strength, balance and controlled landing done consistently — tends to lower that risk. Strathlon layers single-leg and jump-landing work onto your lacrosse plan.",
+      "sports": [
+        "lacrosse"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-lacrosse",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_320",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.functional",
+      "title": "Power the eggbeater",
+      "body": "Water polo happens from an unstable base — your eggbeater kick builds the platform you shoot and block from. Strong hips and legs, plus hip external-rotation and adductor work, tend to raise you higher in the water and protect the medial knee the kick grinds on. Strathlon tunes your plan toward water polo with leg, hip and shoulder-care work.",
+      "sports": [
+        "water_polo"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-water_polo",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_321",
+      "category": "strength",
+      "audience": "all",
+      "icon": "bolt.fill",
+      "title": "Brake as hard as you sprint",
+      "body": "Futsal packs in nearly as many hard stops as sprints — you re-accelerate in a new direction over and over on a grippy court. Single-leg strength and eccentric work to absorb braking tend to sharpen your cutting and spare the ankles, knees and hamstrings it punishes. Strathlon biases your plan toward futsal with single-leg and explosive accessory work.",
+      "sports": [
+        "futsal"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-futsal",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_322",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.traditional",
+      "title": "Strong first, then explosive",
+      "body": "A football play is a five-second, all-out collision, so the game rewards raw strength turned into fast power. Heavy squats, hinges and pulls build the force; jumps, throws and short sprints teach you to unleash it — and getting stronger tends to make you faster, not slower. Strathlon tunes your plan toward football with an explosive finisher on a strength base.",
+      "sports": [
+        "american_football"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-american_football",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_323",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.functional",
+      "title": "You brake more than you burst",
+      "body": "Touch involves more hard decelerations than accelerations, and you cut and stop on one leg. So bias your gym work toward single-leg strength — split squats, single-leg RDLs — plus Nordic hamstring curls, which tend to make you a sharper cutter and more strain-resistant at once. Strathlon layers these as a touch finisher on a strength base.",
+      "sports": [
+        "touch_rugby"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-touch_rugby",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_324",
+      "category": "recovery",
+      "audience": "all",
+      "icon": "shield.lefthalf.filled",
+      "title": "Land soft, cut on a bent knee",
+      "body": "Most ultimate knee and ankle injuries happen with no contact — during your own cutting, pivoting and jump-landings, often on one leg. Neuromuscular work that drills soft, aligned landings and controlled cuts can meaningfully lower ACL risk. Keep it as a short warm-up you actually stick with, year-round.",
+      "sports": [
+        "ultimate_frisbee"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-ultimate_frisbee",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_325",
+      "category": "strength",
+      "audience": "all",
+      "icon": "bolt.fill",
+      "title": "The jump is strength plus spring",
+      "body": "No single lift owns your vertical — it's built from two things. Heavy squats and hinges raise the force your legs can produce, and plyometric jump training teaches you to release it fast off the floor. Combining both tends to beat either alone, and rehearsing soft landings guards the knees.",
+      "sports": [
+        "volleyball"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-volleyball",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_326",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.traditional",
+      "title": "Get strong, metcons get cheaper",
+      "body": "In CrossFit it's easy to chase conditioning and under-build raw strength — yet a heavier squat, deadlift and press make every rep in a workout a smaller fraction of your max, so the metcon costs you less. Build the strength base first; skill and engine sit on top of it, not instead.",
+      "sports": [
+        "crossfit"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-crossfit",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_327",
+      "category": "strength",
+      "audience": "all",
+      "icon": "dumbbell.fill",
+      "title": "Classes are your cardio",
+      "body": "Group classes already deliver the conditioning; what they rarely give is progressive, trackable loading — you seldom know exactly what you lifted last week. Adding a couple of structured strength sessions with the weights written down turns 'am I getting stronger?' from a guess into a fact, and tends to protect your shoulders, back and knees too.",
+      "sports": [
+        "gym_class"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-gym_class",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_328",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.traditional",
+      "title": "Overload the big patterns",
+      "body": "Gym progress isn't random exercises — it's progressive overload on a few big patterns: squat, hinge, push, pull, carry and core, balanced across the week. Nudge weight or reps up a little over time, and keep your pulling volume matched to your pressing, which tends to keep shoulders healthy. Track it so 'more than last time' is a glance, not a guess.",
+      "sports": [
+        "gym_workout"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-gym_workout",
       "stage": "knowledge"
     }
   ]
