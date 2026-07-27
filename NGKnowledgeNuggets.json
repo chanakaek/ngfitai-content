@@ -1,5 +1,5 @@
 {
-  "version": "1.63.0",
+  "version": "1.64.1",
   "nuggets": [
     {
       "id": "nug_170",
@@ -3720,6 +3720,33 @@
       ],
       "learnMoreURL": "https://strathlon.com/guide-training-gym_workout",
       "stage": "knowledge"
+    },
+    {
+      "id": "nug_329",
+      "category": "nutrition",
+      "audience": "hrt",
+      "icon": "flame.fill",
+      "title": "How we adjust your calories for hormone therapy",
+      "body": "You've told us you're on hormone therapy, so here's exactly what we do with that. A measured body-fat % or lean mass always wins \u2014 nothing is estimated. Otherwise we use the standard weight-based formula plus a bounded adjustment. For some people that adjustment is exactly zero: if your birth-sex estimate already sits at the end your therapy produces, there's nothing to shift. Your minimum calorie floor never moves.",
+      "hormones": [
+        "testosterone",
+        "estrogen"
+      ],
+      "learnMoreURL": "https://strathlon.com/userguide#hormone-therapy",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_330",
+      "category": "app-tip",
+      "audience": "hrt",
+      "icon": "circle.hexagonpath.fill",
+      "title": "Cycle features are off by default on testosterone",
+      "body": "Because you're on testosterone therapy, Strathlon has turned its cycle-aware features off by default \u2014 periods commonly stop or become irregular on masculinising therapy, and we'd rather not assume. If you do still menstruate, you can switch them straight back on: Profile \u2192 Cycle-aware insights \u2192 'I still menstruate'. Everything then works exactly as it does for anyone else, and your cycle data stays on your device unless you separately switch on sharing the phase with your coach.",
+      "hormones": [
+        "cycleStoodDown"
+      ],
+      "learnMoreURL": "https://strathlon.com/userguide#hormone-therapy",
+      "stage": "usage-core"
     }
   ]
 }
