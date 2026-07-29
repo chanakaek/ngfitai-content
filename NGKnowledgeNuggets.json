@@ -1,5 +1,5 @@
 {
-  "version": "1.64.1",
+  "version": "1.64.2",
   "nuggets": [
     {
       "id": "nug_170",
@@ -75,7 +75,7 @@
       "audience": "all",
       "icon": "icloud.fill",
       "title": "Your data, safe across your devices",
-      "body": "Turn on iCloud backup and your profile, Tracker totals, saved foods, meal plans and schedule sync privately across your devices. Your weigh-ins and lifting history need the separate 'Back up training data to iCloud' switch (on by default), and your health & safety details the separate 'Back up health & safety details' switch (off by default). Your cycle data never leaves your phone.",
+      "body": "Turn on iCloud backup and your profile, Tracker totals, saved foods, meal plans and schedule sync privately across your devices. Your weigh-ins and lifting history need the separate 'Back up training data to iCloud' switch (on by default), and your health & safety details the separate 'Back up health & safety details' switch (off by default). Your cycle data is never included in any of these backups - sharing anything cycle-related with your AI Coach is separate and off by default, in More → Profile & Settings → Cycle-aware insights.",
       "learnMoreURL": "https://strathlon.com/blog-icloud-sync",
       "stage": "usage-premium"
     },
@@ -113,7 +113,7 @@
       "audience": "female",
       "icon": "heart.fill",
       "title": "Make Strathlon cycle-aware — your choice",
-      "body": "Separate switches let your nutrition, training, insights and Coach flex with your cycle - the AI Coach one is off by default, and you can turn any of them off. Your cycle data stays on your device - the one exception is the separate, off-by-default Coach opt-in, which shares a single general phase word (e.g. 'pre-menstrual') and never your dates, flow, symptoms or history.",
+      "body": "Separate switches let your nutrition, training, insights and Coach flex with your cycle - the AI Coach one is off by default, and you can turn any of them off. Your dates, flow, symptoms and history never leave your device. Only what you switch on can leave, and there are two switches: the Coach opt-in shares a single general phase word (e.g. 'pre-menstrual'), and the pre-period calorie ease sends your adjusted target with a note that it was deliberately adjusted - and, only if the phase share is on too, that your cycle is the reason.",
       "learnMoreURL": "https://strathlon.com/blog-cycle-features",
       "stage": "usage-premium"
     },
@@ -316,7 +316,7 @@
       "audience": "all",
       "icon": "photo.on.rectangle.angled",
       "title": "Track your progress in photos",
-      "body": "The scale only tells half the story. Open More → Progress Photos and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Your photos stay private on your device by default: never in any export, and never sent to the AI unless you turn on the optional AI physique insight. If you switch on 'Sync progress photos to iCloud' they also back up to your own private iCloud - never to a Strathlon server.",
+      "body": "The scale only tells half the story. Open More → Progress Photos and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Your photos stay private on your device by default: never in any export, and never sent to the AI. If you switch on 'Sync progress photos to iCloud' they also back up to your own private iCloud - never to a Strathlon server.",
       "learnMoreURL": "https://strathlon.com/blog-tracking-progress",
       "stage": "usage-core"
     },
@@ -326,7 +326,7 @@
       "audience": "all",
       "icon": "rectangle.split.2x1",
       "title": "See your before & after",
-      "body": "Got two or more progress photos? Open More → Progress Photos and tap Compare to put two side by side — oldest vs newest by default — with the days between them and your weight change. Tap either date to pick any two. It all stays on your device.",
+      "body": "Got two or more progress photos? Open More → Progress Photos and tap Compare to put two side by side — oldest vs newest by default — with the days between them and your weight change. Tap either date to pick any two. It all stays on your device and is never sent to the AI - the only copy that can leave is the optional backup to your own private iCloud.",
       "stage": "usage-core"
     },
     {
@@ -499,7 +499,7 @@
       "audience": "female",
       "icon": "bubble.left.and.text.bubble.right.fill",
       "title": "Want cycle-aware coaching? You choose",
-      "body": "There's a separate, off-by-default switch in More → Profile & Settings → Cycle-aware insights that lets the AI coach factor your cycle into its advice. If you turn it on, the coach sees only a general phase label — like 'pre-menstrual' or 'mid-cycle' — and nothing else: never your dates, flow, symptoms or history. It's kept separate from the general Health-data sharing control, so it's entirely your call. Leave it off and the coach works exactly as before.",
+      "body": "There's a separate, off-by-default switch in More → Profile & Settings → Cycle-aware insights that lets the AI coach factor your cycle into its advice. If you turn it on, the coach sees a general phase label — like 'pre-menstrual' or 'mid-cycle' — and never your dates, flow, symptoms or history. It's kept separate from the general Health-data sharing control, so it's entirely your call. Leave it off and the only cycle-derived things your coach can see are the ones the separate pre-period calorie ease sends, and only while that is on: your adjusted calorie target and a note that it was deliberately adjusted but not why.",
       "stage": "usage-premium"
     },
     {
@@ -518,7 +518,7 @@
       "audience": "all",
       "icon": "lock.shield.fill",
       "title": "You decide what the AI Coach sees",
-      "body": "Strathlon asks once — during setup, and any time in More → Profile & Settings → App settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's off by default: leave it off and those Apple Health MEASUREMENTS stay on your device and are never sent to the AI. Turn it on for sharper coaching, and switch it back off whenever you like. Note what this switch does NOT cover: the health & safety details you entered yourself - allergies, pregnancy or breastfeeding, conditions, medications and injuries - are always shared with your coach so its advice is safe for you. See Privacy & your data -> 'What your AI coach can see' for the full list. Your cycle info is always kept separate unless you specifically enable cycle-aware coaching.",
+      "body": "Strathlon asks once — during setup, and any time in More → Profile & Settings → App settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's off by default: leave it off and those Apple Health MEASUREMENTS stay on your device and are never sent to the AI. Turn it on for sharper coaching, and switch it back off whenever you like. Note what this switch does NOT cover: the health & safety details you entered yourself - allergies, pregnancy or breastfeeding, conditions, medications and injuries - are always shared with your coach so its advice is safe for you. See Privacy & your data -> 'What your AI coach can see' for the full list. Your cycle info sits behind its own separate switches, all off by default: your dates, flow, symptoms and history never leave your phone, and the most your coach can see is a general phase word, or - with the pre-period calorie ease on - your adjusted target and a note that it was deliberately adjusted.",
       "stage": "usage-core"
     },
     {
@@ -547,7 +547,7 @@
       "audience": "female",
       "icon": "heart.circle.fill",
       "title": "Your plan can flex with your cycle",
-      "body": "If you log your cycle in Apple Health, Strathlon adds gentle, on-device notes for where you are in it. Around your period and the week before, the Nutrition tab reminds you that rising cravings are normal (with iron, hydration and protein tips) — and an optional switch can ease your calorie target by about 100 kcal that week so you stay consistent. On the Plan tab, a note suggests training by feel when energy dips and pushing in your stronger mid-cycle window. Both switches are off by default in More → Profile & Settings → Cycle-aware insights, and your cycle data never leaves your device. Sharing a general phase word with the AI Coach is a separate, off-by-default switch again - and even then it is only the phase word.",
+      "body": "If you log your cycle in Apple Health, Strathlon adds gentle, on-device notes for where you are in it. Around your period and the week before, the Nutrition tab reminds you that rising cravings are normal (with iron, hydration and protein tips) — and an optional switch can ease your calorie target by about 100 kcal that week so you stay consistent. On the Plan tab, a note suggests training by feel when energy dips and pushing in your stronger mid-cycle window. Both switches are off by default in More → Profile & Settings → Cycle-aware insights, and your dates, flow, symptoms and history never leave your device. Sharing a general phase word with the AI Coach is a separate, off-by-default switch again. And if the calorie ease is on, your coach also sees your adjusted target with a note that it was deliberately adjusted - the reason only if you have the phase share on too.",
       "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle",
       "stage": "usage-core"
     },
@@ -662,7 +662,7 @@
       "audience": "all",
       "icon": "circle.fill",
       "title": "Red dots on your weight chart = a session you didn't log",
-      "body": "If you train but don't run the guided session, tap Done on your watch, or mark it done, the app can't see it. A small red dot on a scheduled gym day means no session was logged that day. Did train it? Tap the dot and choose 'I trained this day' — it'll count toward your consistency and the dot clears. Dots only show once you're logging regularly.",
+      "body": "If you train but don't run the guided session, tap Done on your watch, or mark it done, the app can't see it. A small red dot on a scheduled gym day means no session was logged that day. Did train it? Tap the dot and confirm you trained that day — it'll count toward your consistency and the dot clears. Dots only show once you're logging regularly.",
       "stage": "usage-core"
     },
     {
@@ -3727,7 +3727,7 @@
       "audience": "hrt",
       "icon": "flame.fill",
       "title": "How we adjust your calories for hormone therapy",
-      "body": "You've told us you're on hormone therapy, so here's exactly what we do with that. A measured body-fat % or lean mass always wins \u2014 nothing is estimated. Otherwise we use the standard weight-based formula plus a bounded adjustment. For some people that adjustment is exactly zero: if your birth-sex estimate already sits at the end your therapy produces, there's nothing to shift. Your minimum calorie floor never moves.",
+      "body": "You've told us you're on hormone therapy, so here's exactly what we do with that. A measured body-fat % or lean mass always wins — nothing is estimated. Otherwise we use the standard weight-based formula plus a bounded adjustment. For some people that adjustment is exactly zero: if your birth-sex estimate already sits at the end your therapy produces, there's nothing to shift. Your minimum calorie floor never moves.",
       "hormones": [
         "testosterone",
         "estrogen"
@@ -3741,7 +3741,7 @@
       "audience": "hrt",
       "icon": "circle.hexagonpath.fill",
       "title": "Cycle features are off by default on testosterone",
-      "body": "Because you're on testosterone therapy, Strathlon has turned its cycle-aware features off by default \u2014 periods commonly stop or become irregular on masculinising therapy, and we'd rather not assume. If you do still menstruate, you can switch them straight back on: Profile \u2192 Cycle-aware insights \u2192 'I still menstruate'. Everything then works exactly as it does for anyone else, and your cycle data stays on your device unless you separately switch on sharing the phase with your coach.",
+      "body": "Because you're on testosterone therapy, Strathlon has turned its cycle-aware features off by default — periods commonly stop or become irregular on masculinising therapy, and we'd rather not assume. If you do still menstruate, you can switch them straight back on: Profile → Cycle-aware insights → 'I still menstruate'. Everything then works exactly as it does for anyone else, and your dates, flow, symptoms and history stay on your device. Only what you switch on can reach your coach, from two off-by-default switches: a general phase word, and - with the pre-period calorie ease on - your adjusted target and a note that it was deliberately adjusted.",
       "hormones": [
         "cycleStoodDown"
       ],
