@@ -1,5 +1,5 @@
 {
-  "version": "1.64.2",
+  "version": "1.67.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -17,7 +17,7 @@
       "audience": "all",
       "icon": "chart.xyaxis.line",
       "title": "Read your charts like a pro",
-      "body": "Daily, weekly or monthly, your weight and deficit charts always open on your latest data. Here's how to read the trend, the range and the away shading.",
+      "body": "Daily, weekly or monthly, your weight and deficit charts open on your latest data. Here's how to read the trend, the range and the away shading.",
       "learnMoreURL": "https://strathlon.com/blog-tracking-progress",
       "stage": "usage-core"
     },
@@ -27,7 +27,7 @@
       "audience": "all",
       "icon": "calendar",
       "title": "Set up your week and your sports",
-      "body": "Pick your sports, set a primary one, and Strathlon shapes your gym plan around them — showing only what's in season this week.",
+      "body": "Pick your sports, set a primary one, and Strathlon shapes your gym plan around them — showing what's in season this week.",
       "learnMoreURL": "https://strathlon.com/blog-your-schedule",
       "stage": "usage-core"
     },
@@ -75,7 +75,7 @@
       "audience": "all",
       "icon": "icloud.fill",
       "title": "Your data, safe across your devices",
-      "body": "Turn on iCloud backup and your profile, Tracker totals, saved foods, meal plans and schedule sync privately across your devices. Your weigh-ins and lifting history need the separate 'Back up training data to iCloud' switch (on by default), and your health & safety details the separate 'Back up health & safety details' switch (off by default). Your cycle data is never included in any of these backups - sharing anything cycle-related with your AI Coach is separate and off by default, in More → Profile & Settings → Cycle-aware insights.",
+      "body": "Turn on iCloud backup and your profile, Tracker totals, saved foods, meal plans and schedule sync privately across your devices. Your weigh-ins and lifting history need the separate 'Back up training data to iCloud' switch (on by default), and your health & safety details the separate 'Back up health & safety details' switch (off by default). Your dates, flow and symptoms never leave your phone.",
       "learnMoreURL": "https://strathlon.com/blog-icloud-sync",
       "stage": "usage-premium"
     },
@@ -113,7 +113,7 @@
       "audience": "female",
       "icon": "heart.fill",
       "title": "Make Strathlon cycle-aware — your choice",
-      "body": "Separate switches let your nutrition, training, insights and Coach flex with your cycle - the AI Coach one is off by default, and you can turn any of them off. Your dates, flow, symptoms and history never leave your device. Only what you switch on can leave, and there are two switches: the Coach opt-in shares a single general phase word (e.g. 'pre-menstrual'), and the pre-period calorie ease sends your adjusted target with a note that it was deliberately adjusted - and, only if the phase share is on too, that your cycle is the reason.",
+      "body": "Separate switches let your nutrition, training, insights and Coach flex with your cycle - the AI Coach one is off by default, and you can turn any of them off.",
       "learnMoreURL": "https://strathlon.com/blog-cycle-features",
       "stage": "usage-premium"
     },
@@ -123,7 +123,7 @@
       "audience": "all",
       "icon": "arrow.triangle.swap",
       "title": "Double days pair muscles smartly",
-      "body": "Turn on 'Can double up' and Strathlon trains the opposite muscle groups to those your sport fatigues — so you never hammer already-tired muscles twice in one day.",
+      "body": "Turn on 'Can double up' and Strathlon can put a gym session on the same day as your sport — so it works the opposite muscle groups to the ones your sport has already tired.",
       "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
       "stage": "usage-core"
     },
@@ -133,7 +133,7 @@
       "audience": "all",
       "icon": "list.number",
       "title": "Add several sports — priority handled",
-      "body": "Pick more than one sport and your primary gets the full calorie bonus while the others scale sensibly, so daily totals never balloon. Change the order any time in More.",
+      "body": "Pick more than one sport and your primary gets the full calorie bonus while the others scale sensibly. Change the order any time in More.",
       "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
       "stage": "usage-core"
     },
@@ -163,7 +163,7 @@
       "audience": "all",
       "icon": "heart.text.square.fill",
       "title": "Import your stats from Apple Health",
-      "body": "In setup tap 'Import from Apple Health' to pull weight, height, resting HR, VO2 max and body-fat in one go. Strathlon only ever reads from Health — it never writes back.",
+      "body": "In setup tap 'Import from Apple Health' to pull weight, height, resting HR, VO2 max and body-fat in one go.",
       "learnMoreURL": "https://strathlon.com/blog-getting-started",
       "stage": "usage-core"
     },
@@ -296,7 +296,7 @@
       "audience": "all",
       "icon": "figure.arms.open",
       "title": "Sharper targets from your body composition",
-      "body": "If a smart scale or wearable logs your lean mass to Apple Health, turn on Body composition in More → Profile & Settings → Body composition. Strathlon then uses the Katch-McArdle formula for a more accurate calorie (BMR) and protein target — better for muscular or higher-body-fat builds. It reads body fat % and lean mass only. These stay on your device unless you turn on 'Share Health data with AI coaching', which includes your body composition so the coach can tailor its advice; leave that switch off and they are never sent to the AI.",
+      "body": "If a smart scale or wearable logs your lean mass to Apple Health, turn on Body composition in More → Profile & Settings → Body composition. Strathlon then uses the Katch-McArdle formula for a more accurate calorie (BMR) and protein target — better for muscular or higher-body-fat builds. It reads only what it needs from your body-composition data. These stay on your device unless you turn on 'Share Health data with AI coaching', which includes your body composition so the coach can tailor its advice; leave that switch off and they are never sent to the AI.",
       "learnMoreURL": "https://strathlon.com/stats-protein#factors",
       "stage": "usage-core"
     },
@@ -316,7 +316,7 @@
       "audience": "all",
       "icon": "photo.on.rectangle.angled",
       "title": "Track your progress in photos",
-      "body": "The scale only tells half the story. Open More → Progress Photos and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Your photos stay private on your device by default: never in any export, and never sent to the AI. If you switch on 'Sync progress photos to iCloud' they also back up to your own private iCloud - never to a Strathlon server.",
+      "body": "The scale only tells half the story. Open More → Progress Photos and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Your photos stay private on your device by default: never in any export, and never sent to the AI, unless you turn on the optional AI physique insight. If you switch on 'Sync progress photos to iCloud' they also back up to your own private iCloud - never to a Strathlon server.",
       "learnMoreURL": "https://strathlon.com/blog-tracking-progress",
       "stage": "usage-core"
     },
@@ -326,7 +326,7 @@
       "audience": "all",
       "icon": "rectangle.split.2x1",
       "title": "See your before & after",
-      "body": "Got two or more progress photos? Open More → Progress Photos and tap Compare to put two side by side — oldest vs newest by default — with the days between them and your weight change. Tap either date to pick any two. It all stays on your device and is never sent to the AI - the only copy that can leave is the optional backup to your own private iCloud.",
+      "body": "Got two or more progress photos? Open More → Progress Photos and tap Compare to put two side by side — oldest vs newest by default — with the days between them and your weight change. Tap either date to pick any two.",
       "stage": "usage-core"
     },
     {
@@ -344,7 +344,7 @@
       "audience": "all",
       "icon": "crown.fill",
       "title": "What your subscription unlocks",
-      "body": "Plan, timers, targets, supplements, tracker and Health sync are built in. The AI Coach — chat, meal plans, photo macro scanning, progress analysis — is premium, with a 14-day free trial on annual.",
+      "body": "Plan, timers, targets, supplements, tracker and Health sync are built in. The AI Coach — chat, meal plans, photo macro scanning, progress analysis — is premium, with a 14-day free trial.",
       "learnMoreURL": "https://strathlon.com/blog-ai-coach",
       "stage": "usage-premium"
     },
@@ -354,7 +354,7 @@
       "audience": "all",
       "icon": "applewatch",
       "title": "Live heart rate from your Apple Watch",
-      "body": "Got an Apple Watch with the Strathlon watch app? It starts itself the moment you begin a session on your phone — no subscription needed, and no need to tap Start on your wrist. And your live heart rate streams straight to your phone, so the BPM and zone update beat-by-beat (a ⌚ shows when it's live). It records as one continuous workout of the right type, with calories. Just don't also start Apple's own Workout app at the same time, or your calories get counted twice. No watch? Your heart rate still comes from Apple Health where available.",
+      "body": "Got an Apple Watch with the Strathlon watch app? It starts itself the moment you begin a session on your phone — no need to tap Start on your wrist. And your live heart rate streams straight to your phone, so the BPM and zone update beat-by-beat (a ⌚ shows when it's live). It records as one continuous workout of the right type, with calories. Just don't also start Apple's own Workout app at the same time, or your calories get counted twice. No watch? Your heart rate still comes from Apple Health where available.",
       "learnMoreURL": "https://strathlon.com/blog-apple-watch",
       "stage": "usage-core"
     },
@@ -374,7 +374,7 @@
       "audience": "all",
       "icon": "scalemass",
       "title": "Track the weights you lift",
-      "body": "Open any exercise on your Plan and log your working weight × reps (pre-filled from last time — usually one tap), or tap 'Log each set' for set-by-set detail. Enter in kg or lb; both are shown. After a few sessions your review gains a Strength progress section: heaviest set, estimated 1-rep max, total volume-load, your trend, and a nudge to deload when a lift stalls.",
+      "body": "Open any exercise on your Plan and log your working weight × reps (pre-filled from last time — usually one tap), or tap 'Log each set' for set-by-set detail. Enter in kg or lb; both are shown. After a few sessions your review gains a Strength progress section: heaviest set, total volume-load, your weekly trend, and a nudge to deload when a lift stalls. Every figure is a weight you logged — nothing is estimated from it.",
       "learnMoreURL": "https://strathlon.com/stats-strength-progress",
       "stage": "usage-core"
     },
@@ -480,7 +480,7 @@
       "audience": "all",
       "icon": "figure.walk.motion",
       "title": "Going away? Tell Strathlon",
-      "body": "On the Plan tab, tap \"On a break or catching up?\". Set a holiday or busy spell and those days show \"On a break\" — your plan pauses where it is, nothing's lost, and there's no \"missed day\" nagging; you get a welcome-back when you're home. While you're on a break your calories ease to maintenance (no deficit) and any scheduled sport bonus isn't counted — enjoy it; your normal targets resume automatically when you're back. Trained while away (off-app, a different gym, a walk)? Tick the days and what you did — even several at once — and it counts toward your progress on any day.",
+      "body": "On the Plan tab, tap \"On a break or catching up?\". Set a holiday or busy spell and those days show \"On a break\" — your plan pauses where it is, nothing's lost, and you get a welcome-back when you're home. While you're on a break your calories ease to maintenance (no deficit) and any scheduled sport bonus isn't counted — enjoy it; your normal targets resume automatically when you're back. Trained while away (off-app, a different gym, a walk)? Tick the days and what you did — even several at once — and it counts toward your progress on any day.",
       "stage": "usage-core"
     },
     {
@@ -499,7 +499,7 @@
       "audience": "female",
       "icon": "bubble.left.and.text.bubble.right.fill",
       "title": "Want cycle-aware coaching? You choose",
-      "body": "There's a separate, off-by-default switch in More → Profile & Settings → Cycle-aware insights that lets the AI coach factor your cycle into its advice. If you turn it on, the coach sees a general phase label — like 'pre-menstrual' or 'mid-cycle' — and never your dates, flow, symptoms or history. It's kept separate from the general Health-data sharing control, so it's entirely your call. Leave it off and the only cycle-derived things your coach can see are the ones the separate pre-period calorie ease sends, and only while that is on: your adjusted calorie target and a note that it was deliberately adjusted but not why.",
+      "body": "There's a separate, off-by-default switch in More → Profile & Settings → Cycle-aware insights that lets the AI coach factor your cycle into its advice. If you turn it on, the coach sees a general phase label — like 'pre-menstrual' or 'mid-cycle'. It's kept separate from the general Health-data sharing control, so it's entirely your call.",
       "stage": "usage-premium"
     },
     {
@@ -518,7 +518,7 @@
       "audience": "all",
       "icon": "lock.shield.fill",
       "title": "You decide what the AI Coach sees",
-      "body": "Strathlon asks once — during setup, and any time in More → Profile & Settings → App settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's off by default: leave it off and those Apple Health MEASUREMENTS stay on your device and are never sent to the AI. Turn it on for sharper coaching, and switch it back off whenever you like. Note what this switch does NOT cover: the health & safety details you entered yourself - allergies, pregnancy or breastfeeding, conditions, medications and injuries - are always shared with your coach so its advice is safe for you. See Privacy & your data -> 'What your AI coach can see' for the full list. Your cycle info sits behind its own separate switches, all off by default: your dates, flow, symptoms and history never leave your phone, and the most your coach can see is a general phase word, or - with the pre-period calorie ease on - your adjusted target and a note that it was deliberately adjusted.",
+      "body": "Strathlon asks once — during setup, and any time in More → Profile & Settings → App settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's off by default: leave it off and those Apple Health MEASUREMENTS stay on your device and are never sent to the AI. Turn it on for sharper coaching, and switch it back off whenever you like. Note what this switch does NOT cover: the health & safety details you entered yourself - allergies, pregnancy or breastfeeding, conditions, medications and injuries - are always shared with your coach so its advice is safe for you. See Privacy & your data -> 'What your AI coach can see' for the full list.",
       "stage": "usage-core"
     },
     {
@@ -537,7 +537,7 @@
       "audience": "all",
       "icon": "applewatch.side.right",
       "title": "Run your workout from your wrist",
-      "body": "With an Apple Watch, once your session starts you can drive the whole thing from your wrist — your watch shows the current exercise, your set and rep target, and one big button. Tap Done to log a set and start your rest countdown; tap again during rest to skip it. It carries you from warm-up through every set to your HIIT finisher, so you never have to pick up your phone. (A premium feature — the app works fully without a watch too.)",
+      "body": "With an Apple Watch, once your session starts you can drive the whole thing from your wrist — your watch shows the current exercise, your set and rep target, and one big button. Tap Done to log a set and start your rest countdown; tap again during rest to skip it. It carries you from warm-up through every set to your HIIT finisher, so you never have to pick up your phone. (A premium feature.)",
       "learnMoreURL": "https://strathlon.com/blog-apple-watch",
       "stage": "usage-premium"
     },
@@ -547,7 +547,7 @@
       "audience": "female",
       "icon": "heart.circle.fill",
       "title": "Your plan can flex with your cycle",
-      "body": "If you log your cycle in Apple Health, Strathlon adds gentle, on-device notes for where you are in it. Around your period and the week before, the Nutrition tab reminds you that rising cravings are normal (with iron, hydration and protein tips) — and an optional switch can ease your calorie target by about 100 kcal that week so you stay consistent. On the Plan tab, a note suggests training by feel when energy dips and pushing in your stronger mid-cycle window. Both switches are off by default in More → Profile & Settings → Cycle-aware insights, and your dates, flow, symptoms and history never leave your device. Sharing a general phase word with the AI Coach is a separate, off-by-default switch again. And if the calorie ease is on, your coach also sees your adjusted target with a note that it was deliberately adjusted - the reason only if you have the phase share on too.",
+      "body": "If you log your cycle in Apple Health, Strathlon adds gentle, on-device notes for where you are in it. Around your period and the week before, the Nutrition tab reminds you that rising cravings are normal (with iron, hydration and protein tips) — and an optional switch can ease your calorie target by about 100 kcal that week so you stay consistent. On the Plan tab, a note suggests training by feel when energy dips and pushing in your stronger mid-cycle window. Both switches are off by default in More → Profile & Settings → Cycle-aware insights.",
       "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle",
       "stage": "usage-core"
     },
@@ -557,7 +557,7 @@
       "audience": "all",
       "icon": "flag.checkered",
       "title": "Your finish knows what's next",
-      "body": "When you wrap up a workout, Strathlon now congratulates you on the session you just finished — then looks at the rest of your day. If you've got a match, a long ride or another hard session still to come, it suggests an easier HIIT finisher, with one tap to lighten it, so you're not cooked before the main event. And if there's more ahead, it'll point you to the AI coach for recovery and meal ideas. Nothing is forced — it only ever suggests, and the option quietly disappears if you don't take it.",
+      "body": "When you wrap up a workout, Strathlon now congratulates you on the session you just finished — then looks at the rest of your day. If you've got a match, a long ride or another hard session still to come, it suggests an easier HIIT finisher, with one tap to lighten it, so you're not cooked before the main event. And if there's more ahead, it'll point you to the AI coach for recovery and meal ideas.",
       "stage": "usage-core"
     },
     {
@@ -566,7 +566,7 @@
       "audience": "all",
       "icon": "scalemass.fill",
       "title": "Your weight keeps your plan current",
-      "body": "Weigh in on a scale that syncs to Apple Health and Strathlon brings it in automatically — there's no \"update your weight?\" tap any more. What you see is always your latest reading; behind the scenes your calorie and protein targets follow a smoothed, roughly 7-day trend of your weight, so one heavy or light morning never jerks your targets around. Want to set a specific day yourself? Type it in and your number wins for that day.",
+      "body": "Weigh in on a scale that syncs to Apple Health and Strathlon brings it in automatically — there's no \"update your weight?\" tap any more. The weight you see is the reading you logged; behind the scenes your calorie and protein targets follow a smoothed, roughly 7-day trend of it, so one heavy or light day doesn't move your targets. Want to set a specific day yourself? Type it in and your number wins for that day.",
       "stage": "usage-core",
       "learnMoreURL": "https://strathlon.com/blog-tracking-progress"
     },
@@ -576,7 +576,7 @@
       "audience": "all",
       "icon": "brain.head.profile",
       "title": "Your AI coach knows your whole day",
-      "body": "Your AI coach isn't guessing. It reads your real macros and the foods you've logged straight from your Tracker, and it knows your full programme — every phase, today's actual exercises, and how you're tracking to date — so its advice fits exactly where you are. Your weight and body-composition figures stay private unless you've chosen to share Health data. Your health & safety details - allergies, pregnancy, conditions, medications, injuries - are always shared with the coach so its advice is safe for you.",
+      "body": "Your AI coach isn't guessing. It reads your real macros and the foods you've logged straight from your Tracker, and it knows your full programme — every phase, today's actual exercises, and how you're tracking to date — so its advice fits exactly where you are.",
       "learnMoreURL": "https://strathlon.com/blog-ai-coach",
       "stage": "usage-premium"
     },
@@ -585,8 +585,8 @@
       "category": "app-tip",
       "audience": "all",
       "icon": "applewatch",
-      "title": "Your Apple Watch does the work — free",
-      "body": "Got an Apple Watch? Start your session on the phone and Strathlon starts the workout on your watch automatically — your live heart rate streams in, and each block (warm-up, strength, HIIT) is logged to the Apple Workout app with its own calories. No taps on the watch, and no subscription needed — it's part of the free app.",
+      "title": "Your Apple Watch does the work",
+      "body": "Got an Apple Watch? Start your session on the phone and Strathlon starts the workout on your watch automatically — your live heart rate streams in, and each block (warm-up, strength, HIIT) is logged to the Apple Workout app with its own calories. No taps needed on the watch.",
       "learnMoreURL": "https://strathlon.com/blog-apple-watch",
       "stage": "usage-core"
     },
@@ -633,8 +633,8 @@
       "category": "app-tip",
       "audience": "all",
       "icon": "heart.fill",
-      "title": "Live heart rate, hands-free — and free",
-      "body": "With an Apple Watch, your real-time heart rate streams to your phone during every session and each block logs to Apple's Workout app with calories — no subscription needed. Premium adds hands-free control: tap Done on your wrist to log a set and start your rest.",
+      "title": "Live heart rate, hands-free",
+      "body": "With an Apple Watch, your real-time heart rate streams to your phone during every session and each block logs to Apple's Workout app with calories. Premium adds hands-free control: tap Done on your wrist to log a set and start your rest.",
       "learnMoreURL": "https://strathlon.com/blog-apple-watch",
       "stage": "usage-core"
     },
@@ -653,7 +653,7 @@
       "audience": "all",
       "icon": "icloud",
       "title": "Back up your progress photos privately",
-      "body": "You can optionally back up your progress photos to your own private iCloud, so they appear on your other devices and return if you reinstall or get a new phone. It is off by default — turn it on in More → Profile & Settings → App settings → Privacy & your data. Your photos go only to your personal iCloud account, never to a Strathlon server, never to the AI, and never to any export. Turning it off keeps every photo safely on your device.",
+      "body": "You can optionally back up your progress photos to your own private iCloud, so they appear on your other devices and return if you reinstall or get a new phone. It is off by default — turn it on in More → Profile & Settings → App settings → Privacy & your data.",
       "stage": "usage-premium"
     },
     {
@@ -700,7 +700,7 @@
       "audience": "all",
       "icon": "scalemass",
       "title": "kg, lb or stone — your choice",
-      "body": "Prefer pounds or stone? In More → Profile & Settings → Body & stats, tap Units and choose kg, lb or stone. Your weight reflows everywhere instantly — profile, tracker, charts and progress photos — and weight entry switches too (stone gives you two fields, st and lb). Your saved data never changes, so switch back any time.",
+      "body": "Prefer pounds or stone? In More → Profile & Settings → Body & stats, tap Units and choose kg, lb or stone. Your weight reflows everywhere instantly — profile, tracker, charts and progress photos — and weight entry switches too (stone gives you two fields, st and lb).",
       "stage": "usage-core"
     },
     {
@@ -1884,7 +1884,7 @@
       "audience": "all",
       "icon": "heart.text.square",
       "title": "Tap your Readiness card to ask why",
-      "body": "The Readiness card at the top of the AI Coach tab is now tappable. Subscribers can tap it and the coach explains how the score was worked out from your sleep, resting heart rate and between-set recovery, and what to do about it today; if Health sharing is switched off it offers to turn that on first, and if you're not subscribed it opens your upgrade options instead. The score itself stays free. It's a general guide, not a medical measure.",
+      "body": "The Readiness card at the top of the AI Coach tab is now tappable. Subscribers can tap it and the coach explains how the score was worked out from your sleep, resting heart rate and between-set recovery, and what to do about it today; if Health sharing is switched off it offers to turn that on first, and if you're not subscribed it opens your upgrade options instead. It's a general guide, not a medical measure.",
       "stage": "usage-core"
     },
     {
@@ -3741,7 +3741,7 @@
       "audience": "hrt",
       "icon": "circle.hexagonpath.fill",
       "title": "Cycle features are off by default on testosterone",
-      "body": "Because you're on testosterone therapy, Strathlon has turned its cycle-aware features off by default — periods commonly stop or become irregular on masculinising therapy, and we'd rather not assume. If you do still menstruate, you can switch them straight back on: Profile → Cycle-aware insights → 'I still menstruate'. Everything then works exactly as it does for anyone else, and your dates, flow, symptoms and history stay on your device. Only what you switch on can reach your coach, from two off-by-default switches: a general phase word, and - with the pre-period calorie ease on - your adjusted target and a note that it was deliberately adjusted.",
+      "body": "Because you're on testosterone therapy, Strathlon has turned its cycle-aware features off by default — periods commonly stop or become irregular on masculinising therapy, and we'd rather not assume. If you do still menstruate, you can switch them straight back on: Profile → Cycle-aware insights → 'I still menstruate'. Everything then works exactly as it does for anyone else.",
       "hormones": [
         "cycleStoodDown"
       ],
