@@ -1,5 +1,5 @@
 {
-  "version": "1.67.0",
+  "version": "1.67.1",
   "nuggets": [
     {
       "id": "nug_170",
@@ -316,7 +316,7 @@
       "audience": "all",
       "icon": "photo.on.rectangle.angled",
       "title": "Track your progress in photos",
-      "body": "The scale only tells half the story. Open More → Progress Photos and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Your photos stay private on your device by default: never in any export, and never sent to the AI, unless you turn on the optional AI physique insight. If you switch on 'Sync progress photos to iCloud' they also back up to your own private iCloud - never to a Strathlon server.",
+      "body": "The scale only tells half the story. Open More → Progress Photos and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Your photos stay private on your device by default: never in any export, and never sent to the AI. If you switch on 'Sync progress photos to iCloud' they also back up to your own private iCloud - never to a Strathlon server.",
       "learnMoreURL": "https://strathlon.com/blog-tracking-progress",
       "stage": "usage-core"
     },
