@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "exercises": [
     {
       "name": "Seated Battle Rope / Band Slams",
@@ -50,7 +50,7 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": false,
-      "shoulderLoad": false,
+      "shoulderLoad": true,
       "tip": "Drive your elbows back — not your hands. Squeeze your shoulder blades together at the end of each rep. Fast tempo: snap back explosively, return under control. Keep your chest tall."
     },
     {
@@ -89,7 +89,7 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": true,
-      "shoulderLoad": false,
+      "shoulderLoad": true,
       "tip": "Drive sequence: legs → hips → arms. Push the footplate away explosively, lean back slightly, then draw the handle to your lower chest. Return arms → hips → legs. Aim for a low split time."
     },
     {
@@ -128,7 +128,7 @@
       "gripLoad": true,
       "spinalFlexion": false,
       "deepHipFlexion": false,
-      "shoulderLoad": false,
+      "shoulderLoad": true,
       "tip": "This is a HIP HINGE — not a squat. Hinge forward, drive hips forward explosively to swing the bell to shoulder height. Arms stay loose. Squeeze your glutes hard at the top. Control on the way back."
     },
     {
