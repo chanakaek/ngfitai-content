@@ -1,5 +1,5 @@
 {
-  "version": "1.16.1",
+  "version": "1.16.2",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -1166,12 +1166,14 @@
       },
       "injuryAdaptations": {
         "hamstring": {
-          "tip": "HAMSTRING ADAPTED: shorten the range so the hamstrings never reach a deep stretch; light load only. A seated leg curl is a safe alternative.",
-          "isAdapted": true
+          "tip": "HAMSTRING ADAPTED: swapped for a glute bridge — hip work that keeps the hamstring short rather than lengthened.",
+          "isAdapted": true,
+          "name": "Glute Bridge"
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: drop the load and shorten the range to a hip-hinge you can keep perfectly flat-backed; or substitute an upright goblet squat. Stop at the first sign of rounding.",
-          "isAdapted": true
+          "tip": "LOWER BACK ADAPTED: swapped for a glute bridge — full hip extension with the spine supported throughout.",
+          "isAdapted": true,
+          "name": "Glute Bridge"
         }
       }
     },
@@ -1440,12 +1442,14 @@
       },
       "injuryAdaptations": {
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: very light load, shallow hinge, ribs-down brace. If the lower back complains, switch to a machine leg press instead.",
-          "isAdapted": true
+          "tip": "LOWER BACK ADAPTED: swapped for a dead bug — trains the same brace with the spine flat and supported.",
+          "isAdapted": true,
+          "name": "Dead Bug"
         },
         "hamstring": {
-          "tip": "HAMSTRING ADAPTED: avoid the deep lengthened position; keep the hinge shallow and light, or use a quad-dominant leg press instead.",
-          "isAdapted": true
+          "tip": "HAMSTRING ADAPTED: swapped for a bodyweight hip thrust — hip extension without taking the hamstring into a deep stretch.",
+          "isAdapted": true,
+          "name": "Bodyweight Hip Thrust"
         }
       }
     },
@@ -1588,8 +1592,9 @@
       },
       "injuryAdaptations": {
         "hamstring": {
-          "tip": "HAMSTRING ADAPTED: do NOT perform the heavy Nordic eccentric on an injured hamstring — use band-assisted partial reps only, or substitute an unloaded glute bridge.",
-          "isAdapted": true
+          "tip": "HAMSTRING ADAPTED: swapped for a single-leg glute bridge — the hamstring works concentrically, with no loaded lengthening.",
+          "isAdapted": true,
+          "name": "Single-Leg Glute Bridge"
         }
       }
     },
@@ -3705,8 +3710,9 @@
       },
       "injuryAdaptations": {
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: do NOT perform ballistic swings with a back injury — substitute a slow cable pull-through or a dead-bug core hold instead.",
-          "isAdapted": true
+          "tip": "LOWER BACK ADAPTED: swapped for a glute bridge — full hip extension with the spine supported throughout.",
+          "isAdapted": true,
+          "name": "Glute Bridge"
         }
       }
     },
@@ -4219,8 +4225,9 @@
           "isAdapted": true
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: brace hard so the hips do not sag; regress to a flat push-up.",
-          "isAdapted": true
+          "tip": "LOWER BACK ADAPTED: swapped for a dead bug — trains the same brace with the spine flat and supported.",
+          "isAdapted": true,
+          "name": "Dead Bug"
         }
       }
     },
@@ -4271,8 +4278,9 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: reduce the range and keep the hips a little lower (more incline); stop before any overhead pinch. Regress to the wall pike.",
-          "isAdapted": true
+          "tip": "SHOULDER ADAPTED: swapped for a band chest press — keeps the pressing pattern and removes the overhead arc entirely.",
+          "isAdapted": true,
+          "name": "Band Chest Press"
         },
         "elbow": {
           "tip": "ELBOW ADAPTED: reduce depth and keep the elbows tracking back, not flaring.",
@@ -4299,16 +4307,18 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: skip the deep unilateral reach - do a standard or incline push-up to a pain-free depth instead.",
-          "isAdapted": true
+          "tip": "SHOULDER ADAPTED: swapped for a knee push-up — a shallow horizontal press, with no overhead or deep reach.",
+          "isAdapted": true,
+          "name": "Knee Push-Up"
         },
         "elbow": {
           "tip": "ELBOW ADAPTED: shorten the range and keep the straight arm softly bent, never locked.",
           "isAdapted": true
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: brace the abs and squeeze the glutes so the hips do not sag; regress to a wide push-up.",
-          "isAdapted": true
+          "tip": "LOWER BACK ADAPTED: swapped for a glute bridge — full hip extension with the spine supported throughout.",
+          "isAdapted": true,
+          "name": "Glute Bridge"
         }
       }
     },
@@ -4503,8 +4513,9 @@
       },
       "injuryAdaptations": {
         "knee": {
-          "tip": "KNEE ADAPTED: reduce the depth and keep the front knee tracking the toes; regress to a standing split squat.",
-          "isAdapted": true
+          "tip": "KNEE ADAPTED: swapped for a glute bridge — hip work with no loaded knee flexion.",
+          "isAdapted": true,
+          "name": "Glute Bridge"
         },
         "hip": {
           "tip": "HIP ADAPTED: lower the rear-foot elevation and control the range.",
@@ -4667,8 +4678,9 @@
           "isAdapted": true
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: brace the abs and squeeze the glutes; drop to knees if the back sags.",
-          "isAdapted": true
+          "tip": "LOWER BACK ADAPTED: swapped for a band chest press — keeps the pressing pattern without holding a plank the back can sag out of.",
+          "isAdapted": true,
+          "name": "Band Chest Press"
         }
       }
     },
@@ -4832,8 +4844,9 @@
           "isAdapted": true
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: brace the abs and squeeze the glutes so the hips do not sag; drop to knees if the back rounds.",
-          "isAdapted": true
+          "tip": "LOWER BACK ADAPTED: swapped for a bird dog — anti-rotation control with the spine held neutral.",
+          "isAdapted": true,
+          "name": "Bird Dog"
         }
       }
     },
@@ -4926,8 +4939,9 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: reduce the range and keep the hips a little lower (more incline); stop before any overhead pinch. Regress to the wall pike.",
-          "isAdapted": true
+          "tip": "SHOULDER ADAPTED: swapped for a band chest press — keeps the pressing pattern and removes the overhead arc entirely.",
+          "isAdapted": true,
+          "name": "Band Chest Press"
         },
         "elbow": {
           "tip": "ELBOW ADAPTED: reduce depth and keep the elbows tracking back, not flaring.",
@@ -5300,12 +5314,14 @@
       },
       "injuryAdaptations": {
         "hamstring": {
-          "tip": "HAMSTRING ADAPTED: avoid the loaded hinge/stretch — substitute a clamshell or glute bridge (hip work without hamstring lengthening).",
-          "isAdapted": true
+          "tip": "HAMSTRING ADAPTED: swapped for a glute bridge — hip work that keeps the hamstring short rather than lengthened.",
+          "isAdapted": true,
+          "name": "Glute Bridge"
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: drop the dumbbells and shorten the hinge, or substitute a single-leg glute bridge — keep the spine neutral throughout.",
-          "isAdapted": true
+          "tip": "LOWER BACK ADAPTED: swapped for a glute bridge — full hip extension with the spine supported throughout.",
+          "isAdapted": true,
+          "name": "Glute Bridge"
         }
       }
     },
@@ -5596,16 +5612,18 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: skip the deep unilateral reach — do a standard or incline push-up to a pain-free depth, or a floor press instead.",
-          "isAdapted": true
+          "tip": "SHOULDER ADAPTED: swapped for a knee push-up — a shallow horizontal press, with no overhead or deep reach.",
+          "isAdapted": true,
+          "name": "Knee Push-Up"
         },
         "elbow": {
           "tip": "ELBOW ADAPTED: shorten the range and keep the straight arm softly bent, never locked.",
           "isAdapted": true
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: brace the abs and squeeze the glutes so the hips do not sag; regress to a wide push-up.",
-          "isAdapted": true
+          "tip": "LOWER BACK ADAPTED: swapped for a dead bug — trains the same brace with the spine flat and supported.",
+          "isAdapted": true,
+          "name": "Dead Bug"
         }
       }
     },
@@ -5936,8 +5954,9 @@
           "isAdapted": true
         },
         "lowerBack": {
-          "tip": "LOWER-BACK FRIENDLY: perform chest-supported on an incline bench instead of hinging.",
-          "isAdapted": true
+          "tip": "LOWER BACK ADAPTED: swapped for a band pull-apart — the rear delts still do the work, standing tall, with no hinge to hold under load.",
+          "isAdapted": true,
+          "name": "Band Pull-Apart"
         }
       }
     },
@@ -6434,8 +6453,9 @@
           "isAdapted": true
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: brace the abs and squeeze the glutes so the hips do not sag; drop to knees if the back rounds.",
-          "isAdapted": true
+          "tip": "LOWER BACK ADAPTED: swapped for a dead bug — trains the same brace with the spine flat and supported.",
+          "isAdapted": true,
+          "name": "Dead Bug"
         }
       }
     },
@@ -6536,8 +6556,9 @@
           "isAdapted": true
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: brace hard so the hips do not sag; regress to a flat push-up.",
-          "isAdapted": true
+          "tip": "LOWER BACK ADAPTED: swapped for a bird dog — anti-rotation control with the spine held neutral.",
+          "isAdapted": true,
+          "name": "Bird Dog"
         }
       }
     },
@@ -7832,8 +7853,9 @@
       },
       "injuryAdaptations": {
         "knee": {
-          "tip": "KNEE ADAPTED: reduce the depth and keep the front knee tracking the toes; regress to a standing split squat.",
-          "isAdapted": true
+          "tip": "KNEE ADAPTED: swapped for a single-leg glute bridge — single-leg hip work with no loaded knee flexion.",
+          "isAdapted": true,
+          "name": "Single-Leg Glute Bridge"
         },
         "hip": {
           "tip": "HIP ADAPTED: lower the rear-foot elevation and control the range.",
@@ -8245,8 +8267,9 @@
       },
       "injuryAdaptations": {
         "shoulder": {
-          "tip": "SHOULDER ADAPTED: reduce the range and keep the hips a little lower (more incline); stop before any overhead pinch. Regress to the wall pike.",
-          "isAdapted": true
+          "tip": "SHOULDER ADAPTED: swapped for a knee push-up — a shallow horizontal press, with no overhead or deep reach.",
+          "isAdapted": true,
+          "name": "Knee Push-Up"
         },
         "elbow": {
           "tip": "ELBOW ADAPTED: reduce depth and keep the elbows tracking back, not flaring.",
@@ -8930,8 +8953,9 @@
       },
       "injuryAdaptations": {
         "elbow": {
-          "tip": "ELBOW ADAPTED: shallow depth, elbows pinned, light load — or do a standing band extension instead.",
-          "isAdapted": true
+          "tip": "ELBOW ADAPTED: swapped for a band chest press — keeps the triceps loaded with the elbows pinned and no deep position.",
+          "isAdapted": true,
+          "name": "Band Chest Press"
         },
         "shoulder": {
           "tip": "SHOULDER ADAPTED: keep the dip shallow and feet on the floor; a band pushdown avoids dip loading.",
@@ -9125,8 +9149,9 @@
       ],
       "injuryAdaptations": {
         "elbow": {
-          "tip": "ELBOW ADAPTED: light load, elbows fixed, stop short of full extension. A light band curl is a safe alternative.",
-          "isAdapted": true
+          "tip": "ELBOW ADAPTED: swapped for a band row — the biceps still work, through a pull rather than a loaded curl.",
+          "isAdapted": true,
+          "name": "Band Row"
         }
       }
     },
@@ -9322,8 +9347,9 @@
           "isAdapted": true
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: brace the abs and squeeze the glutes; drop to knees if the back sags.",
-          "isAdapted": true
+          "tip": "LOWER BACK ADAPTED: swapped for a knee push-up — a shorter lever, so the back cannot sag into extension.",
+          "isAdapted": true,
+          "name": "Knee Push-Up"
         }
       }
     },
@@ -9567,8 +9593,9 @@
       },
       "injuryAdaptations": {
         "elbow": {
-          "tip": "ELBOW ADAPTED: shallow depth, elbows pinned, light load — or do a band pressdown instead.",
-          "isAdapted": true
+          "tip": "ELBOW ADAPTED: swapped for a bodyweight tricep extension — the triceps work with the elbows pinned and no deep dip.",
+          "isAdapted": true,
+          "name": "Bodyweight Tricep Extension"
         },
         "shoulder": {
           "tip": "SHOULDER ADAPTED: feet on the floor and keep the dip shallow; stop before the shoulders complain.",
