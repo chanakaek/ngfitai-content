@@ -1,5 +1,5 @@
 {
-  "version": "1.67.1",
+  "version": "1.68.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -75,7 +75,7 @@
       "audience": "all",
       "icon": "icloud.fill",
       "title": "Your data, safe across your devices",
-      "body": "Turn on iCloud backup and your profile, Tracker totals, saved foods, meal plans and schedule sync privately across your devices. Your weigh-ins and lifting history need the separate 'Back up training data to iCloud' switch (on by default), and your health & safety details the separate 'Back up health & safety details' switch (off by default). Your dates, flow and symptoms never leave your phone.",
+      "body": "iCloud backup is on by default, so your profile, Tracker totals, saved foods, meal plans and schedule already sync privately across your devices — and you can turn it off any time. Your weigh-ins and lifting history need the separate 'Back up training data to iCloud' switch (on by default), and your health & safety details the separate 'Back up health & safety details' switch (off by default). Your dates, flow and symptoms never leave your phone.",
       "learnMoreURL": "https://strathlon.com/blog-icloud-sync",
       "stage": "usage-premium"
     },
@@ -296,7 +296,7 @@
       "audience": "all",
       "icon": "figure.arms.open",
       "title": "Sharper targets from your body composition",
-      "body": "If a smart scale or wearable logs your lean mass to Apple Health, turn on Body composition in More → Profile & Settings → Body composition. Strathlon then uses the Katch-McArdle formula for a more accurate calorie (BMR) and protein target — better for muscular or higher-body-fat builds. It reads only what it needs from your body-composition data. These stay on your device unless you turn on 'Share Health data with AI coaching', which includes your body composition so the coach can tailor its advice; leave that switch off and they are never sent to the AI.",
+      "body": "If a smart scale or wearable logs your lean mass to Apple Health, turn on Body composition in More → Profile & Settings → Body composition. Strathlon then uses the Katch-McArdle formula for a more accurate calorie (BMR) and protein target — better for muscular or higher-body-fat builds. It reads only what it needs from your body-composition data. Turn on 'Share my health data with the AI coach' and your body composition goes to the coach too, so it can tailor its advice.",
       "learnMoreURL": "https://strathlon.com/stats-protein#factors",
       "stage": "usage-core"
     },
@@ -424,7 +424,7 @@
       "audience": "all",
       "icon": "icloud.fill",
       "title": "Your tracker backs up to iCloud",
-      "body": "Strathlon quietly mirrors your profile, food logs, saved foods, meal plans, schedule and holiday breaks to your private iCloud so they survive a reinstall or a new phone — no account, no upload of your raw meals to us. On a fresh install a Welcome back screen offers to restore everything (or start fresh). Prefer to keep it local? Turn it off in More → Profile & Settings → App settings → Privacy & your data, where you can also export a full copy anytime.",
+      "body": "Strathlon quietly mirrors your profile, your daily Tracker totals, saved foods, meal plans, schedule and holiday breaks to your private iCloud, so they survive a reinstall or a new phone — no account needed. It carries each day's calories and macros rather than the individual food items, so a restore brings your numbers back, not the list of meals behind them. On a fresh install a Welcome back screen offers to restore everything (or start fresh). Prefer to keep it local? Turn it off in More → Profile & Settings → App settings → Privacy & your data, where you can also export a full copy anytime.",
       "learnMoreURL": "https://strathlon.com/blog-icloud-sync",
       "stage": "usage-premium"
     },
@@ -443,7 +443,7 @@
       "audience": "all",
       "icon": "heart.text.square.fill",
       "title": "Health & safety: tell us what keeps your plan safe",
-      "body": "There's a private Health & safety step in onboarding (and under More → Profile & Settings → Health & safety). Note any ongoing health conditions or medications, or — if it applies — that you're pregnant or breastfeeding. If you're pregnant or breastfeeding, Strathlon recommends pausing the programme and following your doctor or midwife: it won't set a weight-loss target or a pregnancy training or eating plan, and never puts you in a calorie deficit — but you can still log meals, weight and activity. These details stay on your device and aren't in the default iCloud backup, but they ARE shared with your AI coach so its advice is safe for you - see More > Profile & Settings > App settings > Privacy & your data > 'What your AI coach can see'. General information, not medical advice.",
+      "body": "There's a private Health & safety step in onboarding (and under More → Profile & Settings → Health & safety). Note any ongoing health conditions or medications, or — if it applies — that you're pregnant or breastfeeding. If you're pregnant or breastfeeding, Strathlon recommends pausing the programme and following your doctor or midwife: it won't set a weight-loss target or a pregnancy training or eating plan, and never puts you in a calorie deficit — but you can still log meals, weight and activity. These details live on your device and are shared with your AI coach on every message, so its advice is safe for you — a coach that doesn't know about a pregnancy or a heart medication can give advice that isn't. They are kept out of your iCloud backup unless you switch on 'Back up health & safety details'. See More > Profile & Settings > App settings > Privacy & your data > 'What your AI coach can see'. General information, not medical advice.",
       "stage": "usage-core"
     },
     {
@@ -518,7 +518,7 @@
       "audience": "all",
       "icon": "lock.shield.fill",
       "title": "You decide what the AI Coach sees",
-      "body": "Strathlon asks once — during setup, and any time in More → Profile & Settings → App settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's off by default: leave it off and those Apple Health MEASUREMENTS stay on your device and are never sent to the AI. Turn it on for sharper coaching, and switch it back off whenever you like. Note what this switch does NOT cover: the health & safety details you entered yourself - allergies, pregnancy or breastfeeding, conditions, medications and injuries - are always shared with your coach so its advice is safe for you. See Privacy & your data -> 'What your AI coach can see' for the full list.",
+      "body": "Strathlon asks once — during setup, and any time in More → Profile & Settings → App settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's one switch for everything your coach reads about you, so once it's on there's no second question and no confirmation box - it works wherever you ask, in the chat, on a Trends card, in a weekly review, or on the gap on your weight chart. It's off by default. Turn it on for sharper coaching, and switch it back off whenever you like. Two things it doesn't cover. The health & safety details you entered yourself - allergies, pregnancy or breastfeeding, conditions, medications and injuries - are always shared with your coach so its advice is safe for you. And your cycle has its own switch, in More -> Profile & Settings -> Cycle-aware insights. See Privacy & your data -> 'What your AI coach can see' for the full list.",
       "stage": "usage-core"
     },
     {
@@ -527,7 +527,7 @@
       "audience": "all",
       "icon": "chart.xyaxis.line",
       "title": "Why the scale doesn't always match the maths",
-      "body": "On the Tracker, your weight chart overlays the weight your logged calorie deficit predicts (dashed line) against your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask your coach to explain this gap': confirm a quick share prompt (your numbers are used only for that answer and aren't remembered) and it goes straight into the AI Coach, which explains it or asks you a question or two — no typing needed.",
+      "body": "On the Tracker, your weight chart overlays the weight your logged calorie deficit predicts (dashed line) against your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask your coach to explain this gap' and it goes straight into the AI Coach, which explains it or asks you a question or two — no typing needed. There's no separate share prompt: 'Share my health data with the AI coach' is the switch that decides what goes with it, and your numbers are used only for that answer and aren't remembered. With that switch off you still get an answer, built from what you logged yourself.",
       "learnMoreURL": "https://strathlon.com/stats-weight-trend#predicted-line",
       "stage": "usage-core"
     },
