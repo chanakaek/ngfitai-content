@@ -1,5 +1,5 @@
 {
-  "version": "1.68.1",
+  "version": "1.69.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -222,7 +222,7 @@
       "audience": "all",
       "icon": "party.popper.fill",
       "title": "Celebrations when you hit a milestone",
-      "body": "Log a weight and cross a real milestone — a quarter, half, a fresh kilo, a personal best or your goal — and Strathlon throws a brief confetti celebration. Positive-only: wrong-way moves stay silent. Toggle in Nudges & Tips.",
+      "body": "Cross a real milestone — a quarter, half, a fresh kilo, a new best bodyweight, your goal weight, or a full session at a heavier weight on one of your lifts — and Strathlon throws a brief confetti celebration. Positive-only: wrong-way moves stay silent. Toggle in Notifications & Tips.",
       "stage": "usage-core"
     },
     {
@@ -231,7 +231,7 @@
       "audience": "all",
       "icon": "bubble.left.and.bubble.right.fill",
       "title": "Your AI Coach knows your plan",
-      "body": "The AI Coach sees your goals, sport and today's targets. Ask it 'what should I eat before training?', 'build me a meal plan', or 'how's my progress?' — answers are tailored, not generic.",
+      "body": "The AI Coach sees your goals, sport and your targets for every day type, not just today's. Ask it 'what should I eat before training?', 'build me a meal plan', or 'how's my progress?' — answers are tailored, not generic.",
       "learnMoreURL": "https://strathlon.com/blog-ai-coach",
       "stage": "usage-premium"
     },
