@@ -1,5 +1,5 @@
 {
-  "version": "1.69.1",
+  "version": "1.70.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -7,7 +7,7 @@
       "audience": "all",
       "icon": "hand.wave.fill",
       "title": "New here? Start with your first week",
-      "body": "Take a two-minute tour of the eight tabs — Plan, Nutrition, AI Coach, Progress, Tracker, Photos, Profile & Settings and Roadmap — and see how your week fits together. The bar scrolls sideways, so swipe along it to reach the last few.",
+      "body": "Take a two-minute tour of the eight tabs — Plan, Nutrition, Tracker, AI Coach, Progress, Photos, Profile & Settings and Roadmap — and see how your week fits together. The bar scrolls sideways, so swipe along it to reach the last few.",
       "learnMoreURL": "https://strathlon.com/blog-getting-started",
       "stage": "usage-core"
     },
@@ -75,7 +75,7 @@
       "audience": "all",
       "icon": "icloud.fill",
       "title": "Your data, safe across your devices",
-      "body": "iCloud backup is on by default, so your profile, Tracker totals, saved foods, meal plans and schedule already sync privately across your devices — and you can turn it off any time. Your weigh-ins and lifting history need the separate 'Back up training data to iCloud' switch (on by default), and your health & safety details the separate 'Back up health & safety details' switch (off by default). Your dates, flow and symptoms never leave your phone.",
+      "body": "iCloud backup is on by default, so your profile, Tracker totals, saved foods, meal plans and schedule already sync privately across your devices — and you can turn it off any time. Your weigh-ins and lifting history need the separate 'Back up training data to iCloud' switch (on by default), and your health & safety details the separate 'Back up health & safety details' switch (off by default). Strathlon never receives your dates, flow or symptoms, and neither does the AI.",
       "learnMoreURL": "https://strathlon.com/blog-icloud-sync",
       "stage": "usage-premium"
     },
@@ -316,7 +316,7 @@
       "audience": "all",
       "icon": "photo.on.rectangle.angled",
       "title": "Track your progress in photos",
-      "body": "The scale only tells half the story. Open the Photos tab and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Your photos stay private on your device by default: never in any export, and never sent to the AI. If you switch on 'Sync progress photos to iCloud' they also back up to your own private iCloud - never to a Strathlon server.",
+      "body": "The scale only tells half the story. Open the Photos tab and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Strathlon keeps your photos on your phone: they are never in an export and never sent to the AI. Like every other app's data they are part of your phone's own encrypted Apple backup, which is yours. If you switch on 'Sync progress photos to iCloud' they also go to your own private iCloud - never to a Strathlon server.",
       "learnMoreURL": "https://strathlon.com/blog-tracking-progress",
       "stage": "usage-core"
     },
@@ -452,7 +452,7 @@
       "audience": "all",
       "icon": "checklist",
       "title": "A quick fitness-readiness check",
-      "body": "Onboarding includes a short, optional set of yes/no readiness questions — the kind a personal trainer asks before you start (heart conditions, chest pain, dizziness, and so on). If any answer stands out, Strathlon recommends getting medical clearance from your doctor before you begin or push harder. It's a readiness check, not medical advice. Your individual answers stay on your device; your coach is told only that something was flagged, so it can keep its advice conservative. You can retake it anytime in Profile & Settings → Health & safety.",
+      "body": "Onboarding includes a short, optional set of yes/no readiness questions — the kind a personal trainer asks before you start (heart conditions, chest pain, dizziness, and so on). If any answer stands out, Strathlon recommends getting medical clearance from your doctor before you begin or push harder. It's a readiness check, not medical advice. Strathlon never receives your individual answers and neither does your coach; it is told only that something was flagged, so it can keep its advice conservative. You can retake it anytime in Profile & Settings → Health & safety.",
       "stage": "usage-core"
     },
     {
@@ -518,7 +518,7 @@
       "audience": "all",
       "icon": "lock.shield.fill",
       "title": "You decide what the AI Coach sees",
-      "body": "Strathlon asks once — during setup, and any time in Profile & Settings → App settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's one switch for everything your coach reads about you, so once it's on there's no second question and no confirmation box - it works wherever you ask, in the chat, on a Trends card, in a weekly review, or on the gap on your weight chart. It's off by default. Turn it on for sharper coaching, and switch it back off whenever you like. Two things it doesn't cover. The health & safety details you entered yourself - allergies, pregnancy or breastfeeding, conditions, medications and injuries - are always shared with your coach so its advice is safe for you. And your cycle has its own switch, in Profile & Settings -> Cycle-aware insights. See Privacy & your data -> 'What your AI coach can see' for the full list.",
+      "body": "Strathlon asks once — during setup, and any time in Profile & Settings → App settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's one switch for every Apple Health figure your coach reads, so once it's on there's no second question and no confirmation box - it works wherever you ask, in the chat, on a Trends card, in a weekly review, or on the gap on your weight chart. It's off by default. Turn it on for sharper coaching, and switch it back off whenever you like. It is not a switch for everything your coach knows, and there is no such switch: your name, age and biological sex, your goals and targets, your plan and the food you log go with every message whatever this is set to, because a coach cannot coach without them. The health & safety details you entered yourself - allergies, pregnancy or breastfeeding, conditions, medications and injuries - are always shared too, so its advice is safe for you. And your cycle has its own switch, in Profile & Settings -> Cycle-aware insights. See Privacy & your data -> 'What your AI coach can see' for the full list.",
       "stage": "usage-core"
     },
     {
@@ -653,7 +653,7 @@
       "audience": "all",
       "icon": "icloud",
       "title": "Back up your progress photos privately",
-      "body": "You can optionally back up your progress photos to your own private iCloud, so they appear on your other devices and return if you reinstall or get a new phone. It is off by default — turn it on in Profile & Settings → App settings → Privacy & your data.",
+      "body": "You can optionally back up your progress photos to your own private iCloud, so they appear on your other devices as well as this one. A restore from your phone's own Apple backup already brings them back onto a replacement phone; this switch is what keeps them in step across devices. It is off by default — turn it on in Profile & Settings → App settings → Privacy & your data.",
       "stage": "usage-premium"
     },
     {
@@ -1884,7 +1884,7 @@
       "audience": "all",
       "icon": "heart.text.square",
       "title": "Tap your Readiness card to ask why",
-      "body": "The Readiness card at the top of the AI Coach tab is now tappable. Subscribers can tap it and the coach explains how the score was worked out from your sleep, resting heart rate and between-set recovery, and what to do about it today; if Health sharing is switched off it offers to turn that on first, and if you're not subscribed it opens your upgrade options instead. It's a general guide, not a medical measure.",
+      "body": "The Readiness card at the top of the Progress tab is now tappable. Subscribers can tap it and the coach explains how the score was worked out from your sleep, resting heart rate and between-set recovery, and what to do about it today; if Health sharing is switched off it offers to turn that on first, and if you're not subscribed it opens your upgrade options instead. It's a general guide, not a medical measure.",
       "stage": "usage-core"
     },
     {

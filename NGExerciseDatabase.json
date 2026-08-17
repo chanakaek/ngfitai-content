@@ -1,5 +1,5 @@
 {
-  "version": "1.16.2",
+  "version": "1.17.0",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -4816,14 +4816,14 @@
           "sets": "4",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "Full depth. Straight to A1.",
+          "tip": "Body in one line, chest to fist height. Straight to A2.",
           "group": "A1"
         },
         "3": {
           "sets": "4",
           "reps": "10",
           "tempo": "3-0-1",
-          "tip": "Controlled 3-second descent. Straight to A1.",
+          "tip": "Body in one line, 3s descent, chest to fist height. Straight to A2.",
           "group": "A1"
         },
         "maintenance": {
@@ -4897,7 +4897,10 @@
           "tip": "ELBOW ADAPTED: neutral grip, hinge at the elbow, stop before pain.",
           "isAdapted": true
         }
-      }
+      },
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ]
     },
     {
       "id": "pike-push-up",
@@ -4919,14 +4922,14 @@
           "sets": "4",
           "reps": "10",
           "tempo": "3-0-1",
-          "tip": "Hips high. Head to floor. Straight to A2.",
-          "group": ""
+          "tip": "Hips high, crown toward the floor. Straight to C2.",
+          "group": "C1"
         },
         "3": {
           "sets": "4",
           "reps": "8",
           "tempo": "3-0-1",
-          "tip": "Hips high. Slow descent. Straight to A2.",
+          "tip": "Hips high, crown toward the floor. Straight to A3.",
           "group": "A2"
         },
         "maintenance": {
@@ -4993,7 +4996,10 @@
           "tip": "SHOULDER ADAPTED: no overhead pressing — lead with the elbow to shoulder height only.",
           "isAdapted": true
         }
-      }
+      },
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ]
     },
     {
       "id": "diamond-push-up",
@@ -5136,7 +5142,10 @@
           "tip": "LOWER BACK ADAPTED: brace one hand on a bench so the torso is fully supported; keep the spine neutral, light load.",
           "isAdapted": true
         }
-      }
+      },
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ]
     },
     {
       "id": "rear-delt-fly-home",
@@ -5181,7 +5190,10 @@
           "tip": "SHOULDER ADAPTED: lighter dumbbells and raise to ear height ONLY — no higher, to prevent impingement.",
           "isAdapted": true
         }
-      }
+      },
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ]
     },
     {
       "id": "db-curl-home",
@@ -5204,7 +5216,7 @@
           "reps": "12",
           "tempo": "3-0-1",
           "tip": "Full extension. Elbows fixed. Straight to C1.",
-          "group": "C1"
+          "group": ""
         },
         "3": {
           "sets": "4",
@@ -5227,7 +5239,10 @@
           "tip": "ELBOW ADAPTED: neutral grip throughout.",
           "isAdapted": true
         }
-      }
+      },
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ]
     },
     {
       "id": "band-pull-apart-home",
@@ -5250,7 +5265,7 @@
           "reps": "20",
           "tempo": "2-1-1",
           "tip": "Arms straight. Shoulder blade squeeze. Straight to C2.",
-          "group": "C2"
+          "group": ""
         },
         "3": {
           "sets": "3",
@@ -5272,7 +5287,10 @@
           "tip": "SHOULDER ADAPTED: lighter band, reduce the external-rotation range if painful, focus on scapular retraction.",
           "isAdapted": true
         }
-      }
+      },
+      "equipment": [
+        "Resistance Bands"
+      ]
     },
     {
       "id": "db-romanian-deadlift-home",
@@ -5323,7 +5341,10 @@
           "isAdapted": true,
           "name": "Glute Bridge"
         }
-      }
+      },
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ]
     },
     {
       "id": "bodyweight-hip-thrust-home",
@@ -5345,14 +5366,14 @@
           "sets": "4",
           "reps": "15",
           "tempo": "2-1-1",
-          "tip": "Full extension. Straight to A2.",
+          "tip": "Shoulders on the sofa edge. Full hip extension, 2s squeeze. Rest 45s after B2.",
           "group": "B2"
         },
         "3": {
           "sets": "4",
           "reps": "12",
           "tempo": "2-2-1",
-          "tip": "Full extension. 2s hold. Straight to A2.",
+          "tip": "Shoulders on the sofa edge, ribs down. Full extension, 2s hold. Straight to B3.",
           "group": "B2"
         },
         "maintenance": {
@@ -5392,14 +5413,14 @@
           "reps": "12",
           "tempo": "3-0-1",
           "tip": "Upright torso. Depth to parallel. Straight to B1.",
-          "group": "B1"
+          "group": ""
         },
         "3": {
           "sets": "4",
           "reps": "10",
           "tempo": "3-1-1",
           "tip": "Pause 1s at depth. Upright torso. Straight to B1.",
-          "group": "B1"
+          "group": ""
         },
         "maintenance": {
           "sets": "4",
@@ -5422,7 +5443,10 @@
           "tip": "LOWER BACK ADAPTED: keep the chest up and the core braced; lighten the load.",
           "isAdapted": true
         }
-      }
+      },
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ]
     },
     {
       "id": "reverse-lunge-home",
@@ -5444,15 +5468,15 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Step back. Front heel drive. Straight to C2.",
-          "group": ""
+          "tip": "Step straight back, front shin vertical. Straight to B2.",
+          "group": "B1"
         },
         "3": {
           "sets": "4",
           "reps": "8",
           "tempo": "3-0-1",
-          "tip": "Step back. Full depth. Straight to C2.",
-          "group": "B3"
+          "tip": "Step straight back, front shin vertical. Drive through the front heel. Straight to B2.",
+          "group": "B1"
         },
         "maintenance": {
           "sets": "4",
@@ -5498,11 +5522,11 @@
           "group": ""
         },
         "3": {
-          "sets": "3",
-          "reps": "20",
-          "tempo": "2-0-2",
-          "tip": "Glute medius. Slow. Straight to B2.",
-          "group": ""
+          "sets": "4",
+          "reps": "15",
+          "tempo": "2-1-2",
+          "tip": "Feet together, hips stacked. Open the top knee slowly, 1s hold. 15 per side. Rest 45s after B3.",
+          "group": "B3"
         },
         "maintenance": {
           "sets": "3",
@@ -5541,10 +5565,10 @@
         },
         "2": {
           "sets": "4",
-          "reps": "12",
+          "reps": "10",
           "tempo": "2-1-1",
-          "tip": "Drive hips up. 1s hold. Straight to B2.",
-          "group": ""
+          "tip": "One foot planted, ribs down. 2s squeeze. 10 per side. Rest 45s after C2.",
+          "group": "C2"
         },
         "3": {
           "sets": "4",
@@ -5647,14 +5671,14 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-1-1",
-          "tip": "Pull chest to table. Hold 1s. Straight to A2.",
+          "tip": "Chest to the table edge, 1s squeeze. Rest 45s after A2.",
           "group": "A2"
         },
         "3": {
           "sets": "4",
           "reps": "10",
           "tempo": "2-1-1",
-          "tip": "Pull to table. Hold. Straight to A2.",
+          "tip": "Chest to the table edge, 1s squeeze. Rest 45s after A3.",
           "group": "A3"
         },
         "maintenance": {
@@ -7587,7 +7611,7 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
+          "tip": "Sit between the heels to parallel. Chest up, knees track the toes. Straight to A2.",
           "group": "A1"
         },
         "maintenance": {
@@ -7640,7 +7664,7 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
+          "tip": "Step straight back, front shin vertical. Drive through the front heel. Straight to A3.",
           "group": "A2"
         },
         "maintenance": {
@@ -7693,7 +7717,7 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
+          "tip": "Back knee to a fist off the floor, 1s pause. 10 per side. Rest 45s after A3.",
           "group": "A3"
         },
         "maintenance": {
@@ -7742,7 +7766,7 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
+          "tip": "Ribs down, drive through the heels to full hip extension. 2s squeeze. Straight to B2.",
           "group": "B1"
         },
         "maintenance": {
@@ -7795,7 +7819,7 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
+          "tip": "Full stretch at the bottom, full contraction at the top. No bouncing. Straight to B3.",
           "group": "B2"
         },
         "maintenance": {
@@ -7840,7 +7864,7 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
+          "tip": "Rear foot elevated, torso slightly forward. Slow down, 10 per side. Rest 45s after B3.",
           "group": "B3"
         },
         "maintenance": {
@@ -7996,8 +8020,8 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
-          "group": ""
+          "tip": "Push the hips back, dumbbells close to the legs. Stretch, don't round. Straight to C3.",
+          "group": "C2"
         },
         "maintenance": {
           "sets": "3",
@@ -8034,7 +8058,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "",
+          "tip": "Knee-height step. Drive through the front heel, lower under control. 10 per side.",
           "group": ""
         },
         "2": {
@@ -8048,8 +8072,8 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
-          "group": ""
+          "tip": "Knee-height step. Drive through the whole front foot, no push off the back leg. 10 per side. Rest 45s after C3.",
+          "group": "C3"
         },
         "maintenance": {
           "sets": "3",
@@ -8090,7 +8114,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "",
+          "tip": "Dumbbells resting on the knees. Full stretch at the bottom, hold the top for a second.",
           "group": ""
         },
         "2": {
@@ -8104,8 +8128,8 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
-          "group": ""
+          "tip": "Dumbbells on the knees. Full stretch, 1s squeeze at the top. Rest 45s after D3.",
+          "group": "D3"
         },
         "maintenance": {
           "sets": "3",
@@ -8132,7 +8156,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "",
+          "tip": "Band above the knees. Push the knees out against it the whole way down and up.",
           "group": ""
         },
         "2": {
@@ -8184,7 +8208,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "",
+          "tip": "Band above the knees, half-squat. Step wide, keep the tension — no bouncing.",
           "group": ""
         },
         "2": {
@@ -9326,7 +9350,7 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
+          "tip": "Body in one line from ear to ankle. Chest to fist height. Straight to A2.",
           "group": "A1"
         },
         "maintenance": {
@@ -9380,7 +9404,7 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
+          "tip": "Hips high, head between the hands. Crown toward the floor. Straight to A3.",
           "group": "A2"
         },
         "maintenance": {
@@ -9429,7 +9453,7 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
+          "tip": "Chest to the table edge, 1s squeeze. Heels down, body rigid. Rest 45s after A3.",
           "group": "A3"
         },
         "maintenance": {
@@ -9482,7 +9506,7 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
+          "tip": "Lift chest and thighs together, 2s hold. Look at the floor. Straight to B2.",
           "group": "B1"
         },
         "maintenance": {
@@ -9531,7 +9555,7 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
+          "tip": "Hands under the sternum, elbows brush the ribs. Straight to B3.",
           "group": "B2"
         },
         "maintenance": {
@@ -9580,7 +9604,7 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
+          "tip": "Elbows straight back, shoulders down. Stop at 90°. Rest 45s after B3.",
           "group": "B3"
         },
         "maintenance": {
@@ -9616,7 +9640,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "",
+          "tip": "Lower until the upper arms touch the floor, pause, press. Elbows 45°.",
           "group": ""
         },
         "2": {
@@ -9630,8 +9654,8 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
-          "group": ""
+          "tip": "Upper arms rest on the floor 1s, then press. Elbows 45°. Straight to C2.",
+          "group": "C1"
         },
         "maintenance": {
           "sets": "3",
@@ -9668,7 +9692,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "",
+          "tip": "Hinge to 45° with a flat back. Pull to the hip. Control the lowering.",
           "group": ""
         },
         "2": {
@@ -9682,8 +9706,8 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
-          "group": ""
+          "tip": "Hinge to 45°, flat back. Pull to the hip, not the ribs. Straight to C3.",
+          "group": "C2"
         },
         "maintenance": {
           "sets": "3",
@@ -9716,7 +9740,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "",
+          "tip": "Pull to chest height only, elbows above the wrists. Stop before any pinch.",
           "group": ""
         },
         "2": {
@@ -9765,7 +9789,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "",
+          "tip": "Lead with the elbows to shoulder height. Light weight, strict form.",
           "group": ""
         },
         "2": {
@@ -9779,8 +9803,8 @@
           "sets": "4",
           "reps": "10",
           "tempo": "2-0-1",
-          "tip": "Straight to next.",
-          "group": ""
+          "tip": "Lead with the elbows to shoulder height. No swing. Rest 45s after C3.",
+          "group": "C3"
         },
         "maintenance": {
           "sets": "3",
@@ -9813,7 +9837,7 @@
           "sets": "3",
           "reps": "12",
           "tempo": "2-0-1",
-          "tip": "",
+          "tip": "Arms straight, pull to the chest, squeeze the rear delts 1s.",
           "group": ""
         },
         "2": {
@@ -10695,6 +10719,230 @@
       "injuryAdaptations": {
         "knee": {
           "tip": "KNEE ADAPTED: shorten the stride, reduce depth, or switch to a static split squat; lighter load.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "upper-db-shoulder-press-home",
+      "name": "Dumbbell Shoulder Press",
+      "category": "upper",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+shoulder+press+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "3-0-1",
+          "tip": "Seated or standing tall. Press without leaning back. Full lockout.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-0-1",
+          "tip": "Ribs down, glutes tight. Press straight overhead. Straight to D2.",
+          "group": "D1"
+        }
+      },
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: neutral (palms-facing) grip, press only to a pain-free height. Lighter dumbbells.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "upper-rear-delt-fly-home",
+      "name": "Rear Delt Dumbbell Fly",
+      "category": "upper",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=rear+delt+dumbbell+fly+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "15",
+          "tempo": "2-1-2",
+          "tip": "Hinge forward, arms hanging. Sweep out to the sides, thumbs down.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "12",
+          "tempo": "2-1-2",
+          "tip": "Hinge to 45°. Sweep wide, 1s squeeze at the top. Straight to D3.",
+          "group": "D2"
+        }
+      },
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
+      "injuryAdaptations": {
+        "shoulder": {
+          "tip": "SHOULDER ADAPTED: stay below shoulder height and keep the range short and pain-free.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "upper-db-curl-home",
+      "name": "Dumbbell Curl",
+      "category": "upper",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+curl+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "3-0-1",
+          "tip": "Elbows pinned to the ribs. Full extension at the bottom.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "3-0-1",
+          "tip": "Elbows fixed, no swing. 3s lower. Rest 45s after D3.",
+          "group": "D3"
+        }
+      },
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
+      "injuryAdaptations": {
+        "elbow": {
+          "tip": "ELBOW ADAPTED: neutral (hammer) grip, lighter load, stop short of full extension if it pinches.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "legs-goblet-squat-home",
+      "name": "Dumbbell Goblet Squat",
+      "category": "legs",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=goblet+squat+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "3-0-1",
+          "tip": "Dumbbell at the chest. Upright torso, elbows inside the knees, depth to parallel.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "3-1-1",
+          "tip": "Pause 1s at depth. Elbows inside the knees, chest tall. Straight to C2.",
+          "group": "C1"
+        }
+      },
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
+      "injuryAdaptations": {
+        "knee": {
+          "tip": "KNEE ADAPTED: heels raised on a book or plate and depth reduced — stop before discomfort.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: narrow the stance and control the depth.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: chest up, core braced, lighter dumbbell.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "legs-db-hip-thrust-home",
+      "name": "Dumbbell Hip Thrust",
+      "category": "legs",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=dumbbell+hip+thrust+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "12",
+          "tempo": "2-1-1",
+          "tip": "Shoulders on a sofa edge, dumbbell across the hips. Drive to full extension.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "10",
+          "tempo": "2-2-1",
+          "tip": "Dumbbell across the hips, chin tucked. 2s squeeze at the top. Straight to D2.",
+          "group": "D1"
+        }
+      },
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
+      "injuryAdaptations": {
+        "hip": {
+          "tip": "HIP ADAPTED: bodyweight only — no load across the hips. Engage the pelvic floor before each rep.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: ribs down, stop at a neutral hip line — do not arch to finish the rep.",
+          "isAdapted": true
+        }
+      }
+    },
+    {
+      "id": "legs-db-single-leg-rdl-home",
+      "name": "Dumbbell Single-Leg Romanian Deadlift",
+      "category": "legs",
+      "environment": [
+        "home"
+      ],
+      "videoURL": "https://www.youtube.com/results?search_query=single+leg+romanian+deadlift+dumbbell+form",
+      "phases": {
+        "1": {
+          "sets": "3",
+          "reps": "10",
+          "tempo": "3-0-1",
+          "tip": "One dumbbell, opposite hand. Hips square, free leg extends behind. 10 per side.",
+          "group": ""
+        },
+        "3": {
+          "sets": "4",
+          "reps": "8",
+          "tempo": "3-1-1",
+          "tip": "Hips square, back flat. Feel the standing hamstring. 8 per side. Straight to D3.",
+          "group": "D2"
+        }
+      },
+      "equipment": [
+        "Dumbbells / Free Weights"
+      ],
+      "injuryAdaptations": {
+        "hamstring": {
+          "tip": "HAMSTRING ADAPTED: shorten the range and lighten the dumbbell — stretch, never strain.",
+          "isAdapted": true
+        },
+        "hip": {
+          "tip": "HIP ADAPTED: hold a wall for balance and keep the range short.",
+          "isAdapted": true
+        },
+        "lowerBack": {
+          "tip": "LOWER BACK ADAPTED: keep a flat back and a short range; lighten the load.",
           "isAdapted": true
         }
       }
