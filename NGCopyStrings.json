@@ -1,14 +1,14 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "injuryGuidance": {
     "Knee": "Knee: partial ROM only, no deep flexion, no plyometrics",
     "Shoulder": "Shoulder: reduce overhead pressing volume, prioritise rotator cuff pre-hab",
     "Rotator Cuff": "Rotator Cuff: no behind-neck movements, face pulls mandatory, lighter overhead",
-    "Lower Back": "Lower Back: no barbell squats/deadlifts — cable pull-throughs substituted",
-    "Hip / Pelvic Floor": "Hip: avoid heavy loaded hip flexion, hip hinge adaptations applied",
+    "Lower Back": "Lower Back: no barbell squats/deadlifts — prefer cable pull-throughs",
+    "Hip / Pelvic Floor": "Hip: avoid heavy loaded hip flexion, keep the hip hinge shallow and light",
     "Elbow": "Elbow: neutral grip prioritised, reduced bicep/tricep isolation volume",
-    "Hamstring": "Hamstring: no sprints, RDLs replaced with leg curls, eccentric loading only",
-    "Ankle / Plantar Fasciitis": "Ankle/PF: no calf-loading, standing replaced with seated where possible"
+    "Hamstring": "Hamstring: no sprints, prefer leg curls over RDLs, eccentric loading only",
+    "Ankle / Plantar Fasciitis": "Ankle/PF: no calf-loading, prefer seated over standing where possible"
   },
   "lowCarbSubs": {
     "Konjac / Shirataki": {
