@@ -1,5 +1,5 @@
 {
-  "version": "1.70.0",
+  "version": "1.71.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -443,7 +443,7 @@
       "audience": "all",
       "icon": "heart.text.square.fill",
       "title": "Health & safety: tell us what keeps your plan safe",
-      "body": "There's a private Health & safety step in onboarding (and under Settings → Health & safety). Note any ongoing health conditions or medications, or — if it applies — that you're pregnant or breastfeeding. If you're pregnant or breastfeeding, Strathlon recommends pausing the programme and following your doctor or midwife: it won't set a weight-loss target or a pregnancy training or eating plan, and never puts you in a calorie deficit — but you can still log meals, weight and activity. These details live on your device and are shared with your AI coach on every message, so its advice is safe for you — a coach that doesn't know about a pregnancy or a heart medication can give advice that isn't. They are kept out of your iCloud backup unless you switch on 'Back up health & safety details'. See Settings > App settings > Privacy & your data > 'What your AI coach can see'. General information, not medical advice.",
+      "body": "There's a private Health & safety step in onboarding (and under Settings → Health & safety). Note any ongoing health conditions or medications, or — if it applies — that you're pregnant or breastfeeding. If you're pregnant or breastfeeding, Strathlon stops setting your sessions: your Plan tab shows the UK Chief Medical Officers' and NHS activity guidance for that period instead, with the source named against every line. For eating guidance, your midwife, GP or health visitor comes first — so Strathlon shows no calorie target for that period. Your meals, weight and activity all keep logging as normal, and your eaten vs burned figures still show as your own data. These details live on your device and are shared with your AI coach on every message, so its advice is safe for you — a coach that doesn't know about a pregnancy or a heart medication can give advice that isn't. They are kept out of your iCloud backup unless you switch on 'Back up health & safety details'. See Settings > App settings > Privacy & your data > 'What your AI coach can see'. General information, not medical advice.",
       "stage": "usage-core"
     },
     {

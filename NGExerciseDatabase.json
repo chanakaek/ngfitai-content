@@ -1,5 +1,5 @@
 {
-  "version": "1.23.0",
+  "version": "1.23.1",
   "exercises": [
     {
       "id": "incline-db-press",
@@ -4844,9 +4844,9 @@
           "isAdapted": true
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: swapped for a bird dog — anti-rotation control with the spine held neutral.",
+          "tip": "LOWER BACK ADAPTED: swapped for a glute bridge march — hip and trunk control with the spine held neutral and the arms on the floor.",
           "isAdapted": true,
-          "name": "Bird Dog"
+          "name": "Glute Bridge March"
         }
       }
     },
@@ -6580,9 +6580,9 @@
           "isAdapted": true
         },
         "lowerBack": {
-          "tip": "LOWER BACK ADAPTED: swapped for a bird dog — anti-rotation control with the spine held neutral.",
+          "tip": "LOWER BACK ADAPTED: swapped for a glute bridge march — hip and trunk control with the spine held neutral and the arms on the floor.",
           "isAdapted": true,
-          "name": "Bird Dog"
+          "name": "Glute Bridge March"
         }
       }
     },
