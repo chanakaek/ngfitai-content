@@ -1,5 +1,5 @@
 {
-  "version": "1.71.0",
+  "version": "1.72.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -163,7 +163,7 @@
       "audience": "all",
       "icon": "heart.text.square.fill",
       "title": "Import your stats from Apple Health",
-      "body": "In setup tap 'Import from Apple Health' to pull weight, height, resting HR, VO2 max and body-fat in one go.",
+      "body": "In setup tap 'Autofill from Apple Health' to pull weight, height, resting HR, VO2 max and body-fat in one go.",
       "learnMoreURL": "https://strathlon.com/blog-getting-started",
       "stage": "usage-core"
     },
@@ -527,7 +527,7 @@
       "audience": "all",
       "icon": "chart.xyaxis.line",
       "title": "Why the scale doesn't always match the maths",
-      "body": "On the Tracker, your weight chart overlays the weight your logged calorie deficit predicts (dashed line) against your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask your coach to explain this gap' and it goes straight into the AI Coach, which explains it or asks you a question or two — no typing needed. If 'Share my health data with the AI coach' is off, the first tap offers to turn it on - once. After that the switch alone decides what travels with your question, and your numbers are used only for that answer and aren't remembered. With that switch off you still get an answer, built from what you logged yourself.",
+      "body": "On the Progress tab's Body weight screen, your weight chart overlays the weight your logged calorie deficit predicts (dashed line) against your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask the coach about this' and the answer appears right there on the screen — it explains the gap, or asks you a question or two first, with no typing needed. If 'Share my health data with the AI coach' is off, the first tap offers to turn it on - once. After that the switch alone decides what travels with your question, and your numbers are used only for that answer and aren't remembered. With that switch off you still get an answer, built from what you logged yourself.",
       "learnMoreURL": "https://strathlon.com/stats-weight-trend#predicted-line",
       "stage": "usage-core"
     },
