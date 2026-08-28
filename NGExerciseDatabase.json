@@ -1,9 +1,10 @@
 {
- "version": "1.28.0",
+ "version": "1.29.0",
  "exercises": [
   {
    "id": "incline-db-press",
    "name": "Incline Dumbbell Press",
+   "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+press+form",
    "category": "push",
    "environment": [
     "gym"
@@ -52,6 +53,7 @@
   {
    "id": "machine-chest-press",
    "name": "Machine Chest Press",
+   "videoURL": "https://www.youtube.com/results?search_query=machine+chest+press+form",
    "category": "push",
    "environment": [
     "gym"
@@ -90,6 +92,7 @@
   {
    "id": "dumbbell-shoulder-press",
    "name": "Dumbbell Shoulder Press",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+shoulder+press+form",
    "category": "push",
    "environment": [
     "gym"
@@ -135,6 +138,7 @@
   {
    "id": "cable-lateral-raise",
    "name": "Cable Lateral Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+lateral+raise+form",
    "category": "push",
    "environment": [
     "gym"
@@ -173,6 +177,7 @@
   {
    "id": "tricep-rope-pushdown",
    "name": "Tricep Rope Pushdown",
+   "videoURL": "https://www.youtube.com/results?search_query=tricep+rope+pushdown+form",
    "category": "push",
    "environment": [
     "gym"
@@ -217,6 +222,7 @@
   {
    "id": "overhead-tricep-extension",
    "name": "Overhead Tricep Extension",
+   "videoURL": "https://www.youtube.com/results?search_query=overhead+tricep+extension+form",
    "category": "push",
    "environment": [
     "gym"
@@ -267,6 +273,7 @@
   {
    "id": "chest-flye-machine",
    "name": "Chest Flye Machine",
+   "videoURL": "https://www.youtube.com/results?search_query=chest+flye+machine+form",
    "category": "push",
    "environment": [
     "gym"
@@ -311,6 +318,7 @@
   {
    "id": "bench-dip",
    "name": "Bench Dip",
+   "videoURL": "https://www.youtube.com/results?search_query=bench+dip+form",
    "category": "push",
    "environment": [
     "gym"
@@ -360,6 +368,7 @@
   {
    "id": "band-pull-apart",
    "name": "Band Pull-Apart",
+   "videoURL": "https://www.youtube.com/results?search_query=band+pull+apart+form",
    "category": "push",
    "environment": [
     "gym"
@@ -404,6 +413,7 @@
   {
    "id": "cable-face-pull-push",
    "name": "Cable Face Pull",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+face+pull+form",
    "category": "push",
    "environment": [
     "gym"
@@ -442,6 +452,7 @@
   {
    "id": "weighted-dip",
    "name": "Weighted Dip",
+   "videoURL": "https://www.youtube.com/results?search_query=weighted+dip+form",
    "category": "push",
    "environment": [
     "gym"
@@ -490,6 +501,7 @@
   {
    "id": "landmine-press",
    "name": "Landmine Press",
+   "videoURL": "https://www.youtube.com/results?search_query=landmine+press+form",
    "category": "push",
    "environment": [
     "gym"
@@ -546,6 +558,7 @@
   {
    "id": "cable-crossover",
    "name": "Cable Crossover",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+crossover+form",
    "category": "push",
    "environment": [
     "gym"
@@ -590,6 +603,7 @@
   {
    "id": "lat-pulldown",
    "name": "Lat Pulldown (Wide Grip)",
+   "videoURL": "https://www.youtube.com/results?search_query=lat+pulldown+wide+grip+form",
    "category": "pull",
    "environment": [
     "gym"
@@ -634,6 +648,7 @@
   {
    "id": "seated-cable-row",
    "name": "Seated Cable Row",
+   "videoURL": "https://www.youtube.com/results?search_query=seated+cable+row+form",
    "category": "pull",
    "environment": [
     "gym"
@@ -678,6 +693,7 @@
   {
    "id": "db-single-arm-row",
    "name": "Dumbbell Single-Arm Row",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+single+arm+row+form",
    "category": "pull",
    "environment": [
     "gym"
@@ -722,6 +738,7 @@
   {
    "id": "cable-face-pull-pull",
    "name": "Cable Face Pull",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+face+pull+form",
    "category": "pull",
    "environment": [
     "gym"
@@ -760,6 +777,7 @@
   {
    "id": "ez-bar-curl",
    "name": "EZ Bar Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=ez+bar+curl+form",
    "category": "pull",
    "environment": [
     "gym"
@@ -804,6 +822,7 @@
   {
    "id": "hammer-curl",
    "name": "Hammer Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=hammer+curl+form",
    "category": "pull",
    "environment": [
     "gym"
@@ -842,6 +861,7 @@
   {
    "id": "incline-db-curl",
    "name": "Incline Dumbbell Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+curl+form",
    "category": "pull",
    "environment": [
     "gym"
@@ -886,6 +906,7 @@
   {
    "id": "barbell-row",
    "name": "Barbell Row",
+   "videoURL": "https://www.youtube.com/results?search_query=barbell+row+form",
    "category": "pull",
    "environment": [
     "gym"
@@ -930,6 +951,7 @@
   {
    "id": "weighted-pull-up",
    "name": "Weighted Pull-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=weighted+pull+up+form",
    "category": "pull",
    "environment": [
     "gym"
@@ -975,6 +997,7 @@
   {
    "id": "straight-arm-pulldown",
    "name": "Straight-Arm Pulldown",
+   "videoURL": "https://www.youtube.com/results?search_query=straight+arm+pulldown+form",
    "category": "pull",
    "environment": [
     "gym"
@@ -1013,6 +1036,7 @@
   {
    "id": "reverse-pec-deck",
    "name": "Reverse Pec Deck",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+pec+deck+form",
    "category": "pull",
    "environment": [
     "gym"
@@ -1051,6 +1075,7 @@
   {
    "id": "barbell-back-squat",
    "name": "Barbell Back Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=barbell+back+squat+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1104,6 +1129,7 @@
   {
    "id": "romanian-deadlift",
    "name": "Romanian Deadlift",
+   "videoURL": "https://www.youtube.com/results?search_query=romanian+deadlift+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1154,6 +1180,7 @@
   {
    "id": "barbell-hip-thrust",
    "name": "Barbell Hip Thrust",
+   "videoURL": "https://www.youtube.com/results?search_query=barbell+hip+thrust+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1195,6 +1222,7 @@
   {
    "id": "leg-press",
    "name": "Leg Press",
+   "videoURL": "https://www.youtube.com/results?search_query=leg+press+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1247,6 +1275,7 @@
   {
    "id": "seated-leg-curl",
    "name": "Seated Leg Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=seated+leg+curl+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1285,6 +1314,7 @@
   {
    "id": "cable-pull-through",
    "name": "Cable Pull-Through",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+pull+through+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1323,6 +1353,7 @@
   {
    "id": "hip-abduction-machine",
    "name": "Hip Abduction Machine",
+   "videoURL": "https://www.youtube.com/results?search_query=hip+abduction+machine+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1371,6 +1402,7 @@
   {
    "id": "good-morning",
    "name": "Good Morning",
+   "videoURL": "https://www.youtube.com/results?search_query=good+morning+exercise+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1421,6 +1453,7 @@
   {
    "id": "reverse-lunge",
    "name": "Reverse Lunge",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+lunge+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1473,6 +1506,7 @@
   {
    "id": "standing-calf-raise",
    "name": "Standing Calf Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=standing+calf+raise+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1514,6 +1548,7 @@
   {
    "id": "nordic-hamstring-curl",
    "name": "Nordic Hamstring Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=nordic+hamstring+curl+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1559,6 +1594,7 @@
   {
    "id": "floor-glute-bridge-unloaded",
    "name": "Floor Glute Bridge (Unloaded)",
+   "videoURL": "https://www.youtube.com/results?search_query=floor+glute+bridge+bodyweight+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1611,6 +1647,7 @@
   {
    "id": "goblet-squat",
    "name": "Goblet Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=goblet+squat+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1663,6 +1700,7 @@
   {
    "id": "leg-press-partial-rom",
    "name": "Leg Press (Partial ROM)",
+   "videoURL": "https://www.youtube.com/results?search_query=leg+press+partial+range+knee+friendly+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1711,6 +1749,7 @@
   {
    "id": "seated-db-calf-press",
    "name": "Seated Dumbbell Calf Press",
+   "videoURL": "https://www.youtube.com/results?search_query=seated+dumbbell+calf+raise+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1750,6 +1789,7 @@
   {
    "id": "seated-leg-curl-light",
    "name": "Seated Leg Curl (Light)",
+   "videoURL": "https://www.youtube.com/results?search_query=seated+leg+curl+light+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1789,6 +1829,7 @@
   {
    "id": "bulgarian-split-squat-legs",
    "name": "Bulgarian Split Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=bulgarian+split+squat+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1837,6 +1878,7 @@
   {
    "id": "leg-extension",
    "name": "Leg Extension",
+   "videoURL": "https://www.youtube.com/results?search_query=leg+extension+machine+form",
    "category": "legs",
    "environment": [
     "gym"
@@ -1881,6 +1923,7 @@
   {
    "id": "pull-up-upper",
    "name": "Pull-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=pull+up+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -1932,6 +1975,7 @@
   {
    "id": "barbell-bench-press-upper",
    "name": "Barbell Bench Press",
+   "videoURL": "https://www.youtube.com/results?search_query=barbell+bench+press+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -1974,6 +2018,7 @@
   {
    "id": "flat-db-press-upper",
    "name": "Flat Dumbbell Bench Press",
+   "videoURL": "https://www.youtube.com/results?search_query=flat+dumbbell+bench+press+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -2025,6 +2070,7 @@
   {
    "id": "db-shoulder-press-upper",
    "name": "Dumbbell Shoulder Press",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+shoulder+press+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -2070,6 +2116,7 @@
   {
    "id": "cable-lateral-raise-upper",
    "name": "Cable Lateral Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+lateral+raise+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -2101,6 +2148,7 @@
   {
    "id": "tricep-pushdown-upper",
    "name": "Tricep Rope Pushdown",
+   "videoURL": "https://www.youtube.com/results?search_query=tricep+rope+pushdown+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -2145,6 +2193,7 @@
   {
    "id": "arnold-press",
    "name": "Arnold Press",
+   "videoURL": "https://www.youtube.com/results?search_query=arnold+press+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -2190,6 +2239,7 @@
   {
    "id": "band-pull-apart-upper",
    "name": "Band Pull-Apart",
+   "videoURL": "https://www.youtube.com/results?search_query=band+pull+apart+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -2234,6 +2284,7 @@
   {
    "id": "incline-db-press-upper",
    "name": "Incline Dumbbell Press",
+   "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+press+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -2283,6 +2334,7 @@
   {
    "id": "seated-cable-row-upper",
    "name": "Seated Cable Row",
+   "videoURL": "https://www.youtube.com/results?search_query=seated+cable+row+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -2328,6 +2380,7 @@
   {
    "id": "lat-pulldown-upper",
    "name": "Lat Pulldown",
+   "videoURL": "https://www.youtube.com/results?search_query=lat+pulldown+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -2373,6 +2426,7 @@
   {
    "id": "ez-bar-curl-upper",
    "name": "EZ Bar Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=ez+bar+curl+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -2418,6 +2472,7 @@
   {
    "id": "chest-supported-row-upper",
    "name": "Chest-Supported Row",
+   "videoURL": "https://www.youtube.com/results?search_query=chest+supported+row+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -2469,6 +2524,7 @@
   {
    "id": "cable-face-pull-upper",
    "name": "Cable Face Pull",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+face+pull+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -2513,6 +2569,7 @@
   {
    "id": "hammer-curl-upper",
    "name": "Dumbbell Hammer Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+hammer+curl+form",
    "category": "upper",
    "environment": [
     "gym"
@@ -2560,6 +2617,7 @@
   {
    "id": "seated-db-press-shoulders",
    "name": "Seated Dumbbell Press",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+shoulder+press+form",
    "category": "shoulders",
    "environment": [
     "gym"
@@ -2605,6 +2663,7 @@
   {
    "id": "cable-lateral-raise-shoulders",
    "name": "Cable Lateral Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+lateral+raise+form",
    "category": "shoulders",
    "environment": [
     "gym"
@@ -2643,6 +2702,7 @@
   {
    "id": "cable-face-pull-shoulders",
    "name": "Cable Face Pull",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+face+pull+form",
    "category": "shoulders",
    "environment": [
     "gym"
@@ -2681,6 +2741,7 @@
   {
    "id": "reverse-pec-deck-shoulders",
    "name": "Reverse Pec Deck",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+pec+deck+form",
    "category": "shoulders",
    "environment": [
     "gym"
@@ -2719,6 +2780,7 @@
   {
    "id": "db-upright-row",
    "name": "Dumbbell Upright Row",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+upright+row+form",
    "category": "shoulders",
    "environment": [
     "gym"
@@ -2764,6 +2826,7 @@
   {
    "id": "db-front-raise",
    "name": "Dumbbell Front Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+front+raise+form",
    "category": "shoulders",
    "environment": [
     "gym"
@@ -2802,6 +2865,7 @@
   {
    "id": "machine-lateral-raise",
    "name": "Machine Lateral Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=machine+lateral+raise+form",
    "category": "shoulders",
    "environment": [
     "gym"
@@ -2840,6 +2904,7 @@
   {
    "id": "cable-y-raise",
    "name": "Cable Y-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+y+raise+form",
    "category": "shoulders",
    "environment": [
     "gym"
@@ -2878,6 +2943,7 @@
   {
    "id": "ez-bar-curl-arms",
    "name": "EZ Bar Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=ez+bar+curl+form",
    "category": "arms",
    "environment": [
     "gym"
@@ -2922,6 +2988,7 @@
   {
    "id": "hammer-curl-arms",
    "name": "Hammer Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=hammer+curl+form",
    "category": "arms",
    "environment": [
     "gym"
@@ -2960,6 +3027,7 @@
   {
    "id": "incline-db-curl-arms",
    "name": "Incline Dumbbell Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+curl+form",
    "category": "arms",
    "environment": [
     "gym"
@@ -3004,6 +3072,7 @@
   {
    "id": "db-overhead-extension-neutral",
    "name": "Dumbbell Overhead Extension (Neutral)",
+   "videoURL": "https://www.youtube.com/results?search_query=overhead+tricep+extension+form",
    "category": "arms",
    "environment": [
     "gym"
@@ -3049,6 +3118,7 @@
   {
    "id": "overhead-tricep-extension-arms",
    "name": "Overhead Tricep Extension",
+   "videoURL": "https://www.youtube.com/results?search_query=overhead+tricep+extension+form",
    "category": "arms",
    "environment": [
     "gym"
@@ -3099,6 +3169,7 @@
   {
    "id": "close-grip-neutral-db-press",
    "name": "Close-Grip Neutral Dumbbell Press",
+   "videoURL": "https://www.youtube.com/results?search_query=neutral+close+grip+press+form",
    "category": "arms",
    "environment": [
     "gym"
@@ -3137,6 +3208,7 @@
   {
    "id": "skull-crusher",
    "name": "Skull Crusher",
+   "videoURL": "https://www.youtube.com/results?search_query=skull+crusher+tricep+form",
    "category": "arms",
    "environment": [
     "gym"
@@ -3181,6 +3253,7 @@
   {
    "id": "reverse-curl",
    "name": "Reverse Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+curl+form",
    "category": "arms",
    "environment": [
     "gym"
@@ -3219,6 +3292,7 @@
   {
    "id": "cable-tricep-pushdown-arms",
    "name": "Cable Tricep Pushdown",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+tricep+pushdown+form",
    "category": "arms",
    "environment": [
     "gym"
@@ -3263,6 +3337,7 @@
   {
    "id": "cable-curl-arms",
    "name": "Cable Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+curl+form",
    "category": "arms",
    "environment": [
     "gym"
@@ -3307,6 +3382,7 @@
   {
    "id": "preacher-curl-arms",
    "name": "Preacher Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=preacher+curl+form",
    "category": "arms",
    "environment": [
     "gym"
@@ -3351,6 +3427,7 @@
   {
    "id": "db-kickback-arms",
    "name": "Dumbbell Kickback",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+tricep+kickback+form",
    "category": "arms",
    "environment": [
     "gym"
@@ -3395,6 +3472,7 @@
   {
    "id": "trap-bar-deadlift",
    "name": "Trap Bar Deadlift",
+   "videoURL": "https://www.youtube.com/results?search_query=trap+bar+deadlift+form",
    "category": "fullbody",
    "environment": [
     "gym"
@@ -3445,6 +3523,7 @@
   {
    "id": "dumbbell-push-press",
    "name": "Dumbbell Push Press",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+push+press+form",
    "category": "fullbody",
    "environment": [
     "gym"
@@ -3494,6 +3573,7 @@
   {
    "id": "cable-woodchop",
    "name": "Cable Woodchop",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+woodchop+core+exercise",
    "category": "fullbody",
    "environment": [
     "gym"
@@ -3532,6 +3612,7 @@
   {
    "id": "dead-bug",
    "name": "Dead Bug",
+   "videoURL": "https://www.youtube.com/results?search_query=dead+bug+exercise+core",
    "category": "fullbody",
    "environment": [
     "gym"
@@ -3576,6 +3657,7 @@
   {
    "id": "kb-swing",
    "name": "Kettlebell Swing",
+   "videoURL": "https://www.youtube.com/results?search_query=kettlebell+swing+form",
    "category": "fullbody",
    "environment": [
     "gym"
@@ -3621,6 +3703,7 @@
   {
    "id": "db-thruster",
    "name": "Dumbbell Thruster",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+thruster+form",
    "category": "fullbody",
    "environment": [
     "gym"
@@ -3670,6 +3753,7 @@
   {
    "id": "maintenance-push-incline",
    "name": "Incline Dumbbell Press",
+   "videoURL": "https://www.youtube.com/results?search_query=incline+barbell+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3698,6 +3782,7 @@
   {
    "id": "maintenance-push-flat",
    "name": "Dumbbell Bench Press",
+   "videoURL": "https://www.youtube.com/results?search_query=flat+dumbbell+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3725,6 +3810,7 @@
   {
    "id": "maintenance-push-shoulder",
    "name": "Dumbbell Shoulder Press",
+   "videoURL": "https://www.youtube.com/results?search_query=seated+dumbbell+shoulder+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3749,6 +3835,7 @@
   {
    "id": "maintenance-push-dip",
    "name": "Weighted Dip",
+   "videoURL": "https://www.youtube.com/results?search_query=weighted+dip+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3777,6 +3864,7 @@
   {
    "id": "maintenance-pull-pullup",
    "name": "Weighted Pull-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=weighted+pull+up+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3801,6 +3889,7 @@
   {
    "id": "maintenance-pull-row",
    "name": "Barbell Row",
+   "videoURL": "https://www.youtube.com/results?search_query=barbell+row+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3825,6 +3914,7 @@
   {
    "id": "maintenance-pull-cablerow",
    "name": "Seated Cable Row",
+   "videoURL": "https://www.youtube.com/results?search_query=seated+cable+row+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3848,6 +3938,7 @@
   {
    "id": "maintenance-pull-curl",
    "name": "EZ Bar Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=ez+bar+curl+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3872,6 +3963,7 @@
   {
    "id": "maintenance-pull-facepull",
    "name": "Cable Face Pull",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+face+pull+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3889,6 +3981,7 @@
   {
    "id": "maintenance-legs-main",
    "name": "Trap Bar Deadlift",
+   "videoURL": "https://www.youtube.com/results?search_query=trap+bar+deadlift+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3918,6 +4011,7 @@
   {
    "id": "maintenance-legs-thrust",
    "name": "Barbell Hip Thrust",
+   "videoURL": "https://www.youtube.com/results?search_query=barbell+hip+thrust+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3942,6 +4036,7 @@
   {
    "id": "maintenance-legs-rdl",
    "name": "Romanian Deadlift",
+   "videoURL": "https://www.youtube.com/results?search_query=romanian+deadlift+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3971,6 +4066,7 @@
   {
    "id": "maintenance-legs-legcurl",
    "name": "Seated Leg Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=seated+leg+curl+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3988,6 +4084,7 @@
   {
    "id": "maintenance-legs-abduction",
    "name": "Hip Abduction Machine",
+   "videoURL": "https://www.youtube.com/results?search_query=hip+abduction+machine+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -4011,6 +4108,7 @@
   {
    "id": "maintenance-upper-incline",
    "name": "Incline Dumbbell Press",
+   "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -4038,6 +4136,7 @@
   {
    "id": "maintenance-upper-pullup",
    "name": "Weighted Pull-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=weighted+pull+up+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -4062,6 +4161,7 @@
   {
    "id": "maintenance-upper-barbell-row",
    "name": "Barbell Row",
+   "videoURL": "https://www.youtube.com/results?search_query=barbell+row+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -4085,6 +4185,7 @@
   {
    "id": "maintenance-push-home-decline",
    "name": "Decline Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=decline+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4117,6 +4218,7 @@
   {
    "id": "maintenance-push-home-diamond",
    "name": "Diamond Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=diamond+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4144,6 +4246,7 @@
   {
    "id": "maintenance-push-home-pike",
    "name": "Pike Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=pike+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4172,6 +4275,7 @@
   {
    "id": "maintenance-push-home-archer",
    "name": "Archer Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=archer+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4205,6 +4309,7 @@
   {
    "id": "maintenance-push-home-wide",
    "name": "Wide Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=wide+grip+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4232,6 +4337,7 @@
   {
    "id": "maintenance-pull-home-invertedrow",
    "name": "Inverted Row (Under Table)",
+   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+under+table+bodyweight+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4263,6 +4369,7 @@
   {
    "id": "maintenance-pull-home-supinatedrow",
    "name": "Supinated Inverted Row",
+   "videoURL": "https://www.youtube.com/results?search_query=underhand+inverted+row+biceps+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4290,6 +4397,7 @@
   {
    "id": "maintenance-pull-home-superman",
    "name": "Superman",
+   "videoURL": "https://www.youtube.com/results?search_query=superman+back+extension+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4317,6 +4425,7 @@
   {
    "id": "maintenance-pull-home-yraise",
    "name": "Prone Y-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+y+raise+lower+trap+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4344,6 +4453,7 @@
   {
    "id": "maintenance-pull-home-snowangel",
    "name": "Reverse Snow Angel",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+snow+angel+prone+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4371,6 +4481,7 @@
   {
    "id": "maintenance-legs-home-bulgarian",
    "name": "Bulgarian Split Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=bulgarian+split+squat+bodyweight+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4403,6 +4514,7 @@
   {
    "id": "maintenance-legs-home-slrdl",
    "name": "Single-Leg Romanian Deadlift",
+   "videoURL": "https://www.youtube.com/results?search_query=single+leg+romanian+deadlift+bodyweight+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4434,6 +4546,7 @@
   {
    "id": "maintenance-legs-home-slbridge",
    "name": "Single-Leg Glute Bridge",
+   "videoURL": "https://www.youtube.com/results?search_query=single+leg+glute+bridge+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4465,6 +4578,7 @@
   {
    "id": "maintenance-legs-home-reverselunge",
    "name": "Reverse Lunge",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+lunge+bodyweight+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4496,6 +4610,7 @@
   {
    "id": "maintenance-legs-home-clamshell",
    "name": "Clamshell",
+   "videoURL": "https://www.youtube.com/results?search_query=clamshell+exercise+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4523,6 +4638,7 @@
   {
    "id": "maintenance-upper-home-pushup",
    "name": "Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4555,6 +4671,7 @@
   {
    "id": "maintenance-upper-home-doorwayrow",
    "name": "Doorway Row",
+   "videoURL": "https://www.youtube.com/results?search_query=doorway+row+bodyweight+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4582,6 +4699,7 @@
   {
    "id": "maintenance-upper-home-wallpike",
    "name": "Wall Pike Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=wall+pike+push+up+incline+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4609,6 +4727,7 @@
   {
    "id": "maintenance-upper-home-tricepext",
    "name": "Bodyweight Tricep Extension",
+   "videoURL": "https://www.youtube.com/results?search_query=bodyweight+tricep+extension+bar+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4636,6 +4755,7 @@
   {
    "id": "maintenance-upper-home-wallslide",
    "name": "Scapular Wall Slide",
+   "videoURL": "https://www.youtube.com/results?search_query=scapular+wall+slide+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4663,6 +4783,7 @@
   {
    "id": "push-up",
    "name": "Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=push+up+form",
    "category": "home",
    "environment": [
     "home"
@@ -4716,6 +4837,7 @@
   {
    "id": "db-floor-press",
    "name": "Dumbbell Floor Press",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+floor+press+form",
    "category": "home",
    "environment": [
     "home"
@@ -4767,6 +4889,7 @@
   {
    "id": "pike-push-up",
    "name": "Pike Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=pike+push+up+form",
    "category": "home",
    "environment": [
     "home"
@@ -4816,6 +4939,7 @@
   {
    "id": "db-shoulder-press-home",
    "name": "Dumbbell Shoulder Press",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+shoulder+press+form",
    "category": "home",
    "environment": [
     "home"
@@ -4864,6 +4988,7 @@
   {
    "id": "diamond-push-up",
    "name": "Diamond Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=diamond+push+up+form",
    "category": "home",
    "environment": [
     "home"
@@ -4912,6 +5037,7 @@
   {
    "id": "pull-up-home",
    "name": "Pull-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=pull+up+form",
    "category": "home",
    "environment": [
     "home"
@@ -4960,6 +5086,7 @@
   {
    "id": "single-arm-db-row-home",
    "name": "Single-Arm Dumbbell Row",
+   "videoURL": "https://www.youtube.com/results?search_query=single+arm+dumbbell+row+form",
    "category": "home",
    "environment": [
     "home"
@@ -5007,6 +5134,7 @@
   {
    "id": "rear-delt-fly-home",
    "name": "Rear Delt Dumbbell Fly",
+   "videoURL": "https://www.youtube.com/results?search_query=rear+delt+fly+form",
    "category": "home",
    "environment": [
     "home"
@@ -5054,6 +5182,7 @@
   {
    "id": "db-curl-home",
    "name": "Dumbbell Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+curl+form",
    "category": "home",
    "environment": [
     "home"
@@ -5102,6 +5231,7 @@
   {
    "id": "band-pull-apart-home",
    "name": "Band Pull-Apart",
+   "videoURL": "https://www.youtube.com/results?search_query=band+pull+apart+form",
    "category": "home",
    "environment": [
     "home"
@@ -5149,6 +5279,7 @@
   {
    "id": "db-romanian-deadlift-home",
    "name": "Dumbbell Romanian Deadlift",
+   "videoURL": "https://www.youtube.com/results?search_query=romanian+deadlift+form",
    "category": "home",
    "environment": [
     "home"
@@ -5202,6 +5333,7 @@
   {
    "id": "bodyweight-hip-thrust-home",
    "name": "Bodyweight Hip Thrust",
+   "videoURL": "https://www.youtube.com/results?search_query=hip+thrust+form",
    "category": "home",
    "environment": [
     "home"
@@ -5247,6 +5379,7 @@
   {
    "id": "goblet-squat-home",
    "name": "Dumbbell Goblet Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=goblet+squat+form",
    "category": "home",
    "environment": [
     "home"
@@ -5302,6 +5435,7 @@
   {
    "id": "reverse-lunge-home",
    "name": "Reverse Lunge",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+lunge+form",
    "category": "home",
    "environment": [
     "home"
@@ -5351,6 +5485,7 @@
   {
    "id": "clamshell-home",
    "name": "Clamshell",
+   "videoURL": "https://www.youtube.com/results?search_query=clamshell+exercise+form",
    "category": "home",
    "environment": [
     "home"
@@ -5399,6 +5534,7 @@
   {
    "id": "single-leg-glute-bridge-home",
    "name": "Single-Leg Glute Bridge",
+   "videoURL": "https://www.youtube.com/results?search_query=single+leg+glute+bridge+form",
    "category": "home",
    "environment": [
     "home"
@@ -5447,6 +5583,7 @@
   {
    "id": "archer-push-up",
    "name": "Archer Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=archer+push+up+form",
    "category": "home",
    "environment": [
     "home"
@@ -5501,6 +5638,7 @@
   {
    "id": "inverted-row-home",
    "name": "Inverted Row (Under Table)",
+   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+form",
    "category": "home",
    "environment": [
     "home"
@@ -5545,6 +5683,7 @@
   {
    "id": "cable-crossover-low-high",
    "name": "Cable Crossover (Low-to-High)",
+   "videoURL": "https://www.youtube.com/results?search_query=low+to+high+cable+crossover+form",
    "category": "push",
    "environment": [
     "gym"
@@ -5584,6 +5723,7 @@
   {
    "id": "chest-supported-db-row",
    "name": "Chest-Supported Dumbbell Row",
+   "videoURL": "https://www.youtube.com/results?search_query=chest+supported+dumbbell+row+form",
    "category": "pull",
    "environment": [
     "gym"
@@ -5636,6 +5776,7 @@
   {
    "id": "db-lateral-raise",
    "name": "Dumbbell Lateral Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+lateral+raise+form",
    "category": "shoulders",
    "environment": [
     "gym"
@@ -5680,6 +5821,7 @@
   {
    "id": "overhead-bb-press-shoulders",
    "name": "Overhead Barbell Press",
+   "videoURL": "https://www.youtube.com/results?search_query=overhead+barbell+press+form",
    "category": "shoulders",
    "environment": [
     "gym"
@@ -5727,6 +5869,7 @@
   {
    "id": "arnold-press-shoulders",
    "name": "Arnold Press",
+   "videoURL": "https://www.youtube.com/results?search_query=arnold+press+form",
    "category": "shoulders",
    "environment": [
     "gym"
@@ -5774,6 +5917,7 @@
   {
    "id": "rear-delt-fly-shoulders",
    "name": "Rear-Delt Dumbbell Fly",
+   "videoURL": "https://www.youtube.com/results?search_query=rear+delt+dumbbell+fly+form",
    "category": "shoulders",
    "environment": [
     "gym"
@@ -5826,6 +5970,7 @@
   {
    "id": "incline-push-up",
    "name": "Incline Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=incline+push+up+form",
    "category": "home",
    "environment": [
     "home"
@@ -5865,6 +6010,7 @@
   {
    "id": "core-plank-forearm",
    "name": "Plank (Forearm)",
+   "videoURL": "https://www.youtube.com/results?search_query=Plank+(Forearm)+form",
    "category": "core",
    "environment": [
     "gym",
@@ -5893,6 +6039,7 @@
   {
    "id": "core-side-plank",
    "name": "Side Plank",
+   "videoURL": "https://www.youtube.com/results?search_query=Side+Plank+form",
    "category": "core",
    "environment": [
     "gym",
@@ -5921,6 +6068,7 @@
   {
    "id": "core-dead-bug",
    "name": "Dead Bug",
+   "videoURL": "https://www.youtube.com/results?search_query=Dead+Bug+form",
    "category": "core",
    "environment": [
     "gym",
@@ -5952,6 +6100,7 @@
   {
    "id": "core-bird-dog",
    "name": "Bird Dog",
+   "videoURL": "https://www.youtube.com/results?search_query=Bird+Dog+form",
    "category": "core",
    "environment": [
     "gym",
@@ -5980,6 +6129,7 @@
   {
    "id": "core-glute-bridge-march",
    "name": "Glute Bridge March",
+   "videoURL": "https://www.youtube.com/results?search_query=Glute+Bridge+March+form",
    "category": "core",
    "environment": [
     "gym",
@@ -6005,6 +6155,7 @@
   {
    "id": "core-hollow-hold",
    "name": "Hollow Hold",
+   "videoURL": "https://www.youtube.com/results?search_query=Hollow+Hold+form",
    "category": "core",
    "environment": [
     "gym",
@@ -6033,6 +6184,7 @@
   {
    "id": "core-bicycle-crunch",
    "name": "Bicycle Crunch",
+   "videoURL": "https://www.youtube.com/results?search_query=Bicycle+Crunch+form",
    "category": "core",
    "environment": [
     "gym",
@@ -6061,6 +6213,7 @@
   {
    "id": "core-reverse-crunch",
    "name": "Reverse Crunch",
+   "videoURL": "https://www.youtube.com/results?search_query=Reverse+Crunch+form",
    "category": "core",
    "environment": [
     "gym",
@@ -6090,6 +6243,7 @@
   {
    "id": "core-lying-leg-raise",
    "name": "Lying Leg Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=Lying+Leg+Raise+form",
    "category": "core",
    "environment": [
     "gym",
@@ -6119,6 +6273,7 @@
   {
    "id": "core-plank-shoulder-taps",
    "name": "Plank Shoulder Taps",
+   "videoURL": "https://www.youtube.com/results?search_query=Plank+Shoulder+Taps+form",
    "category": "core",
    "environment": [
     "gym",
@@ -6147,6 +6302,7 @@
   {
    "id": "core-pallof-press",
    "name": "Pallof Press",
+   "videoURL": "https://www.youtube.com/results?search_query=Pallof+Press+form",
    "category": "core",
    "environment": [
     "gym"
@@ -6171,6 +6327,7 @@
   {
    "id": "core-hanging-knee-raise",
    "name": "Hanging Knee Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=Hanging+Knee+Raise+form",
    "category": "core",
    "environment": [
     "gym"
@@ -6201,6 +6358,7 @@
   {
    "id": "core-cable-crunch",
    "name": "Cable Crunch",
+   "videoURL": "https://www.youtube.com/results?search_query=Cable+Crunch+form",
    "category": "core",
    "environment": [
     "gym"
@@ -6228,6 +6386,7 @@
   {
    "id": "core-ab-wheel-rollout",
    "name": "Ab-Wheel Rollout",
+   "videoURL": "https://www.youtube.com/results?search_query=Ab-Wheel+Rollout+form",
    "category": "core",
    "environment": [
     "gym"
@@ -6256,6 +6415,7 @@
   {
    "id": "push-standard-push-up-home",
    "name": "Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=push+up+form",
    "category": "push",
    "environment": [
     "home"
@@ -6309,6 +6469,7 @@
   {
    "id": "push-knee-push-up-home",
    "name": "Knee Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=knee+push+up+form",
    "category": "push",
    "environment": [
     "home"
@@ -6357,6 +6518,7 @@
   {
    "id": "push-decline-push-up-home",
    "name": "Decline Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=decline+push+up+form",
    "category": "push",
    "environment": [
     "home"
@@ -6410,6 +6572,7 @@
   {
    "id": "push-wide-push-up-home",
    "name": "Wide Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=wide+grip+push+up+form",
    "category": "push",
    "environment": [
     "home"
@@ -6458,6 +6621,7 @@
   {
    "id": "push-diamond-push-up-home",
    "name": "Diamond Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=diamond+push+up+form",
    "category": "push",
    "environment": [
     "home"
@@ -6506,6 +6670,7 @@
   {
    "id": "push-tricep-dip-home",
    "name": "Tricep Dip",
+   "videoURL": "https://www.youtube.com/results?search_query=tricep+dip+form",
    "category": "push",
    "environment": [
     "home"
@@ -6554,6 +6719,7 @@
   {
    "id": "push-dumbbell-bench-press-home",
    "name": "Dumbbell Bench Press",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+bench+press+form",
    "category": "push",
    "environment": [
     "home"
@@ -6605,6 +6771,7 @@
   {
    "id": "push-incline-dumbbell-press-home",
    "name": "Incline Dumbbell Press",
+   "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+press+form",
    "category": "push",
    "environment": [
     "home"
@@ -6656,6 +6823,7 @@
   {
    "id": "push-band-chest-press-home",
    "name": "Band Chest Press",
+   "videoURL": "https://www.youtube.com/results?search_query=band+chest+press+form",
    "category": "push",
    "environment": [
     "home"
@@ -6707,6 +6875,7 @@
   {
    "id": "push-band-pull-apart-home",
    "name": "Band Pull-Apart",
+   "videoURL": "https://www.youtube.com/results?search_query=band+pull+apart+form",
    "category": "push",
    "environment": [
     "home"
@@ -6754,6 +6923,7 @@
   {
    "id": "push-dumbbell-flye-home",
    "name": "Dumbbell Flye",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+flye+form",
    "category": "push",
    "environment": [
     "home"
@@ -6805,6 +6975,7 @@
   {
    "id": "pull-inverted-row-home",
    "name": "Inverted Row (Under Table)",
+   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+under+table+bodyweight+form",
    "category": "pull",
    "environment": [
     "home"
@@ -6857,6 +7028,7 @@
   {
    "id": "pull-superman-home",
    "name": "Superman",
+   "videoURL": "https://www.youtube.com/results?search_query=superman+back+extension+form",
    "category": "pull",
    "environment": [
     "home"
@@ -6905,6 +7077,7 @@
   {
    "id": "pull-prone-y-raise-home",
    "name": "Prone Y-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+y+raise+lower+trap+form",
    "category": "pull",
    "environment": [
     "home"
@@ -6953,6 +7126,7 @@
   {
    "id": "pull-prone-t-raise-home",
    "name": "Prone T-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+t+raise+rear+delt+form",
    "category": "pull",
    "environment": [
     "home"
@@ -7001,6 +7175,7 @@
   {
    "id": "pull-reverse-snow-angel-home",
    "name": "Reverse Snow Angel",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+snow+angel+prone+form",
    "category": "pull",
    "environment": [
     "home"
@@ -7049,6 +7224,7 @@
   {
    "id": "pull-towel-row-home",
    "name": "Doorway Row",
+   "videoURL": "https://www.youtube.com/results?search_query=doorway+row+bodyweight+form",
    "category": "pull",
    "environment": [
     "home"
@@ -7097,6 +7273,7 @@
   {
    "id": "pull-resistance-band-pulldown-home",
    "name": "Resistance Band Pull-Down",
+   "videoURL": "https://www.youtube.com/results?search_query=resistance+band+pull-down+form",
    "category": "pull",
    "environment": [
     "home"
@@ -7144,6 +7321,7 @@
   {
    "id": "pull-resistance-band-row-home",
    "name": "Resistance Band Row",
+   "videoURL": "https://www.youtube.com/results?search_query=resistance+band+row+form",
    "category": "pull",
    "environment": [
     "home"
@@ -7191,6 +7369,7 @@
   {
    "id": "pull-doorway-band-row-home",
    "name": "Doorway Band Row",
+   "videoURL": "https://www.youtube.com/results?search_query=doorway+band+row+form",
    "category": "pull",
    "environment": [
     "home"
@@ -7246,6 +7425,7 @@
   {
    "id": "pull-band-bicep-curl-home",
    "name": "Resistance Band Bicep Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=resistance+band+bicep+curl+form",
    "category": "pull",
    "environment": [
     "home"
@@ -7293,6 +7473,7 @@
   {
    "id": "pull-eccentric-pullup-home",
    "name": "Eccentric Pull-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=eccentric+pull-up+form",
    "category": "pull",
    "environment": [
     "home"
@@ -7340,6 +7521,7 @@
   {
    "id": "pull-band-assisted-pullup-home",
    "name": "Band-Assisted Pull-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=band-assisted+pull-up+form",
    "category": "pull",
    "environment": [
     "home"
@@ -7388,6 +7570,7 @@
   {
    "id": "legs-bodyweight-squat-home",
    "name": "Bodyweight Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=bodyweight+squat+form",
    "category": "legs",
    "environment": [
     "home"
@@ -7440,6 +7623,7 @@
   {
    "id": "legs-reverse-lunge-home",
    "name": "Reverse Lunge",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+lunge+bodyweight+form",
    "category": "legs",
    "environment": [
     "home"
@@ -7492,6 +7676,7 @@
   {
    "id": "legs-split-squat-home",
    "name": "Split Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=split+squat+form",
    "category": "legs",
    "environment": [
     "home"
@@ -7540,6 +7725,7 @@
   {
    "id": "legs-glute-bridge-home",
    "name": "Glute Bridge",
+   "videoURL": "https://www.youtube.com/results?search_query=glute+bridge+form",
    "category": "legs",
    "environment": [
     "home"
@@ -7595,6 +7781,7 @@
     "ankle"
    ],
    "name": "Standing Calf Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=bodyweight+standing+calf+raise+form",
    "category": "legs",
    "environment": [
     "home"
@@ -7639,6 +7826,7 @@
   {
    "id": "legs-bulgarian-split-squat-home",
    "name": "Bulgarian Split Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=bulgarian+split+squat+bodyweight+form",
    "category": "legs",
    "environment": [
     "home"
@@ -7692,6 +7880,7 @@
   {
    "id": "legs-single-leg-rdl-home",
    "name": "Single-Leg Romanian Deadlift",
+   "videoURL": "https://www.youtube.com/results?search_query=single+leg+romanian+deadlift+bodyweight+form",
    "category": "legs",
    "environment": [
     "home"
@@ -7744,6 +7933,7 @@
   {
    "id": "legs-dead-bug-press-home",
    "name": "Dead Bug Leg Press",
+   "videoURL": "https://www.youtube.com/results?search_query=dead+bug+leg+press+form",
    "category": "legs",
    "environment": [
     "home"
@@ -7792,6 +7982,7 @@
   {
    "id": "legs-romanian-deadlift-db-home",
    "name": "Dumbbell Romanian Deadlift",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+romanian+deadlift+form",
    "category": "legs",
    "environment": [
     "home"
@@ -7843,6 +8034,7 @@
   {
    "id": "legs-step-up-home",
    "name": "Dumbbell Step-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+step-up+form",
    "category": "legs",
    "environment": [
     "home"
@@ -7898,6 +8090,7 @@
   {
    "id": "legs-seated-calf-press-home",
    "name": "Seated Dumbbell Calf Press",
+   "videoURL": "https://www.youtube.com/results?search_query=seated+dumbbell+calf+raise+form",
    "category": "legs",
    "environment": [
     "home"
@@ -7939,6 +8132,7 @@
   {
    "id": "legs-band-loop-squat-home",
    "name": "Resistance Band Loop Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=resistance+band+loop+squat+form",
    "category": "legs",
    "environment": [
     "home"
@@ -7990,6 +8184,7 @@
   {
    "id": "legs-monster-walk-home",
    "name": "Monster Walk (Resistance Band)",
+   "videoURL": "https://www.youtube.com/results?search_query=monster+walk+resistance+band+form",
    "category": "legs",
    "environment": [
     "home"
@@ -8045,6 +8240,7 @@
   {
    "id": "shoulders-pike-push-up-home",
    "name": "Pike Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=pike+push+up+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -8094,6 +8290,7 @@
   {
    "id": "shoulders-wall-pike-push-up-home",
    "name": "Wall Pike Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=wall+pike+push+up+incline+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -8142,6 +8339,7 @@
   {
    "id": "shoulders-prone-y-raise-home",
    "name": "Prone Y-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+y+raise+lower+trap+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -8190,6 +8388,7 @@
   {
    "id": "shoulders-prone-t-raise-home",
    "name": "Prone T-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+t+raise+rear+delt+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -8238,6 +8437,7 @@
   {
    "id": "shoulders-reverse-snow-angel-home",
    "name": "Reverse Snow Angel",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+snow+angel+prone+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -8286,6 +8486,7 @@
   {
    "id": "shoulders-wall-slide-home",
    "name": "Scapular Wall Slide",
+   "videoURL": "https://www.youtube.com/results?search_query=scapular+wall+slide+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -8334,6 +8535,7 @@
   {
    "id": "shoulders-incline-db-press-home",
    "name": "Incline Dumbbell Press",
+   "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+press+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -8381,6 +8583,7 @@
   {
    "id": "shoulders-db-arnold-press-home",
    "name": "Dumbbell Arnold Press",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+arnold+press+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -8429,6 +8632,7 @@
   {
    "id": "shoulders-db-bent-fly-home",
    "name": "Dumbbell Bent-Over Fly",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+bent-over+fly+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -8480,6 +8684,7 @@
   {
    "id": "shoulders-db-reverse-fly-home",
    "name": "Dumbbell Reverse Fly",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+reverse+fly+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -8527,6 +8732,7 @@
   {
    "id": "shoulders-band-lateral-raise-home",
    "name": "Band Lateral Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=band+lateral+raise+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -8574,6 +8780,7 @@
   {
    "id": "shoulders-band-pull-apart-strict-home",
    "name": "Band Pull-Apart (Strict)",
+   "videoURL": "https://www.youtube.com/results?search_query=band+pull-apart+strict+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -8621,6 +8828,7 @@
   {
    "id": "arms-close-grip-push-up-home",
    "name": "Close-Grip Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=close-grip+push-up+form",
    "category": "arms",
    "environment": [
     "home"
@@ -8669,6 +8877,7 @@
   {
    "id": "arms-diamond-push-up-home",
    "name": "Diamond Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=diamond+push+up+triceps+form",
    "category": "arms",
    "environment": [
     "home"
@@ -8717,6 +8926,7 @@
   {
    "id": "arms-chair-tricep-dip-home",
    "name": "Tricep Dip (Chair)",
+   "videoURL": "https://www.youtube.com/results?search_query=tricep+dip+chair+form",
    "category": "arms",
    "environment": [
     "home"
@@ -8766,6 +8976,7 @@
   {
    "id": "arms-bodyweight-tricep-extension-home",
    "name": "Bodyweight Tricep Extension",
+   "videoURL": "https://www.youtube.com/results?search_query=bodyweight+tricep+extension+bar+form",
    "category": "arms",
    "environment": [
     "home"
@@ -8814,6 +9025,7 @@
   {
    "id": "arms-supinated-inverted-row-home",
    "name": "Supinated Inverted Row",
+   "videoURL": "https://www.youtube.com/results?search_query=underhand+inverted+row+biceps+form",
    "category": "arms",
    "environment": [
     "home"
@@ -8862,6 +9074,7 @@
   {
    "id": "arms-doorway-bicep-curl-home",
    "name": "Isometric Biceps Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=isometric+biceps+curl+self+resisted+form",
    "category": "arms",
    "environment": [
     "home"
@@ -8906,6 +9119,7 @@
   {
    "id": "arms-dumbbell-curl-home",
    "name": "Dumbbell Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+curl+form",
    "category": "arms",
    "environment": [
     "home"
@@ -8954,6 +9168,7 @@
   {
    "id": "arms-db-concentration-curl-home",
    "name": "Dumbbell Concentration Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+concentration+curl+form",
    "category": "arms",
    "environment": [
     "home"
@@ -9001,6 +9216,7 @@
   {
    "id": "arms-band-bicep-curl-home",
    "name": "Resistance Band Bicep Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=resistance+band+bicep+curl+form",
    "category": "arms",
    "environment": [
     "home"
@@ -9048,6 +9264,7 @@
   {
    "id": "arms-band-tricep-pushdown-home",
    "name": "Resistance Band Tricep Pushdown",
+   "videoURL": "https://www.youtube.com/results?search_query=resistance+band+tricep+pushdown+form",
    "category": "arms",
    "environment": [
     "home"
@@ -9095,6 +9312,7 @@
   {
    "id": "upper-push-up-home",
    "name": "Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=push+up+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9148,6 +9366,7 @@
   {
    "id": "upper-pike-push-up-home",
    "name": "Pike Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=pike+push+up+shoulders+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9196,6 +9415,7 @@
   {
    "id": "upper-inverted-row-home",
    "name": "Inverted Row (Under Table)",
+   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+under+table+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9248,6 +9468,7 @@
   {
    "id": "upper-superman-home",
    "name": "Superman",
+   "videoURL": "https://www.youtube.com/results?search_query=superman+back+extension+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9296,6 +9517,7 @@
   {
    "id": "upper-diamond-push-up-home",
    "name": "Diamond Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=diamond+push+up+triceps+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9344,6 +9566,7 @@
   {
    "id": "upper-tricep-chair-dip-home",
    "name": "Tricep Chair Dip",
+   "videoURL": "https://www.youtube.com/results?search_query=tricep+chair+dip+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9393,6 +9616,7 @@
   {
    "id": "upper-dumbbell-floor-press-home",
    "name": "Dumbbell Floor Press",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+floor+press+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9444,6 +9668,7 @@
   {
    "id": "upper-dumbbell-bent-row-home",
    "name": "Dumbbell Bent-Over Row",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+bent-over+row+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9492,6 +9717,7 @@
   {
    "id": "upper-dumbbell-upright-row-home",
    "name": "Dumbbell Upright Row",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+upright+row+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9540,6 +9766,7 @@
   {
    "id": "upper-dumbbell-lateral-raise-home",
    "name": "Dumbbell Lateral Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+lateral+raise+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9587,6 +9814,7 @@
   {
    "id": "upper-band-pull-apart-home",
    "name": "Band Pull-Apart",
+   "videoURL": "https://www.youtube.com/results?search_query=band+pull+apart+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9634,6 +9862,7 @@
   {
    "id": "upper-band-overhead-press-home",
    "name": "Band Overhead Press",
+   "videoURL": "https://www.youtube.com/results?search_query=resistance+band+overhead+press+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9685,6 +9914,7 @@
   {
    "id": "fullbody-bodyweight-squat-home",
    "name": "Bodyweight Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=bodyweight+squat+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -9737,6 +9967,7 @@
   {
    "id": "fullbody-push-up-home",
    "name": "Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=push+up+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -9789,6 +10020,7 @@
   {
    "id": "fullbody-inverted-row-home",
    "name": "Inverted Row (Under Table)",
+   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+under+table+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -9841,6 +10073,7 @@
   {
    "id": "fullbody-reverse-lunge-home",
    "name": "Reverse Lunge",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+lunge+bodyweight+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -9893,6 +10126,7 @@
   {
    "id": "fullbody-glute-bridge-home",
    "name": "Glute Bridge",
+   "videoURL": "https://www.youtube.com/results?search_query=glute+bridge+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -9945,6 +10179,7 @@
   {
    "id": "fullbody-pike-push-up-home",
    "name": "Pike Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=pike+push+up+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -9993,6 +10228,7 @@
   {
    "id": "fullbody-db-goblet-squat-home",
    "name": "Dumbbell Goblet Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+goblet+squat+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -10048,6 +10284,7 @@
   {
    "id": "fullbody-db-bent-row-home",
    "name": "Dumbbell Bent-Over Row",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+bent+over+row+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -10099,6 +10336,7 @@
   {
    "id": "fullbody-band-squat-press-home",
    "name": "Band Squat-to-Press",
+   "videoURL": "https://www.youtube.com/results?search_query=resistance+band+squat+to+press+thruster+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -10150,6 +10388,7 @@
   {
    "id": "fullbody-band-row-home",
    "name": "Band Row",
+   "videoURL": "https://www.youtube.com/results?search_query=resistance+band+row+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -10201,6 +10440,7 @@
   {
    "id": "farmers-carry-fb",
    "name": "Farmer's Carry",
+   "videoURL": "https://www.youtube.com/results?search_query=farmers+carry+form",
    "category": "fullbody",
    "environment": [
     "gym"
@@ -10243,6 +10483,7 @@
   {
    "id": "chest-supported-row-fb",
    "name": "Chest-Supported Dumbbell Row",
+   "videoURL": "https://www.youtube.com/results?search_query=chest+supported+dumbbell+row+form",
    "category": "fullbody",
    "environment": [
     "gym"
@@ -10281,6 +10522,7 @@
   {
    "id": "landmine-press-fb",
    "name": "Landmine Press",
+   "videoURL": "https://www.youtube.com/results?search_query=landmine+press+form",
    "category": "fullbody",
    "environment": [
     "gym"
@@ -10323,6 +10565,7 @@
   {
    "id": "goblet-squat-fb",
    "name": "Goblet Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=goblet+squat+form",
    "category": "fullbody",
    "environment": [
     "gym"
@@ -10370,6 +10613,7 @@
   {
    "id": "pull-up-fb",
    "name": "Pull-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=pull+up+form",
    "category": "fullbody",
    "environment": [
     "gym"
@@ -10421,6 +10665,7 @@
   {
    "id": "walking-lunge-fb",
    "name": "Dumbbell Walking Lunge",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+walking+lunge+form",
    "category": "fullbody",
    "environment": [
     "gym"
@@ -10469,6 +10714,7 @@
   {
    "id": "upper-db-shoulder-press-home",
    "name": "Dumbbell Shoulder Press",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+shoulder+press+form",
    "category": "upper",
    "environment": [
     "home"
@@ -10509,6 +10755,7 @@
   {
    "id": "upper-rear-delt-fly-home",
    "name": "Rear Delt Dumbbell Fly",
+   "videoURL": "https://www.youtube.com/results?search_query=rear+delt+dumbbell+fly+form",
    "category": "upper",
    "environment": [
     "home"
@@ -10549,6 +10796,7 @@
   {
    "id": "upper-db-curl-home",
    "name": "Dumbbell Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+curl+form",
    "category": "upper",
    "environment": [
     "home"
@@ -10582,6 +10830,7 @@
   {
    "id": "legs-goblet-squat-home",
    "name": "Dumbbell Goblet Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=goblet+squat+form",
    "category": "legs",
    "environment": [
     "home"
@@ -10630,6 +10879,7 @@
   {
    "id": "legs-db-hip-thrust-home",
    "name": "Dumbbell Hip Thrust",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+hip+thrust+form",
    "category": "legs",
    "environment": [
     "home"
@@ -10674,6 +10924,7 @@
   {
    "id": "legs-db-single-leg-rdl-home",
    "name": "Dumbbell Single-Leg Romanian Deadlift",
+   "videoURL": "https://www.youtube.com/results?search_query=single+leg+romanian+deadlift+dumbbell+form",
    "category": "legs",
    "environment": [
     "home"
@@ -10715,6 +10966,7 @@
   {
    "id": "push-incline-push-up-home",
    "name": "Incline Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=incline+push+up+form",
    "category": "push",
    "environment": [
     "home"
@@ -10767,6 +11019,7 @@
   {
    "id": "push-archer-push-up-home",
    "name": "Archer Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=archer+push+up+form",
    "category": "push",
    "environment": [
     "home"
@@ -10819,6 +11072,7 @@
   {
    "id": "push-shoulder-tap-push-up-home",
    "name": "Shoulder-Tap Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=shoulder+tap+push+up+form",
    "category": "push",
    "environment": [
     "home"
@@ -10871,6 +11125,7 @@
   {
    "id": "push-eccentric-push-up-home",
    "name": "Eccentric Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=eccentric+push+up+form",
    "category": "push",
    "environment": [
     "home"
@@ -10923,6 +11178,7 @@
   {
    "id": "push-staggered-push-up-home",
    "name": "Staggered-Hand Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=staggered+hand+push+up+form",
    "category": "push",
    "environment": [
     "home"
@@ -10975,6 +11231,7 @@
   {
    "id": "push-scapular-push-up-home",
    "name": "Scapular Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=scapular+push+up+form",
    "category": "push",
    "environment": [
     "home"
@@ -11023,6 +11280,7 @@
   {
    "id": "pull-feet-elevated-table-row-home",
    "name": "Feet-Elevated Table Row",
+   "videoURL": "https://www.youtube.com/results?search_query=feet+elevated+table+row+form",
    "category": "pull",
    "environment": [
     "home"
@@ -11075,6 +11333,7 @@
   {
    "id": "pull-prone-w-raise-home",
    "name": "Prone W-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+w+raise+form",
    "category": "pull",
    "environment": [
     "home"
@@ -11123,6 +11382,7 @@
   {
    "id": "pull-prone-cobra-hold-home",
    "name": "Prone Cobra Hold",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+cobra+hold+form",
    "category": "pull",
    "environment": [
     "home"
@@ -11171,6 +11431,7 @@
   {
    "id": "pull-towel-face-pull-home",
    "name": "Towel Face Pull",
+   "videoURL": "https://www.youtube.com/results?search_query=towel+face+pull+form",
    "category": "pull",
    "environment": [
     "home"
@@ -11219,6 +11480,7 @@
   {
    "id": "pull-prone-swimmer-home",
    "name": "Prone Swimmer",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+swimmer+form",
    "category": "pull",
    "environment": [
     "home"
@@ -11267,6 +11529,7 @@
   {
    "id": "pull-sliding-lat-pullover-home",
    "name": "Sliding Lat Pullover",
+   "videoURL": "https://www.youtube.com/results?search_query=sliding+lat+pullover+form",
    "category": "pull",
    "environment": [
     "home"
@@ -11315,6 +11578,7 @@
   {
    "id": "legs-wall-sit-home",
    "name": "Wall Sit",
+   "videoURL": "https://www.youtube.com/results?search_query=wall+sit+form",
    "category": "legs",
    "environment": [
     "home"
@@ -11367,6 +11631,7 @@
   {
    "id": "legs-cossack-squat-home",
    "name": "Cossack Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=cossack+squat+form",
    "category": "legs",
    "environment": [
     "home"
@@ -11419,6 +11684,7 @@
   {
    "id": "legs-sliding-leg-curl-home",
    "name": "Sliding Leg Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=sliding+leg+curl+form",
    "category": "legs",
    "environment": [
     "home"
@@ -11471,6 +11737,7 @@
   {
    "id": "legs-single-leg-calf-raise-home",
    "name": "Single-Leg Calf Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=single+leg+calf+raise+form",
    "category": "legs",
    "environment": [
     "home"
@@ -11519,6 +11786,7 @@
   {
    "id": "upper-incline-push-up-home",
    "name": "Incline Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=incline+push+up+form",
    "category": "upper",
    "environment": [
     "home"
@@ -11571,6 +11839,7 @@
   {
    "id": "upper-feet-elevated-table-row-home",
    "name": "Feet-Elevated Table Row",
+   "videoURL": "https://www.youtube.com/results?search_query=feet+elevated+table+row+form",
    "category": "upper",
    "environment": [
     "home"
@@ -11623,6 +11892,7 @@
   {
    "id": "upper-scapular-wall-slide-home",
    "name": "Scapular Wall Slide",
+   "videoURL": "https://www.youtube.com/results?search_query=scapular+wall+slide+form",
    "category": "upper",
    "environment": [
     "home"
@@ -11671,6 +11941,7 @@
   {
    "id": "upper-archer-push-up-home",
    "name": "Archer Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=archer+push+up+form",
    "category": "upper",
    "environment": [
     "home"
@@ -11723,6 +11994,7 @@
   {
    "id": "upper-prone-y-raise-home",
    "name": "Prone Y-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+y+raise+form",
    "category": "upper",
    "environment": [
     "home"
@@ -11771,6 +12043,7 @@
   {
    "id": "upper-reverse-snow-angel-home",
    "name": "Reverse Snow Angel",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+snow+angel+form",
    "category": "upper",
    "environment": [
     "home"
@@ -11819,6 +12092,7 @@
   {
    "id": "shoulders-wall-handstand-hold-home",
    "name": "Wall Handstand Hold",
+   "videoURL": "https://www.youtube.com/results?search_query=wall+handstand+hold+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -11871,6 +12145,7 @@
   {
    "id": "shoulders-prone-w-raise-home",
    "name": "Prone W-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+w+raise+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -11919,6 +12194,7 @@
   {
    "id": "shoulders-scapular-push-up-home",
    "name": "Scapular Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=scapular+push+up+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -11967,6 +12243,7 @@
   {
    "id": "shoulders-elevated-pike-push-up-home",
    "name": "Elevated Pike Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=elevated+pike+push+up+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -12019,6 +12296,7 @@
   {
    "id": "shoulders-prone-i-raise-home",
    "name": "Prone I-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+i+raise+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -12067,6 +12345,7 @@
   {
    "id": "shoulders-bear-crawl-shoulder-tap-home",
    "name": "Bear-Crawl Shoulder Tap",
+   "videoURL": "https://www.youtube.com/results?search_query=bear+crawl+shoulder+tap+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -12119,6 +12398,7 @@
   {
    "id": "arms-feet-elevated-chair-dip-home",
    "name": "Feet-Elevated Chair Dip",
+   "videoURL": "https://www.youtube.com/results?search_query=feet+elevated+chair+dip+form",
    "category": "arms",
    "environment": [
     "home"
@@ -12167,6 +12447,7 @@
   {
    "id": "arms-towel-curl-home",
    "name": "Towel Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=towel+curl+form",
    "category": "arms",
    "environment": [
     "home"
@@ -12215,6 +12496,7 @@
   {
    "id": "arms-sliding-tricep-extension-home",
    "name": "Sliding Tricep Extension",
+   "videoURL": "https://www.youtube.com/results?search_query=sliding+tricep+extension+form",
    "category": "arms",
    "environment": [
     "home"
@@ -12267,6 +12549,7 @@
   {
    "id": "arms-close-grip-table-row-home",
    "name": "Close-Grip Table Row",
+   "videoURL": "https://www.youtube.com/results?search_query=close+grip+table+row+form",
    "category": "arms",
    "environment": [
     "home"
@@ -12319,6 +12602,7 @@
   {
    "id": "arms-reverse-grip-push-up-home",
    "name": "Reverse-Grip Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+grip+push+up+form",
    "category": "arms",
    "environment": [
     "home"
@@ -12367,6 +12651,7 @@
   {
    "id": "arms-bodyweight-skull-crusher-home",
    "name": "Bodyweight Skull Crusher",
+   "videoURL": "https://www.youtube.com/results?search_query=bodyweight+skull+crusher+form",
    "category": "arms",
    "environment": [
     "home"
@@ -12415,6 +12700,7 @@
   {
    "id": "fullbody-burpee-home",
    "name": "Burpee",
+   "videoURL": "https://www.youtube.com/results?search_query=burpee+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -12471,6 +12757,7 @@
   {
    "id": "fullbody-bear-crawl-home",
    "name": "Bear Crawl",
+   "videoURL": "https://www.youtube.com/results?search_query=bear+crawl+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -12527,6 +12814,7 @@
   {
    "id": "fullbody-mountain-climber-home",
    "name": "Mountain Climber",
+   "videoURL": "https://www.youtube.com/results?search_query=mountain+climber+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -12583,6 +12871,7 @@
   {
    "id": "fullbody-walking-lunge-home",
    "name": "Walking Lunge",
+   "videoURL": "https://www.youtube.com/results?search_query=walking+lunge+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -12639,6 +12928,7 @@
   {
    "id": "fullbody-inchworm-home",
    "name": "Inchworm",
+   "videoURL": "https://www.youtube.com/results?search_query=inchworm+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -12691,6 +12981,7 @@
   {
    "id": "fullbody-stair-step-up-home",
    "name": "Stair Step-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=stair+step+up+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -12747,6 +13038,7 @@
   {
    "id": "arms-db-overhead-tricep-extension-home",
    "name": "Dumbbell Overhead Tricep Extension",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+overhead+tricep+extension+form",
    "category": "arms",
    "environment": [
     "home"
@@ -12802,6 +13094,7 @@
   {
    "id": "fullbody-db-thruster-home",
    "name": "Dumbbell Thruster",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+thruster+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -12861,6 +13154,7 @@
   {
    "id": "arms-band-overhead-extension-home",
    "name": "Band Overhead Tricep Extension",
+   "videoURL": "https://www.youtube.com/results?search_query=band+overhead+tricep+extension+form",
    "category": "arms",
    "environment": [
     "home"
@@ -12905,6 +13199,7 @@
   {
    "id": "fullbody-band-deadlift-home",
    "name": "Band Deadlift",
+   "videoURL": "https://www.youtube.com/results?search_query=band+deadlift+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -12953,6 +13248,7 @@
   {
    "id": "legs-band-glute-kickback-home",
    "name": "Band Glute Kickback",
+   "videoURL": "https://www.youtube.com/results?search_query=band+glute+kickback+form",
    "category": "legs",
    "environment": [
     "home"
@@ -13001,6 +13297,7 @@
   {
    "id": "push-band-incline-press-home",
    "name": "Band Incline Press",
+   "videoURL": "https://www.youtube.com/results?search_query=band+incline+press+form",
    "category": "push",
    "environment": [
     "home"
@@ -13045,6 +13342,7 @@
   {
    "id": "shoulders-band-front-raise-home",
    "name": "Band Front Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=band+front+raise+form",
    "category": "shoulders",
    "environment": [
     "home"
@@ -13089,6 +13387,7 @@
   {
    "id": "upper-band-bent-over-row-home",
    "name": "Band Bent-Over Row",
+   "videoURL": "https://www.youtube.com/results?search_query=band+bent+over+row+form",
    "category": "upper",
    "environment": [
     "home"
@@ -13137,6 +13436,7 @@
   {
    "id": "pull-chin-up-home",
    "name": "Chin-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=chin+up+form",
    "category": "pull",
    "environment": [
     "home"
@@ -13188,6 +13488,7 @@
   {
    "id": "pull-hanging-scapular-pull-home",
    "name": "Hanging Scapular Pull-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=hanging+scapular+pull+up+form",
    "category": "pull",
    "environment": [
     "home"
@@ -13232,6 +13533,7 @@
   {
    "id": "maintenance-push-closegrip",
    "name": "Close-Grip Bench Press",
+   "videoURL": "https://www.youtube.com/results?search_query=close+grip+bench+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13259,6 +13561,7 @@
   {
    "id": "maintenance-push-machinepress",
    "name": "Cable Chest Press",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+chest+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13286,6 +13589,7 @@
   {
    "id": "maintenance-push-overheadpress",
    "name": "Overhead Barbell Press",
+   "videoURL": "https://www.youtube.com/results?search_query=overhead+barbell+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13320,6 +13624,7 @@
   {
    "id": "maintenance-push-landmine",
    "name": "Landmine Press",
+   "videoURL": "https://www.youtube.com/results?search_query=landmine+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13351,6 +13656,7 @@
   {
    "id": "maintenance-pull-chestsupported",
    "name": "Chest-Supported Row",
+   "videoURL": "https://www.youtube.com/results?search_query=chest+supported+row+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13378,6 +13684,7 @@
   {
    "id": "maintenance-pull-latpulldown",
    "name": "Neutral-Grip Lat Pulldown",
+   "videoURL": "https://www.youtube.com/results?search_query=neutral+grip+lat+pulldown+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13405,6 +13712,7 @@
   {
    "id": "maintenance-pull-dbrow",
    "name": "Dumbbell Single-Arm Row",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+single+arm+row+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13436,6 +13744,7 @@
   {
    "id": "maintenance-legs-frontsquat",
    "name": "Front Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=front+squat+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13471,6 +13780,7 @@
   {
    "id": "maintenance-legs-legpress",
    "name": "Leg Press",
+   "videoURL": "https://www.youtube.com/results?search_query=leg+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13502,6 +13812,7 @@
   {
    "id": "maintenance-legs-walkinglunge",
    "name": "Dumbbell Walking Lunge",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+walking+lunge+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13537,6 +13848,7 @@
   {
    "id": "maintenance-upper-dbshoulderpress",
    "name": "Dumbbell Shoulder Press",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+shoulder+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13568,6 +13880,7 @@
   {
    "id": "maintenance-upper-dip",
    "name": "Weighted Dip",
+   "videoURL": "https://www.youtube.com/results?search_query=weighted+dip+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13595,6 +13908,7 @@
   {
    "id": "maintenance-upper-cablerow",
    "name": "Seated Cable Row",
+   "videoURL": "https://www.youtube.com/results?search_query=seated+cable+row+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13622,6 +13936,7 @@
   {
    "id": "maintenance-upper-dbbench",
    "name": "Flat Dumbbell Bench Press",
+   "videoURL": "https://www.youtube.com/results?search_query=flat+dumbbell+bench+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13649,6 +13964,7 @@
   {
    "id": "maintenance-upper-ezcurl",
    "name": "EZ Bar Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=ez+bar+curl+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13676,6 +13992,7 @@
   {
    "id": "maintenance-shoulders-overheadpress",
    "name": "Overhead Barbell Press",
+   "videoURL": "https://www.youtube.com/results?search_query=overhead+barbell+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13710,6 +14027,7 @@
   {
    "id": "maintenance-shoulders-seateddbpress",
    "name": "Seated Dumbbell Press",
+   "videoURL": "https://www.youtube.com/results?search_query=seated+dumbbell+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13741,6 +14059,7 @@
   {
    "id": "maintenance-shoulders-arnold",
    "name": "Arnold Press",
+   "videoURL": "https://www.youtube.com/results?search_query=arnold+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13772,6 +14091,7 @@
   {
    "id": "maintenance-shoulders-lateralraise",
    "name": "Dumbbell Lateral Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+lateral+raise+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13799,6 +14119,7 @@
   {
    "id": "maintenance-shoulders-facepull",
    "name": "Cable Face Pull",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+face+pull+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13826,6 +14147,7 @@
   {
    "id": "maintenance-shoulders-reversepecdeck",
    "name": "Reverse Pec Deck",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+pec+deck+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13853,6 +14175,7 @@
   {
    "id": "maintenance-shoulders-uprightrow",
    "name": "Dumbbell Upright Row",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+upright+row+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13880,6 +14203,7 @@
   {
    "id": "maintenance-shoulders-yraise",
    "name": "Cable Y-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+y+raise+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13907,6 +14231,7 @@
   {
    "id": "maintenance-arms-ezcurl",
    "name": "EZ Bar Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=ez+bar+curl+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13934,6 +14259,7 @@
   {
    "id": "maintenance-arms-closegrip",
    "name": "Close-Grip Bench Press",
+   "videoURL": "https://www.youtube.com/results?search_query=close+grip+bench+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13961,6 +14287,7 @@
   {
    "id": "maintenance-arms-skullcrusher",
    "name": "Skull Crusher",
+   "videoURL": "https://www.youtube.com/results?search_query=skull+crusher+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -13988,6 +14315,7 @@
   {
    "id": "maintenance-arms-hammercurl",
    "name": "Incline Dumbbell Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+curl+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14011,6 +14339,7 @@
   {
    "id": "maintenance-arms-pushdown",
    "name": "Cable Tricep Pushdown",
+   "videoURL": "https://www.youtube.com/results?search_query=cable+tricep+pushdown+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14038,6 +14367,7 @@
   {
    "id": "maintenance-arms-preacher",
    "name": "Preacher Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=preacher+curl+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14061,6 +14391,7 @@
   {
    "id": "maintenance-arms-overheadext",
    "name": "Overhead Tricep Extension",
+   "videoURL": "https://www.youtube.com/results?search_query=overhead+tricep+extension+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14092,6 +14423,7 @@
   {
    "id": "maintenance-arms-reversecurl",
    "name": "Reverse Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+curl+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14115,6 +14447,7 @@
   {
    "id": "maintenance-fullbody-trapbar",
    "name": "Trap Bar Deadlift",
+   "videoURL": "https://www.youtube.com/results?search_query=trap+bar+deadlift+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14150,6 +14483,7 @@
   {
    "id": "maintenance-fullbody-thruster",
    "name": "Dumbbell Thruster",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+thruster+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14185,6 +14519,7 @@
   {
    "id": "maintenance-fullbody-kbswing",
    "name": "Kettlebell Swing",
+   "videoURL": "https://www.youtube.com/results?search_query=kettlebell+swing+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14220,6 +14555,7 @@
   {
    "id": "maintenance-fullbody-pullup",
    "name": "Pull-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=pull+up+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14247,6 +14583,7 @@
   {
    "id": "maintenance-fullbody-goblet",
    "name": "Dumbbell Front Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+front+squat+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14282,6 +14619,7 @@
   {
    "id": "maintenance-fullbody-pushpress",
    "name": "Dumbbell Push Press",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+push+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14313,6 +14651,7 @@
   {
    "id": "maintenance-fullbody-carry",
    "name": "Farmer's Carry",
+   "videoURL": "https://www.youtube.com/results?search_query=farmer+s+carry+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14348,6 +14687,7 @@
   {
    "id": "maintenance-fullbody-lunge",
    "name": "Dumbbell Walking Lunge",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+walking+lunge+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14383,6 +14723,7 @@
   {
    "id": "maintenance-push-home-eccentric",
    "name": "Eccentric Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=eccentric+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14414,6 +14755,7 @@
   {
    "id": "maintenance-push-home-staggered",
    "name": "Staggered-Hand Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=staggered+hand+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14445,6 +14787,7 @@
   {
    "id": "maintenance-push-home-closegrip",
    "name": "Close-Grip Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=close+grip+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14472,6 +14815,7 @@
   {
    "id": "maintenance-pull-home-feetelevrow",
    "name": "Feet-Elevated Table Row",
+   "videoURL": "https://www.youtube.com/results?search_query=feet+elevated+table+row+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14503,6 +14847,7 @@
   {
    "id": "maintenance-pull-home-cobra",
    "name": "Prone Cobra Hold",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+cobra+hold+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14530,6 +14875,7 @@
   {
    "id": "maintenance-pull-home-pullover",
    "name": "Sliding Lat Pullover",
+   "videoURL": "https://www.youtube.com/results?search_query=sliding+lat+pullover+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14557,6 +14903,7 @@
   {
    "id": "maintenance-legs-home-cossack",
    "name": "Cossack Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=cossack+squat+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14588,6 +14935,7 @@
   {
    "id": "maintenance-legs-home-slidingcurl",
    "name": "Sliding Leg Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=sliding+leg+curl+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14619,6 +14967,7 @@
   {
    "id": "maintenance-legs-home-slcalf",
    "name": "Single-Leg Calf Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=single+leg+calf+raise+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14646,6 +14995,7 @@
   {
    "id": "maintenance-upper-home-archer",
    "name": "Archer Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=archer+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14677,6 +15027,7 @@
   {
    "id": "maintenance-upper-home-feetelevrow",
    "name": "Feet-Elevated Table Row",
+   "videoURL": "https://www.youtube.com/results?search_query=feet+elevated+table+row+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14708,6 +15059,7 @@
   {
    "id": "maintenance-upper-home-diamond",
    "name": "Diamond Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=diamond+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14735,6 +15087,7 @@
   {
    "id": "maintenance-shoulders-home-wallpike",
    "name": "Wall Pike Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=wall+pike+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14766,6 +15119,7 @@
   {
    "id": "maintenance-shoulders-home-elevpike",
    "name": "Elevated Pike Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=elevated+pike+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14797,6 +15151,7 @@
   {
    "id": "maintenance-shoulders-home-handstand",
    "name": "Wall Handstand Hold",
+   "videoURL": "https://www.youtube.com/results?search_query=wall+handstand+hold+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14828,6 +15183,7 @@
   {
    "id": "maintenance-shoulders-home-yraise",
    "name": "Prone Y-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+y+raise+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14855,6 +15211,7 @@
   {
    "id": "maintenance-shoulders-home-traise",
    "name": "Prone T-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+t+raise+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14882,6 +15239,7 @@
   {
    "id": "maintenance-shoulders-home-wraise",
    "name": "Prone W-Raise",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+w+raise+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14909,6 +15267,7 @@
   {
    "id": "maintenance-shoulders-home-wallslide",
    "name": "Scapular Wall Slide",
+   "videoURL": "https://www.youtube.com/results?search_query=scapular+wall+slide+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14936,6 +15295,7 @@
   {
    "id": "maintenance-shoulders-home-snowangel",
    "name": "Reverse Snow Angel",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+snow+angel+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14963,6 +15323,7 @@
   {
    "id": "maintenance-arms-home-diamond",
    "name": "Diamond Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=diamond+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -14990,6 +15351,7 @@
   {
    "id": "maintenance-arms-home-feetelevdip",
    "name": "Feet-Elevated Chair Dip",
+   "videoURL": "https://www.youtube.com/results?search_query=feet+elevated+chair+dip+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15017,6 +15379,7 @@
   {
    "id": "maintenance-arms-home-closegrip",
    "name": "Close-Grip Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=close+grip+push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15044,6 +15407,7 @@
   {
    "id": "maintenance-arms-home-supinatedrow",
    "name": "Supinated Inverted Row",
+   "videoURL": "https://www.youtube.com/results?search_query=supinated+inverted+row+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15075,6 +15439,7 @@
   {
    "id": "maintenance-arms-home-skullcrusher",
    "name": "Bodyweight Skull Crusher",
+   "videoURL": "https://www.youtube.com/results?search_query=bodyweight+skull+crusher+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15102,6 +15467,7 @@
   {
    "id": "maintenance-arms-home-towelcurl",
    "name": "Towel Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=towel+curl+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15129,6 +15495,7 @@
   {
    "id": "maintenance-arms-home-slidingext",
    "name": "Sliding Tricep Extension",
+   "videoURL": "https://www.youtube.com/results?search_query=sliding+tricep+extension+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15160,6 +15527,7 @@
   {
    "id": "maintenance-arms-home-cgrow",
    "name": "Close-Grip Table Row",
+   "videoURL": "https://www.youtube.com/results?search_query=close+grip+table+row+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15191,6 +15559,7 @@
   {
    "id": "maintenance-fullbody-home-bulgarian",
    "name": "Bulgarian Split Squat",
+   "videoURL": "https://www.youtube.com/results?search_query=bulgarian+split+squat+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15226,6 +15595,7 @@
   {
    "id": "maintenance-fullbody-home-pushup",
    "name": "Push-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=push+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15257,6 +15627,7 @@
   {
    "id": "maintenance-fullbody-home-row",
    "name": "Inverted Row (Under Table)",
+   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+under+table+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15288,6 +15659,7 @@
   {
    "id": "maintenance-fullbody-home-burpee",
    "name": "Burpee",
+   "videoURL": "https://www.youtube.com/results?search_query=burpee+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15323,6 +15695,7 @@
   {
    "id": "maintenance-fullbody-home-lunge",
    "name": "Walking Lunge",
+   "videoURL": "https://www.youtube.com/results?search_query=walking+lunge+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15358,6 +15731,7 @@
   {
    "id": "maintenance-fullbody-home-bearcrawl",
    "name": "Bear Crawl",
+   "videoURL": "https://www.youtube.com/results?search_query=bear+crawl+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15393,6 +15767,7 @@
   {
    "id": "maintenance-fullbody-home-slrdl",
    "name": "Single-Leg Romanian Deadlift",
+   "videoURL": "https://www.youtube.com/results?search_query=single+leg+romanian+deadlift+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15428,6 +15803,7 @@
   {
    "id": "maintenance-fullbody-home-stepup",
    "name": "Stair Step-Up",
+   "videoURL": "https://www.youtube.com/results?search_query=stair+step+up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15463,6 +15839,7 @@
   {
    "id": "arms-db-hammer-curl-home",
    "name": "Dumbbell Hammer Curl",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+hammer+curl+form",
    "category": "arms",
    "environment": [
     "home"
@@ -15507,6 +15884,7 @@
   {
    "id": "fullbody-db-renegade-row-home",
    "name": "Dumbbell Renegade Row",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+renegade+row+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -15555,6 +15933,7 @@
   {
    "id": "push-db-pullover-home",
    "name": "Dumbbell Pullover",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+pullover+form",
    "category": "push",
    "environment": [
     "home"
