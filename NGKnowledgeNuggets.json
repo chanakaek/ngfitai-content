@@ -1,5 +1,5 @@
 {
-  "version": "1.73.0",
+  "version": "1.74.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -103,8 +103,8 @@
       "audience": "all",
       "icon": "arrow.up.forward.circle.fill",
       "title": "Graduate into Maintenance & reverse diet",
-      "body": "Once your programme completes, switch to Maintenance: calories rise to full TDEE with carbs raised gradually over a 4-week reverse diet — protecting muscle and performance.",
-      "learnMoreURL": "https://strathlon.com/blog-plan-ends-goal-reached",
+      "body": "Once your programme completes, switch to Maintenance and your calories climb back to full TDEE over a four-week reverse diet. Your protein and fat targets are set from your body weight and don't move during the ramp, so every calorie it adds arrives as carbohydrate. The Plan tab tells you which week you're on.",
+      "learnMoreURL": "https://strathlon.com/userguide#goal-maintenance",
       "stage": "usage-core"
     },
     {
@@ -132,9 +132,9 @@
       "category": "app-tip",
       "audience": "all",
       "icon": "list.number",
-      "title": "Add several sports — priority handled",
-      "body": "Pick more than one sport and your primary gets the full calorie bonus while the others scale sensibly. Change the order any time in Settings → Sports.",
-      "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
+      "title": "Add several sports: the bonus is shared",
+      "body": "On a day with more than one session, the largest one earns its full calorie bonus, a second counts at 55% and anything beyond that at 30%, with the day capped at 75% of your BMR. Your first sport is the primary one and sets the estimate on the Nutrition tab. The order is the order you added them in.",
+      "learnMoreURL": "https://strathlon.com/userguide#sports-priority",
       "stage": "usage-core"
     },
     {
@@ -173,7 +173,7 @@
       "audience": "all",
       "icon": "chart.line.uptrend.xyaxis",
       "title": "'Your week's ready' — open your review",
-      "body": "When a new week has data worth showing, a 'Your week's ready 👀' card appears atop the AI Coach tab. Tap it for stat tiles and charts — sessions, rest, active burn, energy balance, sleep and weight trend — built from your own data.",
+      "body": "When a new week has data worth showing, a 'Your week's ready 👀' card appears atop the AI Coach tab. Tap it for a written narrative of your week plus a compact stats row: sessions, volume-load, rest adherence, active burn, energy balance, protein, weight, sleep and daily steps. The charts live on the Progress tab.",
       "learnMoreURL": "https://strathlon.com/userguide#weekly-review",
       "stage": "usage-core"
     },
@@ -797,8 +797,8 @@
       "audience": "all",
       "icon": "chart.line.downtrend.xyaxis",
       "title": "Weigh the trend, not the day",
-      "body": "Daily weight swings 1–2 kg from food, water, salt and sleep — none of it fat. Take a weekly average and judge that line. One high morning means nothing on its own.",
-      "learnMoreURL": "https://strathlon.com/stats-weight-trend",
+      "body": "Your weight moves about half a kilo either side of trend on an ordinary day, and up to 1 to 2 kg on an occasional one, from food, water, salt and glycogen. Almost none of it is fat: measured over two weeks, 84% of a change in body weight is fat-free mass. Take a weekly average and judge that line.",
+      "learnMoreURL": "https://strathlon.com/stats-weight-trend#how-big",
       "stage": "knowledge"
     },
     {
@@ -820,7 +820,7 @@
       "audience": "all",
       "icon": "arrow.triangle.2.circlepath",
       "title": "Stalled? You're probably eating more than you think",
-      "body": "Plateaus are almost always creeping portions and untracked bites, not a 'broken metabolism'. Tighten logging for a week before slashing calories further.",
+      "body": "Stalls are usually intake. Energy intake is under-reported by 15 to 30% on average, and appetite rises by roughly 100 kcal a day for every kilo you lose, so portions drift without any decision being made. Metabolic slowdown is real and about a third the size. Tighten logging for a week before cutting calories further.",
       "goals": [
         "deficit"
       ],
@@ -908,9 +908,9 @@
       "category": "nutrition",
       "audience": "all",
       "icon": "drop.fill",
-      "title": "Thirst can masquerade as hunger",
-      "body": "Mild dehydration often reads as a snack craving. If one hits out of nowhere, have a glass of water and wait ten minutes — half the time the 'hunger' fades, so you end up eating when you're genuinely hungry.",
-      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#hydration",
+      "title": "Water before a meal earns its keep",
+      "body": "Thirst does not masquerade as hunger. When people are made mildly dehydrated in trials, thirst rises and hunger ratings do not move, and they eat the same amount. What does work is water before eating: 500 ml half an hour before a meal cut what people ate at it by about 13%.",
+      "learnMoreURL": "https://strathlon.com/guide-hydration-and-electrolytes#thirst-and-hunger",
       "stage": "knowledge"
     },
     {
@@ -958,9 +958,9 @@
       "category": "nutrition",
       "audience": "all",
       "icon": "drop.circle.fill",
-      "title": "Hydration sharpens performance",
-      "body": "Even mild dehydration drops strength, endurance and focus. Aim for pale-straw urine; add a pinch of salt or electrolytes on long, sweaty or match days.",
-      "learnMoreURL": "https://strathlon.com/guide-eating-for-results#hydration",
+      "title": "Hydration matters most when it's long and hot",
+      "body": "Losing more than about 2% of your body weight in sweat costs you endurance, especially in the heat. Below that, the effects on strength and concentration are small and much less certain than they get made out to be. Pale urine is a rough field check, best read against your own normal. Add sodium on long, hot, heavy-sweat days.",
+      "learnMoreURL": "https://strathlon.com/guide-hydration-and-electrolytes#what-it-costs",
       "stage": "knowledge"
     },
     {
@@ -1068,9 +1068,9 @@
       "category": "strength",
       "audience": "all",
       "icon": "figure.cooldown",
-      "title": "Warm up to lift more, safely",
-      "body": "A few ramp-up sets prime your nervous system and joints so your working sets feel stronger and safer. Two minutes of warm-up buys you better top sets.",
-      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics",
+      "title": "Warm up heavy enough to count",
+      "body": "Ramp up on the same lift instead of starting cold, and let the last warm-up set get near your working weight. Warming up at about 80% of the training load improved squat and bench velocity and total work, where a light-only warm-up did not. The evidence is about the load you ramp to. There is no sourced number of minutes.",
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#warm-up",
       "stage": "knowledge"
     },
     {
@@ -1374,9 +1374,9 @@
       "category": "general",
       "audience": "all",
       "icon": "figure.walk.circle.fill",
-      "title": "Steps are the easiest win",
-      "body": "Walking 7,000–10,000 steps a day burns easy calories, aids recovery and lifts mood — no kit, no soreness. It's one of the most underrated health and recovery habits there is.",
-      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#the-equation",
+      "title": "Steps: the win with no target",
+      "body": "There is no magic step number. The association with lower mortality begins around 2,500 steps a day and the steepest gains sit below 6,000, so the lower your current average the more each extra thousand is worth. Most of the benefit is banked by about 7,000, and where the curve flattens depends on your age.",
+      "learnMoreURL": "https://strathlon.com/stats-daily-steps",
       "stage": "knowledge"
     },
     {
@@ -1474,9 +1474,9 @@
       "category": "strength",
       "audience": "all",
       "icon": "figure.mind.and.body",
-      "title": "Mind the muscle, not the weight",
-      "body": "Focusing on the working muscle and feeling it contract often beats chasing a heavier number with sloppy form. Tension where it counts is what actually drives growth.",
-      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics",
+      "title": "Mind the muscle on the light sets",
+      "body": "Focusing on the working muscle does raise that muscle's activity, and only up to about 60% of your max, with the effect gone by 80%. It also will not make you stronger: for pure force output the evidence slightly favours thinking about moving the weight. Use it on accessory and higher-rep work, and drop it for your heavy sets.",
+      "learnMoreURL": "https://strathlon.com/guide-build-muscle-basics#attention",
       "stage": "knowledge"
     },
     {
@@ -1544,12 +1544,12 @@
       "category": "strength",
       "audience": "all",
       "icon": "flame.fill",
-      "title": "Density beats 'heavy' on a cut",
-      "body": "In a calorie deficit you're not chasing maximal weight — you're chasing quality reps under fatigue, done densely: more work in less time, heart rate up, form intact. That's what makes definition show while you're losing fat.",
+      "title": "On a cut, keep the weight heavy",
+      "body": "A deficit impairs the lean mass you can gain, and leaves your strength gains largely intact, so load is the thing to hold on to. More work in the session does not protect muscle: five sets against three, in a deficit, made no difference to lean mass. Definition comes from the deficit and your protein. Density buys time and conditioning.",
       "goals": [
         "deficit"
       ],
-      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals",
+      "learnMoreURL": "https://strathlon.com/stats-work-to-rest-ratio#on-a-cut",
       "stage": "knowledge"
     },
     {
@@ -2122,11 +2122,11 @@
       "audience": "all",
       "icon": "fork.knife",
       "title": "Struggling to eat enough? Make calories easier",
-      "body": "If your appetite gives out before you hit your surplus, big bulky low-calorie meals are working against you. Lean on calorie-dense foods — nuts, oils, dairy, dried fruit — and sip easy liquid calories between meals; a single glass of whole milk is around 120-150 kcal with barely any effort. Pick two or three easy add-ons and hitting the surplus stops feeling like a chore.",
+      "body": "If your appetite gives out before your surplus does, volume is the problem. People eat a fairly steady weight of food, so low-calorie-density meals cost around 400 kcal a day with nobody feeling any fuller. Lean on calorie-dense foods, and drink some of it: liquid calories are compensated for poorly, which is a trap on a cut and a tool here.",
       "goals": [
         "muscleGain"
       ],
-      "learnMoreURL": "https://strathlon.com/guide-eating-to-build-muscle",
+      "learnMoreURL": "https://strathlon.com/guide-eating-to-build-muscle#appetite-limit",
       "stage": "knowledge"
     },
     {
@@ -2247,11 +2247,11 @@
       "audience": "all",
       "icon": "calendar.circle.fill",
       "title": "Eat to build off-season, eat to perform in-season",
-      "body": "Your fuelling should follow your calendar. Off-season or pre-season, a small surplus — a couple of hundred calories a day — plus steady lifting builds the strength you'll draw on later. In-season the job changes to fuelling performance and holding what you built: eat around your matches, keep protein up, and save any hard body-composition push for the quieter months.",
+      "body": "Your fuelling should follow your calendar. Off-season or pre-season, a small surplus (a couple of hundred calories a day for a well-trained athlete) plus steady lifting is when you build. In-season the job changes to fuelling performance and holding what you built: eat around your matches, keep protein up, and save any hard body-composition push for the quieter months.",
       "goals": [
         "performance"
       ],
-      "learnMoreURL": "https://strathlon.com/guide-eating-for-results",
+      "learnMoreURL": "https://strathlon.com/guide-eating-to-build-muscle#across-a-season",
       "stage": "knowledge"
     },
     {
@@ -2272,11 +2272,11 @@
       "audience": "all",
       "icon": "flag.checkered",
       "title": "Competition day is no time to try something new",
-      "body": "On the day, stick to foods you've eaten before big efforts and know sit well — nerves plus an unfamiliar meal are a bad mix. Eat your main meal three to four hours out, keep sipping fluids, and pack familiar snacks when you travel so you're not at the mercy of what's on offer. Rehearse your race-day fuelling in training first.",
+      "body": "On the day, stick to foods you've eaten before big efforts and know sit well. Position stands put the pre-event meal at 1 to 4 g of carbs per kg, one to four hours out, and most people land on three to four hours. Keep sipping fluids and pack familiar snacks when you travel. Rehearse your race-day fuelling in training first, which is published advice rather than folklore.",
       "goals": [
         "performance"
       ],
-      "learnMoreURL": "https://strathlon.com/guide-carb-loading",
+      "learnMoreURL": "https://strathlon.com/guide-carb-loading#race-day",
       "stage": "knowledge"
     },
     {
@@ -2569,12 +2569,12 @@
       "category": "nutrition",
       "audience": "all",
       "icon": "fork.knife",
-      "title": "Fuel the back half of your rounds",
-      "body": "Boxing is repeated three-minute bursts, and by the later rounds it's your muscle glycogen — stored carbohydrate — running low, not just tired legs. Eating around 1 gram of carbs per kg of body weight in the two to three hours before hard sparring keeps your snap and footwork alive into rounds six and beyond. Get that porridge or rice bowl in before you glove up, not after.",
+      "title": "Start sparring topped up",
+      "body": "A three-round bout measures about 73% aerobic, so fading late rounds are accumulated fatigue rather than glycogen running out mid-session. What is measured is the starting state: begin intermittent high-intensity work glycogen-low and the work you complete drops sharply. Around 1 g of carbs per kg, two to three hours out, does that job.",
       "sports": [
         "boxing"
       ],
-      "learnMoreURL": "https://strathlon.com/guide-fuelling-boxing",
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-boxing#training-fuel",
       "stage": "knowledge"
     },
     {
@@ -2673,12 +2673,12 @@
       "category": "nutrition",
       "audience": "all",
       "icon": "fork.knife",
-      "title": "Don't go into an evening class empty",
-      "body": "A 45–60 minute spin, HIIT or bootcamp class is high-intensity from the first minute, so rolling in after a long day with nothing in the tank means light-headedness and a weaker effort. A small snack of 15–30g of carbs, 30–60 minutes before, tops you up without sitting heavy. Grab a banana or a slice of toast before you head in.",
+      "title": "An evening class doesn't need fuelling",
+      "body": "A 45 to 60 minute class is short enough that extra carbs are not required. Pre-exercise feeding improves prolonged efforts and does nothing measurable for shorter ones. If you'd rather not train on empty after a long day, a banana beforehand is fine and won't hurt. Feeling flat is real, and in healthy people it is not low blood sugar.",
       "sports": [
         "gym_class"
       ],
-      "learnMoreURL": "https://strathlon.com/guide-fuelling-gym_class",
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-gym_class#fasted",
       "stage": "knowledge"
     },
     {
