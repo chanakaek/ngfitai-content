@@ -1,5 +1,5 @@
 {
-  "version": "1.74.0",
+  "version": "1.75.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -480,7 +480,7 @@
       "audience": "all",
       "icon": "figure.walk.motion",
       "title": "Going away? Tell Strathlon",
-      "body": "On the Plan tab, tap \"On a break or catching up?\". Set a holiday or busy spell and those days show \"On a break\" — your plan pauses where it is, nothing's lost, and you get a welcome-back when you're home. While you're on a break your calories ease to maintenance (no deficit) and any scheduled sport bonus isn't counted — enjoy it; your normal targets resume automatically when you're back. Trained while away (off-app, a different gym, a walk)? Tick the days and what you did — even several at once — and it counts toward your progress on any day.",
+      "body": "On the Plan tab, tap \"Away or catching up?\". Set a holiday or busy spell and those days show \"On a break\" — your plan pauses where it is, nothing's lost, and you get a welcome-back when you're home. Your place in the plan advances on the weeks you actually train, not on the calendar, so a break costs you no plan weeks. The scheduled sport bonus isn't counted while you're away, and the app tells you on screen what it does with your calories when you set the break. Trained while away (off-app, a different gym, a walk)? Tick the days and what you did — even several at once — and it counts toward your progress on any day.",
       "stage": "usage-core"
     },
     {
