@@ -1,5 +1,5 @@
 {
-  "version": "1.36.0",
+  "version": "1.37.0",
   "title": "HOW STRATHLON WORKS (product help — use this to answer 'how do I…' questions about the app)",
   "sections": [
     {
@@ -78,7 +78,7 @@
         "For a gym or home workout, open the 'Gym & home' tile: pick Push/Pull/Leg/Upper day, a full-body/circuit, home bodyweight or home dumbbell — or 'Other workout (custom)'. Search by the name you use ('ppl', 'leg day', 'calisthenics'); calories scale to your weight and duration, or turn on Override to enter your own from a watch. It's for EXTRA or unplanned work — your planned gym session is already counted, so it's never double-counted.",
         "Set each sport's Intensity (Light/Standard/High) in Settings → Sports to tune its calorie bonus. With multiple sports, reorder them in the 'SPORT PRIORITY' list on that same screen (Settings → Sports → Edit) - top is P1, and you can change it at any time, not just during setup. That order tunes your GYM work to your top two sports; it does NOT set calorie bonuses. Calorie bonuses go by session SIZE: on a day with more than one session the largest earns the full bonus, a second counts at 55% and further ones at 30%, capped at 75% of BMR.",
         "When a programme completes, switch to Maintenance: calories rise to full TDEE with carbs raised gradually over a 4-week reverse diet.",
-        "Going away? Plan tab → 'On a break or catching up?' pauses your plan (calories ease to maintenance, no deficit, no 'missed day' nagging) and lets you tick days you trained while away."
+        "Going away? Plan tab → 'On a break or catching up?' saves the dates and asks WHAT KIND of break it is, because that sets what you eat. 'I'm on holiday' uses your MAINTENANCE calories — no deficit, more room to eat. 'I can't train' (work, travel, illness) uses your REST-DAY calories, plan and deficit carrying on. Neither pays for a session you are not doing; what you log while away still counts. No 'missed day' nagging; your plan pauses. Breaks saved before this update keep the targets they had. The same screen ticks days you trained while away."
       ]
     },
     {
