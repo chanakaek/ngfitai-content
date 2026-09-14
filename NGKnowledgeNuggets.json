@@ -1,5 +1,5 @@
 {
-  "version": "1.75.0",
+  "version": "1.76.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -344,7 +344,7 @@
       "audience": "all",
       "icon": "crown.fill",
       "title": "What your subscription unlocks",
-      "body": "Plan, timers, targets, supplements, tracker and Health sync are built in. The AI Coach — chat, meal plans, photo macro scanning, progress analysis — is premium, with a 14-day free trial.",
+      "body": "Plan, timers, targets, supplements, tracker and Health sync are built in. The AI Coach — chat, meal plans, photo macro scanning, progress analysis — is premium, with a 14-day free trial for anyone who hasn't had one before.",
       "learnMoreURL": "https://strathlon.com/blog-ai-coach",
       "stage": "usage-premium"
     },
