@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "teasers": [
     {
       "id": "tz_photo_macros",
@@ -55,7 +55,10 @@
       "blurred": [
         "I'd keep protein up at dinner so the drinks don't leave you short, and…"
       ],
-      "cta": "Get the offset plan"
+      "cta": "Get the offset plan",
+      "goals": [
+        "energyDirected"
+      ]
     },
     {
       "id": "tz_refuel",
@@ -85,7 +88,10 @@
       "blurred": [
         "If you'd rather have the pasta, here's the swap that keeps you on track…"
       ],
-      "cta": "Order with confidence"
+      "cta": "Order with confidence",
+      "goals": [
+        "energyDirected"
+      ]
     },
     {
       "id": "tz_bank_calories",
@@ -96,7 +102,10 @@
       "blurred": [
         "Keep breakfast protein-heavy so you're not starving by dinner, and…"
       ],
-      "cta": "Bank calories for tonight"
+      "cta": "Bank calories for tonight",
+      "goals": [
+        "energyDirected"
+      ]
     },
     {
       "id": "tz_snack",
@@ -118,7 +127,10 @@
       "blurred": [
         "Add a side salad to fill the plate without spending your remaining…"
       ],
-      "cta": "Fit any meal in"
+      "cta": "Fit any meal in",
+      "goals": [
+        "energyDirected"
+      ]
     },
     {
       "id": "tz_reset",
@@ -129,7 +141,10 @@
       "blurred": [
         "Your weight will settle in a few days as the water clears, so…"
       ],
-      "cta": "Get your reset"
+      "cta": "Get your reset",
+      "goals": [
+        "energyDirected"
+      ]
     },
     {
       "id": "tz_time_crunch",
@@ -197,7 +212,10 @@
       "blurred": [
         "Week 1 add about 150 kcal, keep your training the same, and watch the…"
       ],
-      "cta": "Plan the switch"
+      "cta": "Plan the switch",
+      "goals": [
+        "deficit"
+      ]
     },
     {
       "id": "tz_explain_gap",
@@ -280,10 +298,10 @@
       "id": "tz_explain_deficit",
       "template": "chatQA",
       "audience": "all",
-      "question": "Explain my deficit chart.",
-      "replyLead": "The bars are how far under maintenance you ate each day; the line is the weight it predicts. You've averaged a solid deficit this week.",
+      "question": "Explain my weight chart.",
+      "replyLead": "The solid line is your weigh-ins and the dashed line is the weight your tracked food and burn predict. When they drift apart, water, glycogen and gaps in logging usually explain most of it.",
       "blurred": [
-        "The days it went positive were the weekend — that's what's slowing the…"
+        "Here's where the gap opened up this week, and the one thing I'd check first…"
       ],
       "cta": "Understand your data"
     },
@@ -296,7 +314,10 @@
       "blurred": [
         "Two things I'd try this week: 1. Log the weekends too, even roughly.  2…"
       ],
-      "cta": "Break the plateau"
+      "cta": "Break the plateau",
+      "goals": [
+        "deficit"
+      ]
     },
     {
       "id": "tz_on_track",
@@ -307,7 +328,10 @@
       "blurred": [
         "If it helps I can shuffle this week so you don't feel like you're chasing…"
       ],
-      "cta": "Stay on track"
+      "cta": "Stay on track",
+      "goals": [
+        "deficit"
+      ]
     },
     {
       "id": "tz_protein_check",
@@ -341,7 +365,10 @@
       "blurred": [
         "Iron- and magnesium-rich meals help this week — for example…"
       ],
-      "cta": "Turn on cycle coaching"
+      "cta": "Turn on cycle coaching",
+      "goals": [
+        "energyDirected"
+      ]
     }
   ]
 }

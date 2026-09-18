@@ -1,5 +1,5 @@
 {
-  "version": "1.76.0",
+  "version": "1.77.0",
   "nuggets": [
     {
       "id": "nug_170",
@@ -17,7 +17,7 @@
       "audience": "all",
       "icon": "chart.xyaxis.line",
       "title": "Read your charts like a pro",
-      "body": "Daily, weekly or monthly, your weight and deficit charts open on your latest data. Here's how to read the trend, the range and the away shading.",
+      "body": "Daily, weekly or monthly, your weight and energy balance charts open on your latest data. Here's how to read the trend, the range and the away shading.",
       "learnMoreURL": "https://strathlon.com/blog-tracking-progress",
       "stage": "usage-core"
     },
@@ -105,7 +105,10 @@
       "title": "Graduate into Maintenance & reverse diet",
       "body": "Once your programme completes, switch to Maintenance and your calories climb back to full TDEE over a four-week reverse diet. Your protein and fat targets are set from your body weight and don't move during the ramp, so every calorie it adds arrives as carbohydrate. The Plan tab tells you which week you're on.",
       "learnMoreURL": "https://strathlon.com/userguide#goal-maintenance",
-      "stage": "usage-core"
+      "stage": "usage-core",
+      "goals": [
+        "energyDirected"
+      ]
     },
     {
       "id": "nug_175",
@@ -489,7 +492,7 @@
       "audience": "all",
       "icon": "target",
       "title": "Your Tracker now shows today's target",
-      "body": "The Tracker's top row shows four tiles — Target, Burned, Consumed and Deficit — so today's calorie target sits right next to your actuals. The target is worked out for your day type (training vs rest) and updates live when you add an activity. Tap the small ⓘ on any tile to see where its number comes from.",
+      "body": "The Tracker's top row shows four tiles — Target, Burned, Consumed and a fourth that reads Deficit, Surplus or Balance depending on your goal — so today's calorie target sits right next to your actuals. The target is worked out for your day type (training vs rest) and updates live when you add an activity. Tap the small ⓘ on Target, Burned or that fourth tile to see where its number comes from. With a pregnancy or breastfeeding recorded there's no calorie target, so the row shows three tiles.",
       "learnMoreURL": "https://strathlon.com/userguide#tracker",
       "stage": "usage-core"
     },
@@ -508,7 +511,7 @@
       "audience": "all",
       "icon": "chart-candle",
       "title": "A clearer weight chart",
-      "body": "Your weight chart keeps it simple: your actual weight (solid line) plus your predicted weight from your tracked calorie deficit (dashed line, ≈7,700 kcal ≈ 1 kg). Rotate to landscape or tap ⤢ for a full-screen view — pinch to zoom and drag to read any day's value, with a note explaining the prediction is an estimate (water, glycogen and adaptation make real weight differ).",
+      "body": "Your weight chart keeps it simple: your actual weight (solid line) plus your predicted weight from your tracked calorie deficit or surplus (dashed line, ≈7,700 kcal ≈ 1 kg). Tap ⤢ for a full-screen view — pinch to zoom and drag to read any day's value, with a note explaining the prediction is an estimate (water, glycogen and adaptation make real weight differ).",
       "learnMoreURL": "https://strathlon.com/userguide#tracker",
       "stage": "usage-core"
     },
@@ -527,7 +530,7 @@
       "audience": "all",
       "icon": "chart.xyaxis.line",
       "title": "Why the scale doesn't always match the maths",
-      "body": "On the Progress tab's Body weight screen, your weight chart overlays the weight your logged calorie deficit predicts (dashed line) against your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask the coach about this' and the answer appears right there on the screen — it explains the gap, or asks you a question or two first, with no typing needed. If 'Share my health data with the AI coach' is off, the first tap offers to turn it on - once. After that the switch alone decides what travels with your question, and your numbers are used only for that answer and aren't remembered. With that switch off you still get an answer, built from what you logged yourself.",
+      "body": "On the Progress tab's Body weight screen, your weight chart overlays the weight your logged calorie deficit or surplus predicts (dashed line) against your real weigh-ins. They often drift apart — water and glycogen drop first, then your body adapts and the prediction runs ahead — so a gap is normal. When the gap is meaningful, premium members can tap 'Ask the coach about this' and the answer appears right there on the screen — it explains the gap, or asks you a question or two first, with no typing needed. If 'Share my health data with the AI coach' is off, the first tap offers to turn it on - once. After that the switch alone decides what travels with your question, and your numbers are used only for that answer and aren't remembered. With that switch off you still get an answer, built from what you logged yourself.",
       "learnMoreURL": "https://strathlon.com/userguide#tracker",
       "stage": "usage-core"
     },
@@ -911,7 +914,10 @@
       "title": "Water before a meal earns its keep",
       "body": "Thirst does not masquerade as hunger. When people are made mildly dehydrated in trials, thirst rises and hunger ratings do not move, and they eat the same amount. What does work is water before eating: 500 ml half an hour before a meal cut what people ate at it by about 13%.",
       "learnMoreURL": "https://strathlon.com/guide-hydration-and-electrolytes#thirst-and-hunger",
-      "stage": "knowledge"
+      "stage": "knowledge",
+      "goals": [
+        "energyDirected"
+      ]
     },
     {
       "id": "nug_025",
@@ -921,7 +927,10 @@
       "title": "Watch what you drink",
       "body": "Juices, lattes and 'healthy' smoothies can hide hundreds of calories that never fill you up. Liquid calories are easy to overlook when you're counting — worth knowing whether you're trying to trim them or, if you're gaining, use them.",
       "learnMoreURL": "https://strathlon.com/guide-eating-for-results#liquid-calories",
-      "stage": "knowledge"
+      "stage": "knowledge",
+      "goals": [
+        "energyDirected"
+      ]
     },
     {
       "id": "nug_026",
@@ -951,7 +960,10 @@
       "title": "Your eyes underestimate portions",
       "body": "Oil, dressings, nut butters and 'a handful' of nuts are calorie-dense and easy to under-count. Weighing the dense stuff for a week recalibrates your eye fast.",
       "learnMoreURL": "https://strathlon.com/guide-eating-for-results#portions",
-      "stage": "knowledge"
+      "stage": "knowledge",
+      "goals": [
+        "energyDirected"
+      ]
     },
     {
       "id": "nug_058",
@@ -1250,6 +1262,9 @@
       "id": "nug_028",
       "category": "myth",
       "audience": "all",
+      "goals": [
+        "deficit"
+      ],
       "icon": "xmark.octagon.fill",
       "title": "Myth: you can spot-reduce fat",
       "body": "Crunches don't burn belly fat and arm circles don't trim arms. Fat comes off your whole body in an order your genes decide — train the muscle, diet for the fat.",
@@ -1260,6 +1275,9 @@
       "id": "nug_029",
       "category": "myth",
       "audience": "all",
+      "goals": [
+        "deficit"
+      ],
       "icon": "flame.circle.fill",
       "title": "Myth: a 'fat-burning zone'",
       "body": "Lower-intensity cardio burns a higher fraction of fat but fewer total calories. What matters for fat loss is total energy burned and your overall deficit, not the zone.",
@@ -1333,6 +1351,9 @@
       "id": "nug_071",
       "category": "myth",
       "audience": "all",
+      "goals": [
+        "deficit"
+      ],
       "icon": "questionmark.diamond.fill",
       "title": "Myth: 'toning' is a special workout",
       "body": "There's no separate 'toning'. The lean, defined look is just muscle you built plus fat you lost. Lift to build it and diet to reveal it — that's all 'toned' means.",
@@ -1447,7 +1468,10 @@
       "title": "Fill half your plate with veg",
       "body": "Vegetables add fibre, micronutrients and volume for almost no calories. Trimming down? Let them fill about half your plate to stay full on fewer calories. Gaining? Take a smaller veg share so there's room for the protein and carbs your training needs.",
       "learnMoreURL": "https://strathlon.com/guide-eating-for-results#build-a-plate",
-      "stage": "knowledge"
+      "stage": "knowledge",
+      "goals": [
+        "energyDirected"
+      ]
     },
     {
       "id": "nug_083",
@@ -1497,7 +1521,10 @@
       "title": "Myth: skipping meals burns more fat",
       "body": "Fasting can suit some people, but skipping meals only helps if it lowers your total intake. If you binge later to compensate, you gain nothing. It's a tool, not magic.",
       "learnMoreURL": "https://strathlon.com/guide-fitness-myths#meal-timing",
-      "stage": "knowledge"
+      "stage": "knowledge",
+      "goals": [
+        "energyDirected"
+      ]
     },
     {
       "id": "nug_088",
@@ -1895,7 +1922,7 @@
       "title": "Bulking and the scale won't budge? Eat a little more",
       "body": "On a build, a scale that's flat for two or three weeks usually means you're not actually in a surplus — not that you should train harder. Add roughly 100–200 kcal a day, mostly carbs and protein, and give it another fortnight. Nudge, don't leap: a small bump grows muscle, a big one just adds fat.",
       "goals": [
-        "muscleGain"
+        "surplus"
       ]
     },
     {
@@ -1906,7 +1933,7 @@
       "title": "Building? Rest long and add load",
       "body": "When your goal is size and strength, the short-rest, heart-rate-up style is the wrong tool. On your main lifts, take 2–3 minutes between sets so you can move real weight and add to it over time — that progressive load is the stimulus that builds muscle. Save the density and short rests for when you're cutting.",
       "goals": [
-        "muscleGain"
+        "surplus"
       ]
     },
     {
@@ -1917,7 +1944,7 @@
       "title": "Build on a small surplus, not a big one",
       "body": "Muscle grows fastest on a small surplus — about 200–400 kcal extra a day for most people. Beyond that you can't build muscle any quicker; the extra just lands as fat you'll have to diet off later. Aim to gain slowly, around 0.25–0.5% of body weight a week.",
       "goals": [
-        "muscleGain"
+        "surplus"
       ]
     },
     {
@@ -1939,7 +1966,7 @@
       "title": "Extra calories only build with enough protein",
       "body": "A surplus is the fuel, but protein is the building material. Keep 1.6–2.2 g per kg of body weight even while gaining, spread across the day, and pair it with lifts you're progressively loading. Without that, more calories mostly become more fat.",
       "goals": [
-        "muscleGain"
+        "surplus"
       ]
     },
     {
@@ -1950,7 +1977,7 @@
       "title": "Gaining? Watch how much you move on top",
       "body": "The everyday movement that helps a cut — fidgeting, pacing, extra steps (NEAT) — can quietly burn through the surplus you're trying to build on. If the scale won't move despite eating more, some of those calories are leaking into daily activity. Keep moving for your health, but account for it and top up food to match.",
       "goals": [
-        "muscleGain"
+        "surplus"
       ]
     },
     {
@@ -2086,7 +2113,7 @@
       "title": "Build in seasons, then reveal it",
       "body": "You can't pile on muscle and get lean at speed at the same time, so most people do better in phases. Run a build in a small surplus for a few months, then a shorter cut — think six to ten weeks — to bring body fat back down and show the muscle off. Judge each phase on its own: expect the scale to climb in the build and drop in the cut.",
       "goals": [
-        "muscleGain"
+        "surplus"
       ],
       "learnMoreURL": "https://strathlon.com/guide-eating-to-build-muscle",
       "stage": "knowledge"
@@ -2112,7 +2139,7 @@
       "title": "Short-change sleep and your gains slip",
       "body": "Your extra calories only become muscle if you recover well enough to build it, and much of that repair happens while you sleep. Cut sleep short and recovery quality drops, nudging how your body partitions those calories away from muscle and toward fat storage. Seven to nine hours isn't a luxury on a build — it's part of the recipe.",
       "goals": [
-        "muscleGain"
+        "surplus"
       ],
       "stage": "knowledge"
     },
@@ -2124,7 +2151,7 @@
       "title": "Struggling to eat enough? Make calories easier",
       "body": "If your appetite gives out before your surplus does, volume is the problem. People eat a fairly steady weight of food, so low-calorie-density meals cost around 400 kcal a day with nobody feeling any fuller. Lean on calorie-dense foods, and drink some of it: liquid calories are compensated for poorly, which is a trap on a cut and a tool here.",
       "goals": [
-        "muscleGain"
+        "surplus"
       ],
       "learnMoreURL": "https://strathlon.com/guide-eating-to-build-muscle#appetite-limit",
       "stage": "knowledge"
@@ -2149,7 +2176,7 @@
       "title": "Keep eating, but take the odd easy week",
       "body": "On a long build it feels wrong to back off, but grinding hard for months buries you in fatigue and your lifts stall — and stalled lifts mean stalled muscle. Every four to eight weeks, take a lighter 'deload' week while still eating your surplus, so the tiredness clears and you come back adding load again. If your weight's climbing but the bar isn't moving, fatigue — not hunger — is usually the culprit.",
       "goals": [
-        "muscleGain"
+        "surplus"
       ],
       "stage": "knowledge"
     },
@@ -2249,7 +2276,7 @@
       "title": "Eat to build off-season, eat to perform in-season",
       "body": "Your fuelling should follow your calendar. Off-season or pre-season, a small surplus (a couple of hundred calories a day for a well-trained athlete) plus steady lifting is when you build. In-season the job changes to fuelling performance and holding what you built: eat around your matches, keep protein up, and save any hard body-composition push for the quieter months.",
       "goals": [
-        "performance"
+        "surplus"
       ],
       "learnMoreURL": "https://strathlon.com/guide-eating-to-build-muscle#across-a-season",
       "stage": "knowledge"
@@ -2420,7 +2447,7 @@
       "title": "Ease your calories up, don't leap",
       "body": "When a diet ends, add roughly 100–200 kcal back, then hold that number for a couple of weeks before the next step. A gentle climb — a 'reverse diet' — lets your appetite, water and daily burn re-settle, so you land at maintenance without a quick fat rebound. Slow up is how you keep what you earned.",
       "goals": [
-        "balance"
+        "maintenance"
       ],
       "learnMoreURL": "https://strathlon.com/guide-maintenance-nutrition",
       "stage": "knowledge"
@@ -2483,7 +2510,7 @@
       "title": "Bank the result before your next push",
       "body": "Tempted to swing straight from a cut into a bulk, or the reverse? Spending one to two weeks at maintenance first lets your appetite, hormones and training recover, so the next phase starts from a stronger base. A short pause isn't lost time — it's what makes the next push actually work.",
       "goals": [
-        "balance"
+        "maintenance"
       ],
       "learnMoreURL": "https://strathlon.com/guide-diet-breaks-and-refeeds",
       "stage": "knowledge"
@@ -2520,7 +2547,7 @@
       "title": "Myth: you must 'eat clean' to bulk",
       "body": "A surplus is a surplus — a spare 300 kcal builds the same muscle whether it comes from rice or a biscuit, so 'clean' food earns you no leaner gains on its own. What whole foods really buy you is steadier digestion, the fibre and micronutrients that keep training and recovery sharp, and enough protein without feeling stuffed. Build most meals around them for that reason, not for magic.",
       "goals": [
-        "muscleGain"
+        "surplus"
       ],
       "learnMoreURL": "https://strathlon.com/guide-clean-bulk-myth",
       "stage": "knowledge"
@@ -2533,7 +2560,7 @@
       "title": "Dirty bulking is faster on the scale, not in the mirror",
       "body": "Piling weight on quickly feels like progress, but your body builds muscle at a fixed pace — in the studies behind it only about a third of the weight gained was lean mass, and rushing it skews far more of it to fat. A slower, leaner bulk reaches the same muscle with less fat, so you spend far less time dieting it back off later. Faster up just means longer down.",
       "goals": [
-        "muscleGain"
+        "surplus"
       ],
       "learnMoreURL": "https://strathlon.com/guide-clean-bulk-myth",
       "stage": "knowledge"
@@ -2559,7 +2586,7 @@
       "title": "Let the scale set your surplus, not your appetite",
       "body": "You don't need to force down as much food as you can — a modest surplus is plenty, and the extra just lands as fat. Pick a small one, then let a weekly weight trend judge it: a rise of roughly 0.2–0.3 kg a week for most people means it's about right, shooting up means too much, and flat means too little. Adjust in small steps, not big swings.",
       "goals": [
-        "muscleGain"
+        "surplus"
       ],
       "learnMoreURL": "https://strathlon.com/guide-eating-to-build-muscle",
       "stage": "knowledge"
@@ -2588,7 +2615,10 @@
         "mma"
       ],
       "learnMoreURL": "https://strathlon.com/guide-fuelling-mma",
-      "stage": "knowledge"
+      "stage": "knowledge",
+      "goals": [
+        "energyDirected"
+      ]
     },
     {
       "id": "nug_261",
@@ -3105,7 +3135,7 @@
       "title": "Lifting shapes you — it won't 'bulk' you",
       "body": "Women carry far less testosterone (the main muscle-building hormone) than men — roughly ten times less — so a sensible strength programme with a small calorie surplus builds athletic, toned muscle, not size overnight. Visible muscle takes months of steady lifting, not a few weeks. Start with two or three full-body strength sessions a week and let it build.",
       "goals": [
-        "muscleGain"
+        "surplus"
       ],
       "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling",
       "stage": "knowledge"
