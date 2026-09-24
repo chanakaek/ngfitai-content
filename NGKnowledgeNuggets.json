@@ -1,5 +1,5 @@
 {
-  "version": "1.78.0",
+  "version": "1.79.0",
   "nuggets": [
     {
       "id": "nug_331",
@@ -581,7 +581,7 @@
       "audience": "all",
       "icon": "scalemass.fill",
       "title": "Your weight keeps your plan current",
-      "body": "Weigh in on a scale that syncs to Apple Health and Strathlon brings it in automatically — there's no \"update your weight?\" tap any more. The weight you see is the reading you logged; behind the scenes your calorie and protein targets follow a smoothed, roughly 7-day trend of it, so one heavy or light day doesn't move your targets. Want to set a specific day yourself? Type it in and your number wins for that day.",
+      "body": "Weigh in on a scale that syncs to Apple Health and Strathlon brings it in automatically — there's no \"update your weight?\" tap any more. The weight you see is the reading you logged, and it's also what your calorie and protein targets are built from, so they update as soon as a new weigh-in arrives. Only the weight chart's trend line is smoothed. Want to set a specific day yourself? Type it in and your number wins for that day.",
       "stage": "usage-core",
       "learnMoreURL": "https://strathlon.com/blog-tracking-progress"
     },
