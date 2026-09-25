@@ -1,18 +1,6 @@
 {
-  "version": "1.79.0",
+  "version": "1.80.0",
   "nuggets": [
-    {
-      "id": "nug_331",
-      "category": "app-tip",
-      "audience": "feature",
-      "features": ["narrationPersonalities"],
-      "minPlanWeek": 4,
-      "once": true,
-      "icon": "waveform",
-      "title": "Fancy a different coach voice?",
-      "body": "Your workout coach now comes with a choice of personalities, each with its own accent and its own way of cheering you on. Hear them in Settings → Workout Voice, where every one has a Preview button. Standard stays on until you pick another.",
-      "stage": "usage-core"
-    },
     {
       "id": "nug_170",
       "category": "app-tip",
