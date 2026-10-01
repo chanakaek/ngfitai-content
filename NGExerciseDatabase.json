@@ -1,5 +1,5 @@
 {
- "version": "1.30.0",
+ "version": "1.31.1",
  "exercises": [
   {
    "id": "incline-db-press",
@@ -39,6 +39,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: reduce incline toward flat, neutral grip, press only to a pain-free height. Lighter load.",
@@ -120,16 +123,19 @@
      "group": "A2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-0-1",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-0-1",
      "tip": "Seated, neutral grip. Heavy.",
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: neutral (palms-facing) grip, press only to a pain-free height. Lighter dumbbells.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
     "elbow": {
@@ -174,7 +180,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "12",
+     "reps": "15",
      "tempo": "2-0-1",
      "tip": "Lighter. Shoulder health and definition.",
      "group": ""
@@ -251,15 +257,15 @@
     },
     "3": {
      "sets": "4",
-     "reps": "15",
+     "reps": "10",
      "tempo": "2-0-1",
      "tip": "Hinge at elbow only.",
      "group": ""
     },
     "maintenance": {
      "sets": "3",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "10-12",
+     "tempo": "3-0-1",
      "tip": "Hinge at elbow only. Full stretch.",
      "group": ""
     }
@@ -391,7 +397,7 @@
     },
     "2": {
      "sets": "3",
-     "reps": "15",
+     "reps": "20",
      "tempo": "2-1-1",
      "tip": "Arms straight. Pull to chest width.",
      "group": ""
@@ -411,6 +417,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Resistance Bands"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: lighter band, reduce the external-rotation range if painful, focus on scapular retraction.",
@@ -462,7 +471,7 @@
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER FRIENDLY: light load, this IS a cuff-health move — keep it slow and controlled.",
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     }
    }
@@ -511,7 +520,7 @@
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: bodyweight only, shallow depth, torso upright — never let the shoulders drop below the elbows.",
+     "tip": "SHOULDER ADAPTED: keep the dip shallow, or drop the added weight entirely.",
      "isAdapted": true
     }
    }
@@ -547,7 +556,7 @@
      "group": ""
     },
     "maintenance": {
-     "sets": "4",
+     "sets": "3",
      "reps": "8",
      "tempo": "2-0-1",
      "tip": "Heavy. Controlled arc. Great shoulder-safe pressing movement.",
@@ -556,15 +565,15 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: the landmine arc is the shoulder-friendly press. Keep the hand below eye level and stop before any pinch.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: lighter load, no hard lockout at the top.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: split stance, ribs down. Squeeze the glute of the rear leg and do not arch to finish the press. Kneel only if the knees are comfortable.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     },
     "knee": {
@@ -743,8 +752,8 @@
      "group": "B1"
     },
     "maintenance": {
-     "sets": "4",
-     "reps": "6-8",
+     "sets": "3",
+     "reps": "8-10",
      "tempo": "2-1-1",
      "tip": "Heavy. Pull to hip, not ribcage. Elbow past body.",
      "group": ""
@@ -752,7 +761,7 @@
    },
    "injuryAdaptations": {
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: brace one hand on a bench so the torso is fully supported; keep the spine neutral, light load.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     },
     "elbow": {
@@ -809,7 +818,7 @@
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER FRIENDLY: light load, this IS a cuff-health move — keep it slow and controlled.",
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     }
    }
@@ -854,7 +863,7 @@
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: neutral/hammer grip, lighter load, no full extension at the bottom. Stop before pain.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     },
     "shoulder": {
@@ -935,14 +944,14 @@
     "maintenance": {
      "sets": "3",
      "reps": "10",
-     "tempo": "3-0-1",
+     "tempo": "2-0-2",
      "tip": "Full stretch at bottom. Controlled throughout.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: neutral grip preferred. Longer ROM but stop before pain.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     }
    }
@@ -1093,7 +1102,7 @@
      "group": ""
     },
     "2": {
-     "sets": "3",
+     "sets": "4",
      "reps": "15",
      "tempo": "2-1-1",
      "tip": "Rear delt squeeze.",
@@ -1108,8 +1117,8 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "15",
-     "tempo": "2-1-1",
+     "reps": "12-15",
+     "tempo": "2-1-2",
      "tip": "Full ROM. Rear delt and rotator cuff health.",
      "group": ""
     }
@@ -1310,11 +1319,11 @@
    },
    "injuryAdaptations": {
     "knee": {
-     "tip": "KNEE ADAPTED: feet high on the platform, stop at ~90 degree knee bend (no deeper), reduce load. Do not chase depth.",
+     "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free and drive through the whole foot.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: keep the lower back flat on the pad through the whole range; do not let the pelvis tuck at the bottom.",
+     "tip": "LOWER BACK ADAPTED: stop before the hips tuck off the pad — that tuck is where the back rounds.",
      "isAdapted": true
     },
     "hamstring": {
@@ -1534,16 +1543,16 @@
      "group": "D1"
     },
     "maintenance": {
-     "sets": "4",
-     "reps": "8",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "8-10",
+     "tempo": "2-1-1",
      "tip": "Weighted. Upright torso. Drive through front heel.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "knee": {
-     "tip": "KNEE ADAPTED: shorter step. Do not flex front knee past 90°.",
+     "tip": "KNEE ADAPTED: shorten the range and keep the front knee behind the toes; reverse lunges are gentler than forward.",
      "isAdapted": true
     },
     "ankle": {
@@ -1638,9 +1647,9 @@
    },
    "injuryAdaptations": {
     "hamstring": {
+     "name": "Single-Leg Glute Bridge",
      "tip": "HAMSTRING ADAPTED: swapped for a single-leg glute bridge — the hamstring works concentrically, with no loaded lengthening.",
-     "isAdapted": true,
-     "name": "Single-Leg Glute Bridge"
+     "isAdapted": true
     }
    }
   },
@@ -1729,12 +1738,15 @@
     },
     "maintenance": {
      "sets": "4",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "reps": "8-10",
+     "tempo": "3-0-1",
      "tip": "Heavy goblet hold. Upright torso. Full depth.",
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "lowerBack": {
      "tip": "LOWER BACK ADAPTED: keep the torso tall and brace the core; reduce depth if the lower back rounds.",
@@ -1834,7 +1846,7 @@
      "sets": "4",
      "reps": "15",
      "tempo": "2-0-1",
-     "tip": "Seated. Pause at top.",
+     "tip": "Seated. Full range, controlled.",
      "group": ""
     },
     "maintenance": {
@@ -1845,6 +1857,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {}
   },
   {
@@ -1895,9 +1910,6 @@
    "environment": [
     "gym"
    ],
-   "equipment": [
-    "Dumbbells / Free Weights"
-   ],
    "phases": {
     "1": {
      "sets": "3",
@@ -1923,7 +1935,7 @@
     "maintenance": {
      "sets": "4",
      "reps": "6-8",
-     "tempo": "3-0-1",
+     "tempo": "3-1-1",
      "tip": "Controlled single-leg strength, 6-8 per leg.",
      "group": ""
     }
@@ -2000,9 +2012,6 @@
    "environment": [
     "gym"
    ],
-   "equipment": [
-    "Pull-Up Bar"
-   ],
    "phases": {
     "1": {
      "sets": "3",
@@ -2027,19 +2036,22 @@
     },
     "maintenance": {
      "sets": "4",
-     "reps": "5-6",
-     "tempo": "2-0-1",
+     "reps": "5-8",
+     "tempo": "3-0-2",
      "tip": "Heaviest vertical pull — add load to progress. Strength benchmark.",
      "group": ""
     }
    },
+   "equipment": [
+    "Pull-Up Bar"
+   ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: neutral/parallel grip, pain-free range only, use band assistance to unload.",
+     "tip": "SHOULDER ADAPTED: avoid a full dead hang — start with the shoulder blades set and the elbows slightly bent.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: neutral grip, avoid a dead-hang jerk out of the bottom.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     }
    }
@@ -2095,9 +2107,6 @@
    "environment": [
     "gym"
    ],
-   "equipment": [
-    "Dumbbells / Free Weights"
-   ],
    "phases": {
     "1": {
      "sets": "3",
@@ -2128,13 +2137,16 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: neutral grip, reduce depth to a pain-free range, lighter load.",
+     "tip": "SHOULDER ADAPTED: press at an incline rather than straight overhead, use a neutral grip and stop at a pain-free height.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: lighter weight, neutral grip.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     }
    }
@@ -2163,9 +2175,9 @@
      "group": "B2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-0-1",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-0-1",
      "tip": "Heavy. Seated.",
      "group": ""
     },
@@ -2177,9 +2189,12 @@
      "group": "B1"
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: neutral (palms-facing) grip, press only to a pain-free height. Lighter dumbbells.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
     "elbow": {
@@ -2217,7 +2232,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "12",
+     "reps": "15",
      "tempo": "2-0-1",
      "tip": "Strict. No momentum.",
      "group": ""
@@ -2264,7 +2279,7 @@
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: rope pushdown with light load, elbows pinned to the sides, no full lockout. Stop before pain.",
+     "tip": "ELBOW ADAPTED: light load, elbows pinned, partial ROM (no full lockout). Stop before pain.",
      "isAdapted": true
     }
    }
@@ -2300,16 +2315,19 @@
      "group": "D1"
     },
     "maintenance": {
-     "sets": "4",
+     "sets": "3",
      "reps": "8",
      "tempo": "2-0-1",
      "tip": "Full rotation. Controlled descent.",
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: skip the rotation, press neutral-grip only, pain-free height.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
     "elbow": {
@@ -2341,25 +2359,28 @@
     "2": {
      "sets": "3",
      "reps": "20",
-     "tempo": "2-0-1",
+     "tempo": "2-1-1",
      "tip": "Arms straight. Pull to chest.",
      "group": ""
     },
     "3": {
      "sets": "3",
      "reps": "20",
-     "tempo": "2-0-1",
+     "tempo": "2-1-1",
      "tip": "Arms straight. Rear delt squeeze. Rotator cuff health. Rest, then repeat.",
      "group": "D3"
     },
     "maintenance": {
      "sets": "3",
      "reps": "20",
-     "tempo": "2-0-1",
+     "tempo": "2-1-1",
      "tip": "Daily volume. Essential shoulder health in maintenance.",
      "group": ""
     }
    },
+   "equipment": [
+    "Resistance Bands"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: lighter band, reduce the external-rotation range if painful, focus on scapular retraction.",
@@ -2399,12 +2420,15 @@
     },
     "maintenance": {
      "sets": "4",
-     "reps": "6-8",
-     "tempo": "2-0-1",
+     "reps": "5-6",
+     "tempo": "3-1-1",
      "tip": "Strength focus.",
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: reduce incline toward flat, neutral grip, press only to a pain-free height. Lighter load.",
@@ -2447,9 +2471,9 @@
      "group": "A2"
     },
     "maintenance": {
-     "sets": "4",
-     "reps": "6-8",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "8",
+     "tempo": "2-2-1",
      "tip": "Strength focus.",
      "group": ""
     }
@@ -2541,16 +2565,16 @@
      "group": "B2"
     },
     "maintenance": {
-     "sets": "4",
-     "reps": "6-8",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "8",
+     "tempo": "3-0-1",
      "tip": "Strength focus.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: neutral/hammer grip, lighter load, no full extension at the bottom. Stop before pain.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     },
     "shoulder": {
@@ -2566,9 +2590,6 @@
    "category": "upper",
    "environment": [
     "gym"
-   ],
-   "equipment": [
-    "Dumbbells / Free Weights"
    ],
    "phases": {
     "1": {
@@ -2594,15 +2615,18 @@
     },
     "maintenance": {
      "sets": "4",
-     "reps": "6-8",
+     "reps": "8",
      "tempo": "2-1-1",
      "tip": "Strict row, full squeeze.",
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: neutral grip, row lower (toward the hips), pain-free range.",
+     "tip": "SHOULDER ADAPTED: pull to the lower ribs with the elbows close to the body.",
      "isAdapted": true
     },
     "lowerBack": {
@@ -2646,20 +2670,20 @@
      "group": "C3"
     },
     "maintenance": {
-     "sets": "4",
-     "reps": "12-15",
-     "tempo": "2-1-1",
+     "sets": "3",
+     "reps": "15",
+     "tempo": "2-2-1",
      "tip": "Light, high reps, external rotation at the top.",
      "group": ""
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER FRIENDLY: light load, this IS a cuff-health move — keep it slow and controlled.",
-     "isAdapted": true
-    },
     "elbow": {
      "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
+     "isAdapted": true
+    },
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     }
    }
@@ -2671,9 +2695,6 @@
    "category": "upper",
    "environment": [
     "gym"
-   ],
-   "equipment": [
-    "Dumbbells / Free Weights"
    ],
    "phases": {
     "1": {
@@ -2705,6 +2726,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "elbow": {
      "tip": "ELBOW ADAPTED: neutral grip already elbow-friendly — lighter load, stop short of full flexion if it pinches.",
@@ -2747,9 +2771,9 @@
      "group": "A1"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-0-1",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-0-1",
      "tip": "Heavy. Neutral grip preferred.",
      "group": ""
     }
@@ -2852,7 +2876,7 @@
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER FRIENDLY: light load, this IS a cuff-health move — keep it slow and controlled.",
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     }
    }
@@ -2874,7 +2898,7 @@
      "group": ""
     },
     "2": {
-     "sets": "3",
+     "sets": "4",
      "reps": "15",
      "tempo": "2-1-1",
      "tip": "Rear delt squeeze. Straight to C2.",
@@ -2889,8 +2913,8 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "15",
-     "tempo": "2-1-1",
+     "reps": "12-15",
+     "tempo": "2-1-2",
      "tip": "Full ROM. Squeeze at peak. Rear delt health.",
      "group": ""
     }
@@ -2923,7 +2947,7 @@
      "group": ""
     },
     "2": {
-     "sets": "3",
+     "sets": "4",
      "reps": "12",
      "tempo": "2-0-1",
      "tip": "Elbows lead. Stop at chin height. Rest, then repeat.",
@@ -2938,12 +2962,15 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "10-12",
+     "tempo": "2-0-2",
      "tip": "Elbows lead. Stop at chin height.",
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: pull no higher than the bottom of the ribcage and keep the elbows below shoulder height; lighter load.",
@@ -3065,8 +3092,8 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "15",
-     "tempo": "2-0-1",
+     "reps": "12",
+     "tempo": "2-1-2",
      "tip": "Shoulder health. Y angle strictly maintained.",
      "group": ""
     }
@@ -3122,7 +3149,7 @@
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: switch to a neutral/hammer grip, lighter load, no full extension at the bottom. Stop before pain.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     },
     "shoulder": {
@@ -3163,8 +3190,8 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "10",
-     "tempo": "2-1-1",
+     "reps": "8",
+     "tempo": "2-0-1",
      "tip": "Neutral grip. Hold at peak. Brachialis emphasis.",
      "group": ""
     }
@@ -3203,14 +3230,14 @@
     "maintenance": {
      "sets": "3",
      "reps": "10",
-     "tempo": "3-0-1",
+     "tempo": "2-0-2",
      "tip": "Full stretch at bottom. Controlled throughout.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: neutral grip preferred. Longer ROM but stop before pain.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     }
    }
@@ -3293,8 +3320,8 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "10-12",
+     "tempo": "3-0-1",
      "tip": "Full overhead stretch. Long-head tricep emphasis.",
      "group": ""
     }
@@ -3385,7 +3412,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "10",
+     "reps": "8-10",
      "tempo": "3-0-1",
      "tip": "Full stretch. No elbow flare.",
      "group": ""
@@ -3393,7 +3420,7 @@
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: lighter load, lower to the forehead only (partial ROM), keep elbows from flaring. Stop before pain.",
+     "tip": "ELBOW ADAPTED: lighter load and a shorter range; take it to a dumbbell neutral grip if the elbow objects.",
      "isAdapted": true
     },
     "shoulder": {
@@ -3435,7 +3462,7 @@
     "maintenance": {
      "sets": "3",
      "reps": "12",
-     "tempo": "2-1-1",
+     "tempo": "2-0-2",
      "tip": "Strict overhand. Builds forearm thickness.",
      "group": ""
     }
@@ -3478,16 +3505,16 @@
      "group": ""
     },
     "maintenance": {
-     "sets": "4",
-     "reps": "8-10",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "12",
+     "tempo": "2-0-2",
      "tip": "Full lockout, slow return.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: lighter load, rope handle, stop short of full lockout if it pinches.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     },
     "shoulder": {
@@ -3572,8 +3599,8 @@
      "group": ""
     },
     "maintenance": {
-     "sets": "4",
-     "reps": "6-8",
+     "sets": "3",
+     "reps": "10",
      "tempo": "3-0-1",
      "tip": "Full stretch, controlled descent.",
      "group": ""
@@ -3581,7 +3608,7 @@
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: reduce range at the bottom (the deep stretch stresses the elbow), lighter load.",
+     "tip": "ELBOW ADAPTED: stop short of a fully straight arm at the bottom; that end position is where the elbow complains.",
      "isAdapted": true
     }
    }
@@ -3719,9 +3746,9 @@
      "group": "A2"
     },
     "maintenance": {
-     "sets": "4",
-     "reps": "10",
-     "tempo": "—",
+     "sets": "3",
+     "reps": "8",
+     "tempo": "2-0-1",
      "tip": "Explosive. Power development.",
      "group": ""
     }
@@ -3729,7 +3756,7 @@
    "injuryAdaptations": {
     "ankle": {
      "tip": "ANKLE ADAPTED: use leg drive but stay controlled — avoid explosive jump.",
-     "isAdapted": false
+     "isAdapted": true
     },
     "shoulder": {
      "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
@@ -3762,14 +3789,14 @@
      "group": ""
     },
     "2": {
-     "sets": "3",
+     "sets": "4",
      "reps": "10",
      "tempo": "—",
      "tip": "Rotate through torso. Straight to B2.",
      "group": "B1"
     },
     "3": {
-     "sets": "3",
+     "sets": "4",
      "reps": "10",
      "tempo": "—",
      "tip": "Each side. Rotate through torso. Straight to B2.",
@@ -3795,28 +3822,28 @@
    "phases": {
     "1": {
      "sets": "3",
-     "reps": "10",
-     "tempo": "—",
-     "tip": "Press lower back into floor throughout. Each side. Slow. Breathe out as you lower.",
+     "reps": "10-12 each side",
+     "tempo": "2-0-2",
+     "tip": "Press lower back into floor throughout. Slow. Breathe out as you lower.",
      "group": ""
     },
     "2": {
      "sets": "3",
-     "reps": "10",
-     "tempo": "—",
-     "tip": "Lower back pressed down. Each side. Slow and controlled. Rest, then repeat.",
+     "reps": "10-12 each side",
+     "tempo": "2-0-2",
+     "tip": "Lower back pressed down. Slow and controlled. Rest, then repeat.",
      "group": "C2"
     },
     "3": {
      "sets": "3",
-     "reps": "10",
-     "tempo": "—",
-     "tip": "Lower back down. Each side. Core stability. Rest, then repeat.",
+     "reps": "10-12 each side",
+     "tempo": "2-0-2",
+     "tip": "Lower back down. Core stability. Rest, then repeat.",
      "group": "B3"
     },
     "maintenance": {
      "sets": "3",
-     "reps": "10",
+     "reps": "12-15 each side",
      "tempo": "—",
      "tip": "Press lower back into floor. Core stability work.",
      "group": ""
@@ -3846,14 +3873,14 @@
      "group": ""
     },
     "2": {
-     "sets": "3",
+     "sets": "4",
      "reps": "15",
      "tempo": "—",
      "tip": "Explosive hip drive. Rest, then repeat.",
      "group": "B2"
     },
     "3": {
-     "sets": "3",
+     "sets": "4",
      "reps": "15",
      "tempo": "—",
      "tip": "Explosive hip drive. Bell to shoulder height. Straight to B3.",
@@ -3861,8 +3888,8 @@
     },
     "maintenance": {
      "sets": "4",
-     "reps": "20",
-     "tempo": "—",
+     "reps": "12-15",
+     "tempo": "1-0-1",
      "tip": "Heavy bell. Explosive. Full hip extension at top.",
      "group": ""
     }
@@ -3898,39 +3925,42 @@
     "1": {
      "sets": "3",
      "reps": "12",
-     "tempo": "—",
+     "tempo": "2-0-1",
      "tip": "Front rack. Squat deep. Drive up and press overhead in one movement. Full body power.",
      "group": ""
     },
     "2": {
      "sets": "4",
      "reps": "10",
-     "tempo": "—",
+     "tempo": "2-0-1",
      "tip": "Squat and press. Straight to C2.",
      "group": "C1"
     },
     "3": {
      "sets": "4",
      "reps": "10",
-     "tempo": "—",
+     "tempo": "2-0-1",
      "tip": "Explosive squat-to-press. Rest, then repeat.",
      "group": "A3"
     },
     "maintenance": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "—",
+     "reps": "6-8",
+     "tempo": "2-0-1",
      "tip": "Moderate weight. Power development.",
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: work below shoulder height only, or press at an angle rather than straight overhead.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
     "knee": {
-     "tip": "KNEE ADAPTED: keep depth ABOVE parallel — stop well before the knee passes 90°. Reduce load; prioritise the press over the squat.",
+     "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free and drive through the whole foot.",
      "isAdapted": true
     },
     "hip": {
@@ -3946,7 +3976,7 @@
   {
    "id": "maintenance-push-incline",
    "name": "Incline Dumbbell Press",
-   "videoURL": "https://www.youtube.com/results?search_query=incline+barbell+press+form",
+   "videoURL": "https://www.youtube.com/results?search_query=incline+dumbbell+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -3960,6 +3990,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: reduce incline toward flat, neutral grip, press only to a pain-free height. Lighter load.",
@@ -3988,6 +4021,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: press on the floor (floor press) so the elbows stop at the floor — limits the painful shoulder range. Neutral grip, lighter dumbbells.",
@@ -4002,7 +4038,7 @@
   {
    "id": "maintenance-push-shoulder",
    "name": "Dumbbell Shoulder Press",
-   "videoURL": "https://www.youtube.com/results?search_query=seated+dumbbell+shoulder+press+form",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+shoulder+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -4016,6 +4052,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
@@ -4209,12 +4248,12 @@
     }
    },
    "injuryAdaptations": {
-    "knee": {
-     "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free and drive through the whole foot.",
-     "isAdapted": true
-    },
     "lowerBack": {
      "tip": "LOWER BACK ADAPTED: reduce the load and the range — hinge only as far as the back stays flat, and brace before every rep.",
+     "isAdapted": true
+    },
+    "knee": {
+     "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free and drive through the whole foot.",
      "isAdapted": true
     },
     "hamstring": {
@@ -4244,13 +4283,9 @@
      "group": ""
     }
    },
-   "injuryAdaptations": {
-    "hip": {
-     "name": "Floor Glute Bridge (Unloaded)",
-     "tip": "HIP ADAPTED: bodyweight only — no load across the hips (avoids intra-abdominal pressure). Engage pelvic floor before each rep. Full extension.",
-     "isAdapted": true
-    }
-   }
+   "contraindicatedInjuries": [
+    "hip"
+   ]
   },
   {
    "id": "maintenance-legs-rdl",
@@ -4343,6 +4378,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: reduce incline toward flat, neutral grip, press only to a pain-free height. Lighter load.",
@@ -4701,7 +4739,7 @@
   {
    "id": "maintenance-legs-home-bulgarian",
    "name": "Bulgarian Split Squat",
-   "videoURL": "https://www.youtube.com/results?search_query=bulgarian+split+squat+bodyweight+form",
+   "videoURL": "https://www.youtube.com/results?search_query=bulgarian+split+squat+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4720,16 +4758,16 @@
      "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free, lower the rear-foot elevation and drive through the whole foot.",
      "isAdapted": true
     },
-    "hip": {
-     "tip": "HIP ADAPTED: lower the rear-foot elevation and control the range.",
-     "isAdapted": true
-    },
     "ankle": {
      "tip": "ANKLE ADAPTED: keep the front foot flat and shorten the range.",
      "isAdapted": true
     },
     "hamstring": {
      "tip": "HAMSTRING ADAPTED: shorten the range and slow the tempo; stop well before the hamstring pulls.",
+     "isAdapted": true
+    },
+    "hip": {
+     "tip": "HIP ADAPTED: lower the rear-foot elevation and control the range.",
      "isAdapted": true
     }
    }
@@ -4805,7 +4843,7 @@
   {
    "id": "maintenance-legs-home-reverselunge",
    "name": "Reverse Lunge",
-   "videoURL": "https://www.youtube.com/results?search_query=reverse+lunge+bodyweight+form",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+lunge+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -4824,12 +4862,12 @@
      "tip": "KNEE ADAPTED: shorten the range and keep the front knee behind the toes; reverse lunges are gentler than forward.",
      "isAdapted": true
     },
-    "hip": {
-     "tip": "HIP ADAPTED: keep the step-back short and controlled.",
-     "isAdapted": true
-    },
     "ankle": {
      "tip": "ANKLE ADAPTED: reduce the depth and keep the front foot flat.",
+     "isAdapted": true
+    },
+    "hip": {
+     "tip": "HIP ADAPTED: keep the step-back short and controlled.",
      "isAdapted": true
     }
    }
@@ -5042,23 +5080,23 @@
     },
     "maintenance": {
      "sets": "4",
-     "reps": "15",
-     "tempo": "2-0-1",
+     "reps": "8-10",
+     "tempo": "3-1-1",
      "tip": "Add weight plate on back for progression.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: elevate the hands on a bench/counter (incline) to reduce shoulder load and shorten the painful arc.",
+     "tip": "SHOULDER ADAPTED: elevate the hands (incline push-up), elbows ~45 degrees.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: reduce depth and keep hands a touch wider so the elbows travel less.",
+     "tip": "ELBOW ADAPTED: reduce depth, hands slightly wider.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: brace the abs and glutes so the hips do not sag.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -5101,6 +5139,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: keep elbows tucked ~45 degrees and press only to a pain-free height. Lighter dumbbells.",
@@ -5110,10 +5151,7 @@
      "tip": "ELBOW ADAPTED: neutral grip, hinge at the elbow, stop before pain.",
      "isAdapted": true
     }
-   },
-   "equipment": [
-    "Dumbbells / Free Weights"
-   ]
+   }
   },
   {
    "id": "pike-push-up",
@@ -5147,8 +5185,8 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "12",
-     "tempo": "2-0-1",
+     "reps": "6-8",
+     "tempo": "3-0-1",
      "tip": "Hips high throughout. Head to floor.",
      "group": ""
     }
@@ -5195,16 +5233,19 @@
      "group": "D3"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-0-1",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-0-1",
      "tip": "Heavy. Seated.",
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: neutral (palms-facing) grip, press only to a pain-free height. Lighter dumbbells.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
     "elbow": {
@@ -5215,10 +5256,7 @@
      "tip": "LOWER BACK ADAPTED: perform it seated with the back supported, or reduce the load.",
      "isAdapted": true
     }
-   },
-   "equipment": [
-    "Dumbbells / Free Weights"
-   ]
+   }
   },
   {
    "id": "diamond-push-up",
@@ -5251,9 +5289,9 @@
      "group": ""
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "12",
-     "tempo": "2-0-1",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-0-1",
      "tip": "Elbows tight throughout. Tricep emphasis.",
      "group": ""
     }
@@ -5301,25 +5339,25 @@
     },
     "maintenance": {
      "sets": "4",
-     "reps": "8",
-     "tempo": "2-0-2",
+     "reps": "5-8",
+     "tempo": "3-0-2",
      "tip": "Add weight for progression. Full dead hang.",
      "group": ""
     }
    },
+   "equipment": [
+    "Pull-Up Bar"
+   ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: neutral/parallel grip where the bar allows, pain-free range only, and avoid a full dead hang — start with the shoulder blades set.",
+     "tip": "SHOULDER ADAPTED: avoid a full dead hang — start with the shoulder blades set and the elbows slightly bent.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: neutral grip, avoid a dead-hang jerk out of the bottom.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     }
-   },
-   "equipment": [
-    "Pull-Up Bar"
-   ]
+   }
   },
   {
    "id": "single-arm-db-row-home",
@@ -5359,15 +5397,15 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "lowerBack": {
      "tip": "LOWER BACK ADAPTED: brace one hand on a bench so the torso is fully supported; keep the spine neutral, light load.",
      "isAdapted": true
     }
-   },
-   "equipment": [
-    "Dumbbells / Free Weights"
-   ]
+   }
   },
   {
    "id": "rear-delt-fly-home",
@@ -5407,15 +5445,15 @@
      "group": ""
     }
    },
-   "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: lighter dumbbells and raise to ear height ONLY — no higher, to prevent impingement.",
-     "isAdapted": true
-    }
-   },
    "equipment": [
     "Dumbbells / Free Weights"
-   ]
+   ],
+   "injuryAdaptations": {
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: stay below shoulder height and keep the range short and pain-free.",
+     "isAdapted": true
+    }
+   }
   },
   {
    "id": "db-curl-home",
@@ -5455,15 +5493,15 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "elbow": {
      "tip": "ELBOW ADAPTED: neutral (hammer) grip, lighter load, stop short of full extension if it pinches.",
      "isAdapted": true
     }
-   },
-   "equipment": [
-    "Dumbbells / Free Weights"
-   ]
+   }
   },
   {
    "id": "band-pull-apart-home",
@@ -5503,15 +5541,15 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Resistance Bands"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: lighter band, reduce the external-rotation range if painful, focus on scapular retraction.",
      "isAdapted": true
     }
-   },
-   "equipment": [
-    "Resistance Bands"
-   ]
+   }
   },
   {
    "id": "db-romanian-deadlift-home",
@@ -5551,6 +5589,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "hamstring": {
      "tip": "HAMSTRING ADAPTED: reduce the range so the stretch is mild and keep a soft knee.",
@@ -5560,10 +5601,7 @@
      "tip": "LOWER BACK ADAPTED: keep the spine neutral, lighten the load and shorten the range; brace the abs.",
      "isAdapted": true
     }
-   },
-   "equipment": [
-    "Dumbbells / Free Weights"
-   ]
+   }
   },
   {
    "id": "bodyweight-hip-thrust-home",
@@ -5649,9 +5687,12 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "knee": {
-     "tip": "KNEE ADAPTED: heels elevated on a plate or book. Depth reduced — stop before discomfort.",
+     "tip": "KNEE ADAPTED: reduce depth, knees tracking the toes.",
      "isAdapted": true
     },
     "hip": {
@@ -5662,10 +5703,7 @@
      "tip": "LOWER BACK ADAPTED: keep the chest up and the core braced; lighten the load.",
      "isAdapted": true
     }
-   },
-   "equipment": [
-    "Dumbbells / Free Weights"
-   ]
+   }
   },
   {
    "id": "reverse-lunge-home",
@@ -5698,16 +5736,16 @@
      "group": "B1"
     },
     "maintenance": {
-     "sets": "4",
-     "reps": "8",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "8-10",
+     "tempo": "2-1-1",
      "tip": "Add dumbbells for progression. Upright torso.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "knee": {
-     "tip": "KNEE ADAPTED: shorter step. Front knee behind toes strictly.",
+     "tip": "KNEE ADAPTED: shorten the range and keep the front knee behind the toes; reverse lunges are gentler than forward.",
      "isAdapted": true
     },
     "ankle": {
@@ -5752,7 +5790,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "20",
+     "reps": "15-20",
      "tempo": "2-0-2",
      "tip": "Add band for resistance. Slow and controlled.",
      "group": ""
@@ -5800,9 +5838,9 @@
      "group": ""
     },
     "maintenance": {
-     "sets": "4",
-     "reps": "12",
-     "tempo": "2-1-2",
+     "sets": "3",
+     "reps": "10",
+     "tempo": "2-2-1",
      "tip": "Add weight on hips for progression.",
      "group": ""
     }
@@ -5812,12 +5850,12 @@
      "tip": "HIP ADAPTED: use both feet (double-leg bridge) and engage the pelvic floor before each rep; no added load across the hips.",
      "isAdapted": true
     },
-    "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: ribs down, do not over-arch at the top - stop the lift level with the thigh.",
-     "isAdapted": true
-    },
     "hamstring": {
      "tip": "HAMSTRING ADAPTED: bring the heel closer to the hips so the glute does the work, not the hamstring; stop before any cramp or pull.",
+     "isAdapted": true
+    },
+    "lowerBack": {
+     "tip": "LOWER BACK ADAPTED: ribs down, do not over-arch at the top - stop the lift level with the thigh.",
      "isAdapted": true
     }
    }
@@ -5854,15 +5892,15 @@
     },
     "maintenance": {
      "sets": "4",
-     "reps": "8",
-     "tempo": "3-0-1",
+     "reps": "5-6",
+     "tempo": "3-1-1",
      "tip": "Single-arm strength focus. Both sides.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise the hands onto a table or counter so the shoulder works in a shallower angle, and keep the elbows around 45 degrees to the ribs.",
+     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
      "isAdapted": true
     },
     "elbow": {
@@ -5870,7 +5908,7 @@
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: squeeze the glutes and brace the abs before every rep so the hips cannot sag, and end the set as soon as that straight line breaks rather than pushing on.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -5878,7 +5916,7 @@
   {
    "id": "inverted-row-home",
    "name": "Inverted Row (Under Table)",
-   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+form",
+   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+under+table+bodyweight+form",
    "category": "home",
    "environment": [
     "home"
@@ -5907,23 +5945,23 @@
     },
     "maintenance": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-1-1",
+     "reps": "8-10",
+     "tempo": "3-0-1",
      "tip": "Feet elevated for progression. Full ROM.",
      "group": ""
     }
    },
    "injuryAdaptations": {
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: use a neutral (palms-facing) grip and stop the pull before any shoulder pinch.",
+     "isAdapted": true
+    },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: keep body in neutral spine. Don't arch.",
+     "tip": "LOWER BACK ADAPTED: bend the knees and plant the feet flat so the trunk stays supported; keep a neutral spine.",
      "isAdapted": true
     },
     "elbow": {
      "tip": "ELBOW ADAPTED: use a neutral grip and avoid fully locking the elbows at the bottom.",
-     "isAdapted": true
-    },
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: use a neutral (palms-facing) grip and stop the pull before any shoulder pinch.",
      "isAdapted": true
     }
    }
@@ -6058,15 +6096,18 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "12",
-     "tempo": "2-1-1",
+     "reps": "12-15",
+     "tempo": "2-0-2",
      "tip": "Strict form. Shoulder height. Definition and health.",
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: lighter weight, raise strictly to shoulder height, stop at the first sign of discomfort.",
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     },
     "elbow": {
@@ -6115,7 +6156,7 @@
    },
    "injuryAdaptations": {
     "lowerBack": {
-     "tip": "LOWER-BACK FRIENDLY: press seated with back support to remove the standing lumbar load.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     },
     "elbow": {
@@ -6135,9 +6176,6 @@
    "environment": [
     "gym"
    ],
-   "equipment": [
-    "Dumbbells / Free Weights"
-   ],
    "phases": {
     "1": {
      "sets": "3",
@@ -6155,22 +6193,25 @@
     },
     "3": {
      "sets": "4",
-     "reps": "10",
+     "reps": "8",
      "tempo": "2-0-1",
      "tip": "Smooth rotation, controlled descent throughout.",
      "group": ""
     },
     "maintenance": {
-     "sets": "4",
-     "reps": "6-8",
-     "tempo": "3-0-1",
+     "sets": "3",
+     "reps": "8",
+     "tempo": "2-0-1",
      "tip": "Full rotating ROM, controlled.",
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: skip the rotation, press neutral-grip only, pain-free height.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
     "elbow": {
@@ -6190,9 +6231,6 @@
    "category": "shoulders",
    "environment": [
     "gym"
-   ],
-   "equipment": [
-    "Dumbbells / Free Weights"
    ],
    "phases": {
     "1": {
@@ -6224,15 +6262,18 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER FRIENDLY: light load, this balances the pressing — keep it slow.",
      "isAdapted": true
     },
     "lowerBack": {
+     "name": "Band Pull-Apart",
      "tip": "LOWER BACK ADAPTED: swapped for a band pull-apart — the rear delts still do the work, standing tall, with no hinge to hold under load.",
-     "isAdapted": true,
-     "name": "Band Pull-Apart"
+     "isAdapted": true
     }
    }
   },
@@ -6350,7 +6391,7 @@
   {
    "id": "core-dead-bug",
    "name": "Dead Bug",
-   "videoURL": "https://www.youtube.com/results?search_query=Dead+Bug+form",
+   "videoURL": "https://www.youtube.com/results?search_query=dead+bug+exercise+core",
    "category": "core",
    "environment": [
     "gym",
@@ -6725,24 +6766,24 @@
      "group": "A1"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Add a 2s pause at the bottom. Slow, strict reps.",
+     "sets": "4",
+     "reps": "8-10",
+     "tempo": "3-1-1",
+     "tip": "Pause at the bottom. Slow, strict reps.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: elevate the hands on a bench/wall (incline push-up) and keep elbows ~45 degrees to unload the shoulder.",
+     "tip": "SHOULDER ADAPTED: elevate the hands (incline push-up), elbows ~45 degrees.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: reduce depth and keep hands a touch wider so the elbows travel less.",
+     "tip": "ELBOW ADAPTED: reduce depth, hands slightly wider.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: brace the abs and glutes so the hips do not sag.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -6827,9 +6868,9 @@
      "group": "A3"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-1-1",
      "tip": "Slow descent with a pause. Higher foot elevation increases the challenge.",
      "group": ""
     }
@@ -6844,7 +6885,7 @@
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: brace the abs and glutes so the hips do not sag.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -6881,7 +6922,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "10-12",
      "tempo": "2-1-1",
      "tip": "Slow tempo, pause at the bottom.",
      "group": ""
@@ -6915,24 +6956,24 @@
      "group": ""
     },
     "2": {
-     "sets": "4",
+     "sets": "3",
      "reps": "10",
      "tempo": "2-0-1",
      "tip": "Straight to C2.",
      "group": "C1"
     },
     "3": {
-     "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "8",
+     "tempo": "3-0-1",
      "tip": "Straight to B3.",
      "group": "B2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Slow controlled reps, pause at the bottom.",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-0-1",
+     "tip": "Slow controlled reps.",
      "group": ""
     }
    },
@@ -6999,7 +7040,7 @@
   {
    "id": "push-dumbbell-bench-press-home",
    "name": "Dumbbell Bench Press",
-   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+bench+press+form",
+   "videoURL": "https://www.youtube.com/results?search_query=flat+dumbbell+press+form",
    "category": "push",
    "environment": [
     "home"
@@ -7023,14 +7064,14 @@
      "sets": "4",
      "reps": "10",
      "tempo": "2-0-1",
-     "tip": "Elbows at 45°, 3s descent to chest level. Straight to C2.",
+     "tip": "Elbows at 45°, controlled descent to chest level. Straight to C2.",
      "group": "C1"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Slow controlled tempo, full range. Add a pause in the hardest position.",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-0-1",
+     "tip": "Slow controlled tempo, full range.",
      "group": ""
     }
    },
@@ -7079,9 +7120,9 @@
      "group": "C2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "5-6",
+     "tempo": "3-1-1",
      "tip": "Slow controlled tempo, full range. Add a pause in the hardest position.",
      "group": ""
     }
@@ -7091,7 +7132,7 @@
    ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: reduce the incline toward flat, neutral grip, press to a pain-free height only.",
+     "tip": "SHOULDER ADAPTED: reduce incline toward flat, neutral grip, press only to a pain-free height. Lighter load.",
      "isAdapted": true
     },
     "elbow": {
@@ -7169,22 +7210,22 @@
      "group": ""
     },
     "2": {
-     "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "20",
+     "tempo": "2-1-1",
      "tip": "Rest, then repeat.",
      "group": "E2"
     },
     "3": {
-     "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "20",
+     "tempo": "2-1-1",
      "tip": "Straight to F3.",
      "group": "F2"
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "20",
      "tempo": "2-1-1",
      "tip": "Slow controlled tempo, full range. Add a pause in the hardest position.",
      "group": ""
@@ -7271,21 +7312,21 @@
     "2": {
      "sets": "4",
      "reps": "10",
-     "tempo": "2-0-1",
+     "tempo": "2-1-1",
      "tip": "Straight to A2.",
      "group": "A1"
     },
     "3": {
      "sets": "4",
      "reps": "10",
-     "tempo": "2-0-1",
+     "tempo": "2-1-1",
      "tip": "Straight to A2.",
      "group": "A1"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "8-10",
+     "tempo": "3-0-1",
      "tip": "Slower pull, 2s squeeze at the top. Straighten the legs to progress.",
      "group": ""
     }
@@ -7337,9 +7378,9 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Add a 2s hold at the top of each lift.",
+     "reps": "10",
+     "tempo": "2-2-1",
+     "tip": "Hold at the top of each lift.",
      "group": ""
     }
    },
@@ -7386,9 +7427,9 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
-     "tip": "Slow lift with a 2s hold. Keep the neck relaxed.",
+     "tip": "Slow lift with a hold at the top. Keep the neck relaxed.",
      "group": ""
     }
    },
@@ -7435,7 +7476,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
      "tip": "Slow lift with a 2s squeeze.",
      "group": ""
@@ -7443,11 +7484,11 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the arms slightly lower than shoulder height and move only pain-free.",
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: keep the chest down; move only the arms.",
+     "tip": "LOWER BACK ADAPTED: lift the arms only and leave the legs down, with the chin tucked.",
      "isAdapted": true
     }
    }
@@ -7484,7 +7525,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
      "tip": "Slow sweeps, pause overhead. Keep the arms hovering the whole set.",
      "group": ""
@@ -7532,9 +7573,9 @@
      "group": "B3"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "8-10",
+     "tempo": "3-0-1",
      "tip": "Slower pull, 2s squeeze at the top. Step the feet forward to increase the load.",
      "group": ""
     }
@@ -7881,7 +7922,7 @@
      "sets": "3",
      "reps": "8",
      "tempo": "2-1-1",
-     "tip": "Slow 3s descent with a pause at the bottom. Add a pause or slow tempo for more challenge.",
+     "tip": "Controlled descent with a pause at the bottom. Lengthen the pause or slow the tempo for more challenge.",
      "group": ""
     }
    },
@@ -7903,7 +7944,7 @@
   {
    "id": "legs-reverse-lunge-home",
    "name": "Reverse Lunge",
-   "videoURL": "https://www.youtube.com/results?search_query=reverse+lunge+bodyweight+form",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+lunge+form",
    "category": "legs",
    "environment": [
     "home"
@@ -7932,7 +7973,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "8-10",
      "tempo": "2-1-1",
      "tip": "Slower descent, pause at the bottom. Hold weight for more load.",
      "group": ""
@@ -7943,12 +7984,12 @@
      "tip": "KNEE ADAPTED: shorten the range and keep the front knee behind the toes; reverse lunges are gentler than forward.",
      "isAdapted": true
     },
-    "hip": {
-     "tip": "HIP ADAPTED: keep the step-back short and controlled.",
-     "isAdapted": true
-    },
     "ankle": {
      "tip": "ANKLE ADAPTED: reduce the depth and keep the front foot flat.",
+     "isAdapted": true
+    },
+    "hip": {
+     "tip": "HIP ADAPTED: keep the step-back short and controlled.",
      "isAdapted": true
     }
    }
@@ -7980,7 +8021,7 @@
      "sets": "4",
      "reps": "10",
      "tempo": "2-0-1",
-     "tip": "Back knee to a fist off the floor, 1s pause. 10 per side. Rest, then repeat.",
+     "tip": "Back knee to a fist off the floor. 10 per side. Rest, then repeat.",
      "group": "A3"
     },
     "maintenance": {
@@ -8057,11 +8098,8 @@
   },
   {
    "id": "legs-standing-calf-raise-home",
-   "contraindicatedInjuries": [
-    "ankle"
-   ],
    "name": "Standing Calf Raise",
-   "videoURL": "https://www.youtube.com/results?search_query=bodyweight+standing+calf+raise+form",
+   "videoURL": "https://www.youtube.com/results?search_query=standing+calf+raise+form",
    "category": "legs",
    "environment": [
     "home"
@@ -8070,43 +8108,40 @@
     "1": {
      "sets": "3",
      "reps": "15",
-     "tempo": "2-0-1",
+     "tempo": "2-1-2",
      "tip": "Rise onto the balls of the feet through a full range, pause at the top, lower slowly. Hold a wall for balance.",
      "group": ""
     },
     "2": {
-     "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "15",
+     "tempo": "2-1-2",
      "tip": "Straight to C2.",
      "group": "C1"
     },
     "3": {
-     "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "12",
+     "tempo": "2-1-2",
      "tip": "Full stretch at the bottom, full contraction at the top. No bouncing. Straight to B3.",
      "group": "B2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Slow 3s lower and a 2s hold at the top. Single-leg to progress.",
+     "sets": "4",
+     "reps": "12",
+     "tempo": "3-1-3",
+     "tip": "Slow 3s lower and a hold at the top. Single-leg to progress.",
      "group": ""
     }
    },
-   "injuryAdaptations": {
-    "ankle": {
-     "tip": "ANKLE ADAPTED: reduce the range to pain-free and hold support; avoid a deep stretch at the bottom.",
-     "isAdapted": true
-    }
-   }
+   "contraindicatedInjuries": [
+    "ankle"
+   ]
   },
   {
    "id": "legs-bulgarian-split-squat-home",
    "name": "Bulgarian Split Squat",
-   "videoURL": "https://www.youtube.com/results?search_query=bulgarian+split+squat+bodyweight+form",
+   "videoURL": "https://www.youtube.com/results?search_query=bulgarian+split+squat+form",
    "category": "legs",
    "environment": [
     "home"
@@ -8134,9 +8169,9 @@
      "group": "B3"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-1-1",
      "tip": "Slower descent, pause at the bottom. Add weight to progress.",
      "group": ""
     }
@@ -8146,16 +8181,16 @@
      "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free, lower the rear-foot elevation and drive through the whole foot.",
      "isAdapted": true
     },
-    "hip": {
-     "tip": "HIP ADAPTED: lower the rear-foot elevation and control the range.",
-     "isAdapted": true
-    },
     "ankle": {
      "tip": "ANKLE ADAPTED: keep the front foot flat and shorten the range.",
      "isAdapted": true
     },
     "hamstring": {
      "tip": "HAMSTRING ADAPTED: shorten the range and slow the tempo; stop well before the hamstring pulls.",
+     "isAdapted": true
+    },
+    "hip": {
+     "tip": "HIP ADAPTED: lower the rear-foot elevation and control the range.",
      "isAdapted": true
     }
    }
@@ -8191,9 +8226,9 @@
      "group": "E1"
     },
     "maintenance": {
-     "sets": "3",
+     "sets": "4",
      "reps": "8",
-     "tempo": "2-1-1",
+     "tempo": "3-1-1",
      "tip": "Slow controlled hinge with a pause at the stretch. Hold a weight to progress.",
      "group": ""
     }
@@ -8269,7 +8304,7 @@
   {
    "id": "legs-romanian-deadlift-db-home",
    "name": "Dumbbell Romanian Deadlift",
-   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+romanian+deadlift+form",
+   "videoURL": "https://www.youtube.com/results?search_query=romanian+deadlift+form",
    "category": "legs",
    "environment": [
     "home"
@@ -8298,9 +8333,9 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Heaviest controlled load, flat back, pause at the stretch.",
+     "reps": "10",
+     "tempo": "4-0-1",
+     "tip": "Heaviest controlled load, flat back.",
      "group": ""
     }
    },
@@ -8385,28 +8420,28 @@
    "phases": {
     "1": {
      "sets": "3",
-     "reps": "12",
+     "reps": "15",
      "tempo": "2-0-1",
      "tip": "Dumbbells resting on the knees. Full stretch at the bottom, hold the top for a second.",
      "group": ""
     },
     "2": {
      "sets": "4",
-     "reps": "10",
+     "reps": "15",
      "tempo": "2-0-1",
      "tip": "Dumbbells resting on the knees. Full stretch at the bottom, hold the top for a second.",
      "group": ""
     },
     "3": {
      "sets": "4",
-     "reps": "10",
+     "reps": "15",
      "tempo": "2-0-1",
      "tip": "Dumbbells on the knees. Full stretch, 1s squeeze at the top. Rest, then repeat.",
      "group": "D3"
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
      "tip": "Slow controlled tempo, full range. Add a pause in the hardest position.",
      "group": ""
@@ -8414,7 +8449,8 @@
    },
    "equipment": [
     "Dumbbells / Free Weights"
-   ]
+   ],
+   "injuryAdaptations": {}
   },
   {
    "id": "legs-band-loop-squat-home",
@@ -8556,9 +8592,9 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Slower descent with a pause. Elevate the feet to progress.",
+     "reps": "6-8",
+     "tempo": "3-0-1",
+     "tip": "Slower descent. Elevate the feet to progress.",
      "group": ""
     }
    },
@@ -8604,9 +8640,9 @@
      "group": "A2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-1-1",
      "tip": "Slow tempo with a pause; walk the feet higher to progress.",
      "group": ""
     }
@@ -8658,19 +8694,19 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
-     "tip": "Slow lift with a 2s hold.",
+     "tip": "Slow lift with a hold at the top.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise only within a pain-free range and keep it light.",
+     "tip": "SHOULDER ADAPTED: raise only within a pain-free range and keep the movement light.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: rest the forehead down and keep the chest low.",
+     "tip": "LOWER BACK ADAPTED: rest the forehead down and keep the chest low so the lower back stays neutral.",
      "isAdapted": true
     }
    }
@@ -8707,7 +8743,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
      "tip": "Slow lift with a 2s squeeze.",
      "group": ""
@@ -8715,11 +8751,11 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the arms a touch below shoulder height and move pain-free.",
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: keep the chest down; move only the arms.",
+     "tip": "LOWER BACK ADAPTED: lift the arms only and leave the legs down, with the chin tucked.",
      "isAdapted": true
     }
    }
@@ -8756,7 +8792,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
      "tip": "Slow sweeps with a pause overhead.",
      "group": ""
@@ -8764,7 +8800,7 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: reduce the overhead range; stop where the shoulder pinches.",
+     "tip": "SHOULDER ADAPTED: reduce the overhead range; stop where the shoulder feels the pinch.",
      "isAdapted": true
     },
     "lowerBack": {
@@ -8805,7 +8841,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
      "tip": "Slow controlled slides, pause at the top with the arms tall.",
      "group": ""
@@ -8853,9 +8889,9 @@
      "group": "C2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "5-6",
+     "tempo": "3-1-1",
      "tip": "Slow controlled tempo, full range. Add a pause in the hardest position.",
      "group": ""
     }
@@ -8865,7 +8901,7 @@
    ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: reduce the incline toward flat, neutral grip, press only to a pain-free height.",
+     "tip": "SHOULDER ADAPTED: reduce incline toward flat, neutral grip, press only to a pain-free height. Lighter load.",
      "isAdapted": true
     },
     "elbow": {
@@ -9150,19 +9186,19 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Slow controlled tempo, full range. Add a pause in the hardest position.",
+     "reps": "8-10",
+     "tempo": "3-0-1",
+     "tip": "Slow controlled tempo, full range.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: elevate the hands on a bench (incline) to reduce load on an inflamed elbow.",
+     "tip": "ELBOW ADAPTED: reduce the depth and set the hands slightly wider.",
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: incline variation (hands elevated) reduces shoulder stress.",
+     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
      "isAdapted": true
     }
    }
@@ -9170,7 +9206,7 @@
   {
    "id": "arms-diamond-push-up-home",
    "name": "Diamond Push-Up",
-   "videoURL": "https://www.youtube.com/results?search_query=diamond+push+up+triceps+form",
+   "videoURL": "https://www.youtube.com/results?search_query=diamond+push+up+form",
    "category": "arms",
    "environment": [
     "home"
@@ -9184,34 +9220,34 @@
      "group": ""
     },
     "2": {
-     "sets": "4",
+     "sets": "3",
      "reps": "10",
      "tempo": "2-0-1",
      "tip": "Rest, then repeat.",
      "group": "A2"
     },
     "3": {
-     "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "8",
+     "tempo": "3-0-1",
      "tip": "Straight to A3.",
      "group": "A2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Slow controlled reps with a pause at the bottom.",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-0-1",
+     "tip": "Slow controlled reps.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: widen the hands to a close-grip push-up to ease the elbow load.",
+     "tip": "ELBOW ADAPTED: widen the hands to a standard push-up to reduce elbow load.",
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep it shallow with the elbows pinned to the ribs.",
+     "tip": "SHOULDER ADAPTED: keep it shallow, elbows pinned to the ribs.",
      "isAdapted": true
     }
    }
@@ -9297,8 +9333,8 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "reps": "8-10",
+     "tempo": "3-0-1",
      "tip": "Slow controlled reps; step the feet back to increase the load.",
      "group": ""
     }
@@ -9345,9 +9381,9 @@
      "group": "B2"
     },
     "maintenance": {
-     "sets": "3",
+     "sets": "4",
      "reps": "8",
-     "tempo": "2-1-1",
+     "tempo": "3-0-1",
      "tip": "Slower pull with a 2s squeeze; straighten the legs to progress.",
      "group": ""
     }
@@ -9385,15 +9421,15 @@
     },
     "2": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "6 x 10s",
+     "tempo": "hold",
      "tip": "Rest, then repeat.",
      "group": "C2"
     },
     "3": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "6 x 10s",
+     "tempo": "hold",
      "tip": "Rest, then repeat.",
      "group": "B3"
     },
@@ -9430,8 +9466,8 @@
     },
     "2": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "12",
+     "tempo": "3-0-1",
      "tip": "Straight to D2.",
      "group": "D1"
     },
@@ -9444,9 +9480,9 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Slow controlled tempo, full range. Add a pause in the hardest position.",
+     "reps": "10",
+     "tempo": "3-0-1",
+     "tip": "Slow controlled tempo, full range.",
      "group": ""
     }
    },
@@ -9551,7 +9587,7 @@
    ],
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: use a light/thin band only; full extension stops before pain.",
+     "tip": "ELBOW ADAPTED: use a light/thin band, keep the elbows pinned, and stop short of full extension.",
      "isAdapted": true
     }
    }
@@ -9635,10 +9671,10 @@
      "group": "A1"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Add a 2s pause at the bottom.",
+     "sets": "4",
+     "reps": "8-10",
+     "tempo": "3-1-1",
+     "tip": "Pause at the bottom of every rep.",
      "group": ""
     }
    },
@@ -9652,7 +9688,7 @@
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: brace the abs and glutes so the hips do not sag.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -9660,7 +9696,7 @@
   {
    "id": "upper-pike-push-up-home",
    "name": "Pike Push-Up",
-   "videoURL": "https://www.youtube.com/results?search_query=pike+push+up+shoulders+form",
+   "videoURL": "https://www.youtube.com/results?search_query=pike+push+up+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9689,9 +9725,9 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Slow descent with a pause.",
+     "reps": "6-8",
+     "tempo": "3-0-1",
+     "tip": "Slow descent.",
      "group": ""
     }
    },
@@ -9701,7 +9737,7 @@
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: reduce depth.",
+     "tip": "ELBOW ADAPTED: reduce depth and keep the elbows tracking back, not flaring.",
      "isAdapted": true
     }
    }
@@ -9709,7 +9745,7 @@
   {
    "id": "upper-inverted-row-home",
    "name": "Inverted Row (Under Table)",
-   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+under+table+form",
+   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+under+table+bodyweight+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9725,36 +9761,36 @@
     "2": {
      "sets": "4",
      "reps": "10",
-     "tempo": "2-0-1",
+     "tempo": "2-1-1",
      "tip": "Straight to B2.",
      "group": "B1"
     },
     "3": {
      "sets": "4",
      "reps": "10",
-     "tempo": "2-0-1",
+     "tempo": "2-1-1",
      "tip": "Chest to the table edge, 1s squeeze. Heels down, body rigid. Rest, then repeat.",
      "group": "A3"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "8-10",
+     "tempo": "3-0-1",
      "tip": "Slower pull with a 2s squeeze at the top.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: use a neutral grip and stop before any shoulder pinch.",
+     "tip": "SHOULDER ADAPTED: use a neutral (palms-facing) grip and stop the pull before any shoulder pinch.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: bend the knees, feet flat, keep a neutral spine.",
+     "tip": "LOWER BACK ADAPTED: bend the knees and plant the feet flat so the trunk stays supported; keep a neutral spine.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: neutral grip, avoid locking out.",
+     "tip": "ELBOW ADAPTED: use a neutral grip and avoid fully locking the elbows at the bottom.",
      "isAdapted": true
     }
    }
@@ -9786,24 +9822,24 @@
      "sets": "4",
      "reps": "10",
      "tempo": "2-0-1",
-     "tip": "Lift chest and thighs together, 2s hold. Look at the floor. Straight to B2.",
+     "tip": "Lift chest and thighs together. Look at the floor. Straight to B2.",
      "group": "B1"
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Add a 2s hold at the top.",
+     "reps": "10",
+     "tempo": "2-2-1",
+     "tip": "Hold at the top of each lift.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: lift the opposite arm and leg only with a small range; skip if extension hurts.",
+     "tip": "LOWER BACK ADAPTED: lift the opposite arm and leg only (bird-dog style) with a small range; skip if extension is painful.",
      "isAdapted": true
     },
     "hip": {
-     "tip": "HIP ADAPTED: keep the leg lift small.",
+     "tip": "HIP ADAPTED: keep the leg lift small and controlled.",
      "isAdapted": true
     }
    }
@@ -9811,7 +9847,7 @@
   {
    "id": "upper-diamond-push-up-home",
    "name": "Diamond Push-Up",
-   "videoURL": "https://www.youtube.com/results?search_query=diamond+push+up+triceps+form",
+   "videoURL": "https://www.youtube.com/results?search_query=diamond+push+up+form",
    "category": "upper",
    "environment": [
     "home"
@@ -9825,34 +9861,34 @@
      "group": ""
     },
     "2": {
-     "sets": "4",
+     "sets": "3",
      "reps": "10",
      "tempo": "2-0-1",
      "tip": "Straight to C2.",
      "group": "C1"
     },
     "3": {
-     "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "8",
+     "tempo": "3-0-1",
      "tip": "Hands under the sternum, elbows brush the ribs. Straight to B3.",
      "group": "B2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-0-1",
      "tip": "Slow controlled reps.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: widen the hands to a standard push-up.",
+     "tip": "ELBOW ADAPTED: widen the hands to a standard push-up to reduce elbow load.",
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep it shallow, elbows pinned.",
+     "tip": "SHOULDER ADAPTED: keep it shallow, elbows pinned to the ribs.",
      "isAdapted": true
     }
    }
@@ -9919,7 +9955,7 @@
      "sets": "3",
      "reps": "10",
      "tempo": "3-0-1",
-     "tip": "Lower until the upper arms touch the floor, pause 1s, press. Elbows 45°.",
+     "tip": "Lower until the upper arms touch the floor, then press. Elbows 45°.",
      "group": ""
     },
     "2": {
@@ -9937,10 +9973,10 @@
      "group": "C1"
     },
     "maintenance": {
-     "sets": "3",
+     "sets": "4",
      "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Slow controlled tempo, full range. Add a pause in the hardest position.",
+     "tempo": "3-0-1",
+     "tip": "Slow controlled tempo, full range.",
      "group": ""
     }
    },
@@ -10028,23 +10064,23 @@
     },
     "2": {
      "sets": "4",
-     "reps": "10",
+     "reps": "12",
      "tempo": "2-0-1",
      "tip": "Straight to E2.",
      "group": "E1"
     },
     "3": {
-     "sets": "4",
-     "reps": "10",
+     "sets": "3",
+     "reps": "12",
      "tempo": "2-0-1",
      "tip": "Pull to chest height only, elbows above the wrists. Stop before any pinch.",
      "group": ""
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Slow controlled tempo, full range. Add a pause in the hardest position.",
+     "reps": "10-12",
+     "tempo": "2-0-2",
+     "tip": "Slow controlled tempo, full range.",
      "group": ""
     }
    },
@@ -10094,9 +10130,9 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Slow controlled tempo, full range. Add a pause in the hardest position.",
+     "reps": "12-15",
+     "tempo": "2-0-2",
+     "tip": "Slow controlled tempo, full range.",
      "group": ""
     }
    },
@@ -10105,7 +10141,7 @@
    ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: lighter weight, raise strictly to shoulder height, stop at the first sign of discomfort.",
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     },
     "elbow": {
@@ -10131,22 +10167,22 @@
      "group": ""
     },
     "2": {
-     "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "20",
+     "tempo": "2-1-1",
      "tip": "Straight to F2.",
      "group": "F1"
     },
     "3": {
-     "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "sets": "3",
+     "reps": "20",
+     "tempo": "2-1-1",
      "tip": "Straight to G2.",
      "group": "G1"
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "20",
      "tempo": "2-1-1",
      "tip": "Slow controlled tempo, full range. Add a pause in the hardest position.",
      "group": ""
@@ -10248,21 +10284,21 @@
      "sets": "3",
      "reps": "8",
      "tempo": "2-1-1",
-     "tip": "Slow 3s descent with a pause.",
+     "tip": "Controlled descent with a pause at the bottom.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "knee": {
-     "tip": "KNEE ADAPTED: reduce depth, knees tracking the toes.",
+     "tip": "KNEE ADAPTED: reduce the depth to a comfortable range and keep the knees tracking over the toes.",
      "isAdapted": true
     },
     "hip": {
-     "tip": "HIP ADAPTED: narrow the stance, control the depth.",
+     "tip": "HIP ADAPTED: narrow the stance and control the depth to a pain-free range.",
      "isAdapted": true
     },
     "ankle": {
-     "tip": "ANKLE ADAPTED: elevate the heels slightly and keep it comfortable.",
+     "tip": "ANKLE ADAPTED: elevate the heels slightly on a book/plate and keep the range comfortable.",
      "isAdapted": true
     }
    }
@@ -10298,10 +10334,10 @@
      "group": "A2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Add a 2s pause at the bottom.",
+     "sets": "4",
+     "reps": "8-10",
+     "tempo": "3-1-1",
+     "tip": "Pause at the bottom of every rep.",
      "group": ""
     }
    },
@@ -10315,7 +10351,7 @@
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: brace the abs and glutes so the hips do not sag.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -10323,7 +10359,7 @@
   {
    "id": "fullbody-inverted-row-home",
    "name": "Inverted Row (Under Table)",
-   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+under+table+form",
+   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+under+table+bodyweight+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -10339,36 +10375,36 @@
     "2": {
      "sets": "4",
      "reps": "10",
-     "tempo": "2-0-1",
+     "tempo": "2-1-1",
      "tip": "Straight to B2.",
      "group": "B1"
     },
     "3": {
      "sets": "4",
      "reps": "10",
-     "tempo": "2-0-1",
+     "tempo": "2-1-1",
      "tip": "Rest, then repeat.",
      "group": "A3"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "8-10",
+     "tempo": "3-0-1",
      "tip": "Slower pull with a 2s squeeze.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: neutral grip, stop before any shoulder pinch.",
+     "tip": "SHOULDER ADAPTED: use a neutral (palms-facing) grip and stop the pull before any shoulder pinch.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: bend the knees, feet flat, neutral spine.",
+     "tip": "LOWER BACK ADAPTED: bend the knees and plant the feet flat so the trunk stays supported; keep a neutral spine.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: neutral grip, avoid locking out.",
+     "tip": "ELBOW ADAPTED: use a neutral grip and avoid fully locking the elbows at the bottom.",
      "isAdapted": true
     }
    }
@@ -10376,7 +10412,7 @@
   {
    "id": "fullbody-reverse-lunge-home",
    "name": "Reverse Lunge",
-   "videoURL": "https://www.youtube.com/results?search_query=reverse+lunge+bodyweight+form",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+lunge+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -10405,7 +10441,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "8-10",
      "tempo": "2-1-1",
      "tip": "Slower descent with a pause; hold weight to progress.",
      "group": ""
@@ -10413,15 +10449,15 @@
    },
    "injuryAdaptations": {
     "knee": {
-     "tip": "KNEE ADAPTED: shorten the range, front knee behind the toes.",
+     "tip": "KNEE ADAPTED: shorten the range and keep the front knee behind the toes; reverse lunges are gentler than forward.",
+     "isAdapted": true
+    },
+    "ankle": {
+     "tip": "ANKLE ADAPTED: reduce the depth and keep the front foot flat.",
      "isAdapted": true
     },
     "hip": {
      "tip": "HIP ADAPTED: keep the step-back short and controlled.",
-     "isAdapted": true
-    },
-    "ankle": {
-     "tip": "ANKLE ADAPTED: reduce depth, front foot flat.",
      "isAdapted": true
     }
    }
@@ -10466,11 +10502,11 @@
    },
    "injuryAdaptations": {
     "hamstring": {
-     "tip": "HAMSTRING ADAPTED: feet a little closer so the glutes lead; stop if the hamstring cramps.",
+     "tip": "HAMSTRING ADAPTED: keep the feet a little closer so the glutes do the work, not the hamstrings; stop if the hamstring cramps.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: bridge only to a neutral line, brace the abs.",
+     "tip": "LOWER BACK ADAPTED: only bridge to a neutral line, do not over-arch; brace the abs at the top.",
      "isAdapted": true
     },
     "hip": {
@@ -10511,9 +10547,9 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Slow descent with a pause.",
+     "reps": "6-8",
+     "tempo": "3-0-1",
+     "tip": "Slow descent.",
      "group": ""
     }
    },
@@ -10523,7 +10559,7 @@
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: reduce depth.",
+     "tip": "ELBOW ADAPTED: reduce depth and keep the elbows tracking back, not flaring.",
      "isAdapted": true
     }
    }
@@ -10531,7 +10567,7 @@
   {
    "id": "fullbody-db-goblet-squat-home",
    "name": "Dumbbell Goblet Squat",
-   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+goblet+squat+form",
+   "videoURL": "https://www.youtube.com/results?search_query=goblet+squat+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -10559,9 +10595,9 @@
      "group": "E1"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "10",
+     "tempo": "3-1-1",
      "tip": "Heaviest controlled load, pause at the bottom.",
      "group": ""
     }
@@ -10587,7 +10623,7 @@
   {
    "id": "fullbody-db-bent-row-home",
    "name": "Dumbbell Bent-Over Row",
-   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+bent+over+row+form",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+bent-over+row+form",
    "category": "fullbody",
    "environment": [
     "home"
@@ -10757,8 +10793,8 @@
      "group": ""
     },
     "maintenance": {
-     "sets": "4",
-     "reps": "40m",
+     "sets": "3",
+     "reps": "30-40m",
      "tempo": "—",
      "tip": "Go heavier than Phase 1. Braced trunk, no side lean. Full-body tension carry.",
      "group": ""
@@ -10766,19 +10802,19 @@
    },
    "injuryAdaptations": {
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: lighter load, shorter distance. Keep the ribs down and do not let the torso side-bend.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the arms relaxed at the sides — no shrugging. Stop if the shoulder aches.",
+     "tip": "SHOULDER ADAPTED: lighter load and a shorter distance; keep the shoulder blades set.",
      "isAdapted": true
     },
     "hip": {
-     "tip": "HIP/PELVIC FLOOR ADAPTED: lighter load. Exhale on the walk, engage the pelvic floor, avoid bearing down.",
+     "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
      "isAdapted": true
     },
     "ankle": {
-     "tip": "ANKLE ADAPTED: shorter, slower steps on a flat surface. Stop if the ankle complains.",
+     "tip": "ANKLE ADAPTED: lighter load, shorter distance, flat ground only.",
      "isAdapted": true
     }
    }
@@ -10839,7 +10875,7 @@
      "group": ""
     },
     "maintenance": {
-     "sets": "4",
+     "sets": "3",
      "reps": "8",
      "tempo": "2-0-1",
      "tip": "Heavier. Brace the trunk, press through the arc. Each side.",
@@ -10848,15 +10884,15 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: the landmine arc is the shoulder-friendly press. Keep the hand below eye level and stop before any pinch.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: lighter load, no hard lockout at the top.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: split stance, ribs down. Squeeze the glute of the rear leg and do not arch to finish the press. Kneel only if the knees are comfortable.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     },
     "knee": {
@@ -10873,9 +10909,6 @@
    "environment": [
     "gym"
    ],
-   "equipment": [
-    "Dumbbells / Free Weights"
-   ],
    "phases": {
     "1": {
      "sets": "3",
@@ -10887,14 +10920,14 @@
     "2": {
      "sets": "4",
      "reps": "10",
-     "tempo": "3-0-1",
+     "tempo": "2-0-1",
      "tip": "Upright torso, full depth each rep.",
      "group": ""
     },
     "3": {
      "sets": "4",
      "reps": "10",
-     "tempo": "3-0-1",
+     "tempo": "2-0-1",
      "tip": "Control the descent, drive up through mid-foot.",
      "group": ""
     },
@@ -10906,17 +10939,20 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
+    "lowerBack": {
+     "tip": "LOWER BACK ADAPTED: keep the torso tall and brace the core; reduce depth if the lower back rounds.",
+     "isAdapted": true
+    },
     "knee": {
-     "tip": "KNEE ADAPTED: reduce depth to a pain-free box height, keep the shins more vertical, lighter load.",
+     "tip": "KNEE ADAPTED: heels elevated on a plate. Depth reduced — stop before discomfort.",
      "isAdapted": true
     },
     "hip": {
      "tip": "HIP ADAPTED: narrow the stance, control the depth.",
-     "isAdapted": true
-    },
-    "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: keep the torso tall and brace the core; reduce depth if the lower back rounds.",
      "isAdapted": true
     }
    }
@@ -10928,9 +10964,6 @@
    "category": "fullbody",
    "environment": [
     "gym"
-   ],
-   "equipment": [
-    "Pull-Up Bar"
    ],
    "phases": {
     "1": {
@@ -10956,19 +10989,22 @@
     },
     "maintenance": {
      "sets": "4",
-     "reps": "5-6",
-     "tempo": "2-0-1",
+     "reps": "5-8",
+     "tempo": "3-0-2",
      "tip": "Add load to progress. Upper-body strength benchmark.",
      "group": ""
     }
    },
+   "equipment": [
+    "Pull-Up Bar"
+   ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: neutral grip, pain-free range, band assistance.",
+     "tip": "SHOULDER ADAPTED: avoid a full dead hang — start with the shoulder blades set and the elbows slightly bent.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: neutral grip, no jerk out of the dead hang.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     }
    }
@@ -10980,9 +11016,6 @@
    "category": "fullbody",
    "environment": [
     "gym"
-   ],
-   "equipment": [
-    "Dumbbells / Free Weights"
    ],
    "phases": {
     "1": {
@@ -11007,13 +11040,16 @@
      "group": ""
     },
     "maintenance": {
-     "sets": "4",
+     "sets": "3",
      "reps": "8-10",
-     "tempo": "2-0-1",
+     "tempo": "2-1-1",
      "tip": "Long controlled stride, 8-10 per leg.",
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "knee": {
      "tip": "KNEE ADAPTED: shorten the step and reduce the depth so the front knee stays behind the toes.",
@@ -11069,7 +11105,7 @@
    ],
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: neutral (palms-facing) grip, press only to a pain-free height. Lighter dumbbells.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
     "elbow": {
@@ -11085,7 +11121,7 @@
   {
    "id": "upper-rear-delt-fly-home",
    "name": "Rear Delt Dumbbell Fly",
-   "videoURL": "https://www.youtube.com/results?search_query=rear+delt+dumbbell+fly+form",
+   "videoURL": "https://www.youtube.com/results?search_query=rear+delt+fly+form",
    "category": "upper",
    "environment": [
     "home"
@@ -11193,15 +11229,15 @@
    ],
    "injuryAdaptations": {
     "knee": {
-     "tip": "KNEE ADAPTED: heels raised on a book or plate and depth reduced — stop before discomfort.",
+     "tip": "KNEE ADAPTED: reduce depth, knees tracking the toes.",
      "isAdapted": true
     },
     "hip": {
-     "tip": "HIP ADAPTED: narrow the stance and control the depth.",
+     "tip": "HIP ADAPTED: narrow the stance, control the depth.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: chest up, core braced, lighter dumbbell.",
+     "tip": "LOWER BACK ADAPTED: keep the chest up and the core braced; lighten the load.",
      "isAdapted": true
     }
    }
@@ -11311,37 +11347,37 @@
     },
     "2": {
      "sets": "4",
-     "reps": "10",
+     "reps": "12",
      "tempo": "2-0-1",
      "tip": "Straight to F2.",
      "group": "F1"
     },
     "3": {
      "sets": "4",
-     "reps": "10",
+     "reps": "15",
      "tempo": "2-0-1",
      "tip": "Hands on the edge, body in one line. Chest to the surface. Straight to D2.",
      "group": "D1"
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
-     "tip": "Lower the hands one step to make it harder. 2s pause at the bottom.",
+     "tip": "Lower the hands one step to make it harder. Pause at the bottom.",
      "group": ""
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise the hands onto a table or counter so the shoulder works in a shallower angle, and keep the elbows around 45 degrees to the ribs.",
-     "isAdapted": true
-    },
     "elbow": {
      "tip": "ELBOW ADAPTED: stop short of the deepest position and set the hands slightly wider, so the elbow is not loaded at full bend.",
      "isAdapted": true
     },
     "lowerBack": {
      "tip": "LOWER BACK ADAPTED: squeeze the glutes and brace the abs before every rep so the hips cannot sag, and end the set as soon as that straight line breaks rather than pushing on.",
+     "isAdapted": true
+    },
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: raise the hands onto a table or counter so the shoulder works in a shallower angle, and keep the elbows around 45 degrees to the ribs.",
      "isAdapted": true
     }
    }
@@ -11364,37 +11400,37 @@
     },
     "2": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "8",
+     "tempo": "3-0-1",
      "tip": "Rest, then repeat.",
      "group": "F2"
     },
     "3": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "6",
+     "tempo": "3-0-1",
      "tip": "Lower toward one hand, the other arm stays straight. Alternate. Straight to D3.",
      "group": "D2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "5-6",
+     "tempo": "3-1-1",
      "tip": "Work toward touching the chest to the hand on each rep.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise the hands onto a table or counter so the shoulder works in a shallower angle, and keep the elbows around 45 degrees to the ribs.",
+     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: stop short of the deepest position and set the hands slightly wider, so the elbow is not loaded at full bend.",
+     "tip": "ELBOW ADAPTED: shorten the range and keep the straight arm softly bent, never locked.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: squeeze the glutes and brace the abs before every rep so the hips cannot sag, and end the set as soon as that straight line breaks rather than pushing on.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -11464,43 +11500,43 @@
     "1": {
      "sets": "3",
      "reps": "12",
-     "tempo": "2-0-1",
+     "tempo": "5-0-1",
      "tip": "Five full seconds to lower. Drop to the knees to push back up, then reset. Builds strength when a full push-up is still hard.",
      "group": ""
     },
     "2": {
      "sets": "4",
      "reps": "10",
-     "tempo": "2-0-1",
+     "tempo": "5-0-1",
      "tip": "Rest, then repeat.",
      "group": "G2"
     },
     "3": {
      "sets": "4",
      "reps": "10",
-     "tempo": "2-0-1",
+     "tempo": "5-0-1",
      "tip": "Five seconds down, knees down to return. Straight to E2.",
      "group": "E1"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Extend the lowering to 6-8 seconds.",
+     "sets": "4",
+     "reps": "5-6",
+     "tempo": "5-0-1",
+     "tip": "At least five seconds down; longer as it gets easier.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise the hands onto a table or counter so the shoulder works in a shallower angle, and keep the elbows around 45 degrees to the ribs.",
+     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: stop short of the deepest position and set the hands slightly wider, so the elbow is not loaded at full bend.",
+     "tip": "ELBOW ADAPTED: reduce the depth and set the hands slightly wider.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: squeeze the glutes and brace the abs before every rep so the hips cannot sag, and end the set as soon as that straight line breaks rather than pushing on.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -11537,23 +11573,23 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "reps": "6-8",
+     "tempo": "3-1-1",
      "tip": "Increase the offset as it gets easier.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise the hands onto a table or counter so the shoulder works in a shallower angle, and keep the elbows around 45 degrees to the ribs.",
+     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: stop short of the deepest position and set the hands slightly wider, so the elbow is not loaded at full bend.",
+     "tip": "ELBOW ADAPTED: reduce the depth and set the hands slightly wider.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: squeeze the glutes and brace the abs before every rep so the hips cannot sag, and end the set as soon as that straight line breaks rather than pushing on.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -11592,7 +11628,7 @@
      "sets": "3",
      "reps": "8",
      "tempo": "2-1-1",
-     "tip": "Add a 2s hold at the top of each rep.",
+     "tip": "Hold at the top of each rep.",
      "group": ""
     }
    },
@@ -11638,24 +11674,24 @@
      "group": "C1"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Raise the feet higher, or pause 2s at the top.",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-1-1",
+     "tip": "Raise the feet higher, or lengthen the pause at the top.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: pull to the lower ribs rather than the chest, and keep the elbows close to the body throughout.",
+     "tip": "SHOULDER ADAPTED: pull to the lower ribs with the elbows close to the body.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: keep the hips high and the ribs down so the spine stays neutral; bend the knees to shorten the lever.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: use a neutral or wider grip and lighten the angle by walking the feet in.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     }
    }
@@ -11692,7 +11728,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
      "tip": "Hold the top for 3s on every rep.",
      "group": ""
@@ -11700,11 +11736,11 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the arms lower than shoulder height and lead with the thumbs up; range before height.",
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: lift the arms only, leave the legs and chest down, and keep the chin tucked.",
+     "tip": "LOWER BACK ADAPTED: lift the arms only and leave the legs down, with the chin tucked.",
      "isAdapted": true
     }
    }
@@ -11721,39 +11757,39 @@
     "1": {
      "sets": "3",
      "reps": "20-30s",
-     "tempo": "2-0-1",
+     "tempo": "—",
      "tip": "Face down, palms turned out, lift the chest and arms just off the floor and hold. Chin tucked, glutes on.",
      "group": ""
     },
     "2": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "20-30s",
+     "tempo": "—",
      "tip": "Straight to H2.",
      "group": "H1"
     },
     "3": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "20-30s",
+     "tempo": "—",
      "tip": "Hold 20-30s, breathing normally. Chin tucked. Rest, then repeat.",
      "group": "C3"
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "reps": "30-40s",
+     "tempo": "—",
      "tip": "Extend the hold to 45s.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: lift the arms only, leave the legs and chest down, and keep the chin tucked.",
+     "tip": "LOWER BACK ADAPTED: lift the arms only and leave the legs down, with the chin tucked.",
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the arms lower than shoulder height and lead with the thumbs up; range before height.",
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     }
    }
@@ -11888,19 +11924,19 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "reps": "8-10",
+     "tempo": "3-1-1",
      "tip": "Slide further forward as control improves.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: work below shoulder height only, or press at an angle rather than straight overhead.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: keep the lower back flat against the floor and shorten the range rather than losing that contact.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -11917,28 +11953,28 @@
     "1": {
      "sets": "3",
      "reps": "30-45s",
-     "tempo": "2-0-1",
+     "tempo": "—",
      "tip": "Back flat on a wall, thighs parallel to the floor, knees over the ankles. Hold. Breathe.",
      "group": ""
     },
     "2": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "30-45s",
+     "tempo": "—",
      "tip": "Straight to H2.",
      "group": "H1"
     },
     "3": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "30-45s",
+     "tempo": "—",
      "tip": "Thighs parallel, weight in the heels. Hold. Rest, then repeat.",
      "group": "E3"
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "reps": "30-45s",
+     "tempo": "—",
      "tip": "Extend the hold to 60-90s, or hold one leg out.",
      "group": ""
     }
@@ -11990,15 +12026,15 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "reps": "6-8",
+     "tempo": "3-1-1",
      "tip": "Hold the bottom for 2s before switching sides.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "knee": {
-     "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free, keep the shin more upright, and drive through the whole foot.",
+     "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free and drive through the whole foot.",
      "isAdapted": true
     },
     "hip": {
@@ -12006,7 +12042,7 @@
      "isAdapted": true
     },
     "ankle": {
-     "tip": "ANKLE ADAPTED: raise the heels on a book or a folded towel so the ankle does not have to bend as far.",
+     "tip": "ANKLE ADAPTED: raise the heel of the bent leg and reduce the depth.",
      "isAdapted": true
     }
    }
@@ -12042,24 +12078,24 @@
      "group": "F2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-1-1",
      "tip": "Slide out further, or work one leg at a time.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "hamstring": {
-     "tip": "HAMSTRING ADAPTED: shorten the range and keep the tempo slow; stop well before the hamstring pulls or cramps.",
+     "tip": "HAMSTRING ADAPTED: shorten the range and slow the tempo; stop well before the hamstring pulls.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: bridge only to a neutral line and keep the abs braced; do not arch to reach further.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     },
     "knee": {
-     "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free, keep the shin more upright, and drive through the whole foot.",
+     "tip": "KNEE ADAPTED: keep the knee soft rather than locked and stay out of the deepest position.",
      "isAdapted": true
     }
    }
@@ -12096,19 +12132,19 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Add a 3s lower on every rep.",
+     "reps": "12-15",
+     "tempo": "3-1-2",
+     "tip": "Three seconds down on every rep.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "ankle": {
-     "tip": "ANKLE ADAPTED: keep both feet down and reduce the range; no bouncing at the bottom.",
+     "tip": "ANKLE ADAPTED: reduce the range and keep the movement slow with no bounce.",
      "isAdapted": true
     },
     "knee": {
-     "tip": "KNEE ADAPTED: keep the knee soft rather than locked and stay off the deepest stretch.",
+     "tip": "KNEE ADAPTED: keep the knee soft rather than locked and stay out of the deepest position.",
      "isAdapted": true
     }
    }
@@ -12131,37 +12167,37 @@
     },
     "2": {
      "sets": "4",
-     "reps": "10",
+     "reps": "12",
      "tempo": "2-0-1",
      "tip": "Straight to H2.",
      "group": "H1"
     },
     "3": {
      "sets": "4",
-     "reps": "10",
+     "reps": "15",
      "tempo": "2-0-1",
      "tip": "Body in one line, chest to the surface. Straight to E2.",
      "group": "E1"
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
      "tip": "Lower the hands one surface to progress.",
      "group": ""
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise the hands onto a table or counter so the shoulder works in a shallower angle, and keep the elbows around 45 degrees to the ribs.",
-     "isAdapted": true
-    },
     "elbow": {
      "tip": "ELBOW ADAPTED: stop short of the deepest position and set the hands slightly wider, so the elbow is not loaded at full bend.",
      "isAdapted": true
     },
     "lowerBack": {
      "tip": "LOWER BACK ADAPTED: squeeze the glutes and brace the abs before every rep so the hips cannot sag, and end the set as soon as that straight line breaks rather than pushing on.",
+     "isAdapted": true
+    },
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: raise the hands onto a table or counter so the shoulder works in a shallower angle, and keep the elbows around 45 degrees to the ribs.",
      "isAdapted": true
     }
    }
@@ -12197,24 +12233,24 @@
      "group": "E2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Pause 2s at the top of every rep.",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-1-1",
+     "tip": "Pause at the top of every rep.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: pull to the lower ribs rather than the chest, and keep the elbows close to the body throughout.",
+     "tip": "SHOULDER ADAPTED: pull to the lower ribs with the elbows close to the body.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: keep the hips high and the ribs down so the spine stays neutral; bend the knees to shorten the lever.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: use a neutral or wider grip and lighten the angle by walking the feet in.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     }
    }
@@ -12251,7 +12287,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
      "tip": "Slow to a 4s slide each way.",
      "group": ""
@@ -12259,11 +12295,11 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: work below shoulder height only, or press at an angle rather than straight overhead.",
+     "tip": "SHOULDER ADAPTED: slide only as high as stays pain-free; keep the ribs down.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: keep the ribs down and the lower back near the wall; step the feet out if it arches.",
+     "tip": "LOWER BACK ADAPTED: keep the lower back flat against the wall throughout - do not let it arch to gain height.",
      "isAdapted": true
     }
    }
@@ -12286,37 +12322,37 @@
     },
     "2": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "8",
+     "tempo": "3-0-1",
      "tip": "Rest, then repeat.",
      "group": "I2"
     },
     "3": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "6",
+     "tempo": "3-0-1",
      "tip": "Lower toward one hand, alternate. Hips level. Straight to F2.",
      "group": "F1"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "5-6",
+     "tempo": "3-1-1",
      "tip": "Work toward chest-to-hand on each side.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise the hands onto a table or counter so the shoulder works in a shallower angle, and keep the elbows around 45 degrees to the ribs.",
+     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: stop short of the deepest position and set the hands slightly wider, so the elbow is not loaded at full bend.",
+     "tip": "ELBOW ADAPTED: shorten the range and keep the straight arm softly bent, never locked.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: squeeze the glutes and brace the abs before every rep so the hips cannot sag, and end the set as soon as that straight line breaks rather than pushing on.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -12324,7 +12360,7 @@
   {
    "id": "upper-prone-y-raise-home",
    "name": "Prone Y-Raise",
-   "videoURL": "https://www.youtube.com/results?search_query=prone+y+raise+form",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+y+raise+lower+trap+form",
    "category": "upper",
    "environment": [
     "home"
@@ -12353,7 +12389,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
      "tip": "Hold the top for 3s on every rep.",
      "group": ""
@@ -12361,11 +12397,11 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the arms lower than shoulder height and lead with the thumbs up; range before height.",
+     "tip": "SHOULDER ADAPTED: raise only within a pain-free range and keep the movement light.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: lift the arms only, leave the legs and chest down, and keep the chin tucked.",
+     "tip": "LOWER BACK ADAPTED: rest the forehead down and keep the chest low so the lower back stays neutral.",
      "isAdapted": true
     }
    }
@@ -12373,7 +12409,7 @@
   {
    "id": "upper-reverse-snow-angel-home",
    "name": "Reverse Snow Angel",
-   "videoURL": "https://www.youtube.com/results?search_query=reverse+snow+angel+form",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+snow+angel+prone+form",
    "category": "upper",
    "environment": [
     "home"
@@ -12402,7 +12438,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
      "tip": "Slow to a 4s sweep each way.",
      "group": ""
@@ -12410,11 +12446,11 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the arms lower than shoulder height and lead with the thumbs up; range before height.",
+     "tip": "SHOULDER ADAPTED: reduce the overhead range; stop where the shoulder feels the pinch.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: lift the arms only, leave the legs and chest down, and keep the chin tucked.",
+     "tip": "LOWER BACK ADAPTED: keep the chest low and ribs down.",
      "isAdapted": true
     }
    }
@@ -12431,43 +12467,43 @@
     "1": {
      "sets": "3",
      "reps": "20-30s",
-     "tempo": "2-0-1",
+     "tempo": "—",
      "tip": "Walk the feet up a wall until the hips are stacked over the shoulders, then hold. Start with the feet low and only go as high as you can control.",
      "group": ""
     },
     "2": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "20-30s",
+     "tempo": "—",
      "tip": "Straight to G2.",
      "group": "G1"
     },
     "3": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "20-30s",
+     "tempo": "—",
      "tip": "Stack the shoulders, squeeze the glutes, hold. Straight to D2.",
      "group": "D1"
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "reps": "20-30s",
+     "tempo": "—",
      "tip": "Extend the hold to 45-60s.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the feet low so the hips stay well below the shoulders, and shorten the hold — height comes after comfort.",
+     "tip": "SHOULDER ADAPTED: stay in a shallow pike with the feet low rather than fully inverted.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: keep the elbows soft rather than locked out hard, and shorten the hold.",
+     "tip": "ELBOW ADAPTED: keep the elbows soft rather than locked and shorten the hold.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: keep the ribs down and the glutes braced so the back cannot arch.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -12504,19 +12540,19 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "12",
      "tempo": "2-1-1",
-     "tip": "Hold the top 3s on every rep.",
+     "tip": "Hold the top on every rep.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the arms lower than shoulder height and lead with the thumbs up; range before height.",
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: lift the arms only, leave the legs and chest down, and keep the chin tucked.",
+     "tip": "LOWER BACK ADAPTED: lift the arms only and leave the legs down, with the chin tucked.",
      "isAdapted": true
     }
    }
@@ -12555,13 +12591,13 @@
      "sets": "3",
      "reps": "8",
      "tempo": "2-1-1",
-     "tip": "Add a 2s hold at the top.",
+     "tip": "Hold at the top of each rep.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the range small and pain-free — control, not stretch.",
+     "tip": "SHOULDER ADAPTED: keep the range small and pain-free — this is a control drill, not a stretch.",
      "isAdapted": true
     },
     "elbow": {
@@ -12601,24 +12637,24 @@
      "group": "E1"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-0-1",
      "tip": "Raise the feet higher to load the shoulders more.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: work below shoulder height only, or press at an angle rather than straight overhead.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: stop short of the deepest position and set the hands slightly wider, so the elbow is not loaded at full bend.",
+     "tip": "ELBOW ADAPTED: reduce the depth and set the hands slightly wider.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: take the feet down to the floor (standard pike) so the hips do not have to fold as far.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -12657,7 +12693,7 @@
      "sets": "3",
      "reps": "8",
      "tempo": "2-1-1",
-     "tip": "Hold the top 3s on every rep.",
+     "tip": "Hold the top on every rep.",
      "group": ""
     }
    },
@@ -12756,20 +12792,20 @@
      "group": "C1"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Add a 2s pause at the bottom of every rep.",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "3-1-1",
+     "tip": "Pause at the bottom of every rep.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the dip shallow and bring the feet back to the floor; stop the moment the front of the shoulder pinches.",
+     "tip": "SHOULDER ADAPTED: keep the dip shallow and bring the feet to the floor.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: reduce the depth so the elbow never goes past 90 degrees.",
+     "tip": "ELBOW ADAPTED: stop before the elbow passes 90 degrees.",
      "isAdapted": true
     }
    }
@@ -12806,19 +12842,19 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
-     "tip": "Increase the tension and slow the lowering to 4s.",
+     "reps": "10-12",
+     "tempo": "3-0-2",
+     "tip": "Increase the tension and keep the lowering slow.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: reduce how hard you pull against the towel and stay out of the fully straight position.",
+     "tip": "ELBOW ADAPTED: pull less hard against the towel and stay out of the fully straight position.",
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the elbows pinned to the ribs so the shoulder does not take over.",
+     "tip": "SHOULDER ADAPTED: keep the elbows pinned to the ribs.",
      "isAdapted": true
     }
    }
@@ -12855,23 +12891,23 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "reps": "8-10",
+     "tempo": "3-1-1",
      "tip": "Slide further out as control improves.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: shorten the slide so the elbow does not reach full extension under load.",
+     "tip": "ELBOW ADAPTED: shorten the slide so the elbow never reaches full extension under load.",
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: work below shoulder height only, or press at an angle rather than straight overhead.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: keep the lower back flat against the floor and shorten the range rather than losing that contact.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -12908,7 +12944,7 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "10",
      "tempo": "2-1-1",
      "tip": "Walk the feet further out to increase the angle.",
      "group": ""
@@ -12916,15 +12952,15 @@
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: use a neutral or wider grip and lighten the angle by walking the feet in.",
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: pull to the lower ribs rather than the chest, and keep the elbows close to the body throughout.",
+     "tip": "SHOULDER ADAPTED: pull to the lower ribs with the elbows close to the body.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: keep the hips high and the ribs down so the spine stays neutral; bend the knees to shorten the lever.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -12963,7 +12999,7 @@
      "sets": "3",
      "reps": "8",
      "tempo": "2-1-1",
-     "tip": "Add a 2s pause at the bottom.",
+     "tip": "Pause at the bottom of every rep.",
      "group": ""
     }
    },
@@ -13010,19 +13046,19 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "reps": "8-10",
+     "tempo": "3-0-1",
      "tip": "Use a lower surface to make it harder.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: raise the hands to a higher surface and shorten the range.",
+     "tip": "ELBOW ADAPTED: use a higher surface and shorten the range.",
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: work below shoulder height only, or press at an angle rather than straight overhead.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     }
    }
@@ -13059,23 +13095,23 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "reps": "10-12",
+     "tempo": "1-0-1",
      "tip": "Add a jump at the top, or slow the push-up.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "knee": {
-     "tip": "KNEE ADAPTED: step the feet back and in rather than jumping, and stand up without a jump.",
+     "tip": "KNEE ADAPTED: step the feet back and in, and stand up without a jump.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: step the feet back one at a time and brace the abs in the plank so the hips do not drop.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise the hands onto a table or counter so the shoulder works in a shallower angle, and keep the elbows around 45 degrees to the ribs.",
+     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
      "isAdapted": true
     },
     "ankle": {
@@ -13096,39 +13132,39 @@
     "1": {
      "sets": "3",
      "reps": "20-30s",
-     "tempo": "2-0-1",
+     "tempo": "—",
      "tip": "Hands and knees with the knees an inch off the floor. Crawl forward moving the opposite hand and foot together, hips low and level.",
      "group": ""
     },
     "2": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "20-30s",
+     "tempo": "—",
      "tip": "Rest, then repeat.",
      "group": "F2"
     },
     "3": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "20-30s",
+     "tempo": "—",
      "tip": "Hips low and level, small steps, no rocking. Straight to C3.",
      "group": "C2"
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "reps": "30-40s",
+     "tempo": "—",
      "tip": "Crawl backwards as well as forwards.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the crawl slow with short reaches and the elbows soft.",
+     "tip": "SHOULDER ADAPTED: slow the crawl and shorten each reach.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: keep the lower back flat against the floor and shorten the range rather than losing that contact.",
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     },
     "knee": {
@@ -13153,28 +13189,28 @@
     "1": {
      "sets": "3",
      "reps": "20-30s",
-     "tempo": "2-0-1",
+     "tempo": "—",
      "tip": "From a plank, drive one knee toward the chest and back, then the other. Shoulders stay over the hands, hips stay level.",
      "group": ""
     },
     "2": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "20-30s",
+     "tempo": "—",
      "tip": "Straight to G2.",
      "group": "G1"
     },
     "3": {
      "sets": "4",
-     "reps": "10",
-     "tempo": "2-0-1",
+     "reps": "20-30s",
+     "tempo": "—",
      "tip": "Hips level, shoulders over the hands, controlled pace. Rest, then repeat.",
      "group": "C3"
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "reps": "20-30s",
+     "tempo": "—",
      "tip": "Slow the tempo and hold each knee in for 1s.",
      "group": ""
     }
@@ -13230,27 +13266,27 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "10-12",
      "tempo": "2-1-1",
-     "tip": "Add a 2s pause at the bottom of each step.",
+     "tip": "Pause at the bottom of each step.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "knee": {
-     "tip": "KNEE ADAPTED: shorten the step and reduce the depth so the front knee stays behind the toes and pain-free.",
+     "tip": "KNEE ADAPTED: shorten the step and reduce the depth.",
      "isAdapted": true
     },
     "hip": {
-     "tip": "HIP ADAPTED: narrow the stance, keep the pelvis level and stop at a comfortable depth.",
+     "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
      "isAdapted": true
     },
     "ankle": {
-     "tip": "ANKLE ADAPTED: shorten the step and keep the back heel down as long as it is comfortable.",
+     "tip": "ANKLE ADAPTED: reduce the range and keep the movement slow with no bounce.",
      "isAdapted": true
     },
     "hamstring": {
-     "tip": "HAMSTRING ADAPTED: shorten the range and keep the tempo slow; stop well before the hamstring pulls or cramps.",
+     "tip": "HAMSTRING ADAPTED: shorten the range and slow the tempo; stop well before the hamstring pulls.",
      "isAdapted": true
     }
    }
@@ -13340,15 +13376,15 @@
     },
     "maintenance": {
      "sets": "3",
-     "reps": "8",
+     "reps": "10-12",
      "tempo": "2-1-1",
-     "tip": "Use a higher step, or pause 2s at the top.",
+     "tip": "Use a higher step, or lengthen the pause at the top.",
      "group": ""
     }
    },
    "injuryAdaptations": {
     "knee": {
-     "tip": "KNEE ADAPTED: use a lower step so the knee bends less, and drive through the heel.",
+     "tip": "KNEE ADAPTED: use a lower step and drive through the heel.",
      "isAdapted": true
     },
     "hip": {
@@ -13356,11 +13392,11 @@
      "isAdapted": true
     },
     "ankle": {
-     "tip": "ANKLE ADAPTED: raise the heels on a book or a folded towel so the ankle does not have to bend as far.",
+     "tip": "ANKLE ADAPTED: reduce the range and keep the movement slow with no bounce.",
      "isAdapted": true
     },
     "hamstring": {
-     "tip": "HAMSTRING ADAPTED: shorten the range and keep the tempo slow; stop well before the hamstring pulls or cramps.",
+     "tip": "HAMSTRING ADAPTED: shorten the range and slow the tempo; stop well before the hamstring pulls.",
      "isAdapted": true
     }
    }
@@ -13445,9 +13481,9 @@
      "group": "E3"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "6-8",
+     "tempo": "2-0-1",
      "tip": "Heavier dumbbells for 8 clean reps.",
      "group": ""
     },
@@ -13463,20 +13499,20 @@
     "Dumbbells / Free Weights"
    ],
    "injuryAdaptations": {
-    "knee": {
-     "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free, keep the shin more upright, and drive through the whole foot.",
-     "isAdapted": true
-    },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: work below shoulder height only, or press at an angle rather than straight overhead.",
+     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
-    "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: reduce the depth and the load, and keep the ribs down as the arms go overhead.",
+    "knee": {
+     "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free and drive through the whole foot.",
      "isAdapted": true
     },
     "hip": {
      "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
+     "isAdapted": true
+    },
+    "lowerBack": {
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -13696,7 +13732,7 @@
      "sets": "3",
      "reps": "8",
      "tempo": "2-1-1",
-     "tip": "Shorten the band and slow the lowering to 3s.",
+     "tip": "Shorten the band and slow the lowering.",
      "group": ""
     }
    },
@@ -13797,7 +13833,7 @@
      "sets": "3",
      "reps": "8",
      "tempo": "2-1-1",
-     "tip": "Add a 2s hold at the top, or slow the lowering to 4s.",
+     "tip": "Hold at the top, or slow the lowering further.",
      "group": ""
     }
    },
@@ -13842,7 +13878,7 @@
      "sets": "3",
      "reps": "8",
      "tempo": "2-1-1",
-     "tip": "Add a 3s hold at the top of every rep.",
+     "tip": "Hold at the top of every rep.",
      "group": ""
     }
    },
@@ -13934,10 +13970,6 @@
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
-     "isAdapted": true
-    },
     "lowerBack": {
      "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
@@ -14004,17 +14036,20 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: pull to the lower ribs with the elbows close to the body.",
      "isAdapted": true
     },
-    "elbow": {
-     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
-     "isAdapted": true
-    },
     "lowerBack": {
      "tip": "LOWER-BACK FRIENDLY: chest support removes spinal load — keep it strict.",
+     "isAdapted": true
+    },
+    "elbow": {
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     }
    }
@@ -14065,16 +14100,16 @@
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: pull to the lower ribs with the elbows close to the body.",
-     "isAdapted": true
-    },
     "lowerBack": {
      "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     },
     "elbow": {
      "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
+     "isAdapted": true
+    },
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: pull to the lower ribs with the elbows close to the body.",
      "isAdapted": true
     }
    }
@@ -14137,16 +14172,16 @@
      "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free and drive through the whole foot.",
      "isAdapted": true
     },
-    "hip": {
-     "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
-     "isAdapted": true
-    },
     "lowerBack": {
      "tip": "LOWER BACK ADAPTED: stop before the hips tuck off the pad — that tuck is where the back rounds.",
      "isAdapted": true
     },
     "hamstring": {
      "tip": "HAMSTRING ADAPTED: stop short of deep knee flexion to limit hamstring stretch; keep tension on the quads.",
+     "isAdapted": true
+    },
+    "hip": {
+     "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
      "isAdapted": true
     }
    }
@@ -14168,13 +14203,12 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "knee": {
      "tip": "KNEE ADAPTED: shorten the step and reduce the depth so the front knee stays behind the toes.",
-     "isAdapted": true
-    },
-    "hip": {
-     "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
      "isAdapted": true
     },
     "ankle": {
@@ -14183,6 +14217,10 @@
     },
     "hamstring": {
      "tip": "HAMSTRING ADAPTED: shorten the range and slow the tempo; stop well before the hamstring pulls.",
+     "isAdapted": true
+    },
+    "hip": {
+     "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
      "isAdapted": true
     }
    }
@@ -14204,6 +14242,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
@@ -14237,12 +14278,12 @@
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the dip shallow, or drop the added weight entirely.",
+    "elbow": {
+     "tip": "ELBOW ADAPTED: bodyweight only. No added load.",
      "isAdapted": true
     },
-    "elbow": {
-     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: keep the dip shallow, or drop the added weight entirely.",
      "isAdapted": true
     }
    }
@@ -14265,12 +14306,12 @@
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: pull to the lower ribs with the elbows close to the body.",
+    "lowerBack": {
+     "tip": "LOWER BACK ADAPTED: chest-supported removes spinal loading.",
      "isAdapted": true
     },
-    "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: do not rock back to move the weight; lighten it and keep the torso vertical.",
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: pull to the lower ribs with the elbows close to the body.",
      "isAdapted": true
     }
    }
@@ -14292,6 +14333,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: press at an incline rather than straight overhead, use a neutral grip and stop at a pain-free height.",
@@ -14349,10 +14393,6 @@
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
-     "isAdapted": true
-    },
     "lowerBack": {
      "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
@@ -14369,7 +14409,7 @@
   {
    "id": "maintenance-shoulders-seateddbpress",
    "name": "Seated Dumbbell Press",
-   "videoURL": "https://www.youtube.com/results?search_query=seated+dumbbell+press+form",
+   "videoURL": "https://www.youtube.com/results?search_query=dumbbell+shoulder+press+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14415,6 +14455,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
@@ -14447,6 +14490,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
@@ -14476,12 +14522,12 @@
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
-     "isAdapted": true
-    },
     "elbow": {
      "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
+     "isAdapted": true
+    },
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     }
    }
@@ -14504,12 +14550,12 @@
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
-     "isAdapted": true
-    },
     "elbow": {
      "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
+     "isAdapted": true
+    },
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     }
    }
@@ -14531,6 +14577,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: pull no higher than the bottom of the ribcage and keep the elbows below shoulder height; lighter load.",
@@ -14560,12 +14609,12 @@
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
-     "isAdapted": true
-    },
     "lowerBack": {
      "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
+     "isAdapted": true
+    },
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
      "isAdapted": true
     }
    }
@@ -14593,7 +14642,7 @@
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the elbows at the ribs so the shoulder cannot assist.",
+     "tip": "SHOULDER ADAPTED: keep the elbows at the ribs so the shoulder cannot take over.",
      "isAdapted": true
     }
    }
@@ -14616,12 +14665,12 @@
     }
    },
    "injuryAdaptations": {
-    "elbow": {
-     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
-     "isAdapted": true
-    },
     "shoulder": {
      "tip": "SHOULDER ADAPTED: press at an incline rather than straight overhead, use a neutral grip and stop at a pain-free height.",
+     "isAdapted": true
+    },
+    "elbow": {
+     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
      "isAdapted": true
     }
    }
@@ -14629,7 +14678,7 @@
   {
    "id": "maintenance-arms-skullcrusher",
    "name": "Skull Crusher",
-   "videoURL": "https://www.youtube.com/results?search_query=skull+crusher+form",
+   "videoURL": "https://www.youtube.com/results?search_query=skull+crusher+tricep+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -14804,20 +14853,20 @@
     }
    },
    "injuryAdaptations": {
-    "knee": {
-     "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free and drive through the whole foot.",
-     "isAdapted": true
-    },
     "lowerBack": {
      "tip": "LOWER BACK ADAPTED: reduce the load and the range — hinge only as far as the back stays flat, and brace before every rep.",
      "isAdapted": true
     },
-    "hip": {
-     "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
+    "knee": {
+     "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free and drive through the whole foot.",
      "isAdapted": true
     },
     "hamstring": {
      "tip": "HAMSTRING ADAPTED: shorten the range and slow the tempo; stop well before the hamstring pulls.",
+     "isAdapted": true
+    },
+    "hip": {
+     "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
      "isAdapted": true
     }
    }
@@ -14839,21 +14888,24 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
-    "knee": {
-     "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free and drive through the whole foot.",
-     "isAdapted": true
-    },
     "shoulder": {
      "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
     },
-    "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
+    "knee": {
+     "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free and drive through the whole foot.",
      "isAdapted": true
     },
     "hip": {
      "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
+     "isAdapted": true
+    },
+    "lowerBack": {
+     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
     }
    }
@@ -14911,6 +14963,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Pull-Up Bar"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: avoid a full dead hang — start with the shoulder blades set and the elbows slightly bent.",
@@ -14976,6 +15031,10 @@
     }
    },
    "injuryAdaptations": {
+    "ankle": {
+     "tip": "ANKLE ADAPTED: use leg drive but stay controlled — avoid explosive jump.",
+     "isAdapted": true
+    },
     "shoulder": {
      "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
      "isAdapted": true
@@ -14987,17 +15046,13 @@
     "lowerBack": {
      "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
      "isAdapted": true
-    },
-    "ankle": {
-     "tip": "ANKLE ADAPTED: use leg drive but stay controlled — avoid explosive jump.",
-     "isAdapted": true
     }
    }
   },
   {
    "id": "maintenance-fullbody-carry",
    "name": "Farmer's Carry",
-   "videoURL": "https://www.youtube.com/results?search_query=farmer+s+carry+form",
+   "videoURL": "https://www.youtube.com/results?search_query=farmers+carry+form",
    "category": "maintenance",
    "environment": [
     "gym"
@@ -15047,13 +15102,12 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "knee": {
-     "tip": "KNEE ADAPTED: shorten the step and reduce the depth.",
-     "isAdapted": true
-    },
-    "hip": {
-     "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
+     "tip": "KNEE ADAPTED: shorten the step and reduce the depth so the front knee stays behind the toes.",
      "isAdapted": true
     },
     "ankle": {
@@ -15062,6 +15116,10 @@
     },
     "hamstring": {
      "tip": "HAMSTRING ADAPTED: shorten the range and slow the tempo; stop well before the hamstring pulls.",
+     "isAdapted": true
+    },
+    "hip": {
+     "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
      "isAdapted": true
     }
    }
@@ -15133,7 +15191,7 @@
   {
    "id": "maintenance-push-home-closegrip",
    "name": "Close-Grip Push-Up",
-   "videoURL": "https://www.youtube.com/results?search_query=close+grip+push+up+form",
+   "videoURL": "https://www.youtube.com/results?search_query=close-grip+push-up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15148,12 +15206,12 @@
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
-     "isAdapted": true
-    },
     "elbow": {
      "tip": "ELBOW ADAPTED: reduce the depth and set the hands slightly wider.",
+     "isAdapted": true
+    },
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
      "isAdapted": true
     }
    }
@@ -15322,7 +15380,7 @@
     "maintenance": {
      "sets": "3",
      "reps": "12-15",
-     "tempo": "2-1-3",
+     "tempo": "3-1-2",
      "tip": "One foot on a stair edge. All the way up, three seconds down, heel below the step at the bottom.",
      "group": ""
     }
@@ -15361,7 +15419,7 @@
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: reduce the depth and set the hands slightly wider.",
+     "tip": "ELBOW ADAPTED: shorten the range and keep the straight arm softly bent, never locked.",
      "isAdapted": true
     },
     "lowerBack": {
@@ -15420,12 +15478,12 @@
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
+    "elbow": {
+     "tip": "ELBOW ADAPTED: widen the hands to a standard push-up to reduce elbow load.",
      "isAdapted": true
     },
-    "elbow": {
-     "tip": "ELBOW ADAPTED: widen the hands toward shoulder width and reduce the depth.",
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: keep it shallow, elbows pinned to the ribs.",
      "isAdapted": true
     }
    }
@@ -15433,7 +15491,7 @@
   {
    "id": "maintenance-shoulders-home-wallpike",
    "name": "Wall Pike Push-Up",
-   "videoURL": "https://www.youtube.com/results?search_query=wall+pike+push+up+form",
+   "videoURL": "https://www.youtube.com/results?search_query=wall+pike+push+up+incline+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15449,11 +15507,11 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: keep the feet low so the angle stays shallow, or work from the floor in a standard pike.",
+     "tip": "SHOULDER ADAPTED: keep the feet low and the range shallow; move only pain-free.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: reduce the depth and set the hands slightly wider.",
+     "tip": "ELBOW ADAPTED: shorten the range and keep the elbows tracking back, not flaring.",
      "isAdapted": true
     },
     "lowerBack": {
@@ -15529,7 +15587,7 @@
   {
    "id": "maintenance-shoulders-home-yraise",
    "name": "Prone Y-Raise",
-   "videoURL": "https://www.youtube.com/results?search_query=prone+y+raise+form",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+y+raise+lower+trap+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15545,11 +15603,11 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
+     "tip": "SHOULDER ADAPTED: raise only within a pain-free range and keep the movement light.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: lift the arms only and leave the legs down, with the chin tucked.",
+     "tip": "LOWER BACK ADAPTED: rest the forehead down and keep the chest low so the lower back stays neutral.",
      "isAdapted": true
     }
    }
@@ -15557,7 +15615,7 @@
   {
    "id": "maintenance-shoulders-home-traise",
    "name": "Prone T-Raise",
-   "videoURL": "https://www.youtube.com/results?search_query=prone+t+raise+form",
+   "videoURL": "https://www.youtube.com/results?search_query=prone+t+raise+rear+delt+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15629,11 +15687,11 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: press only to eye height rather than locking out overhead, keep a neutral grip, and lighten the load.",
+     "tip": "SHOULDER ADAPTED: slide only as high as stays pain-free; keep the ribs down.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
+     "tip": "LOWER BACK ADAPTED: keep the lower back flat against the wall throughout - do not let it arch to gain height.",
      "isAdapted": true
     }
    }
@@ -15641,7 +15699,7 @@
   {
    "id": "maintenance-shoulders-home-snowangel",
    "name": "Reverse Snow Angel",
-   "videoURL": "https://www.youtube.com/results?search_query=reverse+snow+angel+form",
+   "videoURL": "https://www.youtube.com/results?search_query=reverse+snow+angel+prone+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15657,11 +15715,11 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: shorten the range and keep the thumbs up; height comes after comfort.",
+     "tip": "SHOULDER ADAPTED: reduce the overhead range; stop where the shoulder feels the pinch.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: lift the arms only and leave the legs down, with the chin tucked.",
+     "tip": "LOWER BACK ADAPTED: keep the chest low and ribs down.",
      "isAdapted": true
     }
    }
@@ -15684,12 +15742,12 @@
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
+    "elbow": {
+     "tip": "ELBOW ADAPTED: widen the hands to a standard push-up to reduce elbow load.",
      "isAdapted": true
     },
-    "elbow": {
-     "tip": "ELBOW ADAPTED: widen toward shoulder width and reduce the depth.",
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: keep it shallow, elbows pinned to the ribs.",
      "isAdapted": true
     }
    }
@@ -15725,7 +15783,7 @@
   {
    "id": "maintenance-arms-home-closegrip",
    "name": "Close-Grip Push-Up",
-   "videoURL": "https://www.youtube.com/results?search_query=close+grip+push+up+form",
+   "videoURL": "https://www.youtube.com/results?search_query=close-grip+push-up+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15740,12 +15798,12 @@
     }
    },
    "injuryAdaptations": {
-    "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
-     "isAdapted": true
-    },
     "elbow": {
      "tip": "ELBOW ADAPTED: reduce the depth and set the hands slightly wider.",
+     "isAdapted": true
+    },
+    "shoulder": {
+     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
      "isAdapted": true
     }
    }
@@ -15753,7 +15811,7 @@
   {
    "id": "maintenance-arms-home-supinatedrow",
    "name": "Supinated Inverted Row",
-   "videoURL": "https://www.youtube.com/results?search_query=supinated+inverted+row+form",
+   "videoURL": "https://www.youtube.com/results?search_query=underhand+inverted+row+biceps+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15769,11 +15827,11 @@
    },
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
+     "tip": "ELBOW ADAPTED: avoid fully locking out at the bottom and keep the load light.",
      "isAdapted": true
     },
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: pull to the lower ribs with the elbows close to the body.",
+     "tip": "SHOULDER ADAPTED: stop the pull before any shoulder pinch.",
      "isAdapted": true
     },
     "lowerBack": {
@@ -15924,16 +15982,16 @@
      "tip": "KNEE ADAPTED: reduce the depth so the knee stays pain-free, lower the rear-foot elevation and drive through the whole foot.",
      "isAdapted": true
     },
-    "hip": {
-     "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
-     "isAdapted": true
-    },
     "ankle": {
-     "tip": "ANKLE ADAPTED: reduce the range and keep the movement slow with no bounce.",
+     "tip": "ANKLE ADAPTED: keep the front foot flat and shorten the range.",
      "isAdapted": true
     },
     "hamstring": {
      "tip": "HAMSTRING ADAPTED: shorten the range and slow the tempo; stop well before the hamstring pulls.",
+     "isAdapted": true
+    },
+    "hip": {
+     "tip": "HIP ADAPTED: lower the rear-foot elevation and control the range.",
      "isAdapted": true
     }
    }
@@ -15957,11 +16015,11 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: raise the hands onto a higher surface so the shoulder works in a shallower angle.",
+     "tip": "SHOULDER ADAPTED: elevate the hands (incline push-up), elbows ~45 degrees.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: reduce the depth and set the hands slightly wider.",
+     "tip": "ELBOW ADAPTED: reduce depth, hands slightly wider.",
      "isAdapted": true
     },
     "lowerBack": {
@@ -15973,7 +16031,7 @@
   {
    "id": "maintenance-fullbody-home-row",
    "name": "Inverted Row (Under Table)",
-   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+under+table+form",
+   "videoURL": "https://www.youtube.com/results?search_query=inverted+row+under+table+bodyweight+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -15989,15 +16047,15 @@
    },
    "injuryAdaptations": {
     "shoulder": {
-     "tip": "SHOULDER ADAPTED: pull to the lower ribs with the elbows close to the body.",
+     "tip": "SHOULDER ADAPTED: use a neutral (palms-facing) grip and stop the pull before any shoulder pinch.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: brace the abs and keep the ribs down; shorten the range rather than letting the back arch.",
+     "tip": "LOWER BACK ADAPTED: bend the knees and plant the feet flat so the trunk stays supported; keep a neutral spine.",
      "isAdapted": true
     },
     "elbow": {
-     "tip": "ELBOW ADAPTED: lighter load, neutral grip, and stop before the elbow reaches its end range.",
+     "tip": "ELBOW ADAPTED: use a neutral grip and avoid fully locking the elbows at the bottom.",
      "isAdapted": true
     }
    }
@@ -16113,7 +16171,7 @@
   {
    "id": "maintenance-fullbody-home-slrdl",
    "name": "Single-Leg Romanian Deadlift",
-   "videoURL": "https://www.youtube.com/results?search_query=single+leg+romanian+deadlift+form",
+   "videoURL": "https://www.youtube.com/results?search_query=single+leg+romanian+deadlift+bodyweight+form",
    "category": "maintenance",
    "environment": [
     "home"
@@ -16129,15 +16187,15 @@
    },
    "injuryAdaptations": {
     "hamstring": {
-     "tip": "HAMSTRING ADAPTED: shorten the range and slow the tempo; stop well before the hamstring pulls.",
+     "tip": "HAMSTRING ADAPTED: reduce the range so the stretch is mild, keep a soft knee; stop before any sharp pull.",
      "isAdapted": true
     },
     "lowerBack": {
-     "tip": "LOWER BACK ADAPTED: reduce the load and the range — hinge only as far as the back stays flat, and brace before every rep.",
+     "tip": "LOWER BACK ADAPTED: keep the spine neutral, use the kickstand (back toes down) regression and a short range.",
      "isAdapted": true
     },
     "hip": {
-     "tip": "HIP ADAPTED: engage the pelvic floor before each rep, keep the range comfortable and do not hold the breath.",
+     "tip": "HIP ADAPTED: use the kickstand version and hold a wall for balance.",
      "isAdapted": true
     },
     "knee": {
@@ -16190,9 +16248,6 @@
    "environment": [
     "home"
    ],
-   "equipment": [
-    "Dumbbells / Free Weights"
-   ],
    "phases": {
     "1": {
      "sets": "3",
@@ -16209,16 +16264,19 @@
      "group": "I2"
     },
     "maintenance": {
-     "sets": "3",
-     "reps": "8",
-     "tempo": "2-1-1",
+     "sets": "4",
+     "reps": "8-10",
+     "tempo": "2-0-1",
      "tip": "Heavier for 8 strict reps.",
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "elbow": {
-     "tip": "ELBOW ADAPTED: lighter dumbbells and stop short of a fully straight arm at the bottom.",
+     "tip": "ELBOW ADAPTED: neutral grip already elbow-friendly — lighter load, stop short of full flexion if it pinches.",
      "isAdapted": true
     },
     "shoulder": {
@@ -16234,9 +16292,6 @@
    "category": "fullbody",
    "environment": [
     "home"
-   ],
-   "equipment": [
-    "Dumbbells / Free Weights"
    ],
    "phases": {
     "1": {
@@ -16257,10 +16312,13 @@
      "sets": "3",
      "reps": "8",
      "tempo": "2-1-1",
-     "tip": "Heavier dumbbells, 2s pause at the top of each row.",
+     "tip": "Heavier dumbbells, pause at the top of each row.",
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "lowerBack": {
      "tip": "LOWER BACK ADAPTED: widen the feet and brace hard so the hips cannot twist; lighten the load.",
@@ -16283,9 +16341,6 @@
    "category": "push",
    "environment": [
     "home"
-   ],
-   "equipment": [
-    "Dumbbells / Free Weights"
    ],
    "phases": {
     "1": {
@@ -16310,6 +16365,9 @@
      "group": ""
     }
    },
+   "equipment": [
+    "Dumbbells / Free Weights"
+   ],
    "injuryAdaptations": {
     "shoulder": {
      "tip": "SHOULDER ADAPTED: shorten the range overhead — go only as far back as stays comfortable.",

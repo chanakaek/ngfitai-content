@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dayTypes": {
     "training": [
       { "icon": "bolt.fill", "title": "Caffeine — 3–6mg/kg, 30–60 min before", "detail": "Most studied ergogenic aid in sport. Increases strength output by 3–7% and delays perceived effort. Black coffee counts." },
-      { "icon": "pill.fill", "title": "Creatine — 3–5g pre or post workout", "detail": "The single best-evidenced supplement for strength and muscle. Take it consistently every day; timing around training gives a slight edge." },
+      { "icon": "pill.fill", "title": "Creatine — 3–5g pre or post workout", "detail": "The single best-evidenced supplement for strength and muscle. Take it consistently every day — timing doesn't matter, so pick whichever's easiest to remember." },
       { "icon": "figure.strengthtraining.traditional", "title": "Whey protein — 30–40g within 45 min post", "detail": "Fast-digesting whey spikes amino acid availability during the critical post-workout window. Leucine content is what drives muscle protein synthesis." },
       { "icon": "moon.fill", "title": "Casein protein — 30g before bed", "detail": "Whey handles post-workout; casein handles overnight. Together they keep muscle protein synthesis elevated for 18+ hours after training." },
       { "icon": "leaf.fill", "title": "Omega-3 — 2–3g EPA/DHA with food", "detail": "Amplifies muscle protein synthesis when combined with strength training. Take with your largest meal for best absorption." }

@@ -1,5 +1,5 @@
 {
-  "version": "1.80.0",
+  "version": "1.80.3",
   "nuggets": [
     {
       "id": "nug_170",
@@ -37,7 +37,7 @@
       "audience": "all",
       "icon": "questionmark.circle.fill",
       "title": "When the scale and the maths disagree",
-      "body": "If your predicted and actual weight drift apart, tap 'explain my gap' and your Coach talks it through — asking a question or two before it guesses.",
+      "body": "If your predicted and actual weight drift apart, tap 'Ask the coach about this' and your Coach talks it through — asking a question or two before it guesses.",
       "learnMoreURL": "https://strathlon.com/blog-weight-photo-and-gap",
       "stage": "usage-premium"
     },
@@ -244,7 +244,7 @@
       "audience": "all",
       "icon": "checkmark.circle",
       "title": "Trained away from the app? Log it in a tap",
-      "body": "Did your session without the in-app timers — or away from your phone entirely? Tap \"Mark this session done\" on your plan so it still counts toward your progress and your analytics. You can mark earlier days too. And if you have an Apple Watch, your strength workouts are picked up automatically.",
+      "body": "Did your session without the in-app timers — or away from your phone entirely? Tap \"Mark this session done\" on your plan so it counts toward your phase progression — not your streaks, charts or analytics. You can mark earlier days too. And if you have an Apple Watch, your strength workouts are picked up automatically.",
       "stage": "usage-core"
     },
     {
@@ -377,7 +377,7 @@
       "audience": "all",
       "icon": "scalemass",
       "title": "Track the weights you lift",
-      "body": "Open any exercise on your Plan and log your working weight × reps (pre-filled from last time — usually one tap), or tap 'Log each set' for set-by-set detail. Enter in kg or lb; both are shown. After a few sessions your review gains a Strength progress section: heaviest set, total volume-load, your weekly trend, and a nudge to deload when a lift stalls. Every figure is a weight you logged — nothing is estimated from it.",
+      "body": "Open any exercise on your Plan and log your working weight × reps (pre-filled from last time — usually one tap), or tap 'Log each set' for set-by-set detail. Enter in kg or lb; both are shown. Every set you log feeds the strength tiles on your Progress tab — heaviest set, total volume-load, your weekly trend, and a nudge to deload when a lift stalls. Every figure is a weight you logged — nothing is estimated from it.",
       "learnMoreURL": "https://strathlon.com/userguide#weekly-review",
       "stage": "usage-core"
     },
@@ -483,7 +483,7 @@
       "audience": "all",
       "icon": "figure.walk.motion",
       "title": "Going away? Tell Strathlon",
-      "body": "On the Plan tab, tap \"Away or catching up?\". Set a holiday or busy spell and those days show \"On a break\" — your plan pauses where it is, nothing's lost, and you get a welcome-back when you're home. Your place in the plan advances on the weeks you actually train, not on the calendar, so a break costs you no plan weeks. The scheduled sport bonus isn't counted while you're away, and the app tells you on screen what it does with your calories when you set the break. Trained while away (off-app, a different gym, a walk)? Tick the days and what you did — even several at once — and it counts toward your progress on any day.",
+      "body": "On the Plan tab, tap \"On a break or catching up?\". Set a holiday or busy spell and those days show \"On a break\" — your plan pauses where it is, nothing's lost, and you get a welcome-back when you're home. Your place in the plan advances on the weeks you actually train, not on the calendar, so a break costs you no plan weeks. A scheduled gym session isn't counted while you're away — your sport still is — and the app tells you on screen what it does with your calories when you set the break. Trained while away (off-app, a different gym, a walk)? Tick the days and what you did — even several at once — and it counts toward your progress on any day.",
       "stage": "usage-core"
     },
     {
@@ -521,7 +521,7 @@
       "audience": "all",
       "icon": "lock.shield.fill",
       "title": "You decide what the AI Coach sees",
-      "body": "Strathlon asks once — during setup, and any time in Settings → App settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's one switch for every Apple Health figure your coach reads, so once it's on there's no second question and no confirmation box - it works wherever you ask, in the chat, on a Trends card, in a weekly review, or on the gap on your weight chart. It's off by default. Turn it on for sharper coaching, and switch it back off whenever you like. It is not a switch for everything your coach knows, and there is no such switch: your name, age and biological sex, your goals and targets, your plan and the food you log go with every message whatever this is set to, because a coach cannot coach without them. The health & safety details you entered yourself - allergies, pregnancy or breastfeeding, conditions, medications and injuries - are always shared too, so its advice is safe for you. And your cycle has its own switch, in Settings -> Cycle-aware insights. See Privacy & your data -> 'What your AI coach can see' for the full list.",
+      "body": "Strathlon asks once — during setup, and any time in Settings → App settings → Privacy & your data — whether to share your Apple Health figures (weight, body-fat, calories burned, heart rate, cardio-fitness, sleep) with the AI Coach for more tailored advice. It's one switch for every Apple Health figure your coach reads, so once it's on there's no second question and no confirmation box - it works wherever you ask, in the chat, on the Progress tab, in a weekly review, or on the gap on your weight chart. It's off by default. Turn it on for sharper coaching, and switch it back off whenever you like. It is not a switch for everything your coach knows, and there is no such switch: your name, age and biological sex, your goals and targets, your plan and the food you log go with every message whatever this is set to, because a coach cannot coach without them. The health & safety details you entered yourself - allergies, pregnancy or breastfeeding, conditions, medications and injuries - are always shared too, so its advice is safe for you. And your cycle has its own switch, in Settings -> Cycle-aware insights. See Privacy & your data -> 'What your AI coach can see' for the full list.",
       "stage": "usage-core"
     },
     {
@@ -569,7 +569,7 @@
       "audience": "all",
       "icon": "scalemass.fill",
       "title": "Your weight keeps your plan current",
-      "body": "Weigh in on a scale that syncs to Apple Health and Strathlon brings it in automatically — there's no \"update your weight?\" tap any more. The weight you see is the reading you logged, and it's also what your calorie and protein targets are built from, so they update as soon as a new weigh-in arrives. Only the weight chart's trend line is smoothed. Want to set a specific day yourself? Type it in and your number wins for that day.",
+      "body": "Weigh in on a scale that syncs to Apple Health and Strathlon brings it in automatically — there's no \"update your weight?\" tap any more. The weight you see is the reading you logged, and it's also what your calorie and protein targets are built from, so they update as soon as a new weigh-in arrives. The Body weight tile on your Progress tab (and any weight-based celebration) shows this same ~7-day trend too, labelled 'trend' on the tile — not your single latest reading — and the weight chart's trend line is smoothed the same way. Want to set a specific day yourself? Type it in and it stands until Apple Health brings in a newer reading.",
       "stage": "usage-core",
       "learnMoreURL": "https://strathlon.com/blog-tracking-progress"
     },
@@ -1892,7 +1892,7 @@
       "audience": "all",
       "icon": "list.number",
       "title": "Set your primary sport",
-      "body": "Play more than one sport? In your profile you can reorder them — the one at the top is your primary. Your gym work is tuned to your top two sports, while any others still shape your schedule and nutrition. Reorder anytime to change which two drive your lifts.",
+      "body": "Play more than one sport? In your profile you can reorder them — the one at the top is your primary. When Sports Performance is one of your goals, your gym work is tuned to your top two sports; any others still shape your schedule and nutrition either way. Reorder anytime to change which two drive your lifts.",
       "learnMoreURL": "https://strathlon.com/blog-sport-adaptation",
       "stage": "knowledge"
     },
@@ -2360,7 +2360,7 @@
       "audience": "all",
       "icon": "fork.knife.circle.fill",
       "title": "Protein isn't just for gym-goers",
-      "body": "Even if you never lift, protein helps you hold onto muscle as you age — and after about 50 the body builds it less efficiently, so your needs actually rise. Most people fall short at breakfast and pile it all into dinner. Sports-nutrition bodies put the useful range at roughly 1.2 to 2.0 g per kg of body weight a day, with a palm-sized portion at each meal.",
+      "body": "Even if you never lift, protein helps you hold onto muscle as you age — and after about 50 the body builds it less efficiently, so your needs actually rise. Most people fall short at breakfast and pile it all into dinner. Strathlon's own general-fitness target is around 1.8g per kg of body weight a day (of your goal weight if you're above a healthy weight), with a palm-sized portion at each meal.",
       "goals": [
         "generalFit"
       ],
@@ -2484,7 +2484,7 @@
       "audience": "all",
       "icon": "figure.strengthtraining.traditional",
       "title": "Keep lifting or muscle quietly slips away",
-      "body": "Maintenance calories don't hold muscle on their own — the training does. Keep your protein up, around 1.6g per kg of body weight, and keep challenging your lifts, and the muscle you built stays put. Remove the stimulus and your body sheds what it thinks it no longer needs.",
+      "body": "Maintenance calories don't hold muscle on their own — the training does. Keep your protein at your usual target — 1.8 to 2.3g per kg of body weight (of your goal weight if you're above a healthy weight), depending on your goal — and keep challenging your lifts, and the muscle you built stays put. Remove the stimulus and your body sheds what it thinks it no longer needs.",
       "goals": [
         "balance"
       ],
@@ -2571,7 +2571,7 @@
       "audience": "all",
       "icon": "arrow.triangle.2.circlepath",
       "title": "Recomp runs on three levers",
-      "body": "Losing fat while building muscle — a recomposition — works when three things line up: eat near maintenance, keep protein high at about 2g per kg of body weight, and add reps or load to your lifts over time. It's most effective if you're new, returning after a break, or carrying more fat; a lean, experienced lifter usually has to pick one direction instead. Judge it by your strength, photos and the tape, not the scale.",
+      "body": "Losing fat while building muscle — a recomposition — works when three things line up: eat near maintenance, keep protein high at around 2.3g per kg of body weight (Strathlon's own recomposition target — per kg of your goal weight if you're above a healthy weight), and add reps or load to your lifts over time. It's most effective if you're new, returning after a break, or carrying more fat; a lean, experienced lifter usually has to pick one direction instead. Judge it by your strength, photos and the tape, not the scale.",
       "goals": [
         "balance"
       ],
@@ -3224,7 +3224,7 @@
       "audience": "all",
       "icon": "figure.run",
       "title": "Springy legs run cheaper",
-      "body": "Runners get faster in the gym by getting more economical, not bigger. Heavy, low-rep lifting plus a little plyometric hopping trains the calf-Achilles spring and stretch-shortening cycle, so each stride costs less energy — without piling on weight. Strathlon tunes your plan toward running and adds a reactive finisher on top.",
+      "body": "Runners get faster in the gym by getting more economical, not bigger. Heavy, low-rep lifting plus a little plyometric hopping trains the calf-Achilles spring and stretch-shortening cycle, so each stride costs less energy — without piling on weight. When Sports Performance is one of your goals, Strathlon tunes your plan toward running and adds a reactive finisher on top.",
       "sports": [
         "running"
       ],
@@ -3315,7 +3315,7 @@
       "audience": "all",
       "icon": "bolt.fill",
       "title": "Punch with your legs, not your arm",
-      "body": "A hard punch is a whole-body chain: force starts at the floor and travels up through hip and trunk rotation, and the cross tends to hit hardest because it rides rear-leg drive. So train explosive power and rotational medicine-ball throws, not just bench press. Strathlon tunes your plan toward boxing with a rotational, explosive finisher on a strength base.",
+      "body": "A hard punch is a whole-body chain: force starts at the floor and travels up through hip and trunk rotation, and the cross tends to hit hardest because it rides rear-leg drive. So train explosive power and rotational medicine-ball throws, not just bench press. When Sports Performance is one of your goals, Strathlon tunes your plan toward boxing with a rotational, explosive finisher on a strength base.",
       "sports": [
         "boxing"
       ],
@@ -3354,7 +3354,7 @@
       "audience": "all",
       "icon": "figure.strengthtraining.traditional",
       "title": "Get strong for your size",
-      "body": "Wrestling rewards strength-to-weight, not bulk. Heavy hinges and hard pulling build the posterior chain and grip behind every shot and finish, and positional isometrics let you express force while locked up and tired. A deliberately built, resilient neck helps too. Strathlon tunes your plan toward wrestling with grip, neck and posterior-chain accessory work on a strength base.",
+      "body": "Wrestling rewards strength-to-weight, not bulk. Heavy hinges and hard pulling build the posterior chain and grip behind every shot and finish, and positional isometrics let you express force while locked up and tired. A deliberately built, resilient neck helps too. When Sports Performance is one of your goals, Strathlon tunes your plan toward wrestling with grip, neck and posterior-chain accessory work on a strength base.",
       "sports": [
         "wrestling"
       ],
@@ -3393,7 +3393,7 @@
       "audience": "all",
       "icon": "figure.run",
       "title": "Squash is played on one leg",
-      "body": "Most shots are struck from a lunge, so single-leg strength — split squats, step-ups, single-leg deadlifts — is your most sport-specific work, alongside the ability to decelerate and change direction. And don't skip heavy calf raises: the calf and Achilles top squash's injury list. Strathlon tunes your plan toward squash with single-leg and calf accessory work.",
+      "body": "Most shots are struck from a lunge, so single-leg strength — split squats, step-ups, single-leg deadlifts — is your most sport-specific work, alongside the ability to decelerate and change direction. And don't skip heavy calf raises: the calf and Achilles top squash's injury list. When Sports Performance is one of your goals, Strathlon tunes your plan toward squash with single-leg and calf accessory work.",
       "sports": [
         "squash"
       ],
@@ -3549,7 +3549,7 @@
       "audience": "all",
       "icon": "figure.strengthtraining.traditional",
       "title": "Get strong, then make it fast",
-      "body": "Rugby is won and survived in the collision, so heavy strength — squat, hinge, press and pull — is the base: it makes you harder to move and tends to lower injury risk, not slower. Then turn it into contact speed with jumps, throws and sprints, and don't skip cheap neck work. Strathlon tunes your plan with a rugby finisher and power accessories on that base.",
+      "body": "Rugby is won and survived in the collision, so heavy strength — squat, hinge, press and pull — is the base: it makes you harder to move and tends to lower injury risk, not slower. Then turn it into contact speed with jumps, throws and sprints, and don't skip cheap neck work. When Sports Performance is one of your goals, Strathlon tunes your plan with a rugby finisher and power accessories on that base.",
       "sports": [
         "rugby"
       ],
@@ -3588,7 +3588,7 @@
       "audience": "all",
       "icon": "bolt.fill",
       "title": "Throw from the ground up",
-      "body": "Handball's jump throw is a whole-body whip, not an arm action — ball speed comes from the legs and trunk driving the shoulder. Heavy squats and hinges plus rotational medicine-ball throws tend to raise throwing velocity more than arm work alone. Strathlon tunes your plan toward handball with a throwing-power finisher on a strength base.",
+      "body": "Handball's jump throw is a whole-body whip, not an arm action — ball speed comes from the legs and trunk driving the shoulder. Heavy squats and hinges plus rotational medicine-ball throws tend to raise throwing velocity more than arm work alone. When Sports Performance is one of your goals, Strathlon tunes your plan toward handball with a throwing-power finisher on a strength base.",
       "sports": [
         "handball"
       ],
@@ -3640,7 +3640,7 @@
       "audience": "all",
       "icon": "figure.strengthtraining.functional",
       "title": "Power the eggbeater",
-      "body": "Water polo happens from an unstable base — your eggbeater kick builds the platform you shoot and block from. Strong hips and legs, plus hip external-rotation and adductor work, tend to raise you higher in the water and protect the medial knee the kick grinds on. Strathlon tunes your plan toward water polo with leg, hip and shoulder-care work.",
+      "body": "Water polo happens from an unstable base — your eggbeater kick builds the platform you shoot and block from. Strong hips and legs, plus hip external-rotation and adductor work, tend to raise you higher in the water and protect the medial knee the kick grinds on. When Sports Performance is one of your goals, Strathlon tunes your plan toward water polo with leg, hip and shoulder-care work.",
       "sports": [
         "water_polo"
       ],
@@ -3666,7 +3666,7 @@
       "audience": "all",
       "icon": "figure.strengthtraining.traditional",
       "title": "Strong first, then explosive",
-      "body": "A football play is a five-second, all-out collision, so the game rewards raw strength turned into fast power. Heavy squats, hinges and pulls build the force; jumps, throws and short sprints teach you to unleash it — and getting stronger tends to make you faster, not slower. Strathlon tunes your plan toward football with an explosive finisher on a strength base.",
+      "body": "A football play is a five-second, all-out collision, so the game rewards raw strength turned into fast power. Heavy squats, hinges and pulls build the force; jumps, throws and short sprints teach you to unleash it — and getting stronger tends to make you faster, not slower. When Sports Performance is one of your goals, Strathlon tunes your plan toward football with an explosive finisher on a strength base.",
       "sports": [
         "american_football"
       ],

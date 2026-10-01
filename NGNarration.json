@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "_note": "R-988 (build 265): LEGACY FILE, read only by builds 264 and earlier. Build 265 removed the coach personalities and neither bundles nor fetches this file. It is kept on the CDN, Standard only, so those builds keep fetching a real file (a missing one is a 404 and an OTA failure report on every refresh) and offer no personality. Standard's lines here are never spoken: every build speaks its compiled copy.",
   "cues": {
     "WARMUP_START": {
@@ -983,13 +983,13 @@
         ],
         "HIIT_SIGNOFF_WEEK_DONE": [
           {
-            "text": "That's the week's training done — brilliant work. Track your calories and rest up over the weekend.",
+            "text": "That's the week's training done. Track your calories and rest up over the weekend.",
             "swear": false
           }
         ],
         "HIIT_SIGNOFF_WEEK_DONE_REST": [
           {
-            "text": "That's the week's training done — brilliant work. Track your calories and rest up until your next session.",
+            "text": "That's the week's training done. Track your calories and rest up until your next session.",
             "swear": false
           }
         ],
