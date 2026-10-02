@@ -1,5 +1,5 @@
 {
-  "version": "1.80.5",
+  "version": "1.80.6",
   "nuggets": [
     {
       "id": "nug_170",
@@ -175,8 +175,8 @@
       "category": "app-tip",
       "audience": "all",
       "icon": "chart.line.uptrend.xyaxis",
-      "title": "'Your week's ready' — open your review",
-      "body": "When a new week has data worth showing, a 'Your week's ready 👀' card appears atop the AI Coach tab. Tap it for a written narrative of your week plus a compact stats row: sessions, volume-load, rest adherence, active burn, energy balance, protein, weight, sleep and daily steps. The charts live on the Progress tab.",
+      "title": "'Your week' — open your review",
+      "body": "When a new week has data worth showing, a small dot appears on the Progress chip in the bar. Open Progress and tap the 'Your week' tile for a written narrative of your week plus a compact stats row: sessions, volume-load, rest adherence, active burn, energy balance, protein, weight, sleep and daily steps. The charts sit on the same tab.",
       "learnMoreURL": "https://strathlon.com/userguide#weekly-review",
       "stage": "usage-core"
     },
