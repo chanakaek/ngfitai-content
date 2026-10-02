@@ -262,7 +262,7 @@
       "audience": "all",
       "icon": "wand.and.stars",
       "title": "Foods you log often, on autopilot",
-      "body": "Eat the same breakfast most days? Strathlon spots foods you log regularly and offers to add them automatically on your chosen days — tap \"Set it up\" on the suggestion card and pick the days and meal slot. It's all worked out on your device, and you can manage or remove any rule under Nutrition → My Foods.",
+      "body": "Eat the same breakfast most days? Strathlon spots foods you log regularly and offers to add them automatically on your chosen days — tap \"Set it up\" on the suggestion card and pick the days and meal slot. It's all worked out on your device, and you can manage or remove any rule from the Daily button in the Quick Add section of the Nutrition tab.",
       "stage": "usage-core"
     },
     {
