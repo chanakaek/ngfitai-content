@@ -1,5 +1,5 @@
 {
-  "version": "1.80.3",
+  "version": "1.80.5",
   "nuggets": [
     {
       "id": "nug_170",
@@ -647,7 +647,7 @@
       "audience": "all",
       "icon": "chart.xyaxis.line",
       "title": "Your weight chart shows when you were away",
-      "body": "Holidays and breaks you set now appear as a soft sky-blue band behind your weight chart, and cycle phases show in baby pink — so a dip or a plateau is easy to explain at a glance. The chart also scrolls sideways now: the daily view opens on your most recent weeks and you can swipe back through your history, just like a stock chart.",
+      "body": "Holidays and breaks you set now appear as a soft sky-blue band behind your weight chart, and the period days you log show in baby pink — so a dip or a plateau is easy to explain at a glance. The chart also scrolls sideways now: the daily view opens on your most recent weeks and you can swipe back through your history, just like a stock chart.",
       "stage": "usage-core"
     },
     {
@@ -3301,8 +3301,8 @@
       "category": "strength",
       "audience": "all",
       "icon": "dumbbell.fill",
-      "title": "Walking's missing half",
-      "body": "Walking is a superb aerobic base but a gentle one, so it does little for muscle, bone or balance. Strength fills exactly those gaps: heavy squats and hinges load bone the miles can't, while single-leg and balance work steadies each stride and guards against falls. Strathlon tunes a plan toward walking and adds calf, hip and balance work.",
+      "title": "Stronger legs, steadier walks",
+      "body": "Walking builds a superb aerobic base, and strength work completes it. Heavy squats and hinges load your bones, while single-leg and balance work steadies each stride and keeps you sure-footed. Add calf raises, hip work and balance drills alongside your workout plan to walk further with confidence.",
       "sports": [
         "walking"
       ],
@@ -3777,6 +3777,197 @@
       ],
       "learnMoreURL": "https://strathlon.com/userguide#hormone-therapy",
       "stage": "usage-core"
+    },
+    {
+      "id": "nug_332",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "scalemass.fill",
+      "title": "See your period water weight",
+      "body": "Weigh in regularly and Strathlon compares your weigh-ins on the days you've logged a period in Apple Health with the rest of your days. Once there are at least three on each side, the Cycle & energy tile on your Progress tab shows, near your period, how much higher your own scale tends to read on period days.",
+      "learnMoreURL": "https://strathlon.com/userguide-health-and-cycle#cycle-energy-tile",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_333",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "chart.xyaxis.line",
+      "title": "Spot water weight at a glance",
+      "body": "The soft pink bands on your weight chart mark the days you've logged a period in Apple Health, with 'Cycle' in the key. If the line bumps up inside a band, that's usually water, and it settles by itself. Judge your trend across the whole cycle.",
+      "learnMoreURL": "https://strathlon.com/stats-cycle-phase#water",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_334",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "heart.circle.fill",
+      "title": "Log periods, get tailored notes",
+      "body": "Strathlon's cycle notes work from the periods you log in Apple Health, in the Health app or any period tracker that saves there. Log a period and the notes appear by themselves; log a few months and Strathlon learns your typical cycle length, so its pre-period notes land closer to the right days.",
+      "learnMoreURL": "https://strathlon.com/userguide-health-and-cycle#cycle-insights",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_335",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "fork.knife.circle.fill",
+      "title": "Extra food that fits your macros",
+      "body": "With 'Ease my targets in my pre-period week' on, the extra ~100 kcal in the days before and during your period comes as about 25 g of carbs, so your protein and fat targets hold steady and your macros still add up. Tap the 'Eased' note on the Tracker to see why.",
+      "goals": [
+        "energyDirected"
+      ],
+      "learnMoreURL": "https://strathlon.com/userguide-health-and-cycle#pre-period-ease",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_336",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "calendar.circle.fill",
+      "title": "Irregular cycle? Treat notes as guides",
+      "body": "Strathlon expects your next period from the typical gap between the ones you've logged, so with a cycle that varies, notes like 'Your period may be near' can arrive a little early or late. Notes for your period itself follow the days you log. If your periods are often irregular, very heavy or painful, talk to your GP.",
+      "learnMoreURL": "https://strathlon.com/stats-cycle-phase#phases",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_337",
+      "category": "general",
+      "audience": "female",
+      "icon": "pills.fill",
+      "title": "On contraception? Notes follow you",
+      "body": "On many hormonal methods the monthly bleed is a withdrawal bleed rather than a true period, and the natural hormone swings are often flattened, so cycle effects on water weight and appetite may be smaller. Strathlon's cycle notes follow whatever you log, and you can switch them off any time in Settings → Cycle-aware insights.",
+      "learnMoreURL": "https://strathlon.com/stats-cycle-phase#contraceptives",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_338",
+      "category": "nutrition",
+      "audience": "female",
+      "icon": "drop.fill",
+      "title": "Keep your iron topped up",
+      "body": "Every period uses up some iron, and heavy periods can use more than your meals put back, which can leave you tired and short of breath. Build in iron-rich foods such as red meat, beans, lentils and leafy greens, with peppers, citrus or tomatoes alongside the plant sources to help absorption. If you often feel unusually tired, ask your GP for a blood test before trying supplements.",
+      "learnMoreURL": "https://strathlon.com/guide-nutrition-across-your-cycle#iron",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_339",
+      "category": "strength",
+      "audience": "female",
+      "icon": "figure.strengthtraining.traditional",
+      "title": "Your strength holds all month",
+      "body": "When researchers test strength through the month, most find only small, inconsistent differences between phases, and a recent trial found women built the same strength and muscle whichever phase they trained in. Some sessions may feel harder before a period, so train by feel on those days and keep your plan steady.",
+      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#strength-dip",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_340",
+      "category": "strength",
+      "audience": "female",
+      "icon": "figure.strengthtraining.functional",
+      "title": "Lift for stronger bones",
+      "body": "Strength training loads your bones as well as your muscles, and it's linked to better bone density, studied especially in women after the menopause. Two or three strength sessions a week, with enough food and enough protein, make a strong base at any age.",
+      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling#what-it-does",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_341",
+      "category": "nutrition",
+      "audience": "female",
+      "icon": "sunrise.fill",
+      "title": "Start your protein at breakfast",
+      "body": "Many women eat less protein than their training needs, and breakfast is where it most often falls short. Your Nutrition tab shows your daily protein target: spread it across three or four meals, starting with a protein source in the morning, such as eggs, Greek yoghurt or a protein shake.",
+      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling#protein",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_342",
+      "category": "general",
+      "audience": "female",
+      "icon": "calendar",
+      "title": "Stay strong through perimenopause",
+      "body": "As periods become less regular around perimenopause, Strathlon's cycle notes follow whatever you log, so they adjust as your log changes. Your workout plan and targets keep working from your own data, and strength training with enough protein helps protect muscle and bone. Talk to your GP about new or unusual bleeding.",
+      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling#what-it-does",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_343",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Your everyday meals fuel Pilates",
+      "body": "A Pilates class is a light-to-moderate effort, so your normal meals cover it well. If an early class on an empty stomach leaves you flat, a small snack beforehand helps; keep it light so rolling and curling stay comfortable. Spread protein across your meals to help your muscles recover.",
+      "sports": [
+        "pilates"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-pilates",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_344",
+      "category": "strength",
+      "audience": "all",
+      "icon": "dumbbell.fill",
+      "title": "Build full strength alongside Pilates",
+      "body": "Pilates builds control, strength-endurance and mobility using light loads. Two heavier strength sessions a week (squats or hinges, pushes, pulls and carries) add maximal strength, grip and bone loading, and brisk walks, rides or swims build your aerobic fitness. Together they cover the whole week.",
+      "sports": [
+        "pilates"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-pilates",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_345",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Stay cool and steady in hot yoga",
+      "body": "Yoga runs well on your everyday meals: a light stomach suits twists and inversions, and a small, plain snack helps if you'd otherwise feel shaky. Hot yoga asks for more water, because the heat raises your heart rate and sweat far more than your energy use. Arrive hydrated, sip water in class, top up afterwards, and step out to cool down whenever you feel dizzy, sick or headachy.",
+      "sports": [
+        "yoga"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-yoga",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_346",
+      "category": "strength",
+      "audience": "all",
+      "icon": "dumbbell.fill",
+      "title": "Stronger back and bones alongside yoga",
+      "body": "Yoga builds flexibility, balance and body-weight strength-endurance. Two short strength sessions a week of rows, pull-downs, squats and hinges add pulling strength and the heavier loading muscle and bone respond to, and in trials strength training improved range of motion about as much as stretching. Add them alongside your workout plan.",
+      "sports": [
+        "yoga"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-yoga",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_347",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Barre runs on your everyday meals",
+      "body": "A barre class costs around three times your resting energy, close to an unhurried walk, however hard the holds feel. Your normal meals cover a 45 to 60 minute class, with water to thirst and a little extra care in heated studios. The nutrient worth watching is protein: a good portion at each meal helps your muscles recover.",
+      "sports": [
+        "barre"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-fuelling-barre",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_348",
+      "category": "strength",
+      "audience": "all",
+      "icon": "dumbbell.fill",
+      "title": "Stronger legs and bones alongside barre",
+      "body": "Barre's high-rep holds and pulses build muscular endurance, control and flexibility at low impact. One or two heavier sessions a week (a squat or leg press, a hip hinge, a row and a press) add maximal strength, pulling and the loading bones respond to. Schedule heavy leg work on other days so your legs recover between sessions.",
+      "sports": [
+        "barre"
+      ],
+      "learnMoreURL": "https://strathlon.com/guide-training-barre",
+      "stage": "knowledge"
     }
   ]
 }
