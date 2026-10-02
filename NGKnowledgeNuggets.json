@@ -3219,6 +3219,119 @@
       "stage": "knowledge"
     },
     {
+      "id": "nug_332",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "scalemass.fill",
+      "title": "See your period water weight",
+      "body": "Weigh in regularly and Strathlon compares your weigh-ins on the days you've logged a period in Apple Health with the rest of your days. Once there are at least three on each side, the Cycle & energy tile on your Progress tab shows, near your period, how much higher your own scale tends to read on period days.",
+      "learnMoreURL": "https://strathlon.com/userguide-health-and-cycle#cycle-energy-tile",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_333",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "chart.xyaxis.line",
+      "title": "Spot water weight at a glance",
+      "body": "The soft pink bands on your weight chart mark the days you've logged a period in Apple Health, with 'Cycle' in the key. If the line bumps up inside a band, that's usually water, and it settles by itself. Judge your trend across the whole cycle.",
+      "learnMoreURL": "https://strathlon.com/stats-cycle-phase#water",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_334",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "heart.circle.fill",
+      "title": "Log periods, get tailored notes",
+      "body": "Strathlon's cycle notes work from the periods you log in Apple Health, in the Health app or any period tracker that saves there. Log a period and the notes appear by themselves; log a few months and Strathlon learns your typical cycle length, so its pre-period notes land closer to the right days.",
+      "learnMoreURL": "https://strathlon.com/userguide-health-and-cycle#cycle-insights",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_335",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "fork.knife.circle.fill",
+      "title": "Extra food that fits your macros",
+      "body": "With 'Ease my targets in my pre-period week' on, the extra ~100 kcal in the days before and during your period comes as about 25 g of carbs, so your protein and fat targets hold steady and your macros still add up. Tap the 'Eased' note on the Tracker to see why.",
+      "goals": [
+        "energyDirected"
+      ],
+      "learnMoreURL": "https://strathlon.com/userguide-health-and-cycle#pre-period-ease",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_336",
+      "category": "app-tip",
+      "audience": "female",
+      "icon": "calendar.circle.fill",
+      "title": "Irregular cycle? Treat notes as guides",
+      "body": "Strathlon expects your next period from the typical gap between the ones you've logged, so with a cycle that varies, notes like 'Your period may be near' can arrive a little early or late. Notes for your period itself follow the days you log. If your periods are often irregular, very heavy or painful, talk to your GP.",
+      "learnMoreURL": "https://strathlon.com/stats-cycle-phase#phases",
+      "stage": "usage-core"
+    },
+    {
+      "id": "nug_337",
+      "category": "general",
+      "audience": "female",
+      "icon": "pills.fill",
+      "title": "On contraception? Notes follow you",
+      "body": "On many hormonal methods the monthly bleed is a withdrawal bleed rather than a true period, and the natural hormone swings are often flattened, so cycle effects on water weight and appetite may be smaller. Strathlon's cycle notes follow whatever you log, and you can switch them off any time in Settings → Cycle-aware insights.",
+      "learnMoreURL": "https://strathlon.com/stats-cycle-phase#contraceptives",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_338",
+      "category": "nutrition",
+      "audience": "female",
+      "icon": "drop.fill",
+      "title": "Keep your iron topped up",
+      "body": "Every period uses up some iron, and heavy periods can use more than your meals put back, which can leave you tired and short of breath. Build in iron-rich foods such as red meat, beans, lentils and leafy greens, with peppers, citrus or tomatoes alongside the plant sources to help absorption. If you often feel unusually tired, ask your GP for a blood test before trying supplements.",
+      "learnMoreURL": "https://strathlon.com/guide-nutrition-across-your-cycle#iron",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_339",
+      "category": "strength",
+      "audience": "female",
+      "icon": "figure.strengthtraining.traditional",
+      "title": "Your strength holds all month",
+      "body": "When researchers test strength through the month, most find only small, inconsistent differences between phases, and a recent trial found women built the same strength and muscle whichever phase they trained in. Some sessions may feel harder before a period, so train by feel on those days and keep your plan steady.",
+      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#strength-dip",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_340",
+      "category": "strength",
+      "audience": "female",
+      "icon": "figure.strengthtraining.functional",
+      "title": "Lift for stronger bones",
+      "body": "Strength training loads your bones as well as your muscles, and it's linked to better bone density, studied especially in women after the menopause. Two or three strength sessions a week, with enough food and enough protein, make a strong base at any age.",
+      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling#what-it-does",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_341",
+      "category": "nutrition",
+      "audience": "female",
+      "icon": "sunrise.fill",
+      "title": "Start your protein at breakfast",
+      "body": "Many women eat less protein than their training needs, and breakfast is where it most often falls short. Your Nutrition tab shows your daily protein target: spread it across three or four meals, starting with a protein source in the morning, such as eggs, Greek yoghurt or a protein shake.",
+      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling#protein",
+      "stage": "knowledge"
+    },
+    {
+      "id": "nug_342",
+      "category": "general",
+      "audience": "female",
+      "icon": "calendar",
+      "title": "Stay strong through perimenopause",
+      "body": "As periods become less regular around perimenopause, Strathlon's cycle notes follow whatever you log, so they adjust as your log changes. Your workout plan and targets keep working from your own data, and strength training with enough protein helps protect muscle and bone. Talk to your GP about new or unusual bleeding.",
+      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling#what-it-does",
+      "stage": "knowledge"
+    },
+    {
       "id": "nug_288",
       "category": "strength",
       "audience": "all",
@@ -3777,119 +3890,6 @@
       ],
       "learnMoreURL": "https://strathlon.com/userguide#hormone-therapy",
       "stage": "usage-core"
-    },
-    {
-      "id": "nug_332",
-      "category": "app-tip",
-      "audience": "female",
-      "icon": "scalemass.fill",
-      "title": "See your period water weight",
-      "body": "Weigh in regularly and Strathlon compares your weigh-ins on the days you've logged a period in Apple Health with the rest of your days. Once there are at least three on each side, the Cycle & energy tile on your Progress tab shows, near your period, how much higher your own scale tends to read on period days.",
-      "learnMoreURL": "https://strathlon.com/userguide-health-and-cycle#cycle-energy-tile",
-      "stage": "usage-core"
-    },
-    {
-      "id": "nug_333",
-      "category": "app-tip",
-      "audience": "female",
-      "icon": "chart.xyaxis.line",
-      "title": "Spot water weight at a glance",
-      "body": "The soft pink bands on your weight chart mark the days you've logged a period in Apple Health, with 'Cycle' in the key. If the line bumps up inside a band, that's usually water, and it settles by itself. Judge your trend across the whole cycle.",
-      "learnMoreURL": "https://strathlon.com/stats-cycle-phase#water",
-      "stage": "usage-core"
-    },
-    {
-      "id": "nug_334",
-      "category": "app-tip",
-      "audience": "female",
-      "icon": "heart.circle.fill",
-      "title": "Log periods, get tailored notes",
-      "body": "Strathlon's cycle notes work from the periods you log in Apple Health, in the Health app or any period tracker that saves there. Log a period and the notes appear by themselves; log a few months and Strathlon learns your typical cycle length, so its pre-period notes land closer to the right days.",
-      "learnMoreURL": "https://strathlon.com/userguide-health-and-cycle#cycle-insights",
-      "stage": "usage-core"
-    },
-    {
-      "id": "nug_335",
-      "category": "app-tip",
-      "audience": "female",
-      "icon": "fork.knife.circle.fill",
-      "title": "Extra food that fits your macros",
-      "body": "With 'Ease my targets in my pre-period week' on, the extra ~100 kcal in the days before and during your period comes as about 25 g of carbs, so your protein and fat targets hold steady and your macros still add up. Tap the 'Eased' note on the Tracker to see why.",
-      "goals": [
-        "energyDirected"
-      ],
-      "learnMoreURL": "https://strathlon.com/userguide-health-and-cycle#pre-period-ease",
-      "stage": "usage-core"
-    },
-    {
-      "id": "nug_336",
-      "category": "app-tip",
-      "audience": "female",
-      "icon": "calendar.circle.fill",
-      "title": "Irregular cycle? Treat notes as guides",
-      "body": "Strathlon expects your next period from the typical gap between the ones you've logged, so with a cycle that varies, notes like 'Your period may be near' can arrive a little early or late. Notes for your period itself follow the days you log. If your periods are often irregular, very heavy or painful, talk to your GP.",
-      "learnMoreURL": "https://strathlon.com/stats-cycle-phase#phases",
-      "stage": "usage-core"
-    },
-    {
-      "id": "nug_337",
-      "category": "general",
-      "audience": "female",
-      "icon": "pills.fill",
-      "title": "On contraception? Notes follow you",
-      "body": "On many hormonal methods the monthly bleed is a withdrawal bleed rather than a true period, and the natural hormone swings are often flattened, so cycle effects on water weight and appetite may be smaller. Strathlon's cycle notes follow whatever you log, and you can switch them off any time in Settings → Cycle-aware insights.",
-      "learnMoreURL": "https://strathlon.com/stats-cycle-phase#contraceptives",
-      "stage": "knowledge"
-    },
-    {
-      "id": "nug_338",
-      "category": "nutrition",
-      "audience": "female",
-      "icon": "drop.fill",
-      "title": "Keep your iron topped up",
-      "body": "Every period uses up some iron, and heavy periods can use more than your meals put back, which can leave you tired and short of breath. Build in iron-rich foods such as red meat, beans, lentils and leafy greens, with peppers, citrus or tomatoes alongside the plant sources to help absorption. If you often feel unusually tired, ask your GP for a blood test before trying supplements.",
-      "learnMoreURL": "https://strathlon.com/guide-nutrition-across-your-cycle#iron",
-      "stage": "knowledge"
-    },
-    {
-      "id": "nug_339",
-      "category": "strength",
-      "audience": "female",
-      "icon": "figure.strengthtraining.traditional",
-      "title": "Your strength holds all month",
-      "body": "When researchers test strength through the month, most find only small, inconsistent differences between phases, and a recent trial found women built the same strength and muscle whichever phase they trained in. Some sessions may feel harder before a period, so train by feel on those days and keep your plan steady.",
-      "learnMoreURL": "https://strathlon.com/guide-training-with-your-cycle#strength-dip",
-      "stage": "knowledge"
-    },
-    {
-      "id": "nug_340",
-      "category": "strength",
-      "audience": "female",
-      "icon": "figure.strengthtraining.functional",
-      "title": "Lift for stronger bones",
-      "body": "Strength training loads your bones as well as your muscles, and it's linked to better bone density, studied especially in women after the menopause. Two or three strength sessions a week, with enough food and enough protein, make a strong base at any age.",
-      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling#what-it-does",
-      "stage": "knowledge"
-    },
-    {
-      "id": "nug_341",
-      "category": "nutrition",
-      "audience": "female",
-      "icon": "sunrise.fill",
-      "title": "Start your protein at breakfast",
-      "body": "Many women eat less protein than their training needs, and breakfast is where it most often falls short. Your Nutrition tab shows your daily protein target: spread it across three or four meals, starting with a protein source in the morning, such as eggs, Greek yoghurt or a protein shake.",
-      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling#protein",
-      "stage": "knowledge"
-    },
-    {
-      "id": "nug_342",
-      "category": "general",
-      "audience": "female",
-      "icon": "calendar",
-      "title": "Stay strong through perimenopause",
-      "body": "As periods become less regular around perimenopause, Strathlon's cycle notes follow whatever you log, so they adjust as your log changes. Your workout plan and targets keep working from your own data, and strength training with enough protein helps protect muscle and bone. Talk to your GP about new or unusual bleeding.",
-      "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling#what-it-does",
-      "stage": "knowledge"
     },
     {
       "id": "nug_343",
