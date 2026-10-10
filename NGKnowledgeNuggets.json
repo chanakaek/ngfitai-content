@@ -1,5 +1,5 @@
 {
-  "version": "1.80.7",
+  "version": "1.80.8",
   "nuggets": [
     {
       "id": "nug_170",
@@ -75,7 +75,7 @@
       "audience": "all",
       "icon": "icloud.fill",
       "title": "Your data, safe across your devices",
-      "body": "iCloud backup is on by default, so your profile, Tracker totals, saved foods, meal plans and schedule already sync privately across your devices — and you can turn it off any time. Your weigh-ins and lifting history need the separate 'Back up training data to iCloud' switch (on by default), and your health & safety details the separate 'Back up health & safety details' switch (off by default). Strathlon never receives your dates, flow or symptoms, and neither does the AI.",
+      "body": "iCloud backup is on by default, so your profile, Tracker totals, saved foods, meal plans and schedule already sync privately across your devices — and you can turn it off any time. Your weigh-ins and lifting history need the separate 'Back up training data to iCloud' switch (on by default), and your health & safety details the separate 'Back up health & safety details' switch (off by default). Strathlon keeps your cycle dates, flow and history on your phone, outside these backups.",
       "learnMoreURL": "https://strathlon.com/privacy",
       "stage": "usage-premium"
     },
@@ -319,7 +319,7 @@
       "audience": "all",
       "icon": "photo.on.rectangle.angled",
       "title": "Track your progress in photos",
-      "body": "The scale only tells half the story. Open the Photos tab and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Strathlon keeps your photos on your phone: they are never in an export and never sent to the AI. Like every other app's data they are part of your phone's own encrypted Apple backup, which is yours. If you switch on 'Sync progress photos to iCloud' they also go to your own private iCloud - never to a Strathlon server.",
+      "body": "The scale only tells half the story. Open the Photos tab and add a photo every week or two — Strathlon tags each with the day's weight so you can see real change over time. Strathlon keeps your photos on your phone. Like every other app's data they are part of your phone's own encrypted Apple backup, which is yours. If you switch on 'Sync progress photos to iCloud' they also go to your own private iCloud.",
       "learnMoreURL": "https://strathlon.com/userguide#progress-photos",
       "stage": "usage-core"
     },
@@ -455,7 +455,7 @@
       "audience": "all",
       "icon": "checklist",
       "title": "A quick fitness-readiness check",
-      "body": "Onboarding includes a short, optional set of yes/no readiness questions — the kind a personal trainer asks before you start (heart conditions, chest pain, dizziness, and so on). If any answer stands out, Strathlon recommends getting medical clearance from your doctor before you begin or push harder. It's a readiness check, not medical advice. Strathlon never receives your individual answers and neither does your coach; it is told only that something was flagged, so it can keep its advice conservative. You can retake it anytime in Settings → Health & safety.",
+      "body": "Onboarding includes a short, optional set of yes/no readiness questions — the kind a personal trainer asks before you start (heart conditions, chest pain, dizziness, and so on). If any answer stands out, Strathlon recommends getting medical clearance from your doctor before you begin or push harder. It's a readiness check, not medical advice. Your coach is told only that something was flagged, so it can keep its advice conservative; your answers stay in your profile. You can retake it anytime in Settings → Health & safety.",
       "stage": "usage-core"
     },
     {
