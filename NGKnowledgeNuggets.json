@@ -1,5 +1,5 @@
 {
-  "version": "1.80.8",
+  "version": "1.80.11",
   "nuggets": [
     {
       "id": "nug_170",
@@ -93,8 +93,9 @@
       "category": "app-tip",
       "audience": "all",
       "icon": "calendar",
-      "title": "See your whole year at a glance",
-      "body": "The year calendar view paints every gym and sport session across the months, including seasonality. A satisfying way to spot streaks — and gaps — at a glance.",
+      "title": "See your month at a glance",
+      "body": "On the Tracker, switch the Calendar tile to Month. Days ahead show your plan in your sport colours; days behind show a dot for each thing you recorded, a hollow ring for a missed gym day and an underline where you logged food. Tap any day to open it.",
+      "learnMoreURL": "https://strathlon.com/userguide-tracker#calendar-month",
       "stage": "usage-core"
     },
     {
@@ -253,7 +254,7 @@
       "audience": "all",
       "icon": "plus.circle",
       "title": "Log any activity, any day",
-      "body": "It's not just gym sessions — add a walk, run, cycle or swim to any day, including rest days, from \"Add activity\" on your plan. Set the duration (or enter your own burn from a watch) and your nutrition targets adjust to match. Handy for planning ahead: see what a lunchtime walk frees up before you decide on that treat.",
+      "body": "It's not just gym sessions — add a walk, run, cycle or swim to any day, including rest days, from \"Add activity\" on your plan. Set the duration (or enter your own burn from a watch) and that day's eating allowance on the Tracker goes up to match. Handy for planning ahead: see what a lunchtime walk frees up before you decide on that treat.",
       "stage": "usage-core"
     },
     {
@@ -262,7 +263,7 @@
       "audience": "all",
       "icon": "wand.and.stars",
       "title": "Foods you log often, on autopilot",
-      "body": "Eat the same breakfast most days? Strathlon spots foods you log regularly and offers to add them automatically on your chosen days — tap \"Set it up\" on the suggestion card and pick the days and meal slot. It's all worked out on your device, and you can manage or remove any rule from the Daily button in the Quick Add section of the Nutrition tab.",
+      "body": "Eat the same breakfast most days? Strathlon spots foods you log regularly and offers to add them automatically on your chosen days — tap \"Set it up\" on the suggestion card and pick the days and meal slot. It's all worked out on your device, and you can manage or remove any rule from the Daily chip in the Quick Add section of the Tracker tab.",
       "stage": "usage-core"
     },
     {
@@ -347,7 +348,7 @@
       "audience": "all",
       "icon": "crown.fill",
       "title": "What your subscription unlocks",
-      "body": "Plan, timers, targets, supplements, tracker and Health sync are built in. The AI Coach — chat, meal plans, photo macro scanning, progress analysis — is premium, with a 14-day free trial for anyone who hasn't had one before.",
+      "body": "Your plan, timers, targets, the Tracker and Apple Health sync are built in. The subscription adds the AI coach (chat, meal plans, photo food logging and your written weekly review, with 200 coach credits a month), supplement guidance and the shopping list, with a 14-day free trial for anyone who hasn't had one before.",
       "learnMoreURL": "https://strathlon.com/blog-ai-coach",
       "stage": "usage-premium"
     },
@@ -569,7 +570,7 @@
       "audience": "all",
       "icon": "scalemass.fill",
       "title": "Your weight keeps your plan current",
-      "body": "Weigh in on a scale that syncs to Apple Health and Strathlon brings it in automatically — there's no \"update your weight?\" tap any more. The weight you see is the reading you logged, and it's also what your calorie and protein targets are built from, so they update as soon as a new weigh-in arrives. The Body weight tile on your Progress tab (and any weight-based celebration) shows this same ~7-day trend too, labelled 'trend' on the tile — not your single latest reading — and the weight chart's trend line is smoothed the same way. Want to set a specific day yourself? Type it in and it stands until Apple Health brings in a newer reading.",
+      "body": "Weigh in on a scale that syncs to Apple Health and Strathlon brings it in automatically — there's no \"update your weight?\" tap any more. The weight you see is the reading you logged, and it's also what your calorie and protein targets are built from, so they update as soon as a new weigh-in arrives. The Body weight tile on your Progress tab shows that latest reading in large type, with your smoothed trend weight and its weekly change in the small line under it. Weight-based celebrations go by that trend, and the weight chart's trend line is smoothed the same way. Want to set a specific day yourself? Type it in and it stands until Apple Health brings in a newer reading.",
       "stage": "usage-core",
       "learnMoreURL": "https://strathlon.com/blog-tracking-progress"
     },
@@ -665,7 +666,7 @@
       "audience": "all",
       "icon": "circle.fill",
       "title": "Red dots on your weight chart = a session you didn't log",
-      "body": "If you train but don't run the guided session, tap Done on your watch, or mark it done, the app can't see it. A small red dot on a scheduled gym day means no session was logged that day. Did train it? Tap the dot and confirm you trained that day — it'll count toward your consistency and the dot clears. Dots only show once you're logging regularly.",
+      "body": "If you train but don't run the guided session, tap Done on your watch, or mark it done, the app can't see it. A small red dot on a scheduled gym day means no session was logged that day. Did train it? Tap the dot and confirm you trained that day: it counts toward your phase progression (not your streaks or charts) and the dot clears. Dots only show once you're logging regularly.",
       "stage": "usage-core"
     },
     {
@@ -3968,6 +3969,26 @@
       ],
       "learnMoreURL": "https://strathlon.com/guide-training-barre",
       "stage": "knowledge"
+    },
+    {
+      "id": "nug_349",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "arrow.clockwise",
+      "title": "Ask it again",
+      "body": "Press and hold anything you sent your coach and tap Ask again to send it once more. Photos stay with the chat until it clears.",
+      "learnMoreURL": "https://strathlon.com/userguide-ai-coach#ask-again",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_350",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "bubble.left.and.bubble.right",
+      "title": "Your coach credits",
+      "body": "You get 200 coach credits a month, up to 40 a day. Longer requests use more. Settings → Coach credits shows what's left and every pack you've bought.",
+      "learnMoreURL": "https://strathlon.com/userguide-ai-coach#coach-credits",
+      "stage": "usage-premium"
     }
   ]
 }
