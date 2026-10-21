@@ -1,5 +1,5 @@
 {
-  "version": "1.80.11",
+  "version": "1.80.12",
   "nuggets": [
     {
       "id": "nug_170",
@@ -85,7 +85,7 @@
       "audience": "all",
       "icon": "clock.arrow.circlepath",
       "title": "Forgot to log? Back-date it",
-      "body": "You can log meals to any day in the last two weeks. When you Add to Log from a photo or description, just pick the day and meal slot — yesterday's lunch still counts.",
+      "body": "You can log meals to any day in the last two weeks. When you tap Add to Tracker on a photo or description, just pick the day and meal slot — yesterday's lunch still counts.",
       "stage": "usage-core"
     },
     {
@@ -157,7 +157,7 @@
       "audience": "all",
       "icon": "camera.fill",
       "title": "Snap a photo to log your meal",
-      "body": "On the AI Coach tab, tap the camera, photograph your food, then Analyse Photo. Strathlon estimates calories and macros — tap Add to Log to drop it straight into your tracker.",
+      "body": "On the AI Coach tab, tap the camera, photograph your food, then Analyse Photo. Strathlon estimates calories and macros — tap Add to Tracker to drop it straight in.",
       "learnMoreURL": "https://strathlon.com/blog-ai-macro-logging",
       "stage": "usage-premium"
     },
@@ -197,7 +197,7 @@
       "audience": "all",
       "icon": "text.bubble.fill",
       "title": "Just tell the Coach what you ate",
-      "body": "No photo needed — type 'two eggs on toast and a flat white' in the AI Coach and it returns a macro estimate with a one-tap Add to Log. The fastest logging there is.",
+      "body": "No photo needed — type 'two eggs on toast and a flat white' in the AI Coach and it returns a macro estimate with a one-tap Add to Tracker. The fastest logging there is.",
       "learnMoreURL": "https://strathlon.com/blog-ai-macro-logging",
       "stage": "usage-premium"
     },
