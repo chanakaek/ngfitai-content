@@ -1,5 +1,5 @@
 {
-  "version": "1.80.12",
+  "version": "1.80.13",
   "nuggets": [
     {
       "id": "nug_170",
@@ -137,7 +137,7 @@
       "audience": "all",
       "icon": "list.number",
       "title": "Add several sports: the bonus is shared",
-      "body": "On a day with more than one session, the largest one earns its full calorie bonus, a second counts at 55% and anything beyond that at 30%, with the day capped at 75% of your BMR. Your first sport is the primary one and sets the estimate on the Nutrition tab. The order is the order you added them in.",
+      "body": "On a day with more than one session, the largest one earns its full calorie bonus, a second counts at 55% and anything beyond that at 30%, with the day capped at 75% of your BMR. Each day's figure follows the sessions on that date, and the order you added your sports in never changes it. Activities you log yourself are added in full on top.",
       "learnMoreURL": "https://strathlon.com/userguide#sports-priority",
       "stage": "usage-core"
     },
