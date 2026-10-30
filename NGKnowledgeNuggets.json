@@ -1,5 +1,5 @@
 {
-  "version": "1.80.13",
+  "version": "1.80.16",
   "nuggets": [
     {
       "id": "nug_170",
@@ -447,7 +447,7 @@
       "audience": "all",
       "icon": "heart.text.square.fill",
       "title": "Health & safety: tell us what keeps your plan safe",
-      "body": "There's a private Health & safety step in onboarding (and under Settings → Health & safety). Note any ongoing health conditions or medications, or — if it applies — that you're pregnant or breastfeeding. If you're pregnant or breastfeeding, Strathlon stops setting your sessions: your Plan tab shows the UK Chief Medical Officers' and NHS activity guidance for that period instead, with the source named against every line. For eating guidance, your midwife, GP or health visitor comes first — so Strathlon shows no calorie target for that period. Your meals, weight and activity all keep logging as normal, and your eaten vs burned figures still show as your own data. These details live on your device and are shared with your AI coach on every message, so its advice is safe for you — a coach that doesn't know about a pregnancy or a heart medication can give advice that isn't. They are kept out of your iCloud backup unless you switch on 'Back up health & safety details'. See Settings > App settings > Privacy & your data > 'What your AI coach can see'. General information, not medical advice.",
+      "body": "There's a private Health & safety step in onboarding (and under Settings → Health & safety). Note any ongoing health conditions or medications, or — if it applies — that you're pregnant or breastfeeding. If you're pregnant or breastfeeding, Strathlon stops setting your sessions: your Plan tab shows published activity guidance from UK health bodies and Sports Medicine Australia for that period instead, with the source named against every line. For eating guidance, your midwife, GP or health visitor comes first — so Strathlon shows no calorie target for that period. Your meals, weight and activity all keep logging as normal, and your eaten vs burned figures still show as your own data. These details live on your device and are shared with your AI coach on every message, so its advice is safe for you — a coach that doesn't know about a pregnancy or a heart medication can give advice that isn't. They are kept out of your iCloud backup unless you switch on 'Back up health & safety details'. See Settings > App settings > Privacy & your data > 'What your AI coach can see'. General information, not medical advice.",
       "stage": "usage-core"
     },
     {
@@ -541,9 +541,9 @@
       "audience": "all",
       "icon": "applewatch.side.right",
       "title": "Run your workout from your wrist",
-      "body": "With an Apple Watch, once your session starts you can drive the whole thing from your wrist — your watch shows the current exercise, your set and rep target, and one big button. Tap Done to log a set and start your rest countdown; tap again during rest to skip it. It carries you from warm-up through every set to your HIIT finisher, so you never have to pick up your phone. (A premium feature.)",
+      "body": "With an Apple Watch, once your session starts you can drive the whole thing from your wrist — your watch shows the current exercise, your set and rep target, and one big button. Tap Done to log a set and start your rest countdown; tap again during rest to skip it. It carries you from warm-up through every set to your HIIT finisher, so you never have to pick up your phone.",
       "learnMoreURL": "https://strathlon.com/blog-apple-watch",
-      "stage": "usage-premium"
+      "stage": "usage-core"
     },
     {
       "id": "nug_150",
@@ -638,7 +638,7 @@
       "audience": "all",
       "icon": "heart.fill",
       "title": "Live heart rate, hands-free",
-      "body": "With an Apple Watch, your real-time heart rate streams to your phone during every session and each block logs to Apple's Workout app with calories. Premium adds hands-free control: tap Done on your wrist to log a set and start your rest.",
+      "body": "With an Apple Watch, your real-time heart rate streams to your phone during every session and each block logs to Apple's Workout app with calories. Hands-free control: tap Done on your wrist to log a set and start your rest.",
       "learnMoreURL": "https://strathlon.com/blog-apple-watch",
       "stage": "usage-core"
     },
@@ -3245,7 +3245,7 @@
       "audience": "female",
       "icon": "heart.circle.fill",
       "title": "Log periods, get tailored notes",
-      "body": "Strathlon's cycle notes work from the periods you log in Apple Health, in the Health app or any period tracker that saves there. Log a period and the notes appear by themselves; log a few months and Strathlon learns your typical cycle length, so its pre-period notes land closer to the right days.",
+      "body": "Strathlon's cycle notes work from the periods you log in Apple Health, in the Health app or any period tracker that saves there. Log a period and the notes appear by themselves; log a few months and Strathlon learns your typical cycle length, so its cycle notes land closer to the right days.",
       "learnMoreURL": "https://strathlon.com/userguide-health-and-cycle#cycle-insights",
       "stage": "usage-core"
     },
@@ -3255,7 +3255,7 @@
       "audience": "female",
       "icon": "fork.knife.circle.fill",
       "title": "Extra food that fits your macros",
-      "body": "With 'Ease my targets in my pre-period week' on, the extra ~100 kcal in the days before and during your period comes as about 25 g of carbs, so your protein and fat targets hold steady and your macros still add up. Tap the 'Eased' note on the Tracker to see why.",
+      "body": "With 'Ease my targets around my period' on, the extra ~100 kcal in the days before and during your period comes as about 25 g of carbs, so your protein and fat targets hold steady and your macros still add up. Tap the 'Eased' note on the Tracker to see why.",
       "goals": [
         "energyDirected"
       ],
