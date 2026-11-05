@@ -1,5 +1,5 @@
 {
-  "version": "1.80.16",
+  "version": "1.80.17",
   "nuggets": [
     {
       "id": "nug_170",
@@ -3988,6 +3988,36 @@
       "title": "Your coach credits",
       "body": "You get 200 coach credits a month, up to 40 a day. Longer requests use more. Settings → Coach credits shows what's left and every pack you've bought.",
       "learnMoreURL": "https://strathlon.com/userguide-ai-coach#coach-credits",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_351",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "barcode.viewfinder",
+      "title": "Barcodes: the photo is the scan",
+      "body": "On the AI Coach tab, tap the camera and photograph the pack with the barcode showing. Strathlon reads it on your phone and fills in the maker's own figures.",
+      "learnMoreURL": "https://strathlon.com/userguide-ai-coach#barcode-and-label",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_352",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "text.viewfinder",
+      "title": "Barcode didn't match?",
+      "body": "If a pack's barcode finds nothing, three buttons appear under the card: Photograph the label, Describe it or Another photo. Photographing the label reads the printed nutrition table.",
+      "learnMoreURL": "https://strathlon.com/userguide-ai-coach#barcode-and-label",
+      "stage": "usage-premium"
+    },
+    {
+      "id": "nug_353",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "checkmark.seal",
+      "title": "Pack figures or an estimate?",
+      "body": "A card headed Food detected — pack figures uses the maker's own numbers. One headed Food detected — AI estimate is the coach's best guess from the picture. Put the barcode in the photo to get the first.",
+      "learnMoreURL": "https://strathlon.com/userguide-ai-coach#barcode-and-label",
       "stage": "usage-premium"
     }
   ]
