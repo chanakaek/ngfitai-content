@@ -1,6 +1,318 @@
 {
-  "version": "1.80.17",
+  "version": "1.81.0",
   "nuggets": [
+    {
+      "id": "nug_354",
+      "category": "fat-loss",
+      "audience": "all",
+      "icon": "flame.fill",
+      "title": "Start here: how fat loss works",
+      "body": "Over a few weeks, take in a little less energy than your body uses and it makes up the gap from its stores. That is the whole rule. Strathlon sets a daily target that does this at a steady pace, and the short guide shows how to stick to it on busy days.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-fat-loss#science",
+      "stage": "usage-core",
+      "goals": [
+        "deficit"
+      ]
+    },
+    {
+      "id": "nug_355",
+      "category": "fat-loss",
+      "audience": "all",
+      "icon": "scalemass.fill",
+      "title": "That big first-week drop is largely water",
+      "body": "Eat a little less and the first week or two often shows a big fall on the scale. Much of it is water: each gram of stored carbohydrate holds about 3 g of it. Expect the pace to settle after that. A slower second week is normal, not a stall.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-fat-loss#science",
+      "stage": "knowledge",
+      "goals": [
+        "deficit"
+      ]
+    },
+    {
+      "id": "nug_356",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "barcode.viewfinder",
+      "title": "Packaged food? Photograph the barcode",
+      "body": "With the AI Coach subscription, photograph a pack with its barcode showing on the AI Coach tab. Strathlon reads the barcode, fills in the pack's own figures and asks how much you had, so there is no list to search. No match? Tap Photograph the label instead.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-fat-loss#how-strathlon-helps",
+      "stage": "usage-premium",
+      "goals": [
+        "deficit"
+      ]
+    },
+    {
+      "id": "nug_357",
+      "category": "fat-loss",
+      "audience": "all",
+      "icon": "checklist",
+      "title": "Most of us eat more than we log",
+      "body": "Checked against lab measurements, people under-record what they eat by about 15 to 30% on average. Logging is also the first habit to slip on a busy day. That is why the quickest way to log is the one worth learning.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-fat-loss#whats-hard",
+      "stage": "knowledge",
+      "goals": [
+        "deficit"
+      ]
+    },
+    {
+      "id": "nug_358",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "camera.fill",
+      "title": "No barcode? Snap the plate",
+      "body": "With the AI Coach subscription, photograph your meal on the AI Coach tab, or just type what you had, for an estimate of calories and macros. Left some? Tap I didn't finish this, describe or photograph what's left, and the coach works out what you actually ate.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-fat-loss#how-strathlon-helps",
+      "stage": "usage-premium",
+      "goals": [
+        "deficit"
+      ]
+    },
+    {
+      "id": "nug_359",
+      "category": "fat-loss",
+      "audience": "all",
+      "icon": "figure.walk",
+      "title": "Had more than planned? A walk makes room",
+      "body": "On the Plan tab, tap Add activity and log a walk with how long it lasted. Your target for the day rises by the app's estimate: about 130 kcal for a brisk 30 minutes at 80 kg, a little less if you're lighter. Log only what you actually did.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-fat-loss#use-your-numbers",
+      "stage": "knowledge",
+      "goals": [
+        "deficit"
+      ]
+    },
+    {
+      "id": "nug_360",
+      "category": "general",
+      "audience": "all",
+      "icon": "heart.fill",
+      "title": "How much exercise is enough?",
+      "body": "UK and World Health Organization guidance asks adults for at least 150 minutes of moderate activity a week, or 75 of vigorous, plus strength work on two or more days. The short guide explains it, and how Strathlon helps you keep it up week after week.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-general-fitness#science",
+      "stage": "usage-core",
+      "goals": [
+        "generalFit"
+      ]
+    },
+    {
+      "id": "nug_361",
+      "category": "general",
+      "audience": "all",
+      "icon": "chart.line.uptrend.xyaxis",
+      "title": "Steady weight, rising fitness",
+      "body": "You can get fitter and stronger while your weight barely moves, and for General Fitness that is a good result. Judge your weeks by the Consistency and Strength history tiles on Progress rather than by the scale.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-general-fitness#science",
+      "stage": "knowledge",
+      "goals": [
+        "generalFit"
+      ]
+    },
+    {
+      "id": "nug_362",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "camera.fill",
+      "title": "Log a meal in seconds",
+      "body": "With the AI Coach subscription, photograph your plate, a pack's barcode or its label on the AI Coach tab, or just type what you ate, then tap Add to Tracker. You can stay near your target without weighing everything.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-general-fitness#how-strathlon-helps",
+      "stage": "usage-premium",
+      "goals": [
+        "balance"
+      ]
+    },
+    {
+      "id": "nug_363",
+      "category": "general",
+      "audience": "all",
+      "icon": "calendar",
+      "title": "Progress you can see keeps you going",
+      "body": "Motivation fades when nothing seems to change. The Consistency tile on Progress shows up to 12 weeks of training as blocks, with your longest streak. A run of filled weeks is easier to keep going than a promise to yourself.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-general-fitness#whats-hard",
+      "stage": "knowledge",
+      "goals": [
+        "generalFit"
+      ]
+    },
+    {
+      "id": "nug_364",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "figure.walk",
+      "title": "Ate more today? Move a bit more",
+      "body": "Bigger lunch than you planned? On the Plan tab, tap Add activity and log a walk or anything else you did. Your target for the day rises by the app's estimate, so the day stays close to balance.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-general-fitness#use-your-numbers",
+      "stage": "usage-core",
+      "goals": [
+        "balance"
+      ]
+    },
+    {
+      "id": "nug_365",
+      "category": "general",
+      "audience": "all",
+      "icon": "arrow.triangle.swap",
+      "title": "Picked fat loss and muscle gain together?",
+      "body": "Strathlon treats that pair as recomposition: calories close to maintenance with high protein. The scale may barely move while your shape changes, so progress photos and rising lifts tell you more than your weight does.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-general-fitness#recomposition",
+      "stage": "knowledge",
+      "goals": [
+        "balance"
+      ]
+    },
+    {
+      "id": "nug_366",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "bolt.fill",
+      "title": "Fuel the day you're training for",
+      "body": "Hard training and match days run mostly on carbohydrate, so they need more fuel than easy days. The short guide covers the science, what gets in the way, and how to use the app around your fixtures.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-sports-performance#science",
+      "stage": "usage-core",
+      "goals": [
+        "performance"
+      ]
+    },
+    {
+      "id": "nug_367",
+      "category": "strength",
+      "audience": "all",
+      "icon": "figure.strengthtraining.functional",
+      "title": "Strength work protects you as well as powering you",
+      "body": "Strength and conditioning work is linked with fewer sports injuries, and stronger legs and trunk help you sprint, jump and change direction.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-sports-performance#science",
+      "stage": "knowledge",
+      "goals": [
+        "performance"
+      ]
+    },
+    {
+      "id": "nug_368",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "barcode.viewfinder",
+      "title": "Eating on the go? Photograph the barcode",
+      "body": "With the AI Coach subscription, eating at the ground or on the road is quick to log: photograph a pack's barcode for its own figures, or snap your plate or type what you had for an estimate, then tap Add to Tracker.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-sports-performance#how-strathlon-helps",
+      "stage": "usage-premium",
+      "goals": [
+        "performance"
+      ]
+    },
+    {
+      "id": "nug_369",
+      "category": "sport",
+      "audience": "all",
+      "icon": "calendar",
+      "title": "Set your match and practice days",
+      "body": "Tick the days you play and practise and set your season dates. The Nutrition tab then gives each match and practice day its own advice on what to eat before and after.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-sports-performance#how-strathlon-helps",
+      "stage": "knowledge",
+      "goals": [
+        "performance"
+      ]
+    },
+    {
+      "id": "nug_370",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "plus.circle",
+      "title": "Extra session? Log it",
+      "body": "Trained twice, or went for a run that wasn't on the plan? On the Plan tab, tap Add activity and pick the activity and how long it lasted. A logged activity counts in full on that day.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-sports-performance#use-your-numbers",
+      "stage": "usage-core",
+      "goals": [
+        "performance"
+      ]
+    },
+    {
+      "id": "nug_371",
+      "category": "sport",
+      "audience": "all",
+      "icon": "flag.checkered",
+      "title": "Your sport has its own two guides",
+      "body": "Every sport in Strathlon has a fuelling guide and a strength and conditioning guide, written for what that sport asks of you. The Sports Performance guide lists all of them, so you can go straight to yours.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-sports-performance#your-sport",
+      "stage": "knowledge",
+      "goals": [
+        "performance"
+      ]
+    },
+    {
+      "id": "nug_372",
+      "category": "strength",
+      "audience": "all",
+      "icon": "dumbbell.fill",
+      "title": "Muscle grows from a little more each week",
+      "body": "Add a rep, a little weight or better control over time, recover well, and muscle follows. The short guide covers the science, the part most people find hardest, and how Strathlon helps.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-muscle-gain#science",
+      "stage": "usage-core",
+      "goals": [
+        "muscleGain"
+      ]
+    },
+    {
+      "id": "nug_373",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "fork.knife",
+      "title": "Eat a little more, not a lot more",
+      "body": "Eating slightly more than you burn gives new muscle the energy it needs. A big surplus doesn't build it any faster; most of the extra ends up as fat. Strathlon keeps yours small, with a little more on training days than on rest days.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-muscle-gain#science",
+      "stage": "knowledge",
+      "goals": [
+        "surplus"
+      ]
+    },
+    {
+      "id": "nug_374",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "target",
+      "title": "Hit your protein without the maths",
+      "body": "Most guidance puts protein for building muscle at about 1.6 to 2.2 g per kg of body weight a day, and Strathlon sets yours at or just above the top of that range. With the AI Coach subscription, log meals by photo or description and the Tracker counts the protein for you.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-muscle-gain#how-strathlon-helps",
+      "stage": "usage-premium",
+      "goals": [
+        "surplus"
+      ]
+    },
+    {
+      "id": "nug_375",
+      "category": "nutrition",
+      "audience": "all",
+      "icon": "clock.fill",
+      "title": "Busy days are when you fall short",
+      "body": "For many people building muscle, the hard part isn't the gym. It is eating enough every day, protein included. Appetite fades, meals slide on busy days and the shortfall goes unnoticed. A quick log keeps it in view while there's still time to eat.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-muscle-gain#whats-hard",
+      "stage": "knowledge",
+      "goals": [
+        "surplus"
+      ]
+    },
+    {
+      "id": "nug_376",
+      "category": "app-tip",
+      "audience": "all",
+      "icon": "plus.circle",
+      "title": "Long walk or a kickabout? Log it",
+      "body": "A long walk, a game of five-a-side or a day on your feet uses energy your surplus was counting on. On the Plan tab, tap Add activity and log it. Your target for the day rises by the app's estimate, so you can see how much more to eat.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-muscle-gain#use-your-numbers",
+      "stage": "usage-core",
+      "goals": [
+        "surplus"
+      ]
+    },
+    {
+      "id": "nug_377",
+      "category": "strength",
+      "audience": "all",
+      "icon": "chart.line.uptrend.xyaxis",
+      "title": "Scale up a little? Check your lifts too",
+      "body": "Early weight gain is partly water and stored carbohydrate. The better sign is your lifting: the Strength history tile on Progress calls it Improving, Holding or Declining. Weight and lifts rising together means the plan is working.",
+      "learnMoreURL": "https://strathlon.com/guide-goal-muscle-gain#use-your-numbers",
+      "stage": "knowledge",
+      "goals": [
+        "surplus"
+      ]
+    },
     {
       "id": "nug_170",
       "category": "app-tip",
@@ -847,11 +1159,11 @@
       "audience": "all",
       "icon": "tortoise.fill",
       "title": "Patience is a fat-loss skill",
-      "body": "Healthy fat loss runs about 0.5–1% of body weight a week. Faster looks great on the scale but is mostly water and muscle — and it comes straight back. Slow is what keeps the result.",
+      "body": "A pace often recommended for fat loss is about 0.5–1% of body weight a week, and Strathlon never paces you faster than about 0.65%. Faster looks great on the scale, but more of it is water and muscle, and it tends to come back. Slow is what keeps the result.",
       "goals": [
         "deficit"
       ],
-      "learnMoreURL": "https://strathlon.com/guide-fat-loss-fundamentals#rate-of-loss",
+      "learnMoreURL": "https://strathlon.com/guide-goal-fat-loss#science",
       "stage": "knowledge"
     },
     {
@@ -1872,10 +2184,11 @@
       "audience": "all",
       "icon": "figure.walk",
       "title": "Ate a bit much? Walk it back",
-      "body": "Over your calories today, or short on your burn? Tap \"Add activity\" on your plan, pick a walk, run, cycle or swim and a duration — Strathlon adds the burn to today's allowance and shows what it frees up (\"about a large glass of wine\"). A 30–45 min walk is an easy few hundred calories to keep your deficit on track.",
+      "body": "Over your calories today, or short on your burn? Tap \"Add activity\" on your plan, pick a walk, run, cycle or swim and a duration — Strathlon adds the burn to today's allowance and shows what it frees up (\"about a large glass of wine\"). A brisk 30-minute walk adds about 130 kcal for someone weighing 80 kg, a little less if you're lighter and more if you're heavier.",
       "goals": [
         "deficit"
       ],
+      "learnMoreURL": "https://strathlon.com/guide-goal-fat-loss#use-your-numbers",
       "stage": "knowledge"
     },
     {
@@ -1965,7 +2278,7 @@
       "audience": "all",
       "icon": "fish.fill",
       "title": "Extra calories only build with enough protein",
-      "body": "A surplus is the fuel, but protein is the building material. Keep 1.6–2.2 g per kg of body weight even while gaining, spread across the day, and pair it with lifts you're progressively loading. Without that, more calories mostly become more fat.",
+      "body": "A surplus is the fuel, but protein is the building material. Most guidance puts it at 1.6–2.2 g per kg of body weight a day while gaining, and Strathlon sets yours at or just above the top of that range. Spread it across the day and pair it with lifts you're progressively loading. Without that, more calories mostly become more fat.",
       "goals": [
         "surplus"
       ]
@@ -3160,7 +3473,7 @@
       "audience": "female",
       "icon": "fork.knife.circle.fill",
       "title": "Don't under-eat protein while you build",
-      "body": "Women building muscle or training hard benefit from the same protein as men — around 1.6–2.2 g per kilogram of body weight a day. The most common gap is simply eating too little, so if progress has stalled, check protein first. Spread it across three or four meals, with a protein source at each.",
+      "body": "Women building muscle or training hard benefit from the same protein as men: most guidance puts it at around 1.6–2.2 g per kilogram of body weight a day. The most common gap is simply eating too little, so if progress has stalled, check protein first. Spread it across three or four meals, with a protein source at each.",
       "goals": [
         "muscleGain"
       ],
@@ -3318,7 +3631,7 @@
       "audience": "female",
       "icon": "sunrise.fill",
       "title": "Start your protein at breakfast",
-      "body": "Many women eat less protein than their training needs, and breakfast is where it most often falls short. Your Nutrition tab shows your daily protein target: spread it across three or four meals, starting with a protein source in the morning, such as eggs, Greek yoghurt or a protein shake.",
+      "body": "Many women fall short of the protein their training needs, and breakfast is where the gap most often starts. Spread your protein across three or four meals, starting with a protein source in the morning, such as eggs, Greek yoghurt or a protein shake.",
       "learnMoreURL": "https://strathlon.com/guide-women-strength-and-fuelling#protein",
       "stage": "knowledge"
     },
@@ -3996,7 +4309,7 @@
       "audience": "all",
       "icon": "barcode.viewfinder",
       "title": "Barcodes: the photo is the scan",
-      "body": "On the AI Coach tab, tap the camera and photograph the pack with the barcode showing. Strathlon reads it on your phone and fills in the maker's own figures.",
+      "body": "On the AI Coach tab, tap the camera and photograph the pack with the barcode showing. Strathlon reads it on your phone, fills in the maker's own figures and asks how much you had.",
       "learnMoreURL": "https://strathlon.com/userguide-ai-coach#barcode-and-label",
       "stage": "usage-premium"
     },
@@ -4006,7 +4319,7 @@
       "audience": "all",
       "icon": "text.viewfinder",
       "title": "Barcode didn't match?",
-      "body": "If a pack's barcode finds nothing, three buttons appear under the card: Photograph the label, Describe it or Another photo. Photographing the label reads the printed nutrition table.",
+      "body": "If a pack's barcode finds nothing, three buttons appear under the reply: Photograph the label, Describe it or Another photo. Photographing the label reads the printed nutrition table.",
       "learnMoreURL": "https://strathlon.com/userguide-ai-coach#barcode-and-label",
       "stage": "usage-premium"
     },
